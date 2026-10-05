@@ -106,6 +106,14 @@ img[height] {
 /* Long unbroken strings (URLs, IDs) must never force a horizontal scrollbar. */
 body {
   overflow-wrap: break-word;
+  /*
+   * `clip` rather than `hidden`: the staggered items rotate by ±0.7deg while
+   * they settle, and a rotated element extends past its box. `hidden` on a
+   * body makes the document itself the scroll container, which breaks
+   * position:sticky on the header; `clip` contains the overflow without
+   * creating a scrollport.
+   */
+  overflow-x: clip;
 }
 
 a {

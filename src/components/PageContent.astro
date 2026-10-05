@@ -193,6 +193,7 @@ function hasListItem(blocks: Block[]): boolean {
     flex-direction: column;
     gap: 8px;
     align-items: center;
+    justify-content: flex-start;
     text-align: center;
     margin: 0;
     /* Grid items default to min-content width, so a long caption can push the
@@ -202,15 +203,28 @@ function hasListItem(blocks: Block[]): boolean {
     max-width: 100%;
   }
 
+  /*
+   * Every tile in a row must be the same height, or the grid goes ragged:
+   * /customers rendered its logo tiles between 173px and 297px tall in a single
+   * row, because a wide 1.9:1 logo and a square one both took their natural
+   * height at the same column width. A fixed box with object-fit: contain
+   * letterboxes the artwork instead of stretching it, so a row of mixed aspect
+   * ratios still lines up.
+   */
   .tile :global(img) {
     width: 100%;
-    height: auto;
+    /* A fixed-height band with contain: the artwork is letterboxed inside it,
+       so it keeps its true proportions and every tile in a row is the same
+       height. Without this a 1.9:1 logo and a square one take different
+       heights at the same column width and the grid reads as jumbled. */
+    height: 180px;
     object-fit: contain;
   }
 
   .tile figcaption {
     font-size: 13px;
     line-height: 1.4;
+    min-height: 2.8em;
     color: var(--jivrus-ink-soft, #555);
     max-width: 100%;
     overflow-wrap: anywhere;
@@ -249,11 +263,19 @@ function hasListItem(blocks: Block[]): boolean {
     .tiles {
       grid-template-columns: repeat(3, minmax(0, 1fr));
     }
+
+    .tile :global(img) {
+      height: 150px;
+    }
   }
 
   @media (max-width: 640px) {
     .tiles {
       grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .tile :global(img) {
+      height: 120px;
     }
   }
 
