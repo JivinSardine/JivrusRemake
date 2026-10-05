@@ -16,24 +16,26 @@ import type { PageData } from '~/types';
 import products from '~/data/pages/products.json';
 import imageMap from '~/data/image-map.json';
 
-/** The headings a visitor can actually jump to on this page. */
-const anchors = products.blocks
-  .filter((b) => ['h2', 'h3'].includes(b.tag) && b.text)
-  .map((b) => b.text);
+/**
+ * The headings a visitor can actually jump to on this page.
+ *
+ * Built from `sections` — the array PageContent actually renders — and from
+ * the `anchor` the heading renders as its id, not from the heading text.
+ * Reading `products.blocks` instead listed a heading that only exists in that
+ * never-rendered array, so the index carried a link to a target that is not
+ * on the page; a heading with no `anchor` has no id either, so a link derived
+ * from its text would dangle just the same.
+ */
+const anchors = products.sections
+  .flatMap((s) => s.blocks ?? [])
+  .filter((b) => ['h2', 'h3'].includes(b.tag) && b.text && b.anchor)
+  .map((b) => ({ id: b.anchor, text: b.text }));
 
-const marketplaces = [
-  'Google Workspace Marketplace',
-  'Google Cloud Marketplace',
-  'Zoho Marketplace',
-  'Atlassian Marketplace',
-  'Google Looker Studio Connector Gallery',
-];
-
-// imageMap turns a source CDN URL into the local /images/... path; withBase
-// then prefixes that path with the deployment base. Without the second step
-// the hero resolves against the domain root and 404s on GitHub Pages, which
-// serves the site from /JivrusRemake/.
-const local = (src: string) => withBase(imageMap[src] || src);
+// imageMap turns a source CDN URL into the local /images/... path. withBase
+// prefixes that path with the deployment base — but only ONCE: BaseLayout
+// already runs every ogImage through withBase, so prefixing here as well
+// yields /JivrusRemake/JivrusRemake/images/... on GitHub Pages.
+const local = (src: string) => imageMap[src] || src;
 const hero = products.images[0];
 ---
 
@@ -57,7 +59,7 @@ const hero = products.images[0];
         hero && (
           <img
             class="page-head__art"
-            src={local(hero.src)}
+            src={withBase(local(hero.src))}
             alt={hero.alt || 'Jivrus product ecosystem'}
             width={hero.w || undefined}
             height={hero.h || undefined}
@@ -77,8 +79,8 @@ const hero = products.images[0];
         {
           anchors.map((a) => (
             <li class="index__item" data-stagger-item>
-              <a href={`#${a.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`}>
-                {a}
+              <a href={`#${a.id}`}>
+                {a.text}
               </a>
             </li>
           ))

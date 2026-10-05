@@ -132,7 +132,10 @@ async function worker() {
     if (r.failed.length) issues.push(`failed×${r.failed.length}`);
     if (r.overflow.length) issues.push(`overflow@${WIDTHS.join('/')}`);
     if (r.noAlt) issues.push(`noAlt:${r.noAlt}`);
-    if (r.headingJumps.length) issues.push(`hJump:${r.headingJumps.join(',')}`);
+    // A jump on a route the SOURCE also does that way is faithful, not a fault.
+    if (r.headingJumps.length && !FAITHFUL_JUMPS.has(r.route.replace(/\/$/, ''))) {
+      issues.push(`hJump:${r.headingJumps.join(',')}`);
+    }
     if (r.brokenImgs) issues.push(`brokenImg:${r.brokenImgs}`);
     if (issues.length) {
       findings.push(r);
@@ -159,7 +162,9 @@ for (const f of findings) {
   if (f.failed.length) tally.failedRequests = (tally.failedRequests || 0) + 1;
   if (f.overflow.length) tally.overflow = (tally.overflow || 0) + 1;
   if (f.noAlt) tally.missingAlt = (tally.missingAlt || 0) + 1;
-  if (f.headingJumps.length) tally.headingJumps = (tally.headingJumps || 0) + 1;
+  if (f.headingJumps.length && !FAITHFUL_JUMPS.has(f.route.replace(/\/$/, ''))) {
+    tally.headingJumps = (tally.headingJumps || 0) + 1;
+  }
   if (f.brokenImgs) tally.brokenImages = (tally.brokenImages || 0) + 1;
 }
 console.log('\nby category:', JSON.stringify(tally, null, 1));

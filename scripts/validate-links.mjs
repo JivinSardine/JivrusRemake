@@ -45,7 +45,15 @@ const BASE_PREFIX = (() => {
 const stripBase = (p) =>
   BASE_PREFIX && p.startsWith(BASE_PREFIX) ? p.slice(BASE_PREFIX.length) || '/' : p;
 const assetExists = (p) => existsSync(join(DIST, stripBase(p).replace(/^\//, '')));
-const external = (u) => /^(https?:|mailto:|tel:|javascript:|#)/i.test(u);
+/**
+ * Schemes and protocol-relative URLs that are not ours to resolve. A leading
+ * "#" is deliberately NOT here: an in-page anchor is a real reference to an id
+ * on this page, and it is checked below. Listing it made `external('#foo')`
+ * true, so every anchor was skipped by the `continue` above and the
+ * `href.startsWith('#')` branch below it could never run — the broken-anchor
+ * check was dead code, and a link to a target that does not exist passed.
+ */
+const external = (u) => /^(https?:|mailto:|tel:|javascript:)/i.test(u);
 
 /** id="..." values on a page, for anchor checking. */
 function idsOf(html) {

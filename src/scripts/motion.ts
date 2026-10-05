@@ -34,6 +34,17 @@ function build() {
     // keyed off the first element, left everything below the first trigger's
     // start position stuck at opacity 0 - 11 elements never appeared on the
     // homepage even after a full scroll.
+    //
+    // `once: true` plus a one-shot tween is not enough on its own: a fast
+    // scroll (a keyboard End, a scrollbar drag, a restored scroll position)
+    // can jump past an element's start before its trigger is ever evaluated,
+    // and the element then stays at opacity 0. `toggleActions: 'play none
+    // none reverse'` is no better for a `once` trigger. So each reveal also
+    // carries a scrub-free fallback trigger starting at 'top bottom' - the
+    // element's own top reaching the viewport bottom - which is the earliest
+    // point at which it can legitimately be visible, plus `invalidateOnRefresh`
+    // so a refresh (late images, resizes) recomputes it. An element that is
+    // already past that point when the page loads is released immediately.
     const reveals = gsap.utils.toArray<HTMLElement>('[data-reveal]');
     if (reveals.length) {
       gsap.set(reveals, { opacity: 0, y: 30, scale: 0.985 });
@@ -44,9 +55,15 @@ function build() {
           scale: 1,
           duration: 0.85,
           ease: 'power3.out',
-          scrollTrigger: { trigger: el, start: 'top 92%', once: true },
+          scrollTrigger: { trigger: el, start: 'top bottom', once: true, invalidateOnRefresh: true },
         });
       });
+      // Anything already scrolled past (a restored scroll position, or a deep
+      // link) has missed its trigger. Release it rather than leave it blank.
+      const past = reveals.filter((el) => el.getBoundingClientRect().top < window.innerHeight);
+      if (past.length) {
+        gsap.to(past, { opacity: 1, y: 0, scale: 1, duration: 0.6, ease: 'power3.out', overwrite: true });
+      }
     }
 
     // ---- hero intro ------------------------------------------------------
@@ -80,10 +97,37 @@ function build() {
           scale: 1,
           duration: 0.8,
           ease: 'power3.out',
-          stagger: 0.06,
-          scrollTrigger: { trigger: group, start: 'top 84%', once: true },
+          /*
+           * A very long run - /products renders 261 list items in one group -
+           * staggers for 0.06s each, so the tween is still playing 15s later.
+           * The group is also far taller than the viewport, which puts its
+           * `top bottom` start out of reach for most of the page, and an item
+           * near the end of a tween this long can be skipped by a fast scroll
+           * and left at opacity 0. Both problems come from the same cause, so
+           * cap the total stagger: past ~12 items the delay is scaled down
+           * rather than accumulating, which keeps the whole group inside a
+           * couple of seconds at any length.
+           */
+          stagger: {
+            each: 0.06,
+            from: 'start',
+            amount: Math.min(0.72, 0.06 * Math.max(0, items.length - 1)),
+          },
+          // Same skip hazard as the reveals: a fast scroll can pass the group's
+          // start before it is evaluated and strand every item at opacity 0.
+          scrollTrigger: {
+            trigger: group,
+            start: 'top bottom',
+            once: true,
+            invalidateOnRefresh: true,
+          },
         }
       );
+      // A group already in view on load (restored scroll, deep link) never gets
+      // its trigger, so release its items directly.
+      if (group.getBoundingClientRect().top < window.innerHeight) {
+        gsap.set(items, { opacity: 1, y: 0, rotate: 0, scale: 1 });
+      }
     });
 
     // ---- scroll-driven drift ---------------------------------------------
@@ -164,30 +208,66 @@ function build() {
     }
 
     // Late-loading images change section heights; recompute trigger positions.
-    window.addEventListener('load', () => ScrollTrigger.refresh());
+    const onLoad = () => ScrollTrigger.refresh();
+    window.addEventListener('load', onLoad);
 
     /*
      * Safety net. Decorative motion must never be able to hide content: a
      * trigger that never fires, a browser quirk, or a mid-session exception
      * would otherwise leave real copy invisible. Anything still faded once the
      * visitor has scrolled the whole page is released.
+     *
+     * `start: 'bottom bottom'` only ever fires on a scroll *past* that point,
+     * so a visitor who lands deep in the page - a restored scroll position, a
+     * deep link, a search result - can reach the bottom without crossing it
+     * and the net stays dormant. Releasing on refresh and on a short idle
+     * check as well means an element that missed its trigger for any reason is
+     * released within a moment of it happening, rather than only at the end of
+     * a full scroll.
      */
     const releaseStuck = gsap.utils.toArray<HTMLElement>(
       '[data-reveal], [data-hero], [data-stagger-item]'
     );
+    const release = () => {
+      const stuck = releaseStuck.filter(
+        (el) => Number(getComputedStyle(el).opacity) < 0.9
+      );
+      if (stuck.length) {
+        gsap.to(stuck, { opacity: 1, y: 0, rotate: 0, scale: 1, duration: 0.4, overwrite: true });
+      }
+      return stuck.length;
+    };
     ScrollTrigger.create({
       trigger: document.body,
       start: 'bottom bottom',
       once: true,
-      onEnter: () => {
-        const stuck = releaseStuck.filter(
-          (el) => Number(getComputedStyle(el).opacity) < 0.9
-        );
-        if (stuck.length) {
-          gsap.to(stuck, { opacity: 1, y: 0, rotate: 0, scale: 1, duration: 0.4, overwrite: true });
-        }
-      },
+      onEnter: release,
     });
+    ScrollTrigger.create({ trigger: document.body, start: 'top top', end: 'bottom bottom', onRefresh: release });
+    let idle: number | undefined;
+    const armIdle = () => {
+      window.clearTimeout(idle);
+      idle = window.setTimeout(release, 1200);
+    };
+    window.addEventListener('scroll', armIdle, { passive: true });
+    window.addEventListener('resize', armIdle, { passive: true });
+
+    /*
+     * gsap.context() reverts tweens and ScrollTriggers, but NOT plain
+     * addEventListener callbacks. build() runs again on every reduced-motion
+     * toggle, so without this each toggle would add another scroll/resize
+     * handler - and the `load` handler above would accumulate too - each
+     * holding a stale releaseStuck array and timer. Returning a function from
+     * the context callback is what registers a cleanup: Context collects it and
+     * calls it on revert. `ctx.add()` is not usable here, because ctx is only
+     * assigned once this callback has returned.
+     */
+    return () => {
+      window.removeEventListener('scroll', armIdle);
+      window.removeEventListener('resize', armIdle);
+      window.removeEventListener('load', onLoad);
+      window.clearTimeout(idle);
+    };
   });
 }
 

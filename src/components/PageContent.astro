@@ -7,6 +7,15 @@
 import type { Block, Section } from '~/types';
 import SectionStrip from './SectionStrip.astro';
 import BlockView from './BlockView.astro';
+import { withBase } from '~/lib/urls';
+
+/** A customer logo with the website and country it belongs to. */
+interface CustomerTile {
+  src: string;
+  alt: string;
+  website: string;
+  country: string;
+}
 
 export interface Props {
   sections: Section[];
@@ -73,6 +82,10 @@ function hasListItem(blocks: Block[]): boolean {
 
     // A run that contains <li> is a list: give it a real <ul> so the list
     // semantics survive. Never put a bare <li> inside a card or a <div>.
+    //
+    // The <ul> holds the <li>s, and each <li> is the BlockView — wrapping the
+    // item in a second <li> put a list item inside a list item, which is
+    // invalid and left the text in a second, redundant box.
     if (hasListItem(blocks)) {
       return (
         <section class="section">
@@ -80,7 +93,7 @@ function hasListItem(blocks: Block[]): boolean {
             <ul class="listing" data-stagger>
               {blocks.map((b) => (
                 <li class="listing__item" data-stagger-item>
-                  <BlockView block={b} inline />
+                  <BlockView block={b} inline as="div" />
                 </li>
               ))}
             </ul>
@@ -116,8 +129,94 @@ function hasListItem(blocks: Block[]): boolean {
       //
       // A section's own copy (the lifted prose, plus any name with no artwork
       // to attach to) stays full width above the grid.
-      const artwork = rest.filter((b) => b.tag === 'img');
-      const labels = rest.filter((b) => b.tag !== 'img');
+      /*
+       * When a section carries an explicit pairing, use it verbatim.
+       *
+       * /customers stores two images per customer followed by its website and
+       * country, and inferring the pairing was wrong: index pairing put every
+       * logo under the next company's website. The pairing is computed once,
+       * by scripts/pair-customer-logos.py, and recorded in `customer_tiles`, so
+       * the renderer never has to guess.
+       */
+      const explicit = (section as { customer_tiles?: CustomerTile[] }).customer_tiles;
+      if (explicit?.length) {
+        return (
+          <section class="section section--blush">
+            <div class="container">
+              {heading && <BlockView block={heading} />}
+              <div class="tiles" data-stagger>
+                {explicit.map((t) => {
+                  const logo = (
+                    <img src={withBase(t.src)} alt={t.alt} loading="lazy" decoding="async" />
+                  );
+                  return (
+                    <figure class="tile tile--customer" data-stagger-item>
+                      {t.website ? (
+                        <a
+                          class="tile__logo"
+                          href={`https://${t.website}`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {logo}
+                        </a>
+                      ) : (
+                        // The source shows a second, monochrome variant for some
+                        // customers with no site link. Render it plainly rather
+                        // than an <a> pointing at an empty host.
+                        <span class="tile__logo">{logo}</span>
+                      )}
+                      <figcaption>
+                        {t.website && <span class="tile__site">{t.website}</span>}
+                        {t.country && <span class="tile__country">{t.country}</span>}
+                      </figcaption>
+                    </figure>
+                  );
+                })}
+              </div>
+            </div>
+          </section>
+        );
+      }
+
+      // Pairing depends on the shape of the run, and there are two shapes:
+      //
+      //   ALTERNATING - image, label, image, label. /customers is this:
+      //     img, "www.byjus.com", img, "India", img, "eastbronxacademy.org"
+      //     Here a label always follows the image it names, so pair by
+      //     adjacency.
+      //
+      //   COLLECTED - the images come first and the labels follow as a run:
+      //     img, img, "Perfectly proportionate logo", img, "Monochrome in dark
+      //     background" on the brand kit. Pair by index.
+      //
+      // Pairing /customers by index put every caption one tile out: a logo
+      // appeared under the wrong company, and the country headings ("India",
+      // "USA") were used as captions.
+      // Decide the shape from the run itself: if the first text arrives
+      // immediately after the first image, the run alternates. On /customers
+      // that is `img, "www.byjus.com", img, "India", ...`; on the brand kit it
+      // is `img, img, "Perfectly proportionate logo", ...`.
+      const firstTextAt = rest.findIndex((b) => b.tag !== 'img');
+      const alternating = firstTextAt === 1;
+
+      const tiles: { img: Block; label: Block | null }[] = [];
+      let pending: Block | null = null;
+      for (const b of rest) {
+        if (b.tag === 'img') {
+          tiles.push({ img: b, label: pending });
+          pending = null;
+        } else if (alternating && tiles.length && !tiles[tiles.length - 1].label) {
+          // the label directly after an image names that image
+          tiles[tiles.length - 1].label = b;
+        } else {
+          pending = b;
+        }
+      }
+      // Any text that no image claimed, e.g. a country heading that introduces
+      // a group, is kept as section copy rather than being silently dropped.
+      const claimed = new Set(tiles.map((t) => t.label).filter(Boolean));
+      const orphanLabels = rest.filter((b) => b.tag !== 'img' && !claimed.has(b));
 
       return (
         <section class="section section--blush">
@@ -128,18 +227,20 @@ function hasListItem(blocks: Block[]): boolean {
                 <BlockView block={b} />
               </div>
             ))}
-            {labels.length > artwork.length && (
+            {orphanLabels.length > 0 && (
               <div class="tiles__copy tiles__copy--names">
-                {labels.slice(artwork.length).map((b) => (
-                  <BlockView block={b} inline />
+                {orphanLabels.map((b) => (
+                  <BlockView block={b} />
                 ))}
               </div>
             )}
             <div class="tiles" data-stagger>
-              {artwork.map((img, i) => (
+              {tiles.map((t) => (
                 <figure class="tile" data-stagger-item>
-                  <BlockView block={img} />
-                  {labels[i] && <figcaption><BlockView block={labels[i]} inline /></figcaption>}
+                  <BlockView block={t.img} />
+                  {t.label && (
+                    <figcaption>{(t.label.text ?? '').trim()}</figcaption>
+                  )}
                 </figure>
               ))}
             </div>
@@ -219,6 +320,26 @@ function hasListItem(blocks: Block[]): boolean {
        heights at the same column width and the grid reads as jumbled. */
     height: 180px;
     object-fit: contain;
+  }
+
+  .tile--customer .tile__logo {
+    display: block;
+    width: 100%;
+  }
+
+  .tile__site {
+    display: block;
+    font-weight: 500;
+    color: var(--jivrus-magenta);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .tile__country {
+    display: block;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
   }
 
   .tile figcaption {

@@ -577,6 +577,232 @@
      "size": "17.3333px",
      "color": "rgb(208, 23, 82)"
     }
+   ],
+   "customer_tiles": [
+    {
+     "src": "/images/4442f22e6be2785c.png",
+     "alt": "",
+     "website": "www.byjus.com",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/ee959d755d657ced.png",
+     "alt": "",
+     "website": "",
+     "country": "India",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/bcee83fdc842f7ca.png",
+     "alt": "",
+     "website": "eastbronxacademy.org",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/9cc35beed09d3424.png",
+     "alt": "",
+     "website": "",
+     "country": "USA",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/4bb48eb0c45caa52.png",
+     "alt": "",
+     "website": "www.sheffield.ac.uk",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/8f9ff553fca2c2cb.png",
+     "alt": "",
+     "website": "",
+     "country": "United Kingdom",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/dd6ef39f654d60a3.png",
+     "alt": "",
+     "website": "www.scdsb.on.ca",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/475d7d6b8d6c0137.png",
+     "alt": "",
+     "website": "",
+     "country": "Canada",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/76bc05cf8fdf1cd6.png",
+     "alt": "",
+     "website": "www.phonepe.com",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/3f247cb8112d8b0e.png",
+     "alt": "",
+     "website": "",
+     "country": "India",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/d8efae05c40c9bc5.png",
+     "alt": "",
+     "website": "www.ualberta.ca",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/86da8fde8c122e4a.png",
+     "alt": "",
+     "website": "",
+     "country": "Canada",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/ed01a055fdca3a38.png",
+     "alt": "",
+     "website": "www.woundcaresurgeons.org",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/b17636821c59743f.png",
+     "alt": "",
+     "website": "",
+     "country": "USA",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": "",
+     "website": "www.edmonton.ca",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": "",
+     "website": "",
+     "country": "Canada",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": "",
+     "website": "www.sayitwithasock.com",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": "",
+     "website": "",
+     "country": "USA",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet",
+     "website": "www.policystreet.com",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director",
+     "website": "",
+     "country": "Malaysia",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": "",
+     "website": "www.tdsb.on.ca",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/26194d490464fb74.png",
+     "alt": "",
+     "website": "",
+     "country": "Canada",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": "",
+     "website": "www.rockingxranch.com",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": "",
+     "website": "",
+     "country": "USA",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": "",
+     "website": "www.asu.edu",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": "",
+     "website": "",
+     "country": "USA",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/d65740251b10affb.png",
+     "alt": "",
+     "website": "www.appliedintuition.com",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": "",
+     "website": "",
+     "country": "USA",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/8af98c637678e49a.png",
+     "alt": "",
+     "website": "myhappygenes.com",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": "",
+     "website": "",
+     "country": "USA",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": "",
+     "website": "360payments.com",
+     "country": "",
+     "variant": "primary"
+    },
+    {
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": "",
+     "website": "",
+     "country": "USA",
+     "variant": "primary"
+    }
    ]
   }
  ],

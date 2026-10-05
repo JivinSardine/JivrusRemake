@@ -14,8 +14,14 @@ export interface Props {
   block: Block;
   /** Render inline (list rows) instead of as a block-level element. */
   inline?: boolean;
+  /**
+   * Tag to use in place of a `<li>`. A list row is already the `<li>` of its
+   * surrounding `<ul>`, so rendering a second one nests a list item inside a
+   * list item; pass "div" to keep the text in the row without the extra box.
+   */
+  as?: string;
 }
-const { block, inline = false } = Astro.props;
+const { block, inline = false, as } = Astro.props;
 const { tag, text, href, src, alt, anchor } = block;
 
 const cls = (t: string) => (inline ? '' : `block block--${t}`);
@@ -66,7 +72,11 @@ const target = internal ? new URL(href, 'https://www.jivrus.com').pathname : hre
   ) : tag === 'h6' ? (
     <h6 class={cls('h6')} set:html={text} />
   ) : tag === 'li' ? (
-    <li class={cls('li')} set:html={text} />
+    as ? (
+      <Fragment set:html={`<${as}>${text}</${as}>`} />
+    ) : (
+      <li class={cls('li')} set:html={text} />
+    )
   ) : tag === 'blockquote' ? (
     <blockquote class={cls('blockquote')} set:html={text} />
   ) : tag === 'td' || tag === 'th' ? (

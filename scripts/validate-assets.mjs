@@ -36,9 +36,6 @@ const problems = [];
 
 // ---- 1. every referenced local asset exists and is non-empty ---------------
 let referenced = 0;
-for (const page of readdirSync(DIST, { withFileTypes: true })) {
-  if (!page.isFile()) continue;
-}
 function walk(dir) {
   const out = [];
   for (const e of readdirSync(dir, { withFileTypes: true })) {

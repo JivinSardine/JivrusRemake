@@ -26,22 +26,30 @@ const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 } })
 const CONCURRENCY = 4;
 let failures = 0;
 let done = 0;
-const summary = [];
 
 async function audit(route) {
   const page = await ctx.newPage();
   const rec = { route, serious: 0, minor: 0, structural: [] };
   try {
     await page.goto(BASE + route, { waitUntil: 'domcontentloaded', timeout: 30000 });
+    /*
+     * `runOnly` can be EITHER a rule list or a tag list, never both, and axe
+     * throws `runOnly cannot be both rules and tags`. Chaining withRules() and
+     * withTags() therefore failed the analyze() call, the catch below turned
+     * that into a recorded "structural" problem, and every route that threw
+     * was reported by its error text rather than being audited at all. Colour
+     * contrast is switched off with disableRules() instead, which leaves the
+     * tag list as the only runOnly constraint.
+     */
     const results = await new AxeBuilder({ page })
-      .withRules(['color-contrast'])  // handled by validate-contrast.mjs
       .withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa'])
+      .disableRules(['color-contrast']) // handled by validate-contrast.mjs
       .analyze();
     rec.serious = results.violations.filter(
-      (v) => (v.impact === 'serious' || v.impact === 'critical') && v.id !== 'color-contrast'
+      (v) => v.impact === 'serious' || v.impact === 'critical'
     ).length;
     rec.minor = results.violations.filter(
-      (v) => (v.impact === 'minor' || v.impact === 'moderate') && v.id !== 'color-contrast'
+      (v) => v.impact === 'minor' || v.impact === 'moderate'
     ).length;
     rec.structural = await page.evaluate(() => {
       const out = [];
@@ -91,7 +99,6 @@ async function worker() {
 await Promise.all(Array.from({ length: CONCURRENCY }, worker));
 await browser.close();
 
-const clean = summary.length + (targets.length - done);
 console.log(`\nroutes audited   : ${targets.length}`);
 console.log(`with issues      : ${failures}`);
 console.log(failures ? `\nFAIL: ${failures} route(s) with serious or structural issues.` : '\nPASS: no serious axe findings and no structural faults.');
