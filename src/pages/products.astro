@@ -29,7 +29,11 @@ const marketplaces = [
   'Google Looker Studio Connector Gallery',
 ];
 
-const local = (src: string) => imageMap[src] || src;
+// imageMap turns a source CDN URL into the local /images/... path; withBase
+// then prefixes that path with the deployment base. Without the second step
+// the hero resolves against the domain root and 404s on GitHub Pages, which
+// serves the site from /JivrusRemake/.
+const local = (src: string) => withBase(imageMap[src] || src);
 const hero = products.images[0];
 ---
 
