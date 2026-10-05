@@ -24,7 +24,9 @@
     "qa:visual": "node scripts/visual-qa.mjs",
     "qa:a11y": "node scripts/a11y-audit-fast.mjs",
     "qa:a11y:full": "node scripts/a11y-audit.mjs",
-    "qa:all": "npm run validate:routes && npm run validate:links && npm run validate:assets"
+    "qa:all": "npm run validate:routes && npm run validate:links && npm run validate:assets",
+    "verify:live": "node scripts/verify-live.mjs",
+    "sweep": "node scripts/sweep.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
