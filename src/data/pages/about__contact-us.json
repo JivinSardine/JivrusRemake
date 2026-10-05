@@ -1,0 +1,1118 @@
+{
+ "route": "/about/contact-us",
+ "slug": "about__contact-us",
+ "family": "about",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Contact Us",
+ "description": "We love❤️ every conversation with you.",
+ "h1": "Contact Us",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/about/contact-us",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "We love❤️ every conversation with you.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "we-love-every-conversation-with-you"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/52f68919a5ca0576.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/75b505ce233ce15c.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "There are many ways to reach out to us. Pick the appropriate one, start the conversation.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/364196518f41fd6c.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Raise Support Ticket/ Give Feedback",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "raise-support-ticket-give-feedback"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Feel free to contact us for any information, feedback and support.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "(You will get an immediate acknowledgement and response within 1 or 2 business days)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "we love to answer you",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Raise a Support Request",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "h2",
+     "text": "Need a New Feature/ Feature Request",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "need-a-new-feature-feature-request"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "We are all ears when it comes to listening to our customers.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Please feel free to raise a need or pitch an idea.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Raise a Feature Request",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Reach out to our Sales Team.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "reach-out-to-our-sales-team"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Our Sales team is happy to assist with your queries",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "and help you pick the right product and plan",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Contact Sales",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Schedule a Meeting",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "schedule-a-meeting"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Schedule a personalised demo for any of the Jivrus' products or book a discussion to power your automation needs.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Discuss your requirements and automation needs directly with Experts of Jivrus Technologies",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Schedule a Meeting",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Prefer Phone?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "prefer-phone"
+    },
+    {
+     "tag": "p",
+     "text": "WhatsApp or Call us on +91 79754 86266Official working time: Mon-Fri 9:00 AM to 6:00 PM IST",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "a",
+     "text": "WhatsApp",
+     "href": "https://wa.me/+917975486266",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "p",
+     "text": "WhatsApp or Call us on +91 79754 86266Official working time: Mon-Fri 9:00 AM to 6:00 PM IST",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "a",
+     "text": "WhatsApp",
+     "href": "https://wa.me/+917975486266",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Office",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "office"
+    },
+    {
+     "tag": "h3",
+     "text": "We are a fully remote company ❤️",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "we-are-a-fully-remote-company"
+    },
+    {
+     "tag": "p",
+     "text": "Our team is spread across India but working closely with Internet and collaboration tools on a common goal.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "We started working remotely in Mar 2020 due to COVID-19 lockdown. And then, that has become the new normal.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f77c20e705341a99.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "You can also reach us by emailing to support@jivrus.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v4Cicz-YCKd2O87L9yGoBBmwOWWCfMIZpL4azSegq-6-ta5xbyuJFnzTx4RrtcZnUHb63oonxXMntwfmN_cRfMqrpYM0mr2qOAHhCUHJr_qISoehWqSUGTGxcHi3roHNbLYABIXe34I286MXRVz7EPU4wufvczVfH6OJdHqR4K51EiC-KQL8s_=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sBQwgyGUShdRkYK77h0K6jMWl_097J2gfAI6lCDNnejONPCVwK7Ek621Sw6-ZmYy-6PhWLFcS412RznjZ9LP08gFzRpU4Qa44xdcAa3C7QJ3Tsv_L1x7YjHGAyYw9fK11BKW_HeTq1M7YWenDxZr1ZTzUmcKY7DiSVeK97R173qIGsiePVh1fI_rZh2G5Evsekzyx_rkTYn4hsbCl9WDOf2pRiA-ZJAU9B=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "There are many ways to reach out to us. Pick the appropriate one, start the conversation.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Raise Support Ticket/ Give Feedback",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "raise-support-ticket-give-feedback"
+  },
+  {
+   "tag": "p",
+   "text": "Feel free to contact us for any information, feedback and support.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "(You will get an immediate acknowledgement and response within 1 or 2 business days)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "we love to answer you",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Raise a Support Request",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Need a New Feature/ Feature Request",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "need-a-new-feature-feature-request"
+  },
+  {
+   "tag": "p",
+   "text": "We are all ears when it comes to listening to our customers.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Please feel free to raise a need or pitch an idea.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Raise a Feature Request",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Reach out to our Sales Team.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "reach-out-to-our-sales-team"
+  },
+  {
+   "tag": "p",
+   "text": "Our Sales team is happy to assist with your queries",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "and help you pick the right product and plan",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Contact Sales",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Schedule a Meeting",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "schedule-a-meeting"
+  },
+  {
+   "tag": "p",
+   "text": "Schedule a personalised demo for any of the Jivrus' products or book a discussion to power your automation needs.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Discuss your requirements and automation needs directly with Experts of Jivrus Technologies",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Schedule a Meeting",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Prefer Phone?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "prefer-phone"
+  },
+  {
+   "tag": "h2",
+   "text": "Office",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "office"
+  },
+  {
+   "tag": "h3",
+   "text": "We are a fully remote company ❤️",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "we-are-a-fully-remote-company"
+  },
+  {
+   "tag": "p",
+   "text": "Our team is spread across India but working closely with Internet and collaboration tools on a common goal.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "We started working remotely in Mar 2020 due to COVID-19 lockdown. And then, that has become the new normal.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You can also reach us by emailing to support@jivrus.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vmKdYegyEwidyZ5p-RvAmOl3l-RKPfwPfLTvO_r8Y048-MYMZzTSlb2QteyTms6ZlN2ihJKSDxLAyQH4VFiu5a8T5qPthOlbx_1d0cKG1_UPXZ_E-3E_pFxfxbMMK6dbbQ46Lq91Pcc0atMMJ69316jLqK6PX-nKKc8b4nHvEwRDPupS8Z0n0MnWTb3vku2nAE3yMwYA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tJ_G36kK3T8KirLASnhBuA-Pgd9klwQ4myLnAQJZ2vM2ak-F_a7FhzwwVAuKZ3Ib7LN8GvKF15P-euraheDoeBs_MX5JUMAYoJcIaX4TSK7IZsvEJtg6IxYSUmWdRObpolRL-VRYnHZScH2yxfbuxWx6idLqOEdFPCm15hpa1h0JKH7xTAbsGYOJnCs_VVF3EiSRCoIJiMCyH0kcTYZSqYbVWNoWIoEA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vG-tmrchjFFCjr9JgZcJR6SxsOx7c7rDy4dyNEGBWaNW03Uk1I8aaMNNuBSYP0F0N66kJfP2o1BTw_OwZ5xuLSgCWxRKxtqyvxOPzgy6FW3A0qmBZFrcQktN9RkaHhbq03LU1ToW1UBWwDhXYdVuXO2lH8DyafO8II8I-fJATrdXom6-_m642BLLueeQFFitcQ79gNd0NdttblNEtUkn6wcoJHN_yeMjR2=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tQMFo_JcEIpcsHUFeVFwjTVcKo5UreVB2VFBKEIHyqziNTdtSqjEmxGWJHcNjRvbe2bRfKuHigcmRC5B6uhsvEVCd5zxrdSeEGBjubdIyXjjn8U5RRc2oClouD2PGCjn3SgBD8XQ6jgK-i1dFzzotVbbKcTzmUGbAmy6CFsPXkA3MQT7Dpbep-=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1280,
+   "h": 960
+  },
+  {
+   "src": "/images/75b505ce233ce15c.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 313
+  },
+  {
+   "src": "/images/364196518f41fd6c.jpg",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us#h.f2lhgoflmbsv",
+   "text": "Raise Support Ticket/ Give Feedback"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us#h.p_5E7WQIKbBLAv",
+   "text": "Need a New Feature/ Feature Request"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us#h.p_b6OAqs137u0R",
+   "text": "Reach out to our Sales Team."
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us#h.86x2tdkldmsa",
+   "text": "Schedule a Meeting"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us#h.acvo80h88971",
+   "text": "Prefer Phone?"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us#h.p_KlFkViFS8IOs",
+   "text": "Office"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us#h.x5xbkgwl6svb",
+   "text": "We are a fully remote company ❤️"
+  },
+  {
+   "href": "https://docs.google.com/forms/d/e/1FAIpQLSd5qCsiIw00rCPXPkfv2IxyJnsELZeKK0-bsGm94MTLx5SsiA/viewform",
+   "text": "Raise a Support Request"
+  },
+  {
+   "href": "https://docs.google.com/forms/d/e/1FAIpQLSdXVQe3yuMGWbd0kyk8nwsW2M3T58OgqHz9Whwixui5mSMkXA/viewform",
+   "text": "Raise a Feature Request"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-sales",
+   "text": "Contact Sales"
+  },
+  {
+   "href": "https://www.jivrus.com/support/schedule-a-demo",
+   "text": "Schedule a Meeting"
+  },
+  {
+   "href": "https://wa.me/+917975486266",
+   "text": "WhatsApp"
+  },
+  {
+   "href": "mailto:support@jivrus.com",
+   "text": "support@jivrus.com"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

@@ -1,0 +1,1406 @@
+{
+ "route": "/legal/compliance/partner-compliance",
+ "slug": "legal__compliance__partner-compliance",
+ "family": "legal",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Partner Compliance",
+ "description": "Jivrus Technologies (we/us) work with specialized companies (partners) to bring out latest technology and domain expertise to Jivrus' product users. The partners are categorized into Technology Partners Integration Partners Marketing/ Sales Partners Content Partner",
+ "h1": "Partners and Compliances",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/legal/compliance/partner-compliance",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Jivrus Technologies (we/us) work with specialized companies (partners) to bring out latest technology and domain expertise to Jivrus' product users.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "The partners are categorized into",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Technology Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Technology Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "li",
+     "text": "Integration Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "Integration Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Marketing/ Sales Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Marketing/ Sales Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Content Partner",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Content Partner",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Technology Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "technology-partners"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Technology partners provide infrastructure or technology enablement or marketplace for us to build, deploy and market Jivrus' products. Typically the technology partners have well established platform on which users need our products/ solutions. Example: Google, Zoho, Microsoft, AWS",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "How do we work with Technology Partner?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-we-work-with-technology-partner"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Our products are deployed, run on Technology Partners' platform",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Our products are deployed, run on Technology Partners' platform",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Our products are listed on Technology Partners' marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Our products are listed on Technology Partners' marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Our products use authentication services of Technology Partner where applicable",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Our products may use subscription/ payment services of Technology Partner",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Integration Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "integration-partners"
+    },
+    {
+     "tag": "p",
+     "text": "Integration partners are popular applications/ products companies that provide special means of integration beyond just API connectivity. Integration partners typically provide an ecosystem for integration, recognize integrations and recommend / share to their customers.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do we work with Integration Partner?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-we-work-with-integration-partner"
+    },
+    {
+     "tag": "li",
+     "text": "Our products are registered with Integration Partner for API access, authentication and authorization",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Our products are listed on Integration Partners' marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Our products are specially recognized and recommended or shared with Integration partners' product users.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Marketing/ Sales Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "marketing-sales-partners"
+    },
+    {
+     "tag": "p",
+     "text": "Marketing and Sales Partners are veterans in their local market who help us to take our products to their customers. They do co-marketing and reselling of our products independently or bundled with their other offerings to their customers.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do we work with Marketing/ Sales Partner?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-we-work-with-marketing-sales-partner"
+    },
+    {
+     "tag": "li",
+     "text": "We have an explicit sales agreement with Sales Partners to resell our products",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "We share sales enquiries that require local transactions to the nearest Sales Partners.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Marketing/ Sales Partners share prospective customers with us.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Sales Partners can provide estimates and invoice for our products.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Authorized Sales Partners can receive money from customers for our products.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Want to become a Partner?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Content Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "content-partners"
+    },
+    {
+     "tag": "p",
+     "text": "Content partners are 3rd party companies that have platform or product that deals with digital content which includes creating, publishing, accumulating, curating, sharing contents online. Users can participate on these activities using these company's products or platforms.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Jivrus Technologies partners with the 3rd party content partners to allow you to find, share, and publish digital content from Jivrus' products. Users can search relevant content from 3rd party platform or product and use it in Jivrus' products or publish content from Jivrus' products on to these 3rd party platforms. For example, use questions from these partners in Google Forms using Form Builder Plus or Google Slides to add to a presentation in Fillable Documents etc.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Each content partner provides details on how to find, share, and delete information shared with them and links to their Contact/Terms of Service information. All content provided is the responsibility of the content partner and not Jivrus. You can flag inappropriate content from the 3rd party platform or product that violates any of our user policies for removal, and Jivrus will notify the content partner.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Explicit Consent Policy",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "explicit-consent-policy"
+    },
+    {
+     "tag": "p",
+     "text": "To protect your data and privacy, only files you explicitly specify are shared with content partners. Each time a file is requested to be shared with a content partner, a pop-up requiring your explicit permission is shown and must be selected as “Yes.” Unless affirmative consent is provided, no files or information is shared with the content partner.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How to access or delete your information with our Content Partners?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-to-access-or-delete-your-information-with-our-content-partners"
+    },
+    {
+     "tag": "p",
+     "text": "You can access contents of partners from Jivrus' products as defined in the product's interface or directly from content partners platform or product. If you do not want certain content of you to be present in content partners, you can use partner's platform or product to manage this or contact the partner support to remove it on your behalf.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "See all Compliances",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sFsYAgnlAiadc-BP1XdpWbQx7XivCawTl7wcPqiGIyO27QkcbUwqhGwqgkxxZZnPvvBdSalxIaa1vQnGep_GgrnnXyMBuOdIwgFOR7j02YfFJN-dN8ZsrixTja4YvHMGXwnskKQ2i07U2mIeKxbcbyAQEabdfuwAIkMm1uxtRPup50HXDiuYg6=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgba(0, 0, 0, 0.8)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies (we/us) work with specialized companies (partners) to bring out latest technology and domain expertise to Jivrus' product users.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The partners are categorized into",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Technology Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Technology Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Integration Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Integration Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Marketing/ Sales Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Marketing/ Sales Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Content Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Content Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Technology Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners"
+  },
+  {
+   "tag": "p",
+   "text": "Technology partners provide infrastructure or technology enablement or marketplace for us to build, deploy and market Jivrus' products. Typically the technology partners have well established platform on which users need our products/ solutions. Example: Google, Zoho, Microsoft, AWS",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do we work with Technology Partner?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-we-work-with-technology-partner"
+  },
+  {
+   "tag": "li",
+   "text": "Our products are deployed, run on Technology Partners' platform",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Our products are deployed, run on Technology Partners' platform",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Our products are listed on Technology Partners' marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Our products are listed on Technology Partners' marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Our products use authentication services of Technology Partner where applicable",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Our products use authentication services of Technology Partner where applicable",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Our products may use subscription/ payment services of Technology Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Our products may use subscription/ payment services of Technology Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Integration Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "integration-partners"
+  },
+  {
+   "tag": "p",
+   "text": "Integration partners are popular applications/ products companies that provide special means of integration beyond just API connectivity. Integration partners typically provide an ecosystem for integration, recognize integrations and recommend / share to their customers.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do we work with Integration Partner?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-we-work-with-integration-partner"
+  },
+  {
+   "tag": "li",
+   "text": "Our products are registered with Integration Partner for API access, authentication and authorization",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Our products are registered with Integration Partner for API access, authentication and authorization",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Our products are listed on Integration Partners' marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Our products are listed on Integration Partners' marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Our products are specially recognized and recommended or shared with Integration partners' product users.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Our products are specially recognized and recommended or shared with Integration partners' product users.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Marketing/ Sales Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "marketing-sales-partners"
+  },
+  {
+   "tag": "p",
+   "text": "Marketing and Sales Partners are veterans in their local market who help us to take our products to their customers. They do co-marketing and reselling of our products independently or bundled with their other offerings to their customers.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do we work with Marketing/ Sales Partner?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-we-work-with-marketing-sales-partner"
+  },
+  {
+   "tag": "li",
+   "text": "We have an explicit sales agreement with Sales Partners to resell our products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "We have an explicit sales agreement with Sales Partners to resell our products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "We share sales enquiries that require local transactions to the nearest Sales Partners.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "We share sales enquiries that require local transactions to the nearest Sales Partners.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Marketing/ Sales Partners share prospective customers with us.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Marketing/ Sales Partners share prospective customers with us.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Sales Partners can provide estimates and invoice for our products.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Sales Partners can provide estimates and invoice for our products.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Authorized Sales Partners can receive money from customers for our products.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Authorized Sales Partners can receive money from customers for our products.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Want to become a Partner?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Content Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "content-partners"
+  },
+  {
+   "tag": "p",
+   "text": "Content partners are 3rd party companies that have platform or product that deals with digital content which includes creating, publishing, accumulating, curating, sharing contents online. Users can participate on these activities using these company's products or platforms.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies partners with the 3rd party content partners to allow you to find, share, and publish digital content from Jivrus' products. Users can search relevant content from 3rd party platform or product and use it in Jivrus' products or publish content from Jivrus' products on to these 3rd party platforms. For example, use questions from these partners in Google Forms using Form Builder Plus or Google Slides to add to a presentation in Fillable Documents etc.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Each content partner provides details on how to find, share, and delete information shared with them and links to their Contact/Terms of Service information. All content provided is the responsibility of the content partner and not Jivrus. You can flag inappropriate content from the 3rd party platform or product that violates any of our user policies for removal, and Jivrus will notify the content partner.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Explicit Consent Policy",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "explicit-consent-policy"
+  },
+  {
+   "tag": "p",
+   "text": "To protect your data and privacy, only files you explicitly specify are shared with content partners. Each time a file is requested to be shared with a content partner, a pop-up requiring your explicit permission is shown and must be selected as “Yes.” Unless affirmative consent is provided, no files or information is shared with the content partner.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How to access or delete your information with our Content Partners?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-to-access-or-delete-your-information-with-our-content-partners"
+  },
+  {
+   "tag": "p",
+   "text": "You can access contents of partners from Jivrus' products as defined in the product's interface or directly from content partners platform or product. If you do not want certain content of you to be present in content partners, you can use partner's platform or product to manage this or contact the partner support to remove it on your behalf.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "See all Compliances",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s7ATOh3lTNsOgMOHvxFBcAWFYuQlJH9uw5eyZ6RT5t2b8jcxaX1DSRFSUWqOcO-WvS1FVXVb1g9InH1LZRsLIXN50W3DgjulWhAKIUmYZTi3mMkXUAaTx4svJzztd1nUMu9-w3GeD6vBDauRO6BoLkjn9JSZ1caxxW7rFPrAmI_Nvj3OrRljTzeKeENqfPzlhiUsujebxWwlwW3jfbBw6SNaHfHxlGDA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72szbclCFkfKnR9XoIFFZ-T8AswQesRNnXOWF-B5liwneauqUL_ETODR6zl7ggaUn9LWVvpOKDE-4SRFfQeKegR_LMD-kMoRLcntAXnDp5RdBJATIEqMR3EbZBuZLAUjW3_XlmIDqBEfJxJcSuQ61xMOKqJrnvPlU8aWDYYA_daZ-l9xrkANh5fktL1VRPTX1Lf8fSLSBNvSv9OapajviPxJU9xDL9KWlJdH=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vrqdHKGkUpcm2xeXk5BGoUcf30hcAgEezuVQa0mKxHza7wTCFDTyVjS3Zc8Sk2NVJmDtx0G81SMR87MSpI1MqHq_g-_wnFQQsVEULZgUEYGf-H_jQqjmx8JuySluLLM48BmG3AAePqJxVzvspaWoNanXZJymLof4HPoKWTlcTgwFl-yEpwP5t9=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://partner.jivrus.com/apply",
+   "text": "Want to become a Partner?"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "See all Compliances"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

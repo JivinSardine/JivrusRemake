@@ -1,0 +1,940 @@
+{
+ "route": "/legal/safety",
+ "slug": "legal__safety",
+ "family": "legal",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Safety",
+ "description": "What is Data Safety?",
+ "h1": "Safety",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/legal/safety",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "What is Data Safety?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "what-is-data-safety"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Data safety refers to the practices and measures put in place to protect data from unauthorized access, loss, corruption, or other forms of damage. It involves safeguarding sensitive information to ensure its confidentiality, integrity, and availability.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "By implementing robust data safety practices, organizations and individuals can mitigate risks, protect sensitive information, and maintain trust in an increasingly digital world.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Data safety at collection:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "data-safety-at-collection"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "Data safety at collection is the process of protecting data from unauthorized access, use, disclosure, disruption, modification, or destruction from the moment it is collected. This includes taking steps to ensure that data is only collected for legitimate purposes, that it is stored securely, and that access to it is restricted to authorized individuals.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "h3",
+     "text": "Data safety at transfer:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "data-safety-at-transfer"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Data safety at the transfer stage refers to the measures and precautions taken to protect data during its transmission or transfer from one location or system to another. It involves ensuring the secure and reliable transfer of data while maintaining its confidentiality, integrity, and availability.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Data Safety at rest:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "data-safety-at-rest"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Data safety at rest refers to the practices and safeguards implemented to protect data while it is stored or at rest in databases, file systems, servers, or other storage devices. It focuses on ensuring the confidentiality, integrity, and availability of data when it is not actively being accessed or transferred.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "What is Payment Safety?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "what-is-payment-safety"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Payment safety refers to the measures and practices put in place to ensure the security and protection of financial transactions and sensitive payment information. It involves safeguarding payment processes, systems, and data to prevent fraud, unauthorized access, or misuse. Payment safety is crucial for businesses, consumers, and financial institutions to maintain trust, protect sensitive information, and prevent financial losses.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Jivrus Technologies upholds a strong commitment to the security and privacy of our customers' payment information. When it comes to payment transactions, we want you to feel confident and assured.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Instead of collecting or storing card details ourselves, we have opted for trusted payment gateways such as Stripe, PayPal, and Razorpay. These reliable and secure payment platforms handle the transaction process, ensuring the confidentiality and protection of your sensitive card information.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "\"Your trust is of utmost importance to us, and we strive to provide a safe and reliable payment experience\"",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Supported payment Gateways",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "supported-payment-gateways"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Jivrus Technologies integrates with the following payment gateways. Check the security policy of the following payment gateways for more details",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Stripe",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Stripe",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Razorpay",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "PayPal",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore Security Policies",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uLjWBCis8PJE5eCnAEFZRf_HbgYbxQozQIsB0XQBDhXxFIVyiSA--vWi714bN4REgSWm2FNMVmcr7yH3yZIiOIv4w2DTzEJexF6hMMeqBb4SQXK3sxDTp6aaQ9q4G0FcVbuXjN3aj-1Dldkn5Y9bdSwuxqOjVY2qE0YgDN6cb4gw8BQw3tyGKj=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "What is Data Safety?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "what-is-data-safety"
+  },
+  {
+   "tag": "p",
+   "text": "Data safety refers to the practices and measures put in place to protect data from unauthorized access, loss, corruption, or other forms of damage. It involves safeguarding sensitive information to ensure its confidentiality, integrity, and availability.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "By implementing robust data safety practices, organizations and individuals can mitigate risks, protect sensitive information, and maintain trust in an increasingly digital world.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Data safety at collection:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "data-safety-at-collection"
+  },
+  {
+   "tag": "p",
+   "text": "Data safety at collection is the process of protecting data from unauthorized access, use, disclosure, disruption, modification, or destruction from the moment it is collected. This includes taking steps to ensure that data is only collected for legitimate purposes, that it is stored securely, and that access to it is restricted to authorized individuals.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Data safety at transfer:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "data-safety-at-transfer"
+  },
+  {
+   "tag": "p",
+   "text": "Data safety at the transfer stage refers to the measures and precautions taken to protect data during its transmission or transfer from one location or system to another. It involves ensuring the secure and reliable transfer of data while maintaining its confidentiality, integrity, and availability.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Data Safety at rest:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "data-safety-at-rest"
+  },
+  {
+   "tag": "p",
+   "text": "Data safety at rest refers to the practices and safeguards implemented to protect data while it is stored or at rest in databases, file systems, servers, or other storage devices. It focuses on ensuring the confidentiality, integrity, and availability of data when it is not actively being accessed or transferred.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "What is Payment Safety?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "what-is-payment-safety"
+  },
+  {
+   "tag": "p",
+   "text": "Payment safety refers to the measures and practices put in place to ensure the security and protection of financial transactions and sensitive payment information. It involves safeguarding payment processes, systems, and data to prevent fraud, unauthorized access, or misuse. Payment safety is crucial for businesses, consumers, and financial institutions to maintain trust, protect sensitive information, and prevent financial losses.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies upholds a strong commitment to the security and privacy of our customers' payment information. When it comes to payment transactions, we want you to feel confident and assured.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Instead of collecting or storing card details ourselves, we have opted for trusted payment gateways such as Stripe, PayPal, and Razorpay. These reliable and secure payment platforms handle the transaction process, ensuring the confidentiality and protection of your sensitive card information.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "\"Your trust is of utmost importance to us, and we strive to provide a safe and reliable payment experience\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Supported payment Gateways",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "supported-payment-gateways"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies integrates with the following payment gateways. Check the security policy of the following payment gateways for more details",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Stripe",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Stripe",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Razorpay",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Razorpay",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "PayPal",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "PayPal",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore Security Policies",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uC5bYjH1kA8P8x8EvC7PvOEFw1y8tHbqViM50ROtb2yuG_LIxcELltkMPWVXgjvYxpTjbY2ZdLYuFrOBx2Q1RWur8oIF8PpBfOseOBi6WWORhjNlfZvRoc_53sezTIPVzQUTKO4aZfnqZIgPG7e_IYd6SlGtv9tZz0qa7jSHD5V_b_7MNgbMzDZK_EIRsbGsy7ACx5fHPl3BhvNl92fqtKEBXsE2AR-A=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tSbRVvqGVu4ca81ga8dXnpe68klHf1S7cy681gjUOppBk6EbI8AtnQYC5D1l_B6CB9tNHuLfgvPivf6aaN3SKhdeVpgQfEDqqqVaydGpfTZl1apiFcoxLL6VDzA1sas1-15ZTOweQcSnCXWE8-KBN--ft0R7yNUwG3tede8O90-VEzANhq7pMAR6mY-Qhazn2-YoCcxJ6RMSuGUjGNYVpkIlaVP_V9mgEv=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tmzyZwz4O2QpAro1zWFeDTtN0GGr8mA_ODXUbFih22dkv5_XolHhE5eRAeA7wIfuH00Nwjz1WiWJcUbh__4x6hjHfZKV6fBeHBnHlCPE3ciFVN8CM1xEO-HD0oQFR0AXkPuFahhnT7nHjoSXnfVRk9nbl3WIvxYy7YaDIw02ksKexgZPsy53WF=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://stripe.com/docs/security",
+   "text": "Stripe"
+  },
+  {
+   "href": "https://razorpay.com/docs/security/#:~:text=All%20Razorpay%20services%20are%20served,configured%20with%20industry%2Dstandard%20cyphers.&text=We%20follow%20industry%2Dstandard%20AES,%29%20utilises%20field%2Dlevel%20encryption.",
+   "text": "Razorpay"
+  },
+  {
+   "href": "https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security",
+   "text": "PayPal"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Explore Security Policies"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

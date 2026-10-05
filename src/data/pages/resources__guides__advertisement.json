@@ -1,0 +1,744 @@
+{
+ "route": "/resources/guides/advertisement",
+ "slug": "resources__guides__advertisement",
+ "family": "resources",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Advertisement",
+ "description": "The inside story of why we display advertisement in the footer despite being a software product company",
+ "h1": "Advertisement",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/guides/advertisement",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "The inside story of why we display advertisement in the footer despite being a software product company",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "the-inside-story-of-why-we-display-advertisement-in-the-footer-despite-being-a-software-product-company"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "What are we?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "what-are-we"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "We Jivrus Technologies provides awesome software products worldwide to make every business more successful. Jivrus specializes in Cloud, Automation, Integration, IoT and Analytics to bring out the full potential of your business. You can see our products at Products",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "How do we generate revenue?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-we-generate-revenue"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "We are a SaaS-based products company and we have our own products and solutions. We generate our own revenue. We have a rich set of products that are used all over the world.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "Explore Products from Jivrus Technologies",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Then, why we advertise on the footer of web pages?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "then-why-we-advertise-on-the-footer-of-web-pages"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "The reason why we advertise on pages is to generate data for one of our product Sheet Director.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Sheet Director supports more than 50+ apps. One among those apps is Google AdSense. In order to generate data for Google AdSense for testing our product Sheet Director AdSense interface we are advertising in our website.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "We are placing the advertisement only on the footer of the website so that it does not interfere user's flow of reading in our website.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "What is Sheet Director?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "what-is-sheet-director"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Sheet Director is a Google Workspace add-on that helps to manage and control bi-directional data flow between Google Sheets and several other applications like Google Calendar, Tasks, Contacts, Sheets, QuickBooks, FreshBooks, Zoho etc. Currently Sheet Director supports 50+ applications.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Explore more about Sheet Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u6Hpw4CyOboGrCrDQXCpqXFLF-CV2RY3A7jVywL0ZUvQFUdKtFg1qwQ2LVHWhNNHJ2Kz8hs8YYckT2Av8rb45kzVKISOc9AqtLpsBm9U2YFt7mEHg0Ilvig3m-xP4nwVVP5dN78jaUsyg_yG-7_fWby7oYeSSb0jL1kbVg9J_8f30hUPOoUDnB=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h3",
+   "text": "The inside story of why we display advertisement in the footer despite being a software product company",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "the-inside-story-of-why-we-display-advertisement-in-the-footer-despite-being-a-software-product-company"
+  },
+  {
+   "tag": "h2",
+   "text": "What are we?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "what-are-we"
+  },
+  {
+   "tag": "p",
+   "text": "We Jivrus Technologies provides awesome software products worldwide to make every business more successful. Jivrus specializes in Cloud, Automation, Integration, IoT and Analytics to bring out the full potential of your business. You can see our products at Products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "How do we generate revenue?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-we-generate-revenue"
+  },
+  {
+   "tag": "p",
+   "text": "We are a SaaS-based products company and we have our own products and solutions. We generate our own revenue. We have a rich set of products that are used all over the world.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore Products from Jivrus Technologies",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Then, why we advertise on the footer of web pages?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "then-why-we-advertise-on-the-footer-of-web-pages"
+  },
+  {
+   "tag": "p",
+   "text": "The reason why we advertise on pages is to generate data for one of our product Sheet Director.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Sheet Director supports more than 50+ apps. One among those apps is Google AdSense. In order to generate data for Google AdSense for testing our product Sheet Director AdSense interface we are advertising in our website.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "We are placing the advertisement only on the footer of the website so that it does not interfere user's flow of reading in our website.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "What is Sheet Director?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "what-is-sheet-director"
+  },
+  {
+   "tag": "p",
+   "text": "Sheet Director is a Google Workspace add-on that helps to manage and control bi-directional data flow between Google Sheets and several other applications like Google Calendar, Tasks, Contacts, Sheets, QuickBooks, FreshBooks, Zoho etc. Currently Sheet Director supports 50+ applications.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more about Sheet Director",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tPjTV3yq658kL8z0MOJ5B-0cW_UeKl0RzXKBOIxn6lizYVQIdGstvaT20K55-6e-h3UMCWp7mtFUyj5PjMimQdCMKV4-WFiEonulIP6SXULXCdLvkO-YnmbISrgmXtRKU6bb3gwTNPrQ-BhKJJ7p5nmAVhBB6f-b5d_wd8sz0W3rFfjRqVHRlGqgUZizXSI9tNy6kCPasqbK331-f2s_UPq3k9Neciaw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vSkORajgwpgLpzDdaErOKJ3gWksGkh-UBenduNdlXlnoc6a1syPZ2Lq9IGEOB0uZ0MIIZr01L-RennAYhiCbjpbOqDADM7QJrU2FxlftxijOAKO39u2WtiSXUqAxdLgkQBX1_Bn7XeHFh_rRiUJ5S9Vg1EKp-kFUjIDu3-6HLvQAgKF-kCMkK6hSD41JcNlMPDAENGJZ45lBPF0wUoQnnBWWaKRyTCWHpS=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u4wTsLQbj-fEUaDDHHFj_O9wf1Hbhe3EhvTb5f7UrtEWLwL-W74Z-1iwP_Ix5xoWYj9Q0YiyPWHe1gEU2LvSCyTrrMgaEtVpG3Xy9PcWBwU0JIaVbuRz53fYx1TDmcLxoAi19X2pCC3LtgJJ09nwnQDNTSjsUDxw9b9zX5OrnG3dF3o9z5WlR7=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/advertisement",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/advertisement",
+   "text": "products"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fsheetdirector.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw1eYX-WqH-1jZnhsGVoKb7Q",
+   "text": "Explore more about Sheet Director"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

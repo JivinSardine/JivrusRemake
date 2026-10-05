@@ -1,0 +1,83 @@
+---
+import { withBase } from '~/lib/urls';
+/**
+ * BlockView — renders one extracted content block with the live site's own
+ * element and colour, so headings keep the magenta, body copy keeps #212121,
+ * images keep their alt text, and links stay real links.
+ *
+ * h2/h3/h4 blocks carry an `anchor` (see recon/build_data.py) so the footer's
+ * deep links (`/products#core-products`) land on the right heading.
+ */
+import type { Block } from '~/types';
+
+export interface Props {
+  block: Block;
+  /** Render inline (list rows) instead of as a block-level element. */
+  inline?: boolean;
+}
+const { block, inline = false } = Astro.props;
+const { tag, text, href, src, alt, anchor } = block;
+
+const cls = (t: string) => (inline ? '' : `block block--${t}`);
+const isImage = tag === 'img';
+const isLink = tag === 'a' && !!text && !!href;
+
+// Links out of the extraction are absolute; keep internal ones relative and
+// mark genuinely external ones so they open safely in a new tab. A `mailto:`
+// href also contains the domain, so parse it rather than substring-matching —
+// otherwise `mailto:support@jivrus.com` is read as a path and the scheme is
+// lost.
+const internal = isLink && (() => {
+  if (href.startsWith('/')) return true;
+  try {
+    return new URL(href).hostname.endsWith('jivrus.com');
+  } catch {
+    return false;
+  }
+})();
+const external = isLink && !internal && href.startsWith('http');
+const target = internal ? new URL(href, 'https://www.jivrus.com').pathname : href;
+---
+
+{
+  isImage ? (
+    <figure class={cls('img')}>
+      <img src={withBase(src)} alt={alt || ''} loading="lazy" decoding="async" />
+    </figure>
+  ) : isLink ? (
+    <a
+      class={cls('a')}
+      href={withBase(target)}
+      target={external ? '_blank' : undefined}
+      rel={external ? 'noopener noreferrer' : undefined}
+    >
+      {text}
+    </a>
+  ) : tag === 'h1' ? (
+    <h1 class={cls('h1')} id={anchor} set:html={text} />
+  ) : tag === 'h2' ? (
+    <h2 class={cls('h2')} id={anchor} set:html={text} />
+  ) : tag === 'h3' ? (
+    <h3 class={cls('h3')} id={anchor} set:html={text} />
+  ) : tag === 'h4' ? (
+    <h4 class={cls('h4')} id={anchor} set:html={text} />
+  ) : tag === 'h5' ? (
+    <h5 class={cls('h5')} set:html={text} />
+  ) : tag === 'h6' ? (
+    <h6 class={cls('h6')} set:html={text} />
+  ) : tag === 'li' ? (
+    <li class={cls('li')} set:html={text} />
+  ) : tag === 'blockquote' ? (
+    <blockquote class={cls('blockquote')} set:html={text} />
+  ) : tag === 'td' || tag === 'th' ? (
+    <Fragment set:html={`<${tag}>${text}</${tag}>`} />
+  ) : (
+    <p class={cls('p')} set:html={text} />
+  )
+}
+
+<style>
+  figure {
+    margin: 0;
+  }
+</style>

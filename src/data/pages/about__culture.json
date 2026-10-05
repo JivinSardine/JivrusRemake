@@ -1,0 +1,615 @@
+{
+ "route": "/about/culture",
+ "slug": "about__culture",
+ "family": "about",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Culture",
+ "description": "\"Culture is simply a shared way of doing something with a passion.” – Brian Chesky",
+ "h1": "Culture",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/about/culture",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f31ef61c0af8c46d.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eb76ec0e2b1ad0b2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "\"Culture is simply a shared way of doing something with a passion.”",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "culture-is-simply-a-shared-way-of-doing-something-with-a-passion"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/95932ee10e7fc014.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "– Brian Chesky",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Culture",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "culture"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "We believe culture is the nervous system of our company. It is core of our products, solutions and pretty much whatever we do. We aspire, build and nurture the culture that we love to have.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "a",
+     "text": "Company",
+     "href": "/about/company",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "a",
+     "text": "Our History",
+     "href": "/about/our-history",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "a",
+     "text": "Meet the Team",
+     "href": "/about/team",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "a",
+     "text": "Careers",
+     "href": "/about/careers",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Meet the Team",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v4Cicz-YCKd2O87L9yGoBBmwOWWCfMIZpL4azSegq-6-ta5xbyuJFnzTx4RrtcZnUHb63oonxXMntwfmN_cRfMqrpYM0mr2qOAHhCUHJr_qISoehWqSUGTGxcHi3roHNbLYABIXe34I286MXRVz7EPU4wufvczVfH6OJdHqR4K51EiC-KQL8s_=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t9sTWIBOvkENxKKrnzK-FpEd4RXHbD4wmeHng_2X66A0McMzAInC_WT4sP95dAfQx7RyDkOnuFkGhHsQLDdxcCgX1CzNObO5nLfwOajLbTzNXtuqhZNfsuVNnZ-9ulPrckMF4IzV23oNy9su-7w49Ov5r03f1HivdwtTXdfcwlCHwCVOyqxEU_WTKoOBhZk2NC-IRap2Ms=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h2",
+   "text": "\"Culture is simply a shared way of doing something with a passion.”",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "culture-is-simply-a-shared-way-of-doing-something-with-a-passion"
+  },
+  {
+   "tag": "p",
+   "text": "– Brian Chesky",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sUKOq7pVInPADPtDkvuy0WUG3QVJ0J5uSLce3EX_AN1Ac9f0FrIU1z9bR9w6fNjzlx26HBDrR5hFMKAr-uz7NSB02ti4I-TwoJl2Hr7XJSAbvRRbHXgNjFlHlY5qezzNSQSCCGzXANUH0vaTjzGqrXNLi9Ko7V6J2eY6CwK1FKYEhCKL5ug356zrDcGJmM0EaQ1lrS1A=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h2",
+   "text": "Culture",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "culture"
+  },
+  {
+   "tag": "p",
+   "text": "We believe culture is the nervous system of our company. It is core of our products, solutions and pretty much whatever we do. We aspire, build and nurture the culture that we love to have.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Meet the Team",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sGkYUv0YMw4omTblcG0vUOvzBmbRQQHkmdv026lUAfduqvA6iBP_wwvb6-jHFrEmiHGkrXYQ61N0lfBnru2ENjgWRNAxQnfH2qM3O0CXwpddjOUciwgwk2hChKrhoLJRfiMAkdZ27qli2hxQeWERl33mtxDvgse7rkvlbLAGUJcHOULHjo3Q1oykXJdadG98ha3bO4q-Ik66qA4xTp61Lqgtex0mUKiw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vG-tmrchjFFCjr9JgZcJR6SxsOx7c7rDy4dyNEGBWaNW03Uk1I8aaMNNuBSYP0F0N66kJfP2o1BTw_OwZ5xuLSgCWxRKxtqyvxOPzgy6FW3A0qmBZFrcQktN9RkaHhbq03LU1ToW1UBWwDhXYdVuXO2lH8DyafO8II8I-fJATrdXom6-_m642BLLueeQFFitcQ79gNd0NdttblNEtUkn6wcoJHN_yeMjR2=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vxOzWcIL60IvfJQtcrdXCmODx0K8Ce4v6nZ-IE8jdwe3EiObZVOYfDujuYkmzXb1iQscmoBB73NVAbV22IVdx3hfWavIUv5icoPyz4SyuDtUER4-rSi9j9lx02qiiPxq8pqubjrclShOUl-u1xdcFGFPz7QbmQkQFBntnE-oa-xhGTzXdMiwGM=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1280,
+   "h": 713
+  },
+  {
+   "src": "/images/f31ef61c0af8c46d.png",
+   "alt": "",
+   "w": 846,
+   "h": 548
+  },
+  {
+   "src": "/images/95932ee10e7fc014.jpg",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/company",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Meet the Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

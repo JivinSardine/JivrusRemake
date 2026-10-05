@@ -1,0 +1,899 @@
+{
+ "route": "/resources/guides/manual-invoice-process",
+ "slug": "resources__guides__manual-invoice-process",
+ "family": "resources",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Manual Invoice - Process",
+ "description": "Note: This is applicable for only Indian Customers who cannot pay via PayPal",
+ "h1": "Manual Invoice - Process",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/guides/manual-invoice-process",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/674f3602649439e8.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Note: This is applicable for only Indian Customers who cannot pay via PayPal",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "What is Manual Invoice?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "what-is-manual-invoice"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Users from India who cannot pay via PayPal can raise a Manual Invoice Request to pay via UPI / NEFT/ IMPS",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "How to make a manual invoice request?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-to-make-a-manual-invoice-request"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "I) Identify the product and plan that you want to purchase.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "Example: Form Director and Premium plan",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "II) Goto pricing page on the product website",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Example:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "For the Form Director product, the web page is https://formdirector.jivrus.com/pricing",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "For the Database Browser product, the web page is https://databasebrowser.jivrus.com/pricing",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "III) Click on \"Request Manual Invoice\" on the identified plan on the Pricing Page",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/5c3865c2b0d7730c.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "See the sample below. You will notice \"Request Manual Invoice\" below \"Pay with PayPal\" button. You need to use that on the Pricing Page (not on the below image illustration)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "IV) It will open Manual Invoice Request Form. Follow the Steps mentioned in the form",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Steps mentioned in the Manual Invoice Request Form",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Step 1: Fill this form with correct details and submit",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Step 2: You will get an email in a minute with payment instructions to pay via IMPS or UPI",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Step 3: Make the payment",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Step 4: Reply to the email with the screenshot of the payment",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Step 5: Jivrus Support team will provide the license and reply. Allow up to 1 business hour on weekdays and 4 business hours on weekends/holidays to process the payment. (Business hours is 9:00 AM to 6:30 PM, requests outside the business hours will be processed the next day)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uVIZPtaIfnXUcOOWsJ8xXntdrNGeqAXZaO5eJJiQIu-zbnPKIUw9UrT5j6-lBeUSNe-M-mNYS7-3IcO5o5xIFwGdSmWYajjpAb1yLcvmvAvEdL4Zkfhx1WzXAoBkkYB0JRKnHMMsnqX6e2oKHIrq2aVpM6QWBlF4MsmyO45MJWUO1mzTg26WQ8=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgba(0, 0, 0, 0.8)"
+  },
+  {
+   "tag": "p",
+   "text": "Note: This is applicable for only Indian Customers who cannot pay via PayPal",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "What is Manual Invoice?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "what-is-manual-invoice"
+  },
+  {
+   "tag": "p",
+   "text": "Users from India who cannot pay via PayPal can raise a Manual Invoice Request to pay via UPI / NEFT/ IMPS",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How to make a manual invoice request?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-to-make-a-manual-invoice-request"
+  },
+  {
+   "tag": "p",
+   "text": "I) Identify the product and plan that you want to purchase.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Example: Form Director and Premium plan",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "II) Goto pricing page on the product website",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Example:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "For the Form Director product, the web page is https://formdirector.jivrus.com/pricing",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "For the Database Browser product, the web page is https://databasebrowser.jivrus.com/pricing",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "III) Click on \"Request Manual Invoice\" on the identified plan on the Pricing Page",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "See the sample below. You will notice \"Request Manual Invoice\" below \"Pay with PayPal\" button. You need to use that on the Pricing Page (not on the below image illustration)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tqZirR3Hecy6xsVJ_7hrokmrgf5QMHaDyrI06vYEL9Mz135Chc_ezrLoSBtI2yFkT3LiSLHjkhp0Mb8L8Ey2kghX-xfR0mvQt4eNYFNMfS920c-991RuiTYBOS6ybk6IC9NcpMskE4G2r3ryFzJ_fTvK1iC7fK2k2WpFJ23g69CLxcMsk2wQh6Dh6C-9B9JneNEZADv0-h0VlV3F7yU_07vwwqWggSXLwT=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "IV) It will open Manual Invoice Request Form. Follow the Steps mentioned in the form",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Steps mentioned in the Manual Invoice Request Form",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Step 1: Fill this form with correct details and submit",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Step 2: You will get an email in a minute with payment instructions to pay via IMPS or UPI",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Step 3: Make the payment",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Step 4: Reply to the email with the screenshot of the payment",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Step 5: Jivrus Support team will provide the license and reply. Allow up to 1 business hour on weekdays and 4 business hours on weekends/holidays to process the payment. (Business hours is 9:00 AM to 6:30 PM, requests outside the business hours will be processed the next day)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v_0hqq0wa-6K7JoqGEuWnpyAO-319S06rG2Dh-1GKSeEqcEjGRkbeRhY_1uvF1DxdBx68kfd_S2_w5UyB9qy-snqVuePA57cruu8kt_522B6MIVlMbz_l86wL9Wx8w7xRzrbErfvoerZcp0LFeT3aMrsJsjahnbQxUBiDtcBW7Vud-SusBpEdhOD6KY4tG6GhFWkC82nXSpefyp-euysYS1UQOjcUvKQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ue9O78OTKPXcnzWaqgCwz6Pre05dhiPDURU3RzqfAfCj2CzdCRrSCuUx8wKT8uojLvv4069mdKeHv_LFJT98Qw7SaYhrpS1QKc2EMKxB918AAU9NKeSEMa_62LrmEHUWu0KnaX9WflxkmZj5E7KK3F6nWYwSmYm85lS48nVHZNha8-3IMK9DZ_tuoEw-OmD_sdmAF3wMPH5ea1advu-AcSJCczDVWjiuTt=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tGghl58EoApuIYEitsWBLVF6OHNxmyP9UkaCj5dME8vz3f3bpr4FkdeWSy9WqVoBVKR-NyZx0envn1KhqPCIGMBNKurIuLen-XW1HCXqc2_dYheHtnje55w5ype_gfNQ9mik2P4bVBKbQsKVrUXT8gnJkrT1_Sler2Wkkiu_1sxDuYiShlp4eT=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 632,
+   "h": 978
+  },
+  {
+   "src": "/images/674f3602649439e8.jpg",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fformdirector.jivrus.com%2Fpricing&sa=D&sntz=1&usg=AOvVaw3PwIDmi_2GI1ggcekU5umV",
+   "text": "https://formdirector.jivrus.com/pricing"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fdatabasebrowser.jivrus.com%2Fpricing&sa=D&sntz=1&usg=AOvVaw1KxlfeZFeJIwpklYGEjQwj",
+   "text": "https://databasebrowser.jivrus.com/pricing"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

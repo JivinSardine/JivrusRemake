@@ -1,0 +1,1445 @@
+{
+ "route": "/resources/articles/google-workspace/add-ons-faq",
+ "slug": "resources__articles__google-workspace__add-ons-faq",
+ "family": "resources",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Add-ons FAQ",
+ "description": "General Add-ons - Frequently Asked Questions",
+ "h1": "Add-ons FAQ",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/articles/google-workspace/add-ons-faq",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "General Add-ons - Frequently Asked Questions",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "general-add-ons-frequently-asked-questions"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/601408ca8ec8958c.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "This FAQ (Frequently Asked Questions) is prepared to provide answers to all general questions about usage Jivrus Google Workspace add-ons products and any Google Workspace add-ons in general.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "What is add-on?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "what-is-add-on"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Add-ons are customized extensions of Google Workspace productivity applications such as Gmail, Google Sheets, and Google Docs. Add-ons can add new capabilities to the Google Workspace applications they extend, help automate tasks, or make third-party services or information available in Google Workspace. You can see Jivrus add-ons on Google Workspace Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "How to install and uninstall add-ons?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-to-install-and-uninstall-add-ons"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "Please read the article Install and Uninstall Add-ons for details",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I get new version of the add-on? Should I download or re-install?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-get-new-version-of-the-add-on-should-i-download-or-re-install"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "You don't need to download or re-install the add-on to get the new version. You can simply refresh the browser and load the add-on to get the latest version will be updated automatically.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "When I open add-on I get \"drive.google.com refused to connect\". Why?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "when-i-open-add-on-i-get-drive-google-com-refused-to-connect-why"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "When I open add-on I get \"Action not allowed\" or \"You do not have permission to perform this action\" or \"ScriptError: Authorization is required to perform that action\". Why?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "when-i-open-add-on-i-get-action-not-allowed-or-you-do-not-have-permission-to-perform-this-action-or-scripterror-authorization-is-required-to-perform-that-action-why"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "This issue can occur if users have logged into multiple Google accounts from the same browser. Mainly if one account has access to your document and other account do not have access.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "To resolve this issue:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Please sign out from Google and sign in with only one Google account",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Please sign out from Google and sign in with only one Google account",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "OR",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Use Chrome's incognito window to load the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Use Chrome's incognito window to load the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Google Picker dialog is not opening.Why?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "google-picker-dialog-is-not-opening-why"
+    },
+    {
+     "tag": "p",
+     "text": "The Google Picker Dialog might not open because you have disabled / blocked the cookies option in you browser.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "To resolve this issue please follow below steps:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click the context menu in the browser toolbar to the right of the address bar.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Choose Settings.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click Cookies and other site data in the Privacy section.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Ensure that the \"Allow all cookies\" is checked.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Now refresh the add-on",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "I am seeing only the Help menu in the add-on. Why?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "i-am-seeing-only-the-help-menu-in-the-add-on-why"
+    },
+    {
+     "tag": "p",
+     "text": "Sometimes, the add-on menus do not open fully. This could be due to slow internet connection or having too many add-ons installed.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Wait a few seconds and Open the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "OR",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Try reloading the document few times",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "OR",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Try opening the add-on in Chrome's incognito window",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I see the version# of Jivrus' add-ons?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-see-the-version-of-jivrus-add-ons"
+    },
+    {
+     "tag": "li",
+     "text": "Click on Menu from Add-on. This will show the list of menu.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click on About from the list of menu. This will show you the version and all other details of the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Why I am getting 400 code error while installing Jivrus' add-ons?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "why-i-am-getting-400-code-error-while-installing-jivrus-add-ons"
+    },
+    {
+     "tag": "p",
+     "text": "Here's what might be causing the issue:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "1. Drive Access Denied: It could be due to restricted access to certain drives or folders. Please ensure necessary permissions are granted.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "2. Admin Access: Some features may require administrative privileges. Make sure you have the necessary rights for installation.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "3. Multiple Logins: Concurrent logins to multiple accounts can sometimes lead to conflicts. Try signing out from all accounts or using incognito mode.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Follow these steps and retry the installation. If the problem persists, reach out to our support team for further assistance.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Pricing FAQ",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Privacy Pocily",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "a",
+     "text": "Terms and Conditions",
+     "href": "/legal/terms-and-conditions",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t62EZFIvCzOkbfRYBMmBj-3dgNhAtHp2aVKPLhXCHOgLAOK9FQu5P6apquVfl6VmOxUIF3spL-OtJmzOEm-dvX6mYOYw9Guv_Q69RIHwV-hsJ0FGxGLaMfgPOjclmbvC753pDACfQvnPy7BjGJN-V3e2Sn_xDLFEL6U8U0ruwDlmWakgXFuRRC=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "General Add-ons - Frequently Asked Questions",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "general-add-ons-frequently-asked-questions"
+  },
+  {
+   "tag": "p",
+   "text": "This FAQ (Frequently Asked Questions) is prepared to provide answers to all general questions about usage Jivrus Google Workspace add-ons products and any Google Workspace add-ons in general.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "What is add-on?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "what-is-add-on"
+  },
+  {
+   "tag": "p",
+   "text": "Add-ons are customized extensions of Google Workspace productivity applications such as Gmail, Google Sheets, and Google Docs. Add-ons can add new capabilities to the Google Workspace applications they extend, help automate tasks, or make third-party services or information available in Google Workspace. You can see Jivrus add-ons on Google Workspace Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How to install and uninstall add-ons?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-to-install-and-uninstall-add-ons"
+  },
+  {
+   "tag": "p",
+   "text": "Please read the article Install and Uninstall Add-ons for details",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I get new version of the add-on? Should I download or re-install?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-get-new-version-of-the-add-on-should-i-download-or-re-install"
+  },
+  {
+   "tag": "p",
+   "text": "You don't need to download or re-install the add-on to get the new version. You can simply refresh the browser and load the add-on to get the latest version will be updated automatically.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "When I open add-on I get \"drive.google.com refused to connect\". Why?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "when-i-open-add-on-i-get-drive-google-com-refused-to-connect-why"
+  },
+  {
+   "tag": "h3",
+   "text": "When I open add-on I get \"Action not allowed\" or \"You do not have permission to perform this action\" or \"ScriptError: Authorization is required to perform that action\". Why?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "when-i-open-add-on-i-get-action-not-allowed-or-you-do-not-have-permission-to-perform-this-action-or-scripterror-authorization-is-required-to-perform-that-action-why"
+  },
+  {
+   "tag": "p",
+   "text": "This issue can occur if users have logged into multiple Google accounts from the same browser. Mainly if one account has access to your document and other account do not have access.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "To resolve this issue:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Please sign out from Google and sign in with only one Google account",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Please sign out from Google and sign in with only one Google account",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "OR",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Use Chrome's incognito window to load the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Use Chrome's incognito window to load the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Google Picker dialog is not opening.Why?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "google-picker-dialog-is-not-opening-why"
+  },
+  {
+   "tag": "p",
+   "text": "The Google Picker Dialog might not open because you have disabled / blocked the cookies option in you browser.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "To resolve this issue please follow below steps:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click the context menu in the browser toolbar to the right of the address bar.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click the context menu in the browser toolbar to the right of the address bar.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Choose Settings.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Choose Settings.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click Cookies and other site data in the Privacy section.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click Cookies and other site data in the Privacy section.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Ensure that the \"Allow all cookies\" is checked.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Ensure that the \"Allow all cookies\" is checked.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Now refresh the add-on",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Now refresh the add-on",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "I am seeing only the Help menu in the add-on. Why?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "i-am-seeing-only-the-help-menu-in-the-add-on-why"
+  },
+  {
+   "tag": "p",
+   "text": "Sometimes, the add-on menus do not open fully. This could be due to slow internet connection or having too many add-ons installed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Wait a few seconds and Open the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Wait a few seconds and Open the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "OR",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Try reloading the document few times",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Try reloading the document few times",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "OR",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Try opening the add-on in Chrome's incognito window",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Try opening the add-on in Chrome's incognito window",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I see the version# of Jivrus' add-ons?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-see-the-version-of-jivrus-add-ons"
+  },
+  {
+   "tag": "li",
+   "text": "Click on Menu from Add-on. This will show the list of menu.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on Menu from Add-on. This will show the list of menu.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on About from the list of menu. This will show you the version and all other details of the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on About from the list of menu. This will show you the version and all other details of the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Why I am getting 400 code error while installing Jivrus' add-ons?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "why-i-am-getting-400-code-error-while-installing-jivrus-add-ons"
+  },
+  {
+   "tag": "p",
+   "text": "Here's what might be causing the issue:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "1. Drive Access Denied: It could be due to restricted access to certain drives or folders. Please ensure necessary permissions are granted.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "1. Drive Access Denied: It could be due to restricted access to certain drives or folders. Please ensure necessary permissions are granted.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "2. Admin Access: Some features may require administrative privileges. Make sure you have the necessary rights for installation.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "2. Admin Access: Some features may require administrative privileges. Make sure you have the necessary rights for installation.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "3. Multiple Logins: Concurrent logins to multiple accounts can sometimes lead to conflicts. Try signing out from all accounts or using incognito mode.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "3. Multiple Logins: Concurrent logins to multiple accounts can sometimes lead to conflicts. Try signing out from all accounts or using incognito mode.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Follow these steps and retry the installation. If the problem persists, reach out to our support team for further assistance.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Pricing FAQ",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Privacy Pocily",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vr_RgCyUL3ip8uTpx0mPEuvb_7dkpTrpw19JhmHURNEJI0SpV_9Zq2cxXYhWt-JvQgBcZLPltAfdixFGvmF3HIwCrUCDcTrSHqXfOSbYLlFTywFMRTvTHggpJif313BF8HgpRuFJ3sVF1wNrtbUaAb-KQ1LN-WIVMC6BMvRiRbZvDb-VK67ujpUMCInwTw1q5yGtqAWSokWYtfORYD7l3f5ArIlDZnrw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sxYYhxDeKl5iCqgPMNYlQxoBdlcaWFe0BMXTYuWPcJtqikAX6P5bkRF-kxoZxBoUaHwqgeYzSgYnWRNbwZSakd4yFAQ2F1FjT6RtsJGB_kPyeYYqjRq5XplzDqohbr1Y6yTUUW8Fld0cIngIS2iQA1wRI5PglylAXoqtWbW-W-RWp62XMZpKivUFmdbIZ3sKwRAkcmW_K1laXIjNctb_zH9tvbowSM6UuF=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s7iNryZYzqLCFlMPC1iJOCtii1R8OBrx1Juyc5wif1LlgcBtVq0J4fwRYZ6vqHNUbeiRUzD4SM-7EXqDlbG8ocksIJ0Gk_grxSoB5MgO5oHtRKR3QmAcilXgZtmEZfbWRykEqu12rjW0Wp5hB0Ofgedi7xBkSZRdDiqxhYKrmvN8bcK_TlTaR2=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://workspace.google.com/marketplace/search/jivrus.com",
+   "text": "Jivrus Google Workspace add-ons products"
+  },
+  {
+   "href": "https://workspace.google.com/marketplace/search/jivrus",
+   "text": "Google Workspace Marketplace"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons",
+   "text": "Install and Uninstall Add-ons"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "support"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq",
+   "text": "Pricing FAQ"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Pocily"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

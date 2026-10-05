@@ -1,0 +1,1534 @@
+{
+ "route": "/about/partners",
+ "slug": "about__partners",
+ "family": "about",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Partners",
+ "description": "Together we conquer the world of opportunities",
+ "h1": "Partners",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/about/partners",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ec834a57bf4bd127.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Together we conquer the world of opportunities",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "together-we-conquer-the-world-of-opportunities"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/199e20cd83f1eb4c.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Our Strategic Business Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "our-strategic-business-partners"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ad19e6daa160589.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Our strategic partnership is a continuous effort to fusion the complementary expertise of like-minded companies and individuals to achieve value addition & customer delight.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "We work with global leaders and local strongholds on a technology and sales partnership to mutually benefit our customers.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b7533088353105d3.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Technology Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "technology-partners"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c2fb5f5398b2187a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Technology Partners are key enablers for our could platform, infrastructure etc to provide best possible quality of our products and solutions.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/149eb145673de7cb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "We are an official Google Cloud Partner.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "we-are-an-official-google-cloud-partner"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/bc18ff4efc9ca689.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "View our profile at Google Cloud Partner Network",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "view-our-profile-at-google-cloud-partner-network"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a6738d8a0106bb7b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Our Google partnership brings us the advantage of leveraging Google's resources, expertise into providing Google Workspace & Google Cloud solutions.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9af2a141bded86e.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Our products are listed on Google Workspace Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1210be67f62c10d5.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "We are a Microsoft Partner",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "we-are-a-microsoft-partner"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/6e6529dd2f9d64fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Jivrus Technologies is a member of Microsoft Partner Network and our products for Microsoft platform are listed on Microsoft AppSource",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/39c2943c6c216a30.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "And we are an Official Zoho Partner",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "and-we-are-an-official-zoho-partner"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8d580b09e7346dd7.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "View our profile at Zoho Marketplace Consultants List",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "view-our-profile-at-zoho-marketplace-consultants-list"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/088615854b288575.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Our Zoho partnership enables us build expert level extensions and customisations on Zoho products with their direct support.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d7cabac64beb3d09.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Integration Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "integration-partners"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/e5cc861ef8d9e38c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Integration Partners: Our products integrate with a lot of apps and we go for explicit integration partnership with key players to enable best integration experience for our users.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "View Integrations",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "App Marketplace Partnership with HubSpot",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "App Marketplace Partnership with Freshdesk",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "View Integrations",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "App Marketplace Partnership with Xero",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "App Marketplace Partnership with Slack",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "App Marketplace Partnership with Webex",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "App Marketplace Partnership with Zoom",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Marketing and Sales Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "marketing-and-sales-partners"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Our sales partners are local strongholds in cloud solutions, services and deployment and they play a key role in taking our products to the industry. Sales partners enjoy special offers that benefits their clients and themselves.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Sales Partnership Program",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "sales-partnership-program"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "We are actively building sales and marketing partners worldwide; and especially in the North America and Europe region.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Explore our partner program and join us as a partner.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Explore Partner Program",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Join as a Partner",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Please contact us if you have any questions on the partnership program.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Content Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "content-partners"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Partner Compliances",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72txVzSIeDM-o-yuayMmEwEbXx78-kRJVmin-2Y1liTJyUT_z_DHo1wnNe7Xu_ECntJYEfLzfjDc8PFGDCQWqXmiZZKP0TxdpXHgQMd8IHp93yTSvOX13hwfrdeWO7S8NJ7F2Rwtc7kfZNkN2nWpPveQRciWKxWYurEIOqJ3X9yjzDotiCDs9Itx=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Together we conquer the world of opportunities",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "together-we-conquer-the-world-of-opportunities"
+  },
+  {
+   "tag": "h2",
+   "text": "Our Strategic Business Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "our-strategic-business-partners"
+  },
+  {
+   "tag": "p",
+   "text": "Our strategic partnership is a continuous effort to fusion the complementary expertise of like-minded companies and individuals to achieve value addition & customer delight.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "We work with global leaders and local strongholds on a technology and sales partnership to mutually benefit our customers.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Technology Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "technology-partners"
+  },
+  {
+   "tag": "p",
+   "text": "Technology Partners are key enablers for our could platform, infrastructure etc to provide best possible quality of our products and solutions.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "We are an official Google Cloud Partner.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "we-are-an-official-google-cloud-partner"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tPW5E40VQLjRNMG-gzVImyRSSJLBJ45566jco-Lw4Rw0NRZ-BgJ38AXh_s8cGdHitkMLFoDs4lOIuExc5YAUA72_RlUfkrD6-I-8uL7P4TvTd-1_Pf_zVqag0eWMDBQOyI5pbL65JcuW5aKiuWFa0LBOof5uP_lvTmhmBBWxSFp6ZUe_ueoIjT69pdAhsj88eoNG1QeCiBWxT978FlvzTHy0cwRxDVwA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "View our profile at Google Cloud Partner Network",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "view-our-profile-at-google-cloud-partner-network"
+  },
+  {
+   "tag": "p",
+   "text": "Our Google partnership brings us the advantage of leveraging Google's resources, expertise into providing Google Workspace & Google Cloud solutions.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Our products are listed on Google Workspace Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "We are a Microsoft Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "we-are-a-microsoft-partner"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sDMyqe95u8XmD8YOn0ZoAapBroZjQBc-LxjORB6z2f47pYrus3xaM9eJvfg5DF0k4g7ZynD3JQdMGcQtZWzdjOcvU5zyBTVZlUjPym7WXoCyROqn527G0YiHn_ErViovTuGjFK7jRLoAVF7wBg7dmBTtXTgA4UqbrgzeStiwvdL-Dxj7bVYlFGokGvvzd5YNjmDYReybrWx_QFLki9U58rOgmEpol-2osA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a member of Microsoft Partner Network and our products for Microsoft platform are listed on Microsoft AppSource",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "And we are an Official Zoho Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "and-we-are-an-official-zoho-partner"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vEsLMGOp9GDDNCZPwW2zgES0nqjCHwfD6LtPaNGabJx18u5ufdAUlH7j-Ow3VX1pKuaUmuiOnAZbJ6F80IhYPFJlY-oBEFRcqN9s1DXqg6L6AneKFM1m1N3XDot4Akz-EWQ74TzZMglzAHXTzDkgNRXZ0oWbN3dMugHpdgJm6Y-Hed5S8HA98_hFXLpbEjHxsWLC_tub5_PJ0FmLrBaYgxc6n02bL_ag=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "View our profile at Zoho Marketplace Consultants List",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "view-our-profile-at-zoho-marketplace-consultants-list"
+  },
+  {
+   "tag": "p",
+   "text": "Our Zoho partnership enables us build expert level extensions and customisations on Zoho products with their direct support.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Integration Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "integration-partners"
+  },
+  {
+   "tag": "p",
+   "text": "Integration Partners: Our products integrate with a lot of apps and we go for explicit integration partnership with key players to enable best integration experience for our users.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "View Integrations",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vRmndKgKmiDX1gumeyI8lMKGeIC87wCIIz3uzwfAcU3ZC3BHZz8Ur4fuaxWMjyQvIMCIgPFZh-rryhzai-Ir2m0yj3x-QqlfNcBjs2iaswAxUHAqJLMIPqDb2dR8OehMDLmNvvGzbhHmmT_jD4XAj7TLbgSBBKhJ0AgCE6qjfT_WwruHHxw1YA_09yaq7pmox-TKbuWP3ToE-XXtrkYkmmxxM0S2uhHTTb=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "App Marketplace Partnership with HubSpot",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vVw-2ZcS3u6aEtPyMoj1EmmMxgDffruyULgzfJd4K8T-y9kIdmhf1cZx9dq_LzTxgKv6KRfxSvt2CtrpJV-mAaLYs7HIUafl6Rp0QIZbVRbnnpM8TYWbgYsf5fhrJe2czv9QqFiYvJ4V5ZrI61el-5Lm5dgM5h-8F4SLMjjnoa8xUBT_ztxte9LtqjoFk8xisNzatNlgxbGNfheYbNxeS-lkq71-akWS3r=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "App Marketplace Partnership with Freshdesk",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "View Integrations",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sfomnsZXNmLE6np7OBZAgvUgfeGu8wcO27Olcf15F_RB9epBXCveCkeYx0cdw2uzhm7zrD_r3EN7ooiFkwA_nZwhsDZENP9O6H2ZYztBM0G-c_y5bPedyxQ1Rqr-JYA3H3aYu0EOHtK4L5xfZ9Avok8nZy4MaltUMEnEiTnX-J3CSIBkIQ4rbobGYgvIEIyHJIIRDkncIrmvUBRnGuBquHbINQR0s=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "App Marketplace Partnership with Xero",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uvNEZAVUIbfsO3WUNmijZq74zQoKSSxVxuDLPn8Gd3D8hcPndb4kzNqFcP5cTaTI8pEZz0O2X7xV-ImXQapOEK0vcT17t4atMNrTmrW1A4haAzPGKxf_UliAjMrcBS-NXDbWdWUfRNVTcQDfOhq4BChL32xDx-Bp_k4sNPBoV9R_UXlqtT8pLJkeRjNBxzC-D3eoOgEW6_9149JAIWVvU791eSPhlOsg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "App Marketplace Partnership with Slack",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t5NXJAsbAI794Kw63cB4YGmMQ57bmgBhNEpZDH08ibisSx60xvPpUFipd6xpqxmyJLlHaLz7eSlmpzmuzAAnXPMuii38Mu0santLMMCZJKuVs-Fi9tJwcLHjs91nRE-zNEtpImzVU-kvpqdN3I4i5heIn78tdAGzh4iO3Rw7aey1P31ado9zbLhIjKCdL9HjR_wS1o9CRf8--25PxcR98V6cnpul3t0rgV=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "App Marketplace Partnership with Webex",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72trNUaOEYIz5zDRVXcDFoJWwZePOF0kNOaFrTTarqzK_GT_f86IeMwYnpVIT-4IgyVvJDnx2jd32DrFG9NE8EU5EKD3apPNDLGocDuQJR2MdWbrjGuwqjYbLq6XMMMuyVo4CP6t2kWc5hlchAtGBMztoGahA7uERGs7g-02P3tAfOZYIqrKVDX7cby-BtKsnYY-zA-mAPQ7fxlTkJyZJGWyM9YsjkbhJw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "App Marketplace Partnership with Zoom",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Marketing and Sales Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "marketing-and-sales-partners"
+  },
+  {
+   "tag": "p",
+   "text": "Our sales partners are local strongholds in cloud solutions, services and deployment and they play a key role in taking our products to the industry. Sales partners enjoy special offers that benefits their clients and themselves.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uHIiaRW19T-u0elcE5sMgRgK2Btw3JUv9L_lXnhSUWktIFjiS_3eNi0hQFo6JyaGLwILuN4I49p2KyKXeYVKxfj5IgCAiT_SV7IISraDEVblybgwZUVrg5Q5o4ft1Mm1XaEuaPqlYJwP-IDLaYdbSJO8SuXY_nD0AOX7yYBArCa5lASzxSFbFBAfgkNpONiQRFtbTh7Xmgawd4zI2pNW9KPr-DYARKJQE-=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Sales Partnership Program",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "sales-partnership-program"
+  },
+  {
+   "tag": "p",
+   "text": "We are actively building sales and marketing partners worldwide; and especially in the North America and Europe region.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore our partner program and join us as a partner.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore Partner Program",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Join as a Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Please contact us if you have any questions on the partnership program.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Content Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "content-partners"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vcTPMIUr0WdapPNIKT1WKfKNcC1dVpKT9JqswoUI9tcidKxswt1yc5PFM4AmTJnhzviEZnOySwpdVNIHEV1qG_7O9A4fRJLaJPobpjMz1b4HoriLykckweFJwGOgjGVYUQG2CMSzl8jv5GKXmmheE37ds-7A0gcTEzmuQfj1nClonq092TZZALv0GDMkyJ9StDcaYoouS57IZ4lNMJxCu-Fp7dZE0uIO1z=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Partner Compliances",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uyCjerJefjR6UblWwkVXk3OZoE7-1e-9-eG2j5yhGrAF8UsIZQQbmoRyemQevebdPV6zgTWSEWdCkwg40EcPA2tyKX59KQw2K3Qg19opbzkm3jC45zC8kyxK8OMB7eUWRETZtIRfcvRDF3h3J16gcZ24ivPLXHi31yZkm4qP_SDDGUjY4xHPrelVYFTNF6QKKYD4ti8s2siuM_s6WYsU1mgYsyBXsMhw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v9FTwS7xA5K2OW6-DpqRr5lIMfAnZe1ObS7EQqLOHk3or7TtFEN0WaxG2zUOOCBuGI7zi9z3eYxR_5C4xzl35gw2ATHtgghZE0MPH-18CUNn17b82NE2opl07erjmTlTOXyYAjZyxC7WY20dV-LFgaF0F_u-TDCg52NSpjz6u5oDkdUJwFN6O0oH6eMGjPnfPuQp01dyOvhhab5u-Dp2fLoOxUNECdqWhP=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s9Pxlm9hALOROy4w1vPUYRc6hc_E-4tNKyQzNQuK_278x_SSd6l6U2JbnSU8Fd0r0IBLe1L1Qc1ksWTp8sA8bJAQJidbeN3kJAKFyr6Lly7OVQRSDwJuCrTG8f6MmPH_EfhHA8RhGL2mTu5jVto_wgOqXhbHjmsXfDJnon7Q59gEoIDR63McOc=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 438,
+   "h": 219
+  },
+  {
+   "src": "/images/ec834a57bf4bd127.png",
+   "alt": "",
+   "w": 438,
+   "h": 214
+  },
+  {
+   "src": "/images/199e20cd83f1eb4c.png",
+   "alt": "",
+   "w": 438,
+   "h": 300
+  },
+  {
+   "src": "/images/2ad19e6daa160589.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 438,
+   "h": 247
+  },
+  {
+   "src": "/images/b7533088353105d3.png",
+   "alt": "",
+   "w": 438,
+   "h": 249
+  },
+  {
+   "src": "/images/c2fb5f5398b2187a.png",
+   "alt": "",
+   "w": 438,
+   "h": 249
+  },
+  {
+   "src": "/images/149eb145673de7cb.png",
+   "alt": "",
+   "w": 438,
+   "h": 249
+  },
+  {
+   "src": "/images/bc18ff4efc9ca689.png",
+   "alt": "",
+   "w": 438,
+   "h": 255
+  },
+  {
+   "src": "/images/a6738d8a0106bb7b.png",
+   "alt": "",
+   "w": 438,
+   "h": 261
+  },
+  {
+   "src": "/images/a9af2a141bded86e.png",
+   "alt": "",
+   "w": 345,
+   "h": 300
+  },
+  {
+   "src": "/images/1210be67f62c10d5.png",
+   "alt": "",
+   "w": 345,
+   "h": 300
+  },
+  {
+   "src": "/images/6e6529dd2f9d64fb.png",
+   "alt": "",
+   "w": 345,
+   "h": 300
+  },
+  {
+   "src": "/images/39c2943c6c216a30.png",
+   "alt": "",
+   "w": 345,
+   "h": 300
+  },
+  {
+   "src": "/images/8d580b09e7346dd7.png",
+   "alt": "",
+   "w": 359,
+   "h": 300
+  },
+  {
+   "src": "/images/088615854b288575.png",
+   "alt": "",
+   "w": 359,
+   "h": 300
+  },
+  {
+   "src": "/images/d7cabac64beb3d09.png",
+   "alt": "",
+   "w": 438,
+   "h": 220
+  },
+  {
+   "src": "/images/e5cc861ef8d9e38c.png",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://cloud.withgoogle.com/partners/detail/?id=jivrus-technologies&hl=en-US",
+   "text": "Google Cloud Partner Network"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/search/jivrus.com?hl=en-GB&pann=cwsdp",
+   "text": "Google Workspace Marketplace"
+  },
+  {
+   "href": "https://appsource.microsoft.com/en-gb/marketplace/apps?search=jivrus",
+   "text": "Microsoft AppSource"
+  },
+  {
+   "href": "https://marketplace.zoho.com/vendor/jivrus-technologies",
+   "text": "Zoho Marketplace Consultants List"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fcommunity.jivrus.com%2Fintegration-mastery%2Fhubspot&sa=D&sntz=1&usg=AOvVaw24P7qUiaHuCLO8mHyPuKBp",
+   "text": "View Integrations"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fcommunity.jivrus.com%2Fintegration-mastery%2Fhubspot&sa=D&sntz=1&usg=AOvVaw24P7qUiaHuCLO8mHyPuKBp",
+   "text": "View Integrations"
+  },
+  {
+   "href": "https://partner.jivrus.com/",
+   "text": "our partner program"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fpartner.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw3P-_V8KLswzrp252Evnj2I",
+   "text": "Explore Partner Program"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fpartner.jivrus.com%2Fapply&sa=D&sntz=1&usg=AOvVaw2987c-SAKrkF_VPZY6crGd",
+   "text": "Join as a Partner"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "contact us"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliances"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

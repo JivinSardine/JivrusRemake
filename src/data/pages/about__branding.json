@@ -1,0 +1,3016 @@
+{
+ "route": "/about/branding",
+ "slug": "about__branding",
+ "family": "about",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Branding",
+ "description": "Welcome to our branding kit! Our brand is an important asset and we want to ensure that it is used consistently and correctly across all channels. This branding kit provides guidelines for the use of our company logo, product logos, color palette, typography, and other design elements to maintain",
+ "h1": "Branding Kit",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/about/branding",
+ "sections": [
+  {
+   "kind": "flow",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "Company Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(255, 255, 255)",
+     "anchor": "company-logo"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h3",
+     "text": "3D Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "3d-logo"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/87c3939c8c62cbf2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/35801c8b91d56bfa.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Perfectly proportionate logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/69765b23218dfdad.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Monochrome in dark background",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/52a031cce15d8f3e.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Monochrome in light background",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h3",
+     "text": "Plain Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "plain-logo"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/48c10412297dc7c4.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Perfectly proportionate logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b5ad90f01d614919.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Monochrome in dark background",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fec2956d00417e1b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Monochrome in light background",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/be0beb4f69d42da2.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Without Jivrus text",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h3",
+     "text": "Text Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "text-logo"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/e04a16b7e2d04666.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Perfectly proportionate text logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Monochrome in dark background",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/88ed2ab74c52ffc3.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Monochrome in dark background",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "Products Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(255, 255, 255)",
+     "anchor": "products-logo"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/561bc1040130f6be.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a17a70d90a929967.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Integra for QuickBooks",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/41b73136770c5491.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Jivrus App Studio",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/e6be35b91899d3e2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/4bd6881891e0f0b3.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Download Products Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ed37a90cf13ca84d.jpg",
+     "alt": ""
+    }
+   ],
+   "copy": [
+    {
+     "tag": "p",
+     "text": "Form Presenter",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "p",
+     "text": "Form Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "p",
+     "text": "Form Builder",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "p",
+     "text": "Fillable Document",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "p",
+     "text": "Sheet Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "p",
+     "text": "Database Browser",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "p",
+     "text": "Map My Sheet",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "p",
+     "text": "Cloud Flow Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "p",
+     "text": "Looker Studio Connector",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h3",
+     "text": "Products Text Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "products-text-logo"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/25dc5987511250b9.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/cb5c6a0f63cb2aab.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f2075c4cf7ba0fc7.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ff4f9d796881e118.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d6d1e675b284e066.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/815c6ff5275e3860.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/bb5f0732eeeccbcd.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/815c6ff5275e3860.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Download Products Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "Products Banner",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(255, 255, 255)",
+     "anchor": "products-banner"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/aa79b147ef8f00b2.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b6ea90521b9ad121.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fd1d29ca97584c0a.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/14b074edcb7e1306.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/0345fa93de878855.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/0f4b650243c77c03.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/874559c1cd00d3b5.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2f69ecddf46092cb.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/aa79b147ef8f00b2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Form Builder for Docs",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b6ea90521b9ad121.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Form Builder for Sheets",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fd1d29ca97584c0a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Form Builder Plus",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ca8ef93733be3760.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b11510682748372a.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c1f6272f8f887933.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/300b5b4befb61fec.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Fillable Document for Sheets",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f67316e6e0190302.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "Colours",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(255, 255, 255)",
+     "anchor": "colours"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h3",
+     "text": "Primary Colours",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "primary-colours"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/77f891d09853aed1.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Primary Red #d01717",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/aac96cef438289ed.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "RGB(208 23 23) CMYK(12 100 100 3) PANTONE(48-16 C)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/869655bad5e73b47.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Primary Green #94bc39 RGB(148 188 57) CMYK(48 7 100 0) PANTONE(160-16 C)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f1141f3c3d1e802c.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Primary Blue #093d69 RGB(9 61 105) CMYK(100 81 34 21) PANTONE(108-15 C)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h3",
+     "text": "Light Shades",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "light-shades"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/36a36c57c0b6b7f9.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Light Red #ff6666",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/4d828742a2a6a639.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "RGB(255 102 102) CMYK(0 75 52 0) PANTONE(55-6 C)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7777a16eb533c682.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Light Green #AECE57",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/4198ebdcc9fde725.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "RGB(174 206 87) CMYK(36 2 84 0) PANTONE(157-7 C)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h3",
+     "text": "Secondary Colours",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "secondary-colours"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b04246aa172833c5.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Black #000000 RGB (0 0 0)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f63d34e6d7419cc3.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "CMYK (75 68 67 90)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "Typography",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(255, 255, 255)",
+     "anchor": "typography"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "Audiowide Audiowide is a sans serif, technology-styled, typeface composed of soft corner tubular forms. With vague nods to letter styles like that of Handel Gothic and the Converse logo, Audiowide veers off in a direction of its own for a slightly more techno-futuristic and yet cleanly readable typestyle.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "audiowide-audiowide-is-a-sans-serif-technology-styled-typeface-composed-of-soft-corner-tubular-forms-with-vague-nods-to-letter-styles-like-that-of-handel-gothic-and-the-converse-logo-audiowide-veers-off-in-a-direction-of-its-own-for-a-slightly-more-techno-futuristic-and-yet-cleanly-readable-typestyle"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "Partners Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(255, 255, 255)",
+     "anchor": "partners-logo"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Partners logo shall be used only by Jivrus authorized partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Our Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "Technology Partner Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "Integration Partner Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": [
+    {
+     "tag": "h3",
+     "text": "Powered by Logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "powered-by-logo"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Perfectly proportionate logo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Monochrome in light background",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Monochrome in dark background",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  },
+  {
+   "kind": "tiles",
+   "blocks": []
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72utEgT6d-36FV0y3OddgB7PF9wwuFx6el8hQzCknnDFLOkRURLwJc1EM_sJxvRsx_O-e90RDEtLUCHJQPet_Q0uybq3wDThVmtysWPRPUTR7h_ZFDQlYGkkBUydwTbo0zaLFNW9hQQyPOAF4RSTFpyZYKcH122CZCfEenBPMAZxcBpkl07lUiiE=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Welcome to our branding kit!",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Our brand is an important asset and we want to ensure that it is used consistently and correctly across all channels. This branding kit provides guidelines for the use of our company logo, product logos, color palette, typography, and other design elements to maintain consistency and coherence across all marketing and reference materials.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Company Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(255, 255, 255)",
+   "anchor": "company-logo"
+  },
+  {
+   "tag": "p",
+   "text": "Our logo is the visual embodiment of our brand's values, personality, and mission. It's the culmination of months of careful thought, research, and design work, aimed at creating a unique and memorable symbol that captures the essence of our company.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "3D Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "3d-logo"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u-DWCaCMlccvJ7sd8zX_Wu0RU5Ld1F2xv40BRNmS8GwKKsQJyNOxUgv_w1WaWmuS4sIxO4snSLN03VHVbK69ETUNd9VZPwbFVQxu2LbyqIEDWrQfX272ECpY0k0_iOq3iqveRoTUyRs5Mmz-kjRWlWcaVsZ7O7Ph4Wnr_X8HPA1B8DkyK8CRkD=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Perfectly proportionate logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vD62fQcyDKb1YRwtKjVNANYB8U7-1z-LrRkNdyDIIDChyykrLOaoe0MXUk-hDVVtQKZI6awBC5G1IUwo4V0ZuMc_fP-A2wmUpGUZmYoin_6ptDYmD0h06RVNzCd6CTZX7AmDjfSv3bDpqlzl4BUChit8dIKZoU0bYIt7dcECDPxx_P3AOP3g=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Monochrome in dark background",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tbElZOkDKzO5hj3Ow5PtN1awhx2faxNvxdr3otCicrZs_R_384h7qs46nTAsYzM_m2QYFVVYZv7Nk8YizI_5ObLoDucOZXfVvt_tGAIUmpynYLk_pPhvCOhyb_I6Jg2F876yPTQSxKM2-OHyRnHTI8h3mfqA-vmWl0Q3QiCxvqMSNXK_Tr_FMJ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Monochrome in light background",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t2girEgt4uJSqP7vW54oFpC2BmXnWXVcNrAX3jpNQALYFM7LwFI-aNaK4mbT87PwXMTTeEqjPerrXI6b_D3tVf-qpUibXE9YrN2kOrFfIQJKsce6Jmaef1Cj_Gw8SSAmy2_JA_ny-v_QxFMGPpLs-hN6unQQawrrKf2J9PMTqNwzJOTYByv4ah=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Without Jivrus text",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Download 3D Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h3",
+   "text": "Plain Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "plain-logo"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sICt_s-5XYp0Ni9tFZOpasTVshEXY9X4udjDCmx1NJFo59Krez9w0t1fn-niUXBMpriZTlYEQPbleYX8o_dRg-tUIims85vBkVoywl8cdvdVTwLQ9AmvXk7Q1qNDTfZJm43QT77RHl-913iXut_pDYJNXkDUQebLpVPuo2FFhTkcfncKkhDw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Perfectly proportionate logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sO6Q5PlGg8hpOiTzv9B1wl10yev_GuzZEsDGOr1syJzdZzwADi9In8ixvD43EZwN3IqFgtqXeaopv3Smk-TQzICdYhJN5JZ2lBWcW8jZXrqpnSA2aCAayOpAcWd9PTZBoXQiWgPYPc7gfLjyvmOBryqRkbpjgN6SUNRcCqdb2qzAe9TRopF2v7=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Monochrome in dark background",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tYZq6ND9nrzp1qBAksw_4Hed_AE5RtDcpEMWSYZ-EFV-zZnyeD21WMe9sARsAamuPCIzFxOPC5CKhEH25hgi4zCefUNh5cmptW3M4OjM92RzD1qeXOMf9xlI0cQ7KIBaSGTBQeuCV8dpgCJk5W7yVxQvIrdv4uZ6MgUtfF-l4tYqfcAcNn4Q=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Monochrome in light background",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uQ1oaKl9Ks4ra2YSwy2uZdShsF5XuA5QKXfbhHnf9nuL9u9tnSxibQbQgp9CUxtPj47t4GHatcCFxQsGy1hp9k4hL9jHdgTc-V00TMUuQJHLyW8BLgaJnKrVFfqDdYmCKc35-Pobu4rzpPHfPJpqZCasqDCm5BMZe1zUM0wy3H0M8PDHkLVoKE=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Without Jivrus text",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Download Plain Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h3",
+   "text": "Text Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "text-logo"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vU92qrotM-5YL7xfkvmEfQHEjEWjZSoj53hpzPv3ImFTHF89Zi_OQKaIh6wPx91rwdmjEY7tVKEVloouduGGXmkMpkea1aM_iNoaYrEkEb2syXwNN5d0Kj_qFkjJ1ARP4xG0_-se77JFOW-oPDFmZ1OV6Pu6MEIWd7yoiFi7FS1M1lJTmcamerWIic2vDXAM9Tse6FGlAH9m0w-JaEHK3xZoir0mXqzQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Perfectly proportionate text logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vvsd_9hk2Jza8ZavBtlY2R2R01dC0MHGJ9AcHY8nTs8L2ZzZkYOp6Lu4jZHb_PpjCxiTYQZilG1uYCwLMYjFSC-7HgcHeJDiYXeIyWbPhMCgYQcOlImhH5QFfEkESfluIipj8HFqnwGt1hFwhJ2BiNUURIYoBRSOeH5n7gp8rJns6JZfj5rnlr7aU30BLKnuClBF71PP-t0m4zQxra8KXZnXpd7p-gpRDq=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Monochrome in dark background",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ubBHlPAUlHu8tOSQ2B6a3Bco2z4qnkA4nKD5eKZczLX49llrSeDw0gVWP6VApq_EcHzicSQqYWuoIC5pf1Ae44wig-ApDmROA5eh5lHaGXJ6mZrVaKWZ6mPEpCD4GYKkVQ6hpvMYqwJ0Kb1Y487_sFrrcKo5LDkLDQhprs16SNk4gO7DvRAYoxmhWYBJkjr9feW8vwcYERriebIZYx_POJ3rxKcGTmFA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Monochrome in dark background",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Download Text Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Products Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(255, 255, 255)",
+   "anchor": "products-logo"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tzWDSVnXz3R8EuZVCx6_KI77lD0HbcgMk1SQklbkKKIyE9Jo7ieSk68xUrt3vSpwORSezo5vrs9BI3LHGCnCV-C46aJuimPgWMO_vBStZhXTq1IIWR5Sts0UajueXqfknHz3vzbS3dOEEUa4WEF7pIaUbJkCoo6kSHQ5MVxS2heGBsM-m0YqlX=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uNCDmtAzX6_jeCwDgBamzGjIZVa-cx0tfGWtegfDp5qZincSydfNBWbA_IBoWxusF5c2BmG2pubFgzrxe69mrgvJ5x8OBnCTP4R3Jpe6Q7EzLYAEOk6D26DOqs1TeQYpsBXrVEnGZPcOYJOGbw25eTZypMLWQ5-S7fo62DePH6V97w6xvjP71QF2FjDesPRzNtXwSygv1L27IcF4XymAP1LP1AFYhIPLVq=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uhTORTryHBcqquC5R7-8Eglt6P7Xlc72sTYNLJju_jZQekKH-65vH_smA7AHgyL55oDG8GTjB_jqhGqJI8S1WxyeXKG0Ti5p6Ci4Kdh8pZ0JyFya5jEZCtCO6kOU7A_qJzik_pnzP4-hsKyjM6rm2-k6HPoMKaEqEMe2kCqX-2lzRaFycboQp6QrVwPTIkQNvSjY6UVous4d7KiD1y5xajE_IZ0MRD9cSO=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vFjlJliHM3S1dfR1aEwyVkxl_-DwpA9fzDLbdtXID5F5Pt_V3HnIJq0VRG2kJUwYB2_Fhp_BqOagbyxXE8EgY4kQNNwNkcSRaFIYPwLsiER340WKBArhzssd6vMgYHG4aKGwqY61t3Qlp6AMeFSfPkuNNNmAcO1qV680sDU4KOMdGIQ-SRU8ub=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u_2pcV4iOp1dRhqcMI1PTfH3wsvOcqgil1aCeL8GRZn0zA1TIYExuAZpACDWGFvWz8KzA_Ux5sXMYUpF2TASZ-KLOSy4mJGwjRnK56Wr3_ss4HIZXkHkQFJ9uHWOPLe1BLaRcaUTF72XYncERoIZJuhOimse5S2DDXPPSb8fjgGpCW3iLSMjG4bHshOPrYG1v8ndQWjgPXPt0GQj4P9LGCeynYTzjCUpUf=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tWYVtvYFJRaq3ng981_gDU4j0xKV3JoqSdBm35OX0Wa29BP5BRAMQeV9Kp7B-F5gqi33qnyx58jFUyDUX6yCEwL11-Xa9v2C2IBCw5k9jD5vFql6b4VMdjNjzDWg1wmKGeyJLOv_nsHBPcZShXWLHYKmKspFQmEHugrOsrXeB8VjRmBIBb-jOXG-noDP0JjAI0E5tDoB-UCeA6ZY3JA6ZVBsRSXHQFPMFb=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tzkHlNYXz_pmV62-LZFStPovJAq0YrSIhvjgFAHnMOywoktARe63sek96giNpuWbbVKdTXZcxEG_ylgiFG1LaR0UTdnKfjQShTmXfh6iVv4a_bUJT3jCyhqZ3yd7foeZvRJn9jdx-KeX2RQqo90y_XYFnH_uEWrOaJRwZ4gXUiWh0PxlqMfIcMqLW0rfMJdL2ZBlnwCGUCfURZ2gy1opDgWzp3VD4KIA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72szX6c6LGziHv9Nge-vpbIOQpURG8xMN1IW8IsA3Nm01-QxERdpysqawzjkDxsmfutTSx5DNhhxA135lKwS7LBNRWBZBno3NKsm-bbQw2YvVI1H3WYGnZW7j6OHPFiXjtO5FbZekNh7ZKel7XSJeAsIpeZZP5RSigdVNB6RoEW1epxJddtdqg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Cloud Flow Director",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sO8nkDINwyYzV60Exac_UU9ROL5rJzt8ORrIGcTmn8Vs_E8vl8dF47y9_N67JYu4tgaN34e1p4RutCQhAi-Ve27hIy8dppVyqj9V3iY_m4txnkrHWhz78-s7_F0AW1sYFjcA9pNjFa4yiHepKNECwFo7ntCnTExBHBplmrFB2kxPiTZOXj15QP=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Integra for QuickBooks",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v9yMTfK5C2WtUuWtKw9TcK4Rgio7hu6ejdAnl9ZreIDCFCnImZWiFh-vpddwHpv69d1mpl7Vm_u7NUTOJrC7GQPf0cbzT6FeXPzpEEsGiRPY5W4vVr-F05W5Spgiq8-Aa1Zw7VlK0_qNPisZRgdS-MTz5M4As5ZBislFZwKC9z-DMb6ZeiQID-ATLNLnA895dXlCApi36Jeo5Lue-xXMTUGrObZlZ5WOpq=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus App Studio",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tbtdH4sz1ef9HpdtG2ICWT4Hgn3L3h5e47rU9FSKTWna-YIx4M1mgI7SecC1q1yWZ3RZYexYLAuy2Afy5SgwX_E0ZgviLKExKmqayYZ2svwG04a4byojLq5Y8Mq4s8cPhEmCLSVzjDiryfGVBwjSweaDS7tdWpaexH92alYJ9C_YWltKWxuwdcQ0ckYJxicZkLQIQXw6Oy1_MqA0nBgu_vo0TuKa6Ovw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vx_4BzYt6GUUuOBG9dTCF8ObwadllP_lIP9MPwua7-T3sGZg5R2i8zRXtfucC2RmdkKP454jftkUhTlM3pEOxbUt4WLXSy9o3SBHv-O5gslShN-KHdKtAAJWW9jSqTUDDaGu7lOohenA-QmBeY1jr5nz3znjVjQH0b_9tDnLGwBhq1ZEPc5ciGBReKoo_BaMG7BVGQ-BMtCIdo_PzEdYKiuxPUJecFZ33I=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Looker Studio Connector",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Download Products Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h3",
+   "text": "Products Text Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "products-text-logo"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ulYCWKk3QoORjAUT0yd44ENLNZOTWpRbSYGURuxR4Vy14VomCobJYQQkvwgrW3_DKv1UxnElM2MztfYl6eIsJ2asZGulexXskUICnf5EA427haEyE2invK9Gu0XOdrL6h3b7RD4L03LzofRhMgGRxNtcRA80W_A0u7QMupZhyTjp05lvQ7_Q=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Download Products Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Products Banner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(255, 255, 255)",
+   "anchor": "products-banner"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uWHAKSmz-WMaQMDPr3iRSz-bkGYZAii1dFrSdOTOVyRO_K6jwKDFhghsS2UjFVLRxI40KAUSqv1ssLA5HmLY-Oag61nygmvGXljabbwwRKGwT9-iygYaZ_oLQuPO0r0cbiMKN0eybClkx7_EKr4-iu91c8PfjE919wWj6MaGAW3gU5L0cRn9CU1XPLN3wJT_AS0gf9dEby6BvFBzbB2iAogNms7sAM9-jU=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tjG0DcAN-TtoH13f4q9h2a92TGIhiCw6MLSTVqQvxPs0NuVbAVXPK07X_x-ekY2l-_9zxAOUMQOgiIq_RwWJBAZqqVP-FSM2RS36M-0mMEDCG-Ty6FS3X8ZGx05QgyTZV_spCytIoNnkCkIGVHcXrWzLoHB8fDSKEOm8BiB_sObCvQKfDAlCDWlJbdmSbHJ-p3b_m3RSVPu2cLrUu3WsIoPj38lg0x5ror=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vdUYs8B4HeGcCx-EAfyceKuHDFmiSEVoAxIru-pt_w_HX2nQ_Jd98mg_Q4WZ-narui8WwsndaR9m_lQGaL9k16L6L1EJoYm52vtNL1uCwV5K4y-E5G-qiQn89Fx4piKzF0TZXMdtbcIHZpWEXfxVAfZhtpVRzfxflp7wWXeULZsUI6wEX69d1OQWQEkni6BzjCpAxJfcJXuIaoEWW0V05ut8rYQznzfw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72twuGNQjslJ8DFNwXo10Ga3bUivd4-2GP0bXIgnHsUy3ChQ3cf4c2Xts-xTsmCa0MaJIPGVtLj6ECMsYAFfzy9lIhI5QzmJ8gsleyCRDYeMToxfVt7v-xyjqwT-v-1mLi1dO31Nsl-wgl-UVTEsTOQlm3SwIrYv5vlHGKiEpvZqO_lUGzLUyrbiKm8psexAg4Tqtr5oJimYZ1l0jW7UpW70nBKExMIa6VDO=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vYdDCvOQaMixvcIpa96LM3L_HIuZcHNbw4LAOh2omHZRgCAhW-pEiY_C9Bv64P7SIq-AFRYsyhDWhUJ8XMOouJvr03n_rqmM0RjvDKh_mM7j3KjRBpR4OTb0_nbCuXmamVU2-uWC50_QjrpihrE0-pntcEUdyVgi5vZDhHiEh8jON6wXJAIDtItFvd59LprxURtLz5A_59nG7C-zT_wrwzFj4opVFrGg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s4EPiKTczMJd2ezaspBiqEO76VYX9OljjmyBcVmYHgf7CjrRT5pALvKkfXpE6j5OD-u-aarQF_bw4DiNtafoMOqfcpC_Wbe6Oj7B3xJf0MUgchKFrYS8yMufFbhxydLxyO1QHkvgPXnBoWtZfy1Y4uh-9hpKGMoBcit9_RfzAgTk5hdjCURdcq1QzXvhUGwVMPfItBHoM3BzDi4vHTLBRY8q07h-gZ1-lu=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Form Builder for Docs",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sP_LMJ3PO7f1ccDP_4hwPaK58R2xmNi6K46bEYCqeRskc5y6nADL1Io3gIhZlCiiCvOb29ItwkGTPB3n-GmyTEvhC-nWUyEQwN-MUd8DDIobiWZPCC3dH3X3e_XNbDfudCGv0trcu_FYsp8GZLJdtuP9vYA_fa4Cw31DRnPYAyurfYqVYvi3riWq-g6BlQdAouKDyXHATmPi_e2xOEmBEFmYpjQ_97D0mx=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Form Builder for Sheets",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vBnjCmttSEcIqRf_QzzM2d7xHx6oPJGx2TiGYweKYn_Nz37hVJgNU4_Dbljupy_nUgwKbjqkYakYTuQAWMIehKPVbQ8arq937u02yLfFiSGWjR-CyWSkalmFUNNXKNe_PgnhWMfx-EZg58pXk25Ya9o4sLpiRMwIjwuR6K8H8cADOyxLXxz0HHRkbB_wvArA44Q-13GCtO-vS24F0ggIKKEq4ikefp2P_X=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Form Builder Plus",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sEx9MOWE4oLWg-eiabEmQ47TibYvDS9ZIimKlY1SSnUxnI5CKOjil3hIjDZBvdvBoUax72FANL4D_UGkUTVO0rOYumAWpdIL5U_geFFk4i9KLLW6G6Vh5TbrBSgoOpLzWCO2piIVYIdN-wSzKUqg04hsplnbvK4MPhcfmUr5rIUCzq5wbtn4K1i3Q2ni4Rk_ixMHC_nh-spah-GuTHHo2vW-pOF8BatmMy=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tr8fNpr_HxccbnFn2p8ymU39-vu_0nN3vZoOje-687Ua2djsB98r7HXMWv5dFUt8eJd261etAi5vFF1FcB70LqlYC2hNQ4ejUbvBypCJVuq2Hf-XfT5LJRNIH5XtXZUeFx4q1dubZ2uMgY6hXUue_wKMt3xnWkIeQs9TxKSb0L8sDGfmxEIJqZFPgmLx5lxlq0wIpv-dSJ1WrM5qsW3ekIjOdbQ3uOtw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Fillable Document for Sheets",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vHZbPrABxZ-qpz5v7MJKliBg32_EAauf3fErEyprmrbj6V98QWwhfnCRsHllFO76j9RkVfy5rtpNaMtP8xm328MyvEymcacPfBqGEeJUK-JX5ARr8L5Y-wT_339__C4b8-zYKKIkakCNHro203BlAilu4wpD1HxUZtRB2pUL4ybZ9FbSJn3QoTT_fitW6TMzLVUyAmiZYaHlXJrLF6UCuyEk-PWl71g2BK=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Fillable Document for Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t13ZXIdVT1aH07yiump1B9LG1muMLAfWXFEAo2kaM9mfV9ufTT3LYH5Ut8Am3x9qAczIqH3_CQVureuf5ReDUfIAFML-bRynn3-aVOnN7nq2ZZhOaMB-g6wJOLQ_-cPe1Q4_8HOHClE6prlKstbS7xyqBCUXf-jKZANviyBHpND9-or2uAYjj2CJshy0QMJfgH8TtX2UcBT4x3JDk0EPYxRVa_2zBF3ZTx=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72toP--_sQRnTvbUxoH7Hci7lLCyk8XMuhRHAgboEazTMP8cIN4fHSMWm69CVgLl1sIzd3giTKytWgi9i4ugd-zdyZVYbsbaePKgXe98YTrX9-jN6OI5ahH1lLUwwpnEhAEkoHzPTeqbZDeBukCxzj-H2tBeNyuX8AeNq35PrZEWKlq66FKUbLn8Mh7_6oDlt8TZ2dXvetsSo7Q4icJBKyQq85_K07NpHZ6F=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Cloud Flow Director",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sKWBedPfXMciLv2UsBnzjDmAWjOSNau7e-D8n3PrmtMMvk_IhrE5baRs8J45F4FRtx0wZl3bj1boWTtLoHGwbx8zPxM61TW3TEEB54lIX2gBfidfXZR3vY5ho0VR-GG1-Vr_cFs9l5aBH7RHnz_4WOE072QA4L0eleMCy2W2jt79fi3KmbbUdr0VukpV9xPkqSkh2YDirsPW6ZZSMBjGozK3m_IL07Iw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus App Studio",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vSBd1BUEwWfg0sg1HENL1YDbfGYFbe1cPqxR_o7DpIy3iR4AAFpyF2LIog4OoD4YluIwH7kqpWCEPguLiPp5MeXV2YuW25SuHLdW3FyalgTgvGISXIxUsOGgY4c02j85C7h3rqaOp4zKLivNR0wnPlZgE8AEDhv-fEdQomk5NqAVtnC8DTSi2mzd2QBJUfA5sE47CnAr2xNG5EdF4ng3XNhDGtSbx8CbAf=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Integra for QuickBooks",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s1L8Mz1OfBgFxFfQLU6ilLdEDrk-AvQ97lPvTQeKF5kDtoB9qfARpJP2ExTmpMUBizc51_BtBiLbfG8eUuEbPAnwq0CjKO16VYfBJBYLboK8AyuF2LPA0hP0Hblz7Do8NtO9MCyEE_hYlRESFpGobAcV7cVPZPBzQr7ev5owkrrKFnCunIgxChpzy-xhazDaUpKuohxzw21hTyQFJBGwaoYg0fGmo6NYDH=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Download Products Banner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Colours",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(255, 255, 255)",
+   "anchor": "colours"
+  },
+  {
+   "tag": "h3",
+   "text": "Primary Colours",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "primary-colours"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tXR0Rug38BkdZcVYO0cXcLsG_XqcmmrmXWOBsFCGPsTVIOshnfqXabATS_PDzSUiE1QI6PJpT5ZoHH-LhBmMCFTDj_ytgyNnqmjjhhT43_-KCPqeg08o5Z34ailofIh2XIhTjfOKWLQYz2eMy4BZxdvNQxoxZA2t5oCt-CggCqg5-_55uUuapf=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Primary Red #d01717",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "RGB(208 23 23) CMYK(12 100 100 3) PANTONE(48-16 C)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uRscOEzUjOscef-TEi9KomG2CP00f1N0VfMQPJDgoE1HCo5H4VpDNZdD3897JxLVqT0Rb7YO0McLuVkJcoGjXvECY8BmugERiPjs_bpkLJFZleeba27kxeeoEK8VSyXDRd1CfUrmTju185j_3ig6rNdGVt2hIcjZ9IuLwtNyixk5OWzFD4ww=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Primary Green #94bc39 RGB(148 188 57) CMYK(48 7 100 0) PANTONE(160-16 C)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sIjqOXzHFi1rkEJoV2sqR9jFjz0uI7CsJLUnbWRYKCXXEMYNrqazpzerinjh9nYql2Kcwem9AdfJvfflNn8RGN8r2by00plMGOCC2DDfsg7BRsOWetXK7lqUl9So4LS8VFyLIn7489qKWYaLI59xbuTEsttmp1HLrUzEo8pjW4iapVz6uXzJjK=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Primary Blue #093d69 RGB(9 61 105) CMYK(100 81 34 21) PANTONE(108-15 C)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sfdVyQmhoYzpR6jlYMYoM4yYRVcdtOEMoAcsColxuJGb1y2YtUHh2TiAxKyR8N0meRkwm6UoJ3bXvXDGxqjm0_ReHnirchWc-zbzW-vpqFpJMeu-ghXLs0ahnMQAnPqsFOMQeYlha00QAMBGSRERA1iPLvphEGNx74YR1OyHhxUAzelJVJhyW-=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Primary Yellow #e78201 RGB(231 130 1) CMYK(57 58 100 1) PANTONE(24-8 C)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Light Shades",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "light-shades"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tGV11kWyn8dXdmXWgv3Fuk_aR9LFCIQELYY8mPvRwBEE0tmmyhdmsc7rNJ1FFYgGuF5c7I1u2UMZF6OLMs14vrl0E5I_H6JNAVybThvrZHg1QWCF6relbQ-TSmLxBZCw1tKlblm2T0JwrOPJKM18-k6UV5iERxgx2fIFc5C_8Jg0m7AKwFqArx=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Light Red #ff6666",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "RGB(255 102 102) CMYK(0 75 52 0) PANTONE(55-6 C)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vNBft58GjltamfsMnmBMUbuiv_l6b30ESfbK5ZoX2J9TqUKtR8thpjIe43Pg1CDSVjklTvo2ubz2d5vDbRDGT1YH_OiaI6j_DE28LmHFRhFmNG8hGBVkNS40bjMv3o76gpwjNnbEYOmECuYulmOYLNyI2dR89tb0IVDE-2Hsz8vPzOfYNjAqD6=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Light Green #AECE57",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "RGB(174 206 87) CMYK(36 2 84 0) PANTONE(157-7 C)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v-ZBSf9CbLHsYVPgogx7Eu64gUClxLgMOUcgQBbnzGUEfCjOp_PkfGFWklmMGSI6qqCfRwSIvQNg3wvpUKvg4TlkvDKMXNk2Y95QZXfapD8k7fcMpRzEriGIRCIYplhQqh0bL16LXcmzIk3noYn-QwG2ljQO-vfHcVE41FdPwsGhomrdiDDQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Light Blue #2388CC",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "RGB(35 136 204) CMYK(78 37 0 0) PANTONE(106-6 C)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vn-sgyr7ow4_FVQ_eJwZf9SgfKJBvFOceQFxBvl726MNXw1lNJSbuc4bG0ygaZOZN1tLYhFfHtjVkDnqZt08AJV-8IWvn2BnGu_6yVgiigkLq-bQAeqoy-aFT4VD1MS4nSbuFasKwIPuHjNX_vRLXr8Pi7OBCHhK74pbsxSwI6Qi2w_PGDoxo9=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Light Yellow #FFAA55",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "RGB(255 170 85) CMYK(0 39 74 0) PANTONE(20-6 C)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Secondary Colours",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "secondary-colours"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vDiP1TtJfYl_TmBRCmnQ6q8L6c6om2NmJzw3k34fzk189-Rsg8CCyitDu6F7LfPU_ddiRI_IkpkP2jfUd88MaJuf9bXmhYNHZqrdqeErXFAR0W4WfnJ43-INu3PPLg-o-ACKASaQz4EmldyV9Hj0z-CBKpD9lcYnqFgay6cEowKLvLrHnohoWk=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Black #000000 RGB (0 0 0)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "CMYK (75 68 67 90)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "PANTONE Black 6 C",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s7AUObR-B8pRlEHTe3GWW5Z66HBj7vuZ0peAjCfNs0aWNhGWfbHy1SekPP_Ch9JO0SnUQNIA8597oqB7-n9Hkg7XSe_r2-1IxvyKgqlTc5xmy9S_EByJLAiBbwgG36CHZ6gxH5FXpIDcFZDGJ-X9yBzvC-Hyff04QOVPxUAbGWrc1YO8Tn6H_iU6nk0YSXhekJ-b3-BnqJqo7NR7O0F2VQQzNtWaq1bFtT=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "White #FFFFFF RGB (255 255 255)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "CMYK (0 0 0 0)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "PANTONE 663 C",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Typography",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(255, 255, 255)",
+   "anchor": "typography"
+  },
+  {
+   "tag": "h2",
+   "text": "Audiowide Audiowide is a sans serif, technology-styled, typeface composed of soft corner tubular forms. With vague nods to letter styles like that of Handel Gothic and the Converse logo, Audiowide veers off in a direction of its own for a slightly more techno-futuristic and yet cleanly readable typestyle.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "audiowide-audiowide-is-a-sans-serif-technology-styled-typeface-composed-of-soft-corner-tubular-forms-with-vague-nods-to-letter-styles-like-that-of-handel-gothic-and-the-converse-logo-audiowide-veers-off-in-a-direction-of-its-own-for-a-slightly-more-techno-futuristic-and-yet-cleanly-readable-typestyle"
+  },
+  {
+   "tag": "h2",
+   "text": "Partners Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(255, 255, 255)",
+   "anchor": "partners-logo"
+  },
+  {
+   "tag": "p",
+   "text": "Partners logo shall be used only by Jivrus authorized partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Our Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sFxkSsuUr1aZ-tjVFpK6dy9NhHe7FfMm0nTp8IlowiS721RgWNIZgReAyLu-9BhIDzk3o6tT-pKrMTfpXFz5GfCcdX5Si-9nU31CudbcBs-9wjt_7y-x4uyyCcKktyzOLAlih4Of4HfLVUbGqRrLVxGEjCD3-FuufYGcL9YKPjKh32zt1MagLL1CuIXGN9_4adt8YRgqHM2iPhMtKfHL_0FXn1viD8kno7=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Technology Partner Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uIYbuhxd9VY-cEQA9dJPGfmzretjbf_RTygdJ0pzNSYfW8vNtHgctdz86X1v9UIuEYXg6WkmrHdQXuvkEW3V050Bcvcj72VYIcp735xvdYEg2MXtetazS_lJJfrPa8kd8UZ75zcOyH0KE9pg_dOvcKiHBJXXmiP6Lduo6IVoZqAEw5tvNjBvY_lWXjP8NasDaya08fcoS-vVrzmkkHwncveJ5A1K8dtg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Integration Partner Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uiKPLSAfxhxLrj4dEX2sbHFAyezjRPo-XJAanXLm3TPH6HHlzcKVgOzWX6t42Df5KArjP3fI9Xj5n8h-WbDt9UhHVTNn6AZ1Ihp4YAj0WFzp0ntUSnNNo4mUVMuVr8-HjUnmn9IJHgYUDG2xXem8bKN8s09mwVdy_wmBsOO5kqA70ZiWoxpahPzBkH2nSWGmS359u4eKYM73ODOMbpP9z99KJAb5o6-w=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Marketing and Sales Partner Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tOH_O2VE77eTdDM5clYJdZ_r9HfSzuGGdbrwdRKGugwczy6p6q-E3DS3FjRPXrAPU7ciWeFBMQSCqcc0yvlBJOOTqN_NHUIeiwN5TJEcvLzrptLaM1xKtnB3zMT2v95u3TUavVpsIgbBgo1ooYxsrmuIIADyiHlbz9Z_c7-xnjC3XE6a5YBFe0uYVtNMcZZDo2G1EJAo6IZ31em5ntvkpCr-FuVoOEEw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Content Partner Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Download Partners Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h3",
+   "text": "Powered by Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "powered-by-logo"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vWdqvwnCi7dN4OvB3LpUkvXrwTddX-G61JkKUZeVKVaD4O2z6KxxlEwlyhcY3pFNUikXsNlaB_3ifC_LyxHqWcCuLqMSAFhHaPBWVjmipU0PZnpARxWd-Qj-zJeteYRn3-S8dCG8vbbBn9ww1hOF8Ow8GynWTlwvnKWSdztMVGVA9OcmJ9VK-baYSFWZaqH0zFu3Be1oQVJqWgE1wiSnCw3CrDmCvlz_jz=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Perfectly proportionate logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vZgHkjGEnpI8MMkJ5RDHkqmUEjkLt3VZBwXgoY_f63MrDPlPfSCp7U1FErqReJ2j3dNZhzgOpfieInRMvmei9wbcKhipLpLeRYu0-k4AsZySLeDmFY81dD_NUhjruft3Yv3RdrP0Zhf1M_e1q5bKGJPdVJQzjDc4qkbdibJ7AcoW0ur1Z-AngArjKNhCvIa8pKC8RwO0fnPonxDlffY-XVAmdgd7Y=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Monochrome in light background",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sWlF4dl1UJZsqqJe2kyMq8hxY2Tml4P6vgkIKjqCyLRicy-gpjSvDZWiJTRq46W2mnVVkeW0c7X2MEEUXExxtg4w0mv41Y1u0YazQ_LHaBAmVlIkti_6iOQ3v0f7dJ3sf8GG8zBH_WFKzXTgVFq6F71RoEUjPAKL7zU2yXuhjGRqRrArJHXp-y8epAG9LF7owQ-JZYLCT3mEFE1BuCJTpnpB8Hq9YOjfnh=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Monochrome in dark background",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Download Powered by Logo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Download All Branding Kit",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s7jSuHIGWOxTWhY6M94bL-SLaBIshA_E0tH4LlWyW_L_gda8pUVD4H3mtbAxMSbzdx3mLOe6l7iEb7wb1w_ZcWV0TduEx3BcqhjF4nzgJV4NNzLGMZBV1NfkGXGGIAKXgmQvsoTHyvnBR_NoD-YcERAIfPTKLt-soHdElAFyYu0GnS2pAUD35TroKelrn3ELdMzcRGDmHMQdZU_QU2J9s4Ckf63aToVA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vpnb6AKLoH2mxwNGo7ZM43zBvi5MX-CvusygZRhwVyszaUwvWiYxeoHS0AVk7_z7lXstzxlFcrtF9IkeMLx9-JeGLgzqldSH6_Kj3Z7DpQdrxK1VszBMgwXmQB8YEOqVmHD9dYUgouJrbomlWAe-Rap4orDTHw5KoDqvQNiD2MRhYmFRfrTUdBznmXNpjYl5jMaHDqJT1-7tc0n8JF62Lb0xSfgn6oMcvm=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tGLNM8wwmuIi1irgDeUdi9kXRylP7fR58B1lqbEvqSjAvmXKUmOgxCo1O4876hIYPZE1NAyDd6xJi06bAxutwpametdeq8AjgsAvEN3UObJOvOaRokqOCan43wE8wdeGI5gb0-pGsu8D1gnO9Q7k_ScJviHD4CHed2WTQmpFx1F0ZvdKHpbevz=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/69765b23218dfdad.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/52a031cce15d8f3e.png",
+   "alt": "",
+   "w": 910,
+   "h": 90
+  },
+  {
+   "src": "/images/48c10412297dc7c4.png",
+   "alt": "",
+   "w": 366,
+   "h": 366
+  },
+  {
+   "src": "/images/b5ad90f01d614919.png",
+   "alt": "",
+   "w": 465,
+   "h": 465
+  },
+  {
+   "src": "/images/fec2956d00417e1b.png",
+   "alt": "",
+   "w": 512,
+   "h": 512
+  },
+  {
+   "src": "/images/be0beb4f69d42da2.png",
+   "alt": "",
+   "w": 565,
+   "h": 556
+  },
+  {
+   "src": "/images/e04a16b7e2d04666.png",
+   "alt": "",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/561bc1040130f6be.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/41b73136770c5491.jpg",
+   "alt": "",
+   "w": 1080,
+   "h": 1080
+  },
+  {
+   "src": "/images/e6be35b91899d3e2.jpg",
+   "alt": "",
+   "w": 1080,
+   "h": 1080
+  },
+  {
+   "src": "/images/4bd6881891e0f0b3.jpg",
+   "alt": "",
+   "w": 1080,
+   "h": 1080
+  },
+  {
+   "src": "/images/ed37a90cf13ca84d.jpg",
+   "alt": "",
+   "w": 1080,
+   "h": 1080
+  },
+  {
+   "src": "/images/815c6ff5275e3860.jpg",
+   "alt": "",
+   "w": 1080,
+   "h": 1080
+  },
+  {
+   "src": "/images/aa79b147ef8f00b2.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/b6ea90521b9ad121.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/fd1d29ca97584c0a.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/300b5b4befb61fec.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/0afe3545c14f2d42.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/db668e92d3eaf0ed.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/a08e747dfb9834df.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/2f69ecddf46092cb.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/7eedfab958263021.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/ca8ef93733be3760.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/b11510682748372a.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/77f891d09853aed1.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/aac96cef438289ed.jpg",
+   "alt": "",
+   "w": 220,
+   "h": 140
+  },
+  {
+   "src": "/images/869655bad5e73b47.jpg",
+   "alt": "",
+   "w": 220,
+   "h": 140
+  },
+  {
+   "src": "/images/b04246aa172833c5.png",
+   "alt": "",
+   "w": 1280,
+   "h": 577
+  },
+  {
+   "src": "/images/f63d34e6d7419cc3.png",
+   "alt": "",
+   "w": 1280,
+   "h": 576
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/815c6ff5275e3860.png",
+   "alt": "",
+   "w": 1080,
+   "h": 1080
+  },
+  {
+   "src": "/images/aa79b147ef8f00b2.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/b6ea90521b9ad121.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/fd1d29ca97584c0a.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/2f69ecddf46092cb.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/ca8ef93733be3760.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/b11510682748372a.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://drive.google.com/drive/folders/10_99X0wP3fj4t4IoHbbr2mN0_X2HvgUC?usp=share_link",
+   "text": "Download 3D Logo"
+  },
+  {
+   "href": "https://drive.google.com/drive/folders/1miCv3x9W04L1SCGTevPdk8LM2jhHzOGD?usp=share_link",
+   "text": "Download Plain Logo"
+  },
+  {
+   "href": "https://drive.google.com/drive/folders/1vB89nB7G75LLaBibygBedngx8vXXJg0O?usp=share_link",
+   "text": "Download Text Logo"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://cloudflow.jivrus.com/",
+   "text": "Cloud Flow Director"
+  },
+  {
+   "href": "https://quickbooks.jivrus.com/",
+   "text": "Integra for QuickBooks"
+  },
+  {
+   "href": "https://appstudio.jivrus.com/",
+   "text": "Jivrus App Studio"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://datastudio.jivrus.com/",
+   "text": "Looker Studio Connector"
+  },
+  {
+   "href": "https://drive.google.com/drive/folders/1XqxAN-5csKoyZwdFyv4-KpJwQ_OyL7f4?usp=share_link",
+   "text": "Download Products Logo"
+  },
+  {
+   "href": "https://drive.google.com/drive/folders/1XqxAN-5csKoyZwdFyv4-KpJwQ_OyL7f4?usp=share_link",
+   "text": "Download Products Logo"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Directo"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://cloudflow.jivrus.com/",
+   "text": "Cloud Flow Director"
+  },
+  {
+   "href": "https://appstudio.jivrus.com/",
+   "text": "Jivrus App Studio"
+  },
+  {
+   "href": "https://quickbooks.jivrus.com/",
+   "text": "Integra for QuickBooks"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://drive.google.com/drive/folders/1uE5x1-tEmhnByAnmMUYs8KDaXJgy3eyA?usp=share_link",
+   "text": "Download Products Banner"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fwww.jivrus.com%2Fabout%2Fpartners&sa=D&sntz=1&usg=AOvVaw18cUWjo4xmmYnTFwRzzAxH",
+   "text": "Our Partners"
+  },
+  {
+   "href": "https://drive.google.com/drive/folders/1vCdoE1hjAyPagE06PcESU1O112egjwh9?usp=share_link",
+   "text": "Download Partners Logo"
+  },
+  {
+   "href": "https://drive.google.com/drive/folders/1sDeEvqoDDWif_YPpVGUAWXqIeI7hZY2N?usp=share_link",
+   "text": "Download Powered by Logo"
+  },
+  {
+   "href": "https://drive.google.com/drive/folders/12Ebb7WvtCFc3Trkhh5CJ8zoVLKdhUG3G?usp=share_link",
+   "text": "Download All Branding Kit"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

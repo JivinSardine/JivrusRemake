@@ -1,0 +1,1540 @@
+{
+ "route": "/resources/articles/google-workspace/why-emails-are-blocked-by-gmail-and-how-to-resolve",
+ "slug": "resources__articles__google-workspace__why-emails-are-blocked-by-gmail-and-how-to-resolve",
+ "family": "resources",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Why emails are blocked by Gmail and how to resolve?",
+ "description": "Understanding the Issue",
+ "h1": "Why emails are blocked by Gmail and how to resolve?",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/articles/google-workspace/why-emails-are-blocked-by-gmail-and-how-to-resolve",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/82c4b3aef489cff9.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Understanding the Issue",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "understanding-the-issue"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Gmail has security measures in place that can block or bounce emails when they are sent using automated programs like Google Apps Script or third-party add-ons.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8db35ce0180b4a9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Context",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "context"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b7c50d233ad30994.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "When users attempt to send emails through Google Apps Script or add-ons such as Form Director, Fillable Document, Sheet Director, Database Browser and similar tools, Gmail may flag these emails as suspicious and prevent their delivery. This can happen due to various reasons, including email sending limits, spam detection algorithms, or restrictions on third-party applications.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "To help you understand why this happens and how to resolve it, we have outlined the key reasons for email blocking and possible solutions below.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "NOTE: Our addons use primarily apps script mail services to generate emails",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Explore Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "When Can Gmail Block Emails?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "when-can-gmail-block-emails"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "Emails may be blocked or bounced by Gmail for several reasons, including:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "li",
+     "text": "Google Suspects Spam or Phishing – If your email resembles spam or a phishing attempt, Gmail's security filters may block it.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Google Suspects Spam or Phishing – If your email resembles spam or a phishing attempt, Gmail's security filters may block it.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Email Content is Too Small – Emails with minimal content, such as a blank message or just a single-word subject, may be flagged as suspicious.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Email Content is Too Small – Emails with minimal content, such as a blank message or just a single-word subject, may be flagged as suspicious.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Malicious Attachments – Gmail prevents emails containing harmful files, such as .exe, .bat, .com, or any attachment that might contain malware.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Malicious Attachments – Gmail prevents emails containing harmful files, such as .exe, .bat, .com, or any attachment that might contain malware.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Incorrect Mail Records with Your Domain Registrar – If your domain's email authentication records (SPF, DKIM, and DMARC) are misconfigured or missing, Gmail may block or reject your emails.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Incorrect Mail Records with Your Domain Registrar – If your domain's email authentication records (SPF, DKIM, and DMARC) are misconfigured or missing, Gmail may block or reject your emails.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "How to Resolve Gmail Email Blocking Issues",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "how-to-resolve-gmail-email-blocking-issues"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "To resolve email blocking, first, identify the cause of the issue. Once you understand why Gmail is blocking your emails, follow the steps below to fix the problem permanently.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Correcting Invalid Mail Contents",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Correcting Invalid Mail Contents",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "correcting-invalid-mail-contents"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Ensure your email has sufficient content and does not appear blank or spam-like.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Avoid sending attachments with restricted file types such as .exe, .bat, or .com files.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Check for any potentially harmful links or misleading content that could trigger Gmail’s spam filters.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "2. Use Custom Email providers",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "2-use-custom-email-providers"
+    },
+    {
+     "tag": "p",
+     "text": "To overcome Gmail's sending limitations and enhance email deliverability, consider using custom email providers. Services like Amazon SES, Mailgun, SendGrid, and Mailchimp are designed to handle large volumes of emails efficiently. Integrating these providers can help ensure your emails reach their intended recipients without being blocked.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Our product, Form Director offers the capability to integrate with these custom email providers. This feature allows you to route your emails through these services, effectively bypassing Gmail's inherent limitations. By configuring a custom email provider within Form Director, you can send a higher volume of emails and reduce the likelihood of them being marked as spam.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Install Form Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore Custom Email Providers",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "h3",
+     "text": "3. Fixing Mail Records with Your Domain Registrar",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "3-fixing-mail-records-with-your-domain-registrar"
+    },
+    {
+     "tag": "li",
+     "text": "If you are sending emails from a custom domain, your SPF, DKIM, and DMARC records must be correctly configured with your domain registrar. These records help verify your email’s authenticity and prevent it from being flagged as spam.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "✅ SPF (Sender Policy Framework) – Specifies which mail servers are authorized to send emails on behalf of your domain. Follow this SPF setup guide to configure it correctly.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "✅ DKIM (DomainKeys Identified Mail) – Uses cryptographic signatures to verify that an email has not been tampered with. Follow this DKIM setup guide to set it up.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "✅ DMARC (Domain-based Message Authentication, Reporting & Conformance) – Ensures that SPF and DKIM align and provides instructions to email providers on how to handle unauthorized emails. Follow this DMARC setup guide to implement it.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "📌 Important Note: If you've recently updated SPF, DKIM, or DMARC records, it may take up to 24 hours for the changes to propagate across DNS servers. If your emails are still being blocked after making these updates, wait for this propagation period to complete.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Still Facing Issues?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "still-facing-issues"
+    },
+    {
+     "tag": "p",
+     "text": "If you've followed all the steps above and your emails are still bouncing or being blocked:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "🔹 Contact Google Workspace Support – They can help determine if Gmail’s security settings are flagging your emails incorrectly.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Since both Gmail and Apps Script (used in add-ons) are Google services, contacting Google Workspace Support can provide insights into why your emails are being blocked.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "They are obligated to assist with issues related to their services. Be prepared to engage in screen-sharing sessions to resolve the problem effectively.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "🔹 Reach Out to Your Domain Registrar – If your mail authentication records are not propagating properly, your domain provider can assist in verifying and troubleshooting the issue.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Your domain registrar is responsible for assisting with the correct setup of SPF, DKIM, and DMARC records. Identify your registrar (e.g., GoDaddy, Cloudflare, Google Domains) and reach out to their support team. Screen-sharing sessions may be necessary to ensure accurate configuration.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "By following these steps, you can ensure that your emails comply with Gmail’s security guidelines and reach their intended recipients successfully. 🚀",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Final Note:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Configuring DNS record is quite a challenging task. You need expertise, patience and seek out support from Google and your domain registrar. From Form Director side, we do not have much to do except to educate on what is required to be configured.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Once you have set it up SPF, DKIM, DMARC records successfully, it will be running just fine for the rest of the life of the domain. 😀",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vGzK65mp_PC-tmjckx0cLyiltiDhH2YCt7L_9AIhTUqcuyaNyW6TkZfaKRnwIDKyW6lzbpYXPTwF74zlPRJnonBB7l1mpV_rfjx25-x9_PezTJq83ekAu5EytNZ2pBOdKiu4MdOz2KBR2qfTrXYeshIyoNB9cYRNCGiMWnrzKu31oLQCjhct4u=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Understanding the Issue",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "understanding-the-issue"
+  },
+  {
+   "tag": "p",
+   "text": "Gmail has security measures in place that can block or bounce emails when they are sent using automated programs like Google Apps Script or third-party add-ons.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Context",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "context"
+  },
+  {
+   "tag": "p",
+   "text": "When users attempt to send emails through Google Apps Script or add-ons such as Form Director, Fillable Document, Sheet Director, Database Browser and similar tools, Gmail may flag these emails as suspicious and prevent their delivery. This can happen due to various reasons, including email sending limits, spam detection algorithms, or restrictions on third-party applications.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "To help you understand why this happens and how to resolve it, we have outlined the key reasons for email blocking and possible solutions below.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "NOTE: Our addons use primarily apps script mail services to generate emails",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v9k1LaLHTfTYkfYXgzkVaXj_ElQYxy4WXT4ilWcEZAcwKzAOUK8ngsNbRiV7kawrCwXc7i8bczr_qUF-ahdwnCWwwb_sTYLL6pUuERuw0zThDCE6sHCQ8xHETHLi8gAIbnzYogfyfHJVaxNKlrL3mXsy27nnIzPDirBPFN6BxyXkOm99OsaDV1=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h3",
+   "text": "When Can Gmail Block Emails?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "when-can-gmail-block-emails"
+  },
+  {
+   "tag": "p",
+   "text": "Emails may be blocked or bounced by Gmail for several reasons, including:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Google Suspects Spam or Phishing – If your email resembles spam or a phishing attempt, Gmail's security filters may block it.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Google Suspects Spam or Phishing – If your email resembles spam or a phishing attempt, Gmail's security filters may block it.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Email Content is Too Small – Emails with minimal content, such as a blank message or just a single-word subject, may be flagged as suspicious.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Email Content is Too Small – Emails with minimal content, such as a blank message or just a single-word subject, may be flagged as suspicious.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Malicious Attachments – Gmail prevents emails containing harmful files, such as .exe, .bat, .com, or any attachment that might contain malware.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Malicious Attachments – Gmail prevents emails containing harmful files, such as .exe, .bat, .com, or any attachment that might contain malware.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Incorrect Mail Records with Your Domain Registrar – If your domain's email authentication records (SPF, DKIM, and DMARC) are misconfigured or missing, Gmail may block or reject your emails.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Incorrect Mail Records with Your Domain Registrar – If your domain's email authentication records (SPF, DKIM, and DMARC) are misconfigured or missing, Gmail may block or reject your emails.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "How to Resolve Gmail Email Blocking Issues",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "how-to-resolve-gmail-email-blocking-issues"
+  },
+  {
+   "tag": "p",
+   "text": "To resolve email blocking, first, identify the cause of the issue. Once you understand why Gmail is blocking your emails, follow the steps below to fix the problem permanently.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Correcting Invalid Mail Contents",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h3",
+   "text": "Correcting Invalid Mail Contents",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "correcting-invalid-mail-contents"
+  },
+  {
+   "tag": "li",
+   "text": "Ensure your email has sufficient content and does not appear blank or spam-like.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Ensure your email has sufficient content and does not appear blank or spam-like.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Avoid sending attachments with restricted file types such as .exe, .bat, or .com files.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Avoid sending attachments with restricted file types such as .exe, .bat, or .com files.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Check for any potentially harmful links or misleading content that could trigger Gmail’s spam filters.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Check for any potentially harmful links or misleading content that could trigger Gmail’s spam filters.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "2. Use Custom Email providers",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "2-use-custom-email-providers"
+  },
+  {
+   "tag": "p",
+   "text": "To overcome Gmail's sending limitations and enhance email deliverability, consider using custom email providers. Services like Amazon SES, Mailgun, SendGrid, and Mailchimp are designed to handle large volumes of emails efficiently. Integrating these providers can help ensure your emails reach their intended recipients without being blocked.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Our product, Form Director offers the capability to integrate with these custom email providers. This feature allows you to route your emails through these services, effectively bypassing Gmail's inherent limitations. By configuring a custom email provider within Form Director, you can send a higher volume of emails and reduce the likelihood of them being marked as spam.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Install Form Director",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore Custom Email Providers",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h3",
+   "text": "3. Fixing Mail Records with Your Domain Registrar",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "3-fixing-mail-records-with-your-domain-registrar"
+  },
+  {
+   "tag": "li",
+   "text": "If you are sending emails from a custom domain, your SPF, DKIM, and DMARC records must be correctly configured with your domain registrar. These records help verify your email’s authenticity and prevent it from being flagged as spam.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "If you are sending emails from a custom domain, your SPF, DKIM, and DMARC records must be correctly configured with your domain registrar. These records help verify your email’s authenticity and prevent it from being flagged as spam.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "✅ SPF (Sender Policy Framework) – Specifies which mail servers are authorized to send emails on behalf of your domain. Follow this SPF setup guide to configure it correctly.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "✅ SPF (Sender Policy Framework) – Specifies which mail servers are authorized to send emails on behalf of your domain. Follow this SPF setup guide to configure it correctly.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "✅ DKIM (DomainKeys Identified Mail) – Uses cryptographic signatures to verify that an email has not been tampered with. Follow this DKIM setup guide to set it up.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "✅ DKIM (DomainKeys Identified Mail) – Uses cryptographic signatures to verify that an email has not been tampered with. Follow this DKIM setup guide to set it up.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "✅ DMARC (Domain-based Message Authentication, Reporting & Conformance) – Ensures that SPF and DKIM align and provides instructions to email providers on how to handle unauthorized emails. Follow this DMARC setup guide to implement it.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "✅ DMARC (Domain-based Message Authentication, Reporting & Conformance) – Ensures that SPF and DKIM align and provides instructions to email providers on how to handle unauthorized emails. Follow this DMARC setup guide to implement it.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "📌 Important Note: If you've recently updated SPF, DKIM, or DMARC records, it may take up to 24 hours for the changes to propagate across DNS servers. If your emails are still being blocked after making these updates, wait for this propagation period to complete.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Still Facing Issues?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "still-facing-issues"
+  },
+  {
+   "tag": "p",
+   "text": "If you've followed all the steps above and your emails are still bouncing or being blocked:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "🔹 Contact Google Workspace Support – They can help determine if Gmail’s security settings are flagging your emails incorrectly.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Since both Gmail and Apps Script (used in add-ons) are Google services, contacting Google Workspace Support can provide insights into why your emails are being blocked.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "They are obligated to assist with issues related to their services. Be prepared to engage in screen-sharing sessions to resolve the problem effectively.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "🔹 Reach Out to Your Domain Registrar – If your mail authentication records are not propagating properly, your domain provider can assist in verifying and troubleshooting the issue.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Your domain registrar is responsible for assisting with the correct setup of SPF, DKIM, and DMARC records. Identify your registrar (e.g., GoDaddy, Cloudflare, Google Domains) and reach out to their support team. Screen-sharing sessions may be necessary to ensure accurate configuration.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "By following these steps, you can ensure that your emails comply with Gmail’s security guidelines and reach their intended recipients successfully. 🚀",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Final Note:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Configuring DNS record is quite a challenging task. You need expertise, patience and seek out support from Google and your domain registrar. From Form Director side, we do not have much to do except to educate on what is required to be configured.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Once you have set it up SPF, DKIM, DMARC records successfully, it will be running just fine for the rest of the life of the domain. 😀",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sIfndfr71fBXAtBhBwJKJ0-HQ42aUZZxCtpRuzunaFAa75M3mvsArwAvR7b8w7kD3W1fUKp2ZmC_F07ve4k5uCCFO9N1pUHoGmHhAqK70moWwdHN1boWehiDHJYrh1r4XWrL9yrrHYsKaA7c7YXVIljHnNdzO9Cxm4LvAs4_T0f5KaD_YKl1-HpbmQYtiLmXpR-SusY63txrgIvFFD7nLyMqAKYfxB9w=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uy2Ems4tQut6f6K-K5N5NAyKH3puts7-PdAcL9OGzKn4XLo2bQWqfqJwLWvRGdnAhB2TKROgoHtwTaS0juXmtBq9_kufWjA1U-fJ1lhnOgdjxfC8GpZBnwnHvPGMtQbOXOjEtsavp5UA0l9bzps6gGoZBgj9JrTwBPEEkks56DvWcE_Sv1Vqd4Gcrq-tOeqAE0UwqxpQDetvJkeL0xmR-mdCDTPUQC9yyG=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72slgNB0jevukmhB7CqF_mV5u-kZHo1Aw2U-thgUJwf94RPjf0w4m2BX5PQWCcUwHFZpoECLf94ndyNWPId7vRPbZ4fNsYQPGPPXCoauQAPR0OL8YKxoCdzeD-LS1EFLYA3MJfQtEvXDFkumrTWWqAZ5HWPm8_BtOUPUoQeDExyKES8ktjuNWVNN=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/82c4b3aef489cff9.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/8db35ce0180b4a9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/b7c50d233ad30994.png",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://workspace.google.com/marketplace/search/jivrus.com",
+   "text": "Explore Marketplace"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/features/notification/custom-email-providers",
+   "text": "custom email provider"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://workspace.google.com/marketplace/app/form_director/824044380012?flow_type=2",
+   "text": "Install Form Director"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fformdirector.jivrus.com%2Ffeatures%2Fnotification%2Fcustom-email-providers&sa=D&sntz=1&usg=AOvVaw2gvpLce9O3-4Sp2rGiwZEf",
+   "text": "Explore Custom Email Providers"
+  },
+  {
+   "href": "https://support.google.com/a/answer/33786?hl=en",
+   "text": "SPF setup guide"
+  },
+  {
+   "href": "https://support.google.com/a/answer/174124?hl=en",
+   "text": "DKIM setup guide"
+  },
+  {
+   "href": "https://support.google.com/a/answer/2466580?hl=en",
+   "text": "DMARC setup guide"
+  },
+  {
+   "href": "https://support.google.com/a/answer/6596?hl=en",
+   "text": "Google Workspace Support"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

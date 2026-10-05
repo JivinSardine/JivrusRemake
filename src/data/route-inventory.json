@@ -1,0 +1,856 @@
+{
+ "source": "https://www.jivrus.com",
+ "crawledRoutes": 93,
+ "convertedRoutes": 93,
+ "skipped": [],
+ "families": {
+  "home": 2,
+  "about": 22,
+  "customers": 1,
+  "legal": 15,
+  "offers": 1,
+  "products": 1,
+  "professional-services": 1,
+  "resources": 40,
+  "support": 10
+ },
+ "routes": [
+  {
+   "route": "/",
+   "slug": "root",
+   "family": "home",
+   "blocks": 119,
+   "images": 56,
+   "links": 80,
+   "implemented": true
+  },
+  {
+   "route": "/about",
+   "slug": "about",
+   "family": "about",
+   "blocks": 30,
+   "images": 26,
+   "links": 49,
+   "implemented": true
+  },
+  {
+   "route": "/about/apply-online",
+   "slug": "about__apply-online",
+   "family": "about",
+   "blocks": 16,
+   "images": 20,
+   "links": 49,
+   "implemented": true
+  },
+  {
+   "route": "/about/branding",
+   "slug": "about__branding",
+   "family": "about",
+   "blocks": 141,
+   "images": 84,
+   "links": 77,
+   "implemented": true
+  },
+  {
+   "route": "/about/careers",
+   "slug": "about__careers",
+   "family": "about",
+   "blocks": 41,
+   "images": 27,
+   "links": 56,
+   "implemented": true
+  },
+  {
+   "route": "/about/company",
+   "slug": "about__company",
+   "family": "about",
+   "blocks": 71,
+   "images": 24,
+   "links": 48,
+   "implemented": true
+  },
+  {
+   "route": "/about/contact-sales",
+   "slug": "about__contact-sales",
+   "family": "about",
+   "blocks": 8,
+   "images": 20,
+   "links": 44,
+   "implemented": true
+  },
+  {
+   "route": "/about/contact-us",
+   "slug": "about__contact-us",
+   "family": "about",
+   "blocks": 32,
+   "images": 22,
+   "links": 57,
+   "implemented": true
+  },
+  {
+   "route": "/about/culture",
+   "slug": "about__culture",
+   "family": "about",
+   "blocks": 13,
+   "images": 22,
+   "links": 48,
+   "implemented": true
+  },
+  {
+   "route": "/about/internship",
+   "slug": "about__internship",
+   "family": "about",
+   "blocks": 75,
+   "images": 25,
+   "links": 53,
+   "implemented": true
+  },
+  {
+   "route": "/about/internship/short-term-internship",
+   "slug": "about__internship__short-term-internship",
+   "family": "about",
+   "blocks": 246,
+   "images": 20,
+   "links": 66,
+   "implemented": true
+  },
+  {
+   "route": "/about/internship/short-term-internship/ai-automation-engineer-internship",
+   "slug": "about__internship__short-term-internship__ai-automation-engineer-internship",
+   "family": "about",
+   "blocks": 113,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/about/internship/short-term-internship/business-insights-with-lsc-internship",
+   "slug": "about__internship__short-term-internship__business-insights-with-lsc-internship",
+   "family": "about",
+   "blocks": 118,
+   "images": 20,
+   "links": 50,
+   "implemented": true
+  },
+  {
+   "route": "/about/internship/short-term-internship/cyber-security-internship",
+   "slug": "about__internship__short-term-internship__cyber-security-internship",
+   "family": "about",
+   "blocks": 141,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/about/internship/short-term-internship/graphics-designer-internship",
+   "slug": "about__internship__short-term-internship__graphics-designer-internship",
+   "family": "about",
+   "blocks": 88,
+   "images": 20,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/about/internship/short-term-internship/integration-developer-internship",
+   "slug": "about__internship__short-term-internship__integration-developer-internship",
+   "family": "about",
+   "blocks": 95,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/about/internship/short-term-internship/marketing-internship",
+   "slug": "about__internship__short-term-internship__marketing-internship",
+   "family": "about",
+   "blocks": 100,
+   "images": 20,
+   "links": 50,
+   "implemented": true
+  },
+  {
+   "route": "/about/internship/short-term-internship/sales-internship",
+   "slug": "about__internship__short-term-internship__sales-internship",
+   "family": "about",
+   "blocks": 90,
+   "images": 20,
+   "links": 49,
+   "implemented": true
+  },
+  {
+   "route": "/about/internship/short-term-internship/software-testing-internship",
+   "slug": "about__internship__short-term-internship__software-testing-internship",
+   "family": "about",
+   "blocks": 76,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/about/our-history",
+   "slug": "about__our-history",
+   "family": "about",
+   "blocks": 69,
+   "images": 33,
+   "links": 62,
+   "implemented": true
+  },
+  {
+   "route": "/about/partners",
+   "slug": "about__partners",
+   "family": "about",
+   "blocks": 52,
+   "images": 37,
+   "links": 55,
+   "implemented": true
+  },
+  {
+   "route": "/about/team",
+   "slug": "about__team",
+   "family": "about",
+   "blocks": 52,
+   "images": 33,
+   "links": 49,
+   "implemented": true
+  },
+  {
+   "route": "/about/team/michaes",
+   "slug": "about__team__michaes",
+   "family": "about",
+   "blocks": 56,
+   "images": 21,
+   "links": 51,
+   "implemented": true
+  },
+  {
+   "route": "/customers",
+   "slug": "customers",
+   "family": "customers",
+   "blocks": 56,
+   "images": 36,
+   "links": 60,
+   "implemented": true
+  },
+  {
+   "route": "/home",
+   "slug": "home",
+   "family": "home",
+   "blocks": 119,
+   "images": 56,
+   "links": 80,
+   "implemented": true
+  },
+  {
+   "route": "/legal",
+   "slug": "legal",
+   "family": "legal",
+   "blocks": 10,
+   "images": 20,
+   "links": 50,
+   "implemented": true
+  },
+  {
+   "route": "/legal/compliance",
+   "slug": "legal__compliance",
+   "family": "legal",
+   "blocks": 16,
+   "images": 24,
+   "links": 53,
+   "implemented": true
+  },
+  {
+   "route": "/legal/compliance/baa",
+   "slug": "legal__compliance__baa",
+   "family": "legal",
+   "blocks": 10,
+   "images": 20,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/legal/compliance/hipaa-compliance",
+   "slug": "legal__compliance__hipaa-compliance",
+   "family": "legal",
+   "blocks": 28,
+   "images": 20,
+   "links": 48,
+   "implemented": true
+  },
+  {
+   "route": "/legal/compliance/partner-compliance",
+   "slug": "legal__compliance__partner-compliance",
+   "family": "legal",
+   "blocks": 59,
+   "images": 20,
+   "links": 46,
+   "implemented": true
+  },
+  {
+   "route": "/legal/compliance/student-privacy-policy",
+   "slug": "legal__compliance__student-privacy-policy",
+   "family": "legal",
+   "blocks": 27,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/legal/gdpr",
+   "slug": "legal__gdpr",
+   "family": "legal",
+   "blocks": 27,
+   "images": 20,
+   "links": 46,
+   "implemented": true
+  },
+  {
+   "route": "/legal/privacy-policy",
+   "slug": "legal__privacy-policy",
+   "family": "legal",
+   "blocks": 77,
+   "images": 20,
+   "links": 49,
+   "implemented": true
+  },
+  {
+   "route": "/legal/safety",
+   "slug": "legal__safety",
+   "family": "legal",
+   "blocks": 29,
+   "images": 20,
+   "links": 48,
+   "implemented": true
+  },
+  {
+   "route": "/legal/security-policies",
+   "slug": "legal__security-policies",
+   "family": "legal",
+   "blocks": 9,
+   "images": 20,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/legal/security-policies/data-policy",
+   "slug": "legal__security-policies__data-policy",
+   "family": "legal",
+   "blocks": 75,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/legal/security-policies/security-policy",
+   "slug": "legal__security-policies__security-policy",
+   "family": "legal",
+   "blocks": 46,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/legal/security-policies/vulnerability-management-policy",
+   "slug": "legal__security-policies__vulnerability-management-policy",
+   "family": "legal",
+   "blocks": 33,
+   "images": 20,
+   "links": 48,
+   "implemented": true
+  },
+  {
+   "route": "/legal/support-policy",
+   "slug": "legal__support-policy",
+   "family": "legal",
+   "blocks": 29,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/legal/terms-and-conditions",
+   "slug": "legal__terms-and-conditions",
+   "family": "legal",
+   "blocks": 36,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/offers",
+   "slug": "offers",
+   "family": "offers",
+   "blocks": 46,
+   "images": 20,
+   "links": 50,
+   "implemented": true
+  },
+  {
+   "route": "/products",
+   "slug": "products",
+   "family": "products",
+   "blocks": 216,
+   "images": 53,
+   "links": 175,
+   "implemented": true
+  },
+  {
+   "route": "/professional-services",
+   "slug": "professional-services",
+   "family": "professional-services",
+   "blocks": 83,
+   "images": 20,
+   "links": 46,
+   "implemented": true
+  },
+  {
+   "route": "/resources",
+   "slug": "resources",
+   "family": "resources",
+   "blocks": 13,
+   "images": 25,
+   "links": 49,
+   "implemented": true
+  },
+  {
+   "route": "/resources/academy",
+   "slug": "resources__academy",
+   "family": "resources",
+   "blocks": 8,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles",
+   "slug": "resources__articles",
+   "family": "resources",
+   "blocks": 14,
+   "images": 23,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/artificial-intelligence",
+   "slug": "resources__articles__artificial-intelligence",
+   "family": "resources",
+   "blocks": 29,
+   "images": 24,
+   "links": 49,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/artificial-intelligence/claude-by-anthropic",
+   "slug": "resources__articles__artificial-intelligence__claude-by-anthropic",
+   "family": "resources",
+   "blocks": 28,
+   "images": 24,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/artificial-intelligence/google-gemini",
+   "slug": "resources__articles__artificial-intelligence__google-gemini",
+   "family": "resources",
+   "blocks": 26,
+   "images": 24,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/artificial-intelligence/groq",
+   "slug": "resources__articles__artificial-intelligence__groq",
+   "family": "resources",
+   "blocks": 21,
+   "images": 22,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/artificial-intelligence/mistral-ai",
+   "slug": "resources__articles__artificial-intelligence__mistral-ai",
+   "family": "resources",
+   "blocks": 21,
+   "images": 21,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/artificial-intelligence/open-ai",
+   "slug": "resources__articles__artificial-intelligence__open-ai",
+   "family": "resources",
+   "blocks": 22,
+   "images": 19,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/google-workspace",
+   "slug": "resources__articles__google-workspace",
+   "family": "resources",
+   "blocks": 35,
+   "images": 25,
+   "links": 58,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/google-workspace/add-ons-faq",
+   "slug": "resources__articles__google-workspace__add-ons-faq",
+   "family": "resources",
+   "blocks": 62,
+   "images": 19,
+   "links": 51,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/google-workspace/do-i-need-a-google-account-to-use-jivrus-products",
+   "slug": "resources__articles__google-workspace__do-i-need-a-google-account-to-use-jivrus-products",
+   "family": "resources",
+   "blocks": 88,
+   "images": 20,
+   "links": 46,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/google-workspace/how-to-rate-and-comment-google-workspace-marketplace",
+   "slug": "resources__articles__google-workspace__how-to-rate-and-comment-google-workspace-marketplace",
+   "family": "resources",
+   "blocks": 49,
+   "images": 23,
+   "links": 60,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/google-workspace/install-and-uninstall-add-ons",
+   "slug": "resources__articles__google-workspace__install-and-uninstall-add-ons",
+   "family": "resources",
+   "blocks": 115,
+   "images": 38,
+   "links": 60,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/google-workspace/referral-programme",
+   "slug": "resources__articles__google-workspace__referral-programme",
+   "family": "resources",
+   "blocks": 15,
+   "images": 20,
+   "links": 44,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/google-workspace/whitelisting-google-workspace-apps",
+   "slug": "resources__articles__google-workspace__whitelisting-google-workspace-apps",
+   "family": "resources",
+   "blocks": 20,
+   "images": 22,
+   "links": 46,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/google-workspace/why-emails-are-blocked-by-gmail-and-how-to-resolve",
+   "slug": "resources__articles__google-workspace__why-emails-are-blocked-by-gmail-and-how-to-resolve",
+   "family": "resources",
+   "blocks": 60,
+   "images": 24,
+   "links": 58,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/small-business",
+   "slug": "resources__articles__small-business",
+   "family": "resources",
+   "blocks": 64,
+   "images": 20,
+   "links": 46,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/small-business/domain-registration",
+   "slug": "resources__articles__small-business__domain-registration",
+   "family": "resources",
+   "blocks": 58,
+   "images": 25,
+   "links": 52,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/small-business/finance",
+   "slug": "resources__articles__small-business__finance",
+   "family": "resources",
+   "blocks": 45,
+   "images": 20,
+   "links": 56,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/small-business/forming-team",
+   "slug": "resources__articles__small-business__forming-team",
+   "family": "resources",
+   "blocks": 38,
+   "images": 20,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/small-business/office-solution",
+   "slug": "resources__articles__small-business__office-solution",
+   "family": "resources",
+   "blocks": 98,
+   "images": 37,
+   "links": 50,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/small-business/toolkit-home",
+   "slug": "resources__articles__small-business__toolkit-home",
+   "family": "resources",
+   "blocks": 47,
+   "images": 20,
+   "links": 49,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/technical",
+   "slug": "resources__articles__technical",
+   "family": "resources",
+   "blocks": 19,
+   "images": 23,
+   "links": 50,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/technical/how-ai-providers-are-calculating-charges",
+   "slug": "resources__articles__technical__how-ai-providers-are-calculating-charges",
+   "family": "resources",
+   "blocks": 112,
+   "images": 20,
+   "links": 49,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/technical/how-to-enabledisable-cookies-in-your-browser",
+   "slug": "resources__articles__technical__how-to-enabledisable-cookies-in-your-browser",
+   "family": "resources",
+   "blocks": 90,
+   "images": 20,
+   "links": 46,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/technical/how-to-open-browser-console-log",
+   "slug": "resources__articles__technical__how-to-open-browser-console-log",
+   "family": "resources",
+   "blocks": 189,
+   "images": 19,
+   "links": 44,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/technical/site-took-too-long-to-respond",
+   "slug": "resources__articles__technical__site-took-too-long-to-respond",
+   "family": "resources",
+   "blocks": 91,
+   "images": 20,
+   "links": 44,
+   "implemented": true
+  },
+  {
+   "route": "/resources/articles/technical/untold-tales-of-angular-seo-dynamic-tags-canonical-url-etc",
+   "slug": "resources__articles__technical__untold-tales-of-angular-seo-dynamic-tags-canonical-url-etc",
+   "family": "resources",
+   "blocks": 73,
+   "images": 23,
+   "links": 53,
+   "implemented": true
+  },
+  {
+   "route": "/resources/community",
+   "slug": "resources__community",
+   "family": "resources",
+   "blocks": 8,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/resources/guides",
+   "slug": "resources__guides",
+   "family": "resources",
+   "blocks": 11,
+   "images": 20,
+   "links": 48,
+   "implemented": true
+  },
+  {
+   "route": "/resources/guides/advertisement",
+   "slug": "resources__guides__advertisement",
+   "family": "resources",
+   "blocks": 19,
+   "images": 20,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/resources/guides/corona",
+   "slug": "resources__guides__corona",
+   "family": "resources",
+   "blocks": 23,
+   "images": 21,
+   "links": 50,
+   "implemented": true
+  },
+  {
+   "route": "/resources/guides/corona/little-contribution",
+   "slug": "resources__guides__corona__little-contribution",
+   "family": "resources",
+   "blocks": 11,
+   "images": 20,
+   "links": 49,
+   "implemented": true
+  },
+  {
+   "route": "/resources/guides/corona/use-cases",
+   "slug": "resources__guides__corona__use-cases",
+   "family": "resources",
+   "blocks": 26,
+   "images": 20,
+   "links": 47,
+   "implemented": true
+  },
+  {
+   "route": "/resources/guides/manual-invoice-process",
+   "slug": "resources__guides__manual-invoice-process",
+   "family": "resources",
+   "blocks": 26,
+   "images": 21,
+   "links": 46,
+   "implemented": true
+  },
+  {
+   "route": "/resources/guides/pricing-faq",
+   "slug": "resources__guides__pricing-faq",
+   "family": "resources",
+   "blocks": 315,
+   "images": 45,
+   "links": 142,
+   "implemented": true
+  },
+  {
+   "route": "/resources/guides/product-versioning",
+   "slug": "resources__guides__product-versioning",
+   "family": "resources",
+   "blocks": 37,
+   "images": 20,
+   "links": 44,
+   "implemented": true
+  },
+  {
+   "route": "/resources/templates",
+   "slug": "resources__templates",
+   "family": "resources",
+   "blocks": 32,
+   "images": 20,
+   "links": 45,
+   "implemented": true
+  },
+  {
+   "route": "/resources/templates/crm-template",
+   "slug": "resources__templates__crm-template",
+   "family": "resources",
+   "blocks": 125,
+   "images": 20,
+   "links": 50,
+   "implemented": true
+  },
+  {
+   "route": "/support",
+   "slug": "support",
+   "family": "support",
+   "blocks": 44,
+   "images": 28,
+   "links": 53,
+   "implemented": true
+  },
+  {
+   "route": "/support/book-a-meeting",
+   "slug": "support__book-a-meeting",
+   "family": "support",
+   "blocks": 30,
+   "images": 20,
+   "links": 51,
+   "implemented": true
+  },
+  {
+   "route": "/support/contact-sales",
+   "slug": "support__contact-sales",
+   "family": "support",
+   "blocks": 27,
+   "images": 20,
+   "links": 51,
+   "implemented": true
+  },
+  {
+   "route": "/support/contact-us",
+   "slug": "support__contact-us",
+   "family": "support",
+   "blocks": 35,
+   "images": 25,
+   "links": 55,
+   "implemented": true
+  },
+  {
+   "route": "/support/faq",
+   "slug": "support__faq",
+   "family": "support",
+   "blocks": 18,
+   "images": 22,
+   "links": 53,
+   "implemented": true
+  },
+  {
+   "route": "/support/feature-request",
+   "slug": "support__feature-request",
+   "family": "support",
+   "blocks": 18,
+   "images": 20,
+   "links": 52,
+   "implemented": true
+  },
+  {
+   "route": "/support/feedback",
+   "slug": "support__feedback",
+   "family": "support",
+   "blocks": 17,
+   "images": 20,
+   "links": 51,
+   "implemented": true
+  },
+  {
+   "route": "/support/schedule-a-demo",
+   "slug": "support__schedule-a-demo",
+   "family": "support",
+   "blocks": 32,
+   "images": 22,
+   "links": 54,
+   "implemented": true
+  },
+  {
+   "route": "/support/support-categories",
+   "slug": "support__support-categories",
+   "family": "support",
+   "blocks": 55,
+   "images": 22,
+   "links": 51,
+   "implemented": true
+  },
+  {
+   "route": "/support/support-request",
+   "slug": "support__support-request",
+   "family": "support",
+   "blocks": 20,
+   "images": 20,
+   "links": 52,
+   "implemented": true
+  }
+ ]
+}

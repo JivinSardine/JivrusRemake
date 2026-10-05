@@ -1,0 +1,888 @@
+{
+ "route": "/resources/articles/artificial-intelligence/google-gemini",
+ "slug": "resources__articles__artificial-intelligence__google-gemini",
+ "family": "resources",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Google Gemini",
+ "description": "\"Google Gemini ecosystem spearheads AI innovation, driving progress for the betterment of humanity.\"",
+ "h1": "Google Gemini",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/articles/artificial-intelligence/google-gemini",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fe928b9749739206.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "\"Google Gemini ecosystem spearheads AI innovation, driving progress for the betterment of humanity.\"",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "google-gemini-ecosystem-spearheads-ai-innovation-driving-progress-for-the-betterment-of-humanity"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/3fa9c418ed07265d.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "The Gemini ecosystem is an innovative platform developed by Google, boasting cutting-edge AI capabilities tailored for handling various types of data. Unlike traditional models that specialize in one modality, Gemini models are uniquely designed to seamlessly reason across multiple modalities, including text, images, audio, video, and even code. This multimodal approach enables Gemini to tackle a wide range of tasks and applications, making it a versatile tool for addressing complex challenges in fields such as natural language processing, computer vision, audio analysis, and more. With its robust architecture and extensive capabilities, Gemini represents a significant advancement in AI technology, offering unprecedented flexibility and performance for diverse use cases.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/5e47b54e915f29b0.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "How to get the API Key of Google Gemini",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "how-to-get-the-api-key-of-google-gemini"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d58a53ba7002f898.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "To set up a Google Gemini connection, you need to register the secret key from Gemini.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Register or log in with the Google Gemini Platform.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Register or log in with the Google Gemini Platform.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "On the left of the sidebar, click on the Get API key.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "On the left of the sidebar, click on the Get API key.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/bc70fc391af99e6e.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "li",
+     "text": "Click on Create API Key to generate the key.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8233d563de82b225.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "Click on Create API Key to generate the key.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Create an API key or use an existing key.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/64044cc1641bf475.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Create an API key or use an existing key.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Provide this API key in the required input and connect.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Provide this API key in the required input and connect.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Cost Calculation",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Explore more on Artificial Intelligence",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vTBWsrcmjr8D4O1KWmGYjL-p-Yyc8LvEgD92Hc3YdRSC-aS0Tz95xdEUKRbY8Zq2BWbr4z3QejweFINjCLfTORvCJFrVoBzJbcG6fDyIQJw99K4_l_Rvfx3DiIKHMKMs3UW27esjhODX0G3ArOwyy_uG-oXohlQ3kcBOBEp3AKlUpxYib1QRVg=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "\"Google Gemini ecosystem spearheads AI innovation, driving progress for the betterment of humanity.\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "google-gemini-ecosystem-spearheads-ai-innovation-driving-progress-for-the-betterment-of-humanity"
+  },
+  {
+   "tag": "p",
+   "text": "The Gemini ecosystem is an innovative platform developed by Google, boasting cutting-edge AI capabilities tailored for handling various types of data. Unlike traditional models that specialize in one modality, Gemini models are uniquely designed to seamlessly reason across multiple modalities, including text, images, audio, video, and even code. This multimodal approach enables Gemini to tackle a wide range of tasks and applications, making it a versatile tool for addressing complex challenges in fields such as natural language processing, computer vision, audio analysis, and more. With its robust architecture and extensive capabilities, Gemini represents a significant advancement in AI technology, offering unprecedented flexibility and performance for diverse use cases.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "How to get the API Key of Google Gemini",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "how-to-get-the-api-key-of-google-gemini"
+  },
+  {
+   "tag": "p",
+   "text": "To set up a Google Gemini connection, you need to register the secret key from Gemini.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Register or log in with the Google Gemini Platform.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Register or log in with the Google Gemini Platform.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "On the left of the sidebar, click on the Get API key.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "On the left of the sidebar, click on the Get API key.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tR0hRvDgzH_UVh6S6wLQPnXjuXlk6UiKTvASu868YL6jTcs5WKM5ll9-LEhsYoCXm4vB3QCRPk3eUJOh40V85VoCXRQ_J74DmEyHYJeUI32wS-j0xiOxAPFDzV7D3hrWxwEU4J4JNLtPitMDcoRufuMI_uiEZbV4Zv9Kqrhdhbc80E1KRVTf5ZejT4Vx89lRhHK2wAu_RBOciJOLXEofUDenupapUnOTYp=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on Create API Key to generate the key.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on Create API Key to generate the key.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v5pI-pcFo73dQfxOk8KT2JZB2HF8IF4Hxo1FLtDcf4v0RqQVYbU0NLMmZXXDG_98aEGfu-S-F33x1UGiPoNqJex_JT8tDLlDn0gy9tyg9ISfsLs9jUThUySKmYcbr9517RgsXWvcggtQmOZMq_2ysTO_sRJidXw8tQ0-eqnd034vDaBmmVO-wArnwC5-7K1mndYL68GwBvAcU37M1R3AVaVxaDiYHd8A=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Create an API key or use an existing key.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Create an API key or use an existing key.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t5t6hhNQiBuLaVO1EbK12-aDindEydBEFGQVBz8EmmzQX05f8UnlLjSjGhJlprnw-BaqEzAWcJ-XpNXyJS3EMvswcUxP_QDhhJIELUujJE-JghDYELd6c6YSJbREzLvr028-S1pgFoq1Q_BS996e3V_hUF18tBZVpBvQYzR0UWCDKCe6xmWHevSQHfAUtXGpiI_W-SBYuM0ONc_09uRu6RX4_8vCG3TnS2=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Provide this API key in the required input and connect.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Provide this API key in the required input and connect.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vsEH3RfWDu19OWppPOrTv3HsKwCIHTizjSWi-6D2SKhymZOQSBwrvZQ78g2ICZInUhdhR4uQB30VS8jdZv6r9fIkJ_B0bbsTyJm08R_VhrZ_qN5FNlmMwMhqxqk3SYUUSoZ4mb7JhQVyDXV8HWyWezt-PtUgeABL7ABt-bWtWFDWJ2USFr1n1auX_qx1RpLJPz_HoudGDSONay3NVTy5VmWQ1AdGN3UDGk=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Cost Calculation",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more on Artificial Intelligence",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tskDebYIJ_o997kfP2rFQxi03JJ-lpW8iU8ZzEOAklIUQELxVlslt3ZbgBVZc5zUFiFuVBXXA17VcYYrr0k7EMcYRkfJf3_AbXWwcvqI7cQp7MeUnHP6O78jsFXbQMbyxSadE0yXB8Chi6byRQG6r8zB56UL_RcEXGCRaXRS1H62vp6-RCvRIL-vPNun8m4g_8xINgdf9C2wpnw9HfYgDPUOsZwgE0Sg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72udwgvg0mqeXSfV3qxuU1mDBbGWjg8NyEACUUS6pjI9xCX6YaIc6-2Eq5R5bF16Z03m6QElcRPNOnoY7hL0IWXZaYRwwiGh7G8W_f8vzFe0Rq2mybcq2ptgZzseAR-yttgc7DqdHdJiMskl_P1Z4hWjKElCeN_qfa0DRq-SiaehogTltD78Nzb04PJepkjvSkRCAH5mu5NsuuiKwlQ7Fou2ld8C03PSXNRj=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vYpEtzNkTblUBfevYVpZzyu6cKLQ_GsY8hnwo2MMf0dxWRR3htUvidbeZ7rxknkWRXcgRtjoPwoI9udypfGxCV8eTxZ01pBpVS7Yi8OjaPkAXEc4T2m7BDSwJytJokYSU-3ZwyaGDRSgTFi9HyHqUPzuIAeVBlGH_otSRGvb4MXJ5loZzNJ-tG=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 307,
+   "h": 328
+  },
+  {
+   "src": "/images/3fa9c418ed07265d.jpg",
+   "alt": "",
+   "w": 595,
+   "h": 457
+  },
+  {
+   "src": "/images/5e47b54e915f29b0.jpg",
+   "alt": "",
+   "w": 878,
+   "h": 217
+  },
+  {
+   "src": "/images/d58a53ba7002f898.jpg",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://aistudio.google.com/app/apikey",
+   "text": "Google Gemini Platform."
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/technical/how-ai-providers-are-calculating-charges",
+   "text": "Cost Calculation"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/artificial-intelligence",
+   "text": "Explore more on Artificial Intelligence"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

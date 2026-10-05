@@ -1,0 +1,85 @@
+# Build the static site and publish it to GitHub Pages.
+#
+# The repository is an Astro static build, so Pages cannot serve the source tree
+# directly (build_type "legacy" would publish package.json and tsconfig.json).
+# This workflow builds dist/ and uploads that as the Pages artifact instead.
+#
+# `permissions` is set at the job level: Pages deployment needs `pages: write`
+# and `id-token: write`, and the build itself needs read access to the repo.
+
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  # Lets the site be redeployed by hand from the Actions tab.
+  workflow_dispatch:
+
+# Only the newest run should publish; cancel anything still in flight.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          # Astro 7 requires >=22.12.0; Node 20 is rejected at build time.
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      # The site is served from https://<user>.github.io/<repo>/, so every
+      # generated and hand-written URL needs the repo name as its base path.
+      # Without this the build emits /_astro/... and /images/..., which 404
+      # against the domain root.
+      - name: Build
+        run: npm run build
+        env:
+          BASE_PATH: ${{ vars.PAGES_BASE || '/JivrusRemake' }}
+          SITE_ORIGIN: ${{ vars.SITE_ORIGIN || 'https://jivinsardine.github.io' }}
+
+      # The build is a static site, so the deterministic validators are enough to
+      # gate a deploy: a broken link or a missing route should not be published.
+      - name: Verify route coverage
+        run: npm run validate:routes
+
+      - name: Verify links and assets
+        run: npm run validate:links
+
+      - name: Verify assets
+        run: npm run validate:assets
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

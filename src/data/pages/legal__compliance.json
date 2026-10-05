@@ -1,0 +1,714 @@
+{
+ "route": "/legal/compliance",
+ "slug": "legal__compliance",
+ "family": "legal",
+ "isContainer": true,
+ "title": "Jivrus Technologies - Compliance",
+ "description": "At Jivrus Technologies, we support necessary industry practices, standards, and regulations required for customers or their businesses. Please see below the compliances and related references currently adhered by the products of Jivrus Technologies.",
+ "h1": "Compliance",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/legal/compliance",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/4874ad209aa565cc.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "At Jivrus Technologies, we support necessary industry practices, standards, and regulations required for customers or their businesses. Please see below the compliances and related references currently adhered by the products of Jivrus Technologies.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b63a3dc842706abb.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/93280812131bdf4a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "HIPAA Compliance",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "hipaa-compliance"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2177c51a4ea42c84.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "a",
+     "text": "HIPAA Compliance",
+     "href": "/legal/compliance/hipaa-compliance",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "p",
+     "text": "The Health Insurance Portability and Accountability Act is a United States act that was created primarily to modernize the flow of healthcare information... Read more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/db8b3d681bf10983.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "HIPAA BAA - The Business Associate Agreement",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "hipaa-baa-the-business-associate-agreement"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c181e6033d2be9e4.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "See the BAA document and fill that online to enter into the agreement with Jivrus Technologies... Read more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Student Privacy Policy",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "student-privacy-policy"
+    },
+    {
+     "tag": "p",
+     "text": "A student privacy policy is a set of rules that govern how we (Jivrus) collect, use, and share student information to protect the privacy of students and their families. Read more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9b84807b9f2544ae.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Partner Compliance",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "partner-compliance"
+    },
+    {
+     "tag": "p",
+     "text": "Jivrus Technologies (we/us) work with specialized companies (partners) to bring out the latest technology and domain expertise to Jivrus' product users. Read morePartner Compliance",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Contact Us",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tfRYczJ7s1_4V8q5GvgFdEzwRtxZLbJTPvInOmo8TE8bykqKyPlQHSbeXM5jLcCeuVv5ku-B2Gs9Ks7ORNcWN3r1a2RD_XdYBuc8bPzU1TQzTpOPMEWdRXnggR-3SAc-UzESbRbHO2eBMSofWDtSSlDkYsXce-euBPgu-nqw7OP5DnsDD2AW8X=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgba(0, 0, 0, 0.8)"
+  },
+  {
+   "tag": "p",
+   "text": "At Jivrus Technologies, we support necessary industry practices, standards, and regulations required for customers or their businesses. Please see below the compliances and related references currently adhered by the products of Jivrus Technologies.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sN44gACV5oT4GfyYbObC0YB0CX8lZf_Xfq0HaODnLBYzaaEeUgKD32jEKcVTrwG3_YzbRcA68gdj4IbzxHEWGhev6BX3yGGHmo-3GxYW-mHh2IcKLKGN9TErVfugAYBcMFizafyJqfAp2Ib1EyxnVnhsmq9pBdxzYoLzusHZK8jHlhM9mQN2RccHRnEKJY8pQhv-zXqg2FGZqW-DzI3qnFadnG3YV91g=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "The Health Insurance Portability and Accountability Act is a United States act that was created primarily to modernize the flow of healthcare information... Read more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tSh0YKavpMvmi1SRwwmzh7TNrBZ3GFxj7EYluI-hDFnRgT_G5pSH4aRTtcwS2kUQm-w9ico321RpRPc0jNL1z08jnNdjQSsHd23neOSReLd6xqyP6bgzu2NDJnFLmy6N0LHbSBTDKcHFInyIDOa-q-JZPFed2GLZ_5MyPcxgvMoSMyxRKVMPbYBHXJs4KxqSn8Zyfv-Ht_Ut58iHfHyfgsB81P3eZAuR8G=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h2",
+   "text": "HIPAA BAA - The Business Associate Agreement",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "hipaa-baa-the-business-associate-agreement"
+  },
+  {
+   "tag": "p",
+   "text": "See the BAA document and fill that online to enter into the agreement with Jivrus Technologies... Read more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u4m1ae4ZqVOX7jfFtbL3fi-ZLPflPfzQ6nCGCyTC3a7cCXYhEEkpB7rn-ll5M5MDllPNZ1a0MHsT_BrZZFsotDBJ4JnfgZ4oGQOZO7Bvon_83s4CP9Q0PIgKMo3P7Y4exHe0Cqe98YS5FZc4GHOsUE4vfv4ademeV4bohRB5RdsIcyH9xCacgcv7W7hLT4bQ9GTYO3IPXr2_rKestwLckSA2yCMEB5eg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "A student privacy policy is a set of rules that govern how we (Jivrus) collect, use, and share student information to protect the privacy of students and their families. Read more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tfrp_cP8SRMbEp36_LqdYA6_dE2Z-nidVw4BgdVkXfszljyn8KOXi9_63fm4Nq7wFNLG4ECBzSU_pwS0bWoyZeDcx8QtWzAAnt3q0-dhXYcoU9qXezpLsP7rIm0tCCrLosYxLf4H_g3sJcYUbJt0i1nxb_fWf-2nGYbb7qABYgMk7x74cSEjfl-uHCg-rMlIUl9TWx_lcOFrnl_rz5G7d9A-v-xWzWR_uj=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies (we/us) work with specialized companies (partners) to bring out the latest technology and domain expertise to Jivrus' product users. Read morePartner Compliance",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sMRPfZiQ9Gc8zT0sc-tQZNrc2_VnklYPZZp69T8I-YedkUtjn74z0IrLtIwsyYXT14m8zNN6AgCbBU13iGMRBPOvXpeK34g0FSHFupcQ2VnZarQz92RVXF3gnAUVgS61XjX6e5fBbvmqO204JkrYFWTLn7If6yZqtKX9UBE5MHwvFWQiE2Sw7FFBnC0XXLUYNimCmTgPuIfgfTME41EQH9fx5001FJ7A=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sGiJ_MoO5AHaiBwISu1TnBvJt3tKY8ScHQRQ4ndfnCbzzHS2aG_FkZyXGUvrvJB_ng8e_OgnQ7tE-iyIbTRsYt6IjUY2vA1Rlw49UXPhSySKGrGK7cgdwHzNcc5u1m6XAcRJhWl5cat6iSFSGLNYi7-pNInsfHwC1rg7UZVhPC-CKt32iHcJiWDLxB3WKtcLg0YzkPG6fXjAiKIC0aSgu0CKtEMGH56xZF=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tXBp_TjJyEb7_6wXYLeZgF8rPWskVjzzXnfB0nRwu3VTZDyE1iYuyRgiCNS5msDwI6aNgkOBVw9rGMGZfOazGZrbzGWQn42_Pm3YAC8N8hwaEUUe1QFqhWaSM4ir2x6-TdINp6YTG6yomyIFalpL8LLVETZB0mlJPVY92qPC6HGrYx4GSgGt_b=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1000,
+   "h": 577
+  },
+  {
+   "src": "/images/4874ad209aa565cc.jpg",
+   "alt": "",
+   "w": 720,
+   "h": 378
+  },
+  {
+   "src": "/images/93280812131bdf4a.jpg",
+   "alt": "",
+   "w": 397,
+   "h": 209
+  },
+  {
+   "src": "/images/db8b3d681bf10983.png",
+   "alt": "",
+   "w": 626,
+   "h": 357
+  },
+  {
+   "src": "/images/c181e6033d2be9e4.jpg",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "Read more"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "HIPAA BAA - The Business Associate Agreement"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "Read more"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Read more"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

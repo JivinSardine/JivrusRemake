@@ -1,0 +1,306 @@
+---
+import { withBase } from '~/lib/urls';
+/**
+ * SiteFooter — the footer's content mirrors the source site exactly: four link
+ * columns (Products / About / Resources / Legal), an "Our Popular Products"
+ * logo strip, then a bottom bar carrying the copyright line, the technology
+ * partner line, the tagline, and the marketplace-partner note.
+ *
+ * The source keeps each label in its own element (a bold `span` for the column
+ * heading, an underlined `span` inside the `a` for each link), so the rendered
+ * text is exactly one label per element — no duplicated or merged strings.
+ */
+import navigation from '~/data/navigation.json';
+import SocialRow from './SocialRow.astro';
+
+const {
+  footer,
+  popular_products: popular,
+  partners,
+  tagline_segments: taglineSegments,
+  portal_link: portalLink,
+  portal_note: portalNote,
+  copyright,
+  social_blurb,
+} = navigation;
+---
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer__grid">
+      {
+        Object.entries(footer).map(([heading, links]) => (
+          <section class="footer__col" aria-labelledby={`footer-${heading.toLowerCase()}`}>
+            <h2 class="footer__heading" id={`footer-${heading.toLowerCase()}`}>
+              <span>{heading}</span>
+            </h2>
+            <ul class="footer__list">
+              {links.map((l) => (
+                <li>
+                  <a
+                    class="footer__link"
+                    href={withBase(l.href)}
+                    target={/^https?:/i.test(l.href) ? '_blank' : undefined}
+                    rel={/^https?:/i.test(l.href) ? 'noopener noreferrer' : undefined}
+                  >
+                    <span>{l.label}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+
+    <section class="footer__popular" aria-labelledby="footer-popular-heading">
+      <h2 class="footer__popular-heading" id="footer-popular-heading">
+        <span>{popular.heading}</span>
+      </h2>
+      <ul class="footer__popular-grid">
+        {
+          popular.items.map((p) => (
+            <li>
+              <a
+                class="footer__popular-link"
+                href={p.href}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  class="footer__popular-img"
+                  src={withBase(p.img)}
+                  alt={p.label}
+                  width="69"
+                  height="69"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <p class="footer__copyright">{copyright}</p>
+
+    <div class="footer__partners">
+      <h3 class="footer__partners-label">{partners.label}</h3>
+      <ul class="footer__partner-logos">
+        {
+          partners.images.map((p) => (
+            <li>
+              {p.href ? (
+                <a href={p.href} target="_blank" rel="noopener noreferrer">
+                  <img
+                    class="footer__partner-img"
+                    src={withBase(p.img)}
+                    alt={p.label}
+                    loading="lazy"
+                    decoding="async"
+                  />
+                </a>
+              ) : (
+                <img
+                  class="footer__partner-img"
+                  src={withBase(p.img)}
+                  alt={p.label}
+                  loading="lazy"
+                  decoding="async"
+                />
+              )}
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+
+    <div class="footer__brand">
+      <p class="footer__tagline">
+        {taglineSegments.map((s) => (
+          <span>{s}</span>
+        ))}
+      </p>
+      <p class="footer__portal">
+        <a href={portalLink.href} target="_blank" rel="noopener noreferrer">
+          <span>{portalLink.label}</span>
+        </a>
+        <span>{portalNote}</span>
+      </p>
+    </div>
+
+    <div class="footer__social">
+      <p class="footer__social-blurb">{social_blurb}</p>
+      <SocialRow />
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--jivrus-white);
+    border-top: 1px solid var(--jivrus-line);
+    padding: 56px 0 32px;
+  }
+
+  .footer__grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 34px;
+  }
+
+  .footer__heading {
+    font-size: var(--fs-h3);
+    color: var(--jivrus-magenta);
+    margin: 0 0 14px;
+  }
+
+  .footer__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .footer__link {
+    display: inline-block;
+    padding: 4px 0;
+    font-size: var(--fs-small);
+    color: var(--jivrus-ink);
+    text-decoration: underline;
+    transition: color var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
+  }
+
+  .footer__link:hover {
+    color: var(--jivrus-magenta);
+    transform: translateX(3px);
+  }
+
+  .footer__popular {
+    margin-top: 44px;
+  }
+
+  .footer__popular-heading {
+    font-size: var(--fs-h3);
+    color: var(--jivrus-magenta);
+    text-align: center;
+    margin: 0 0 18px;
+  }
+
+  .footer__popular-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 18px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .footer__popular-link {
+    display: grid;
+    place-items: center;
+    width: 69px;
+    height: 69px;
+    transition: transform var(--dur) var(--ease-out);
+  }
+
+  .footer__popular-link:hover {
+    transform: translateY(-4px) scale(1.06);
+  }
+
+  .footer__popular-img {
+    width: 69px;
+    height: 69px;
+    object-fit: contain;
+  }
+
+  .footer__copyright {
+    margin: 44px 0 0;
+    text-align: center;
+    font-size: var(--fs-micro);
+    color: var(--jivrus-muted);
+  }
+  .footer__partners {
+    margin-top: 34px;
+    text-align: center;
+  }
+
+  .footer__partners-label {
+    font-size: var(--fs-small);
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--jivrus-magenta);
+    font-weight: 700;
+    margin: 0 0 16px;
+  }
+
+  .footer__partner-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 24px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .footer__partner-img {
+    display: block;
+    height: 64px;
+    width: auto;
+    max-width: 260px;
+    object-fit: contain;
+  }
+
+  .footer__brand {
+    margin-top: 40px;
+    text-align: center;
+  }
+
+  .footer__tagline {
+    margin: 0 0 6px;
+    font-size: var(--fs-small);
+    color: var(--jivrus-muted);
+  }
+
+  .footer__tagline span {
+    display: inline;
+  }
+
+  .footer__portal {
+    margin: 0 0 6px;
+    font-size: var(--fs-micro);
+    color: var(--jivrus-muted);
+  }
+
+  .footer__portal a {
+    color: var(--jivrus-ink);
+    text-decoration: underline;
+  }
+
+  .footer__social {
+    margin-top: 36px;
+    text-align: center;
+  }
+
+  .footer__social-blurb {
+    max-width: 60ch;
+    margin: 0 auto 18px;
+    font-size: var(--fs-small);
+    color: var(--jivrus-muted);
+  }
+
+  @media (max-width: 900px) {
+    .footer__grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 560px) {
+    .footer__grid {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+</style>

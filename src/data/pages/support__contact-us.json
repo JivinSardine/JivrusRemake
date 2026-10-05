@@ -1,0 +1,1207 @@
+{
+ "route": "/support/contact-us",
+ "slug": "support__contact-us",
+ "family": "support",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Contact Us",
+ "description": "Many ways to reach us",
+ "h1": "Contact Us",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/support/contact-us",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "Many ways to reach us",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "many-ways-to-reach-us"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a47a6bbc3a40b29f.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "We want to ensure that we are reachable to you in many ways.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/bd7a39ddd7bd0908.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "So, when you need us, you can just pick an appropriate mode and reach us.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c09fff46aa04f51c.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Technical Support",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/95231578b746e3a6.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Contact us for any technical assistance. Our executives will help you resolving your problems",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/5d08ec2517e97325.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Sales Support",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Contact us for any related enquires. Our executives will contact you and assist you",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Customer Portal",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Login to the customer portal to view details of your subscription & much more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Pricing Chat",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d36ddc241655e792.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8cf5b91363839c6c.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c62d136fc97aa4b0.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d67f5cbf838ecd0a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "Chat with our team regarding the pricing of our products & much more needed details",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "Jivrus Community",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/03ff61cc9fc6eed8.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Join users like yourself to find answers or share your knowledge with others",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "a",
+     "text": "support@jivrus.com",
+     "href": "mailto:support@jivrus.com",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Email: support@jivrus.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "email-supportjivruscom"
+    },
+    {
+     "tag": "h3",
+     "text": "WhatsApp @ +91 79754 86266 (9:00 AM to 7:00 PM IST)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "whatsapp-91-79754-86266-900-am-to-700-pm-ist"
+    },
+    {
+     "tag": "a",
+     "text": "support@jivrus.com",
+     "href": "mailto:support@jivrus.com",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Email: support@jivrus.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "email-supportjivruscom"
+    },
+    {
+     "tag": "h3",
+     "text": "WhatsApp @ +91 79754 86266 (9:00 AM to 7:00 PM IST)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "whatsapp-91-79754-86266-900-am-to-700-pm-ist"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Address:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "address"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Jivrus Technologies,",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "4th Floor, Lorven Workspace,",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "#7, 80 Feet Road, Koramangala 7th Block,",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Bengaluru, India",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Watch Demo Video",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Tell us your Feedback",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Read FAQ",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Contact Sales",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Schedule a Demo",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Raise a Support Request",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Raise a Feature Request",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sKmyEhgUiJTgWmC2G2VdJQqxM0BTXRQMVoqqvrVqpcXJEKQaRGZdaMZ_SHQx18zyPdgSi1_xZnr-WG6s8IrtwMrE98Mmmd0ikkUt5of7BCvQqBl9SsRtCHpgTu3qz5m0_6orUW6zxPvABgZrYQwYvRlBz7BIE68xTYRTvRWrAIQdGFbSoHn3eV=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "We want to ensure that we are reachable to you in many ways.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "So, when you need us, you can just pick an appropriate mode and reach us.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Technical Support",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72shABf7gj9oLYXvniTnSgHfzBKLK-sNMezMZC5e_9fAy59g4iDPfiVP-tX-6uF8enRzNuPM1YZZl76y03A8GE6SSrKLCNAo2b7GLQl0zQ8ZTkFgPnUwkM4p9YNhdmqxQsH-K6epiyRFvAxe4NIdQuMTnOG-e-j92hgY03EC3FRsmULFQ3Onyetushh0qqFtR8AlJ9SltzMX5Ejkw7wwpNcKW_PHWbFeSP-h=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Contact us for any technical assistance. Our executives will help you resolving your problems",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Sales Support",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72urVhaS1uhvsEEPMV_tdUjZdx2EmxrwSCtfjNkINLyxSId4uMrvEcxzv-d7m6Qs-QND0j8NTJkS9FOBoPG__HSM0JW37yXBW1F8T-X9cfESslyNlD7WLAj-blfqOGpLZlxWvriwk5__MusM0m-toAdNbSxZd7saxlNfD20-g9G0OEjWeE7Ojh_uG1w4zQwphCZM98RM0darLKZHq3G37gl5-nfGWmXteg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Contact us for any related enquires. Our executives will contact you and assist you",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Customer Portal",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vEMHVpa8Z9lk-lUF-u1Lhm9J9rQtEXtVh4e-0xlOzqRDCRL6o3cy6GJeZGId7BQ_uzcMod07N9hNPmhlaxrOKRBHbhnDd_6esBBmaIkaJUikmioXhp9seCBPas4JOUMXJp-SPc6WELvfAcXYMZqJ_QWfgd5kHCrumZcgrdJzD7nS9MC51QYIoYJQHwD6f6tClmsqqFXijQaeRdMN0vN3nfELKwwQJY1uSm=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Login to the customer portal to view details of your subscription & much more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Pricing Chat",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sZX1cOgCSXAkV2MPUnpaf7BDYNiF9qxIaiVXngK_Y4BSMHil6f1TUcH10AKbSUqy-dABuScYUaNawdV-tUme2uMnLoknL7D9n_XFQ8n-t-JKGR9GfMAk8i0aV8NvK8q52rmLrlYywRk2b2RoOiRzn8eS794gpSs97UmrSESrp5LeF-mUrZSkeMv0bSmvVNZ8sYVDwzliVOAOOJBoCrhzfTKY33UizQeGBG=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Chat with our team regarding the pricing of our products & much more needed details",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Community",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sSQex_1ELsXKc_aYjocpH6HLEdN4JKXwXi4tJs_PRDfyIFGiNMunxw9cF3xaRROC_3qqAqijmc2FhbQdpHBC_Acm8JKsZok3pxzLUeQgFceAqXWrt4_S4sLirRKxdz1dhVqOoQRszQQfNbRASuV-BrH1zqhky9JTJdQQ8b6MiqZX7DWH_uU17_oqcIy8IxhriwOy_aXa_Zr-mjAtpEhzNxnD_FysduTq5d=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Join users like yourself to find answers or share your knowledge with others",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Address:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "address"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies,",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "4th Floor, Lorven Workspace,",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "#7, 80 Feet Road, Koramangala 7th Block,",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Bengaluru, India",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Watch Demo Video",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Tell us your Feedback",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Read FAQ",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Contact Sales",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Schedule a Demo",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Raise a Support Request",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Raise a Feature Request",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uKFAdprbMh0DRKAW-BjmSLv0Xvg6xUS2SC2Trm_AJ7YQKSGquNWPEmZt9DFgHpywE5femWT5mukV5dQlm3lAnX_Af_F1QC_2JvEXiBleNFvnYhsLV79N00Zl9OXisvHv8cwLVFilDMvganPDESgFj4ATIQvf4Ywbz7kD6Vn4uNtO19ViN3BHoVOYJx0JqjUd8S1qDgXWoSNHTJ0_PrBgCElfNNjRwekQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uwFHwG2jVkvQjLCXzQyTVXiFFKo2gFpfVr6s2-bJV6Aw97mLZn5hrGCi4QWqj3jWJ_DP0ojzE2k8rYhMgKUhP89jrsdST7Wabl0LWkD3I9dpTGMx7RcYPF9dHpCN6iBir1ktFYDFfKlVccp-LXbjdUCLlFsTP5Noorc5PTjuyumxxVM22zBbLEg80DIwamY7rk6lJbIthswjsnQXoZ7Mjn_l86EYi3lzFF=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uxV-Eg6XTq6FhPywnUb79ZYmYAGfGoKkCijEQPvZjp3uv0XCtHkG0H6ySRK8FYFdnL8C76o4UhIuQWa7MzhD0nhNp683OvxX0kqz-tpndrCCoaf5J0T8eP4PjHFtTzbrMrmMDpXf4jnAfPSRgI76BV9KgddQ2069p3g7P1PgEEFt0petfWlDFa=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1361
+  },
+  {
+   "src": "/images/a47a6bbc3a40b29f.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 1355
+  },
+  {
+   "src": "/images/bd7a39ddd7bd0908.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 1361
+  },
+  {
+   "src": "/images/c09fff46aa04f51c.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 1355
+  },
+  {
+   "src": "/images/95231578b746e3a6.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 1259
+  },
+  {
+   "src": "/images/5d08ec2517e97325.jpg",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fportal.jivrus.com&sa=D&sntz=1&usg=AOvVaw12kXPKN_bHowdfN5OO-TdZ",
+   "text": "Customer Portal"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fsms.jivrus.com%2Fpricing%2Fplan%2Fform-director&sa=D&sntz=1&usg=AOvVaw3SYhOnn6BnrXSUrxYt6fvL",
+   "text": "Pricing Chat"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fcommunity.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw1CYFwpv1__ur4saKu8pR5b",
+   "text": "Jivrus Community"
+  },
+  {
+   "href": "mailto:support@jivrus.com",
+   "text": "support@jivrus.com"
+  },
+  {
+   "href": "https://www.youtube.com/c/Jivrus",
+   "text": "Watch Demo Video"
+  },
+  {
+   "href": "https://www.jivrus.com/support/feedback",
+   "text": "Tell us your Feedback"
+  },
+  {
+   "href": "https://www.jivrus.com/support/faq",
+   "text": "Read FAQ"
+  },
+  {
+   "href": "https://www.jivrus.com/support/contact-sales",
+   "text": "Contact Sales"
+  },
+  {
+   "href": "https://www.jivrus.com/support/schedule-a-demo",
+   "text": "Schedule a Demo"
+  },
+  {
+   "href": "https://www.jivrus.com/support/support-request",
+   "text": "Raise a Support Request"
+  },
+  {
+   "href": "https://www.jivrus.com/support/feature-request",
+   "text": "Raise a Feature Request"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

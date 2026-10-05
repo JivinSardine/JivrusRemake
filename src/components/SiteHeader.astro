@@ -1,0 +1,577 @@
+---
+import { withBase } from '~/lib/urls';
+/**
+ * SiteHeader — the live site's top navigation.
+ *
+ * The live site uses a transparent header that sits over the coloured hero on
+ * the homepage and becomes solid white on interior pages. The dropdown
+ * behaviour (About / Resources / Support) and the mobile drawer are rebuilt
+ * here; motion is progressive enhancement on top of the original styling.
+ */
+import navigation from '~/data/navigation.json';
+
+const { header, dropdowns, announcement } = navigation;
+const current = Astro.url.pathname.replace(/\/$/, '') || '/';
+const isHome = current === '/' || current === '/home';
+
+const inSection = (label: string) => {
+  const href = header.find((h) => h.label === label)?.href ?? '';
+  return href !== '/' && (current === href || current.startsWith(href + '/'));
+};
+---
+
+<header class:list={['site-header', { 'site-header--solid': !isHome }]} data-site-header>
+  {
+    announcement && (
+      <div class="announce" data-announce>
+        <div class="announce__inner">
+          <p class="announce__text">{announcement.text}</p>
+          <a class="btn btn--outline announce__cta" href={withBase(announcement.href)}>
+            {announcement.cta}
+          </a>
+        </div>
+      </div>
+    )
+  }
+
+  <div class="nav">
+    <a class="brand" href={withBase("/home")} aria-label="Jivrus Technologies home">
+      <span class="brand__mark" aria-hidden="true">
+        <svg viewBox="0 0 40 40" width="34" height="34" role="presentation">
+          <circle cx="20" cy="20" r="18" fill="none" stroke="currentColor" stroke-width="3" />
+          <path
+            d="M13 14v9a7 7 0 0 0 14 0v-9"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="3"
+            stroke-linecap="round"
+          />
+        </svg>
+      </span>
+      <span class="brand__name">Jivrus</span>
+    </a>
+
+    <nav class="nav__list" aria-label="Main">
+      <ul>
+        {
+          header.map((item) => {
+            const items = dropdowns[item.label];
+            const active = inSection(item.label);
+            return (
+              <li class:list={['nav__item', { 'has-dropdown': !!items, 'is-active': active }]}>
+                <a
+                  class="nav__link"
+                  href={withBase(item.href)}
+                  aria-current={current === item.href ? 'page' : undefined}
+                  data-nav-link
+                >
+                  {item.label}
+                  {items && (
+                    <svg class="nav__caret" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
+                      <path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" />
+                    </svg>
+                  )}
+                </a>
+                {items && (
+                  <div class="dropdown" data-dropdown>
+                    <ul class="dropdown__list">
+                      {items.map((sub) => (
+                        <li>
+                          <a class="dropdown__link" href={withBase(sub.href)}>
+                            {sub.label}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+              </li>
+            );
+          })
+        }
+      </ul>
+    </nav>
+
+    <div class="nav__actions">
+      <a class="icon-btn" href={withBase("/support/contact-us")} aria-label="Contact us">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+          <path
+            d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linejoin="round"
+          />
+        </svg>
+      </a>
+      <a class="btn btn--primary nav__cta" href={withBase("/support/schedule-a-demo")}>Schedule a Demo</a>
+      <button
+        class="burger"
+        type="button"
+        aria-label="Open menu"
+        aria-expanded="false"
+        aria-controls="mobile-nav"
+        data-burger
+      >
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="mobile-nav" id="mobile-nav" data-mobile-nav hidden>
+    <nav aria-label="Mobile">
+      <ul>
+        {
+          header.map((item) => (
+            <li>
+              <a class="mobile-nav__link" href={withBase(item.href)}>
+                {item.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+    <div class="mobile-nav__groups">
+      {
+        Object.entries(dropdowns).map(([group, items]) => (
+          <div class="mobile-nav__group">
+            <p class="mobile-nav__group-title">{group}</p>
+            <ul>
+              {items.map((sub) => (
+                <li>
+                  <a class="mobile-nav__sublink" href={withBase(sub.href)}>
+                    {sub.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </div>
+    <a class="btn btn--primary mobile-nav__cta" href={withBase("/support/schedule-a-demo")}>
+      Schedule a Demo
+    </a>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: transparent;
+    transition: background-color var(--dur) var(--ease-out), box-shadow var(--dur) var(--ease-out);
+  }
+
+  .site-header--solid {
+    background: var(--jivrus-white);
+    box-shadow: 0 1px 0 var(--jivrus-line);
+  }
+
+  /*
+   * On the homepage the live header sits ON the hero, so the hero's gradient
+   * must start at the very top of the document and the header floats over it.
+   * Everything else gets the solid bar in normal flow.
+   */
+  :global(body[data-page='home']) .site-header:not(.site-header--solid) {
+    position: absolute;
+    inset-inline: 0;
+    top: 0;
+  }
+
+  :global(body[data-page='home']) main {
+    position: relative;
+  }
+
+  /* ---------------------------------------------------------- announce -- */
+  .announce {
+    background: rgb(244, 204, 204);
+    color: #000;
+  }
+
+  /* Over the hero the announcement bar keeps the hero's own surface. */
+  :global(body[data-page='home']) .site-header:not(.site-header--solid) .announce {
+    background: rgba(255, 255, 255, 0.94);
+  }
+
+  .announce__inner {
+    max-width: var(--container);
+    margin-inline: auto;
+    padding: 8px var(--gutter);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .announce__text {
+    margin: 0;
+    font-size: var(--fs-micro);
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .announce__cta {
+    padding: 6px 16px;
+    font-size: 12px;
+    background: #fff;
+    color: #000;
+    border-color: #000;
+  }
+
+  .announce__cta:hover {
+    background: #000;
+    color: #fff;
+  }
+
+  /* --------------------------------------------------------------- nav -- */
+  .nav {
+    max-width: var(--container);
+    margin-inline: auto;
+    padding: 0 var(--gutter);
+    min-height: var(--header-h);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    color: var(--jivrus-white);
+    font-family: var(--font-brand);
+    font-weight: 700;
+    font-size: 21px;
+    flex-shrink: 0;
+  }
+
+  .site-header--solid .brand {
+    color: var(--jivrus-magenta);
+  }
+
+  .brand__mark {
+    display: grid;
+    place-items: center;
+  }
+
+  .nav__list {
+    margin-left: auto;
+  }
+
+  .nav__list > ul {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav__item {
+    position: relative;
+  }
+
+  .nav__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 10px 13px;
+    border-radius: var(--radius-sm);
+    color: var(--jivrus-white);
+    font-size: 14.5px;
+    font-weight: 500;
+    white-space: nowrap;
+    transition: background-color var(--dur-fast) var(--ease-out), color var(--dur-fast) var(--ease-out);
+  }
+
+  .site-header--solid .nav__link {
+    color: var(--jivrus-ink);
+  }
+
+  .nav__link:hover {
+    background: rgba(255, 255, 255, 0.16);
+    color: #fff;
+  }
+
+  .site-header--solid .nav__link:hover {
+    background: var(--jivrus-blush);
+    color: var(--jivrus-magenta);
+  }
+
+  .nav__item.is-active > .nav__link {
+    color: var(--jivrus-magenta);
+    background: var(--jivrus-blush);
+  }
+
+  .nav__caret {
+    transition: transform var(--dur) var(--ease-out);
+  }
+
+  .nav__item:hover .nav__caret,
+  .nav__item:focus-within .nav__caret {
+    transform: rotate(180deg);
+  }
+
+  .nav__actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+  }
+
+  .icon-btn {
+    display: grid;
+    place-items: center;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    color: var(--jivrus-white);
+    transition: background-color var(--dur-fast) var(--ease-out);
+  }
+
+  .site-header--solid .icon-btn {
+    color: var(--jivrus-ink);
+  }
+
+  .icon-btn:hover {
+    background: rgba(255, 255, 255, 0.18);
+  }
+
+  .site-header--solid .icon-btn:hover {
+    background: var(--jivrus-blush);
+    color: var(--jivrus-magenta);
+  }
+
+  /* --------------------------------------------------------- dropdown -- */
+  .dropdown {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 0;
+    min-width: 224px;
+    background: var(--jivrus-white);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 8px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-8px);
+    transition:
+      opacity var(--dur) var(--ease-out),
+      transform var(--dur) var(--ease-out),
+      visibility var(--dur);
+  }
+
+  .nav__item:hover .dropdown,
+  .nav__item:focus-within .dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  .dropdown__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .dropdown__link {
+    display: block;
+    padding: 9px 12px;
+    border-radius: var(--radius-sm);
+    color: var(--jivrus-ink);
+    font-size: var(--fs-small);
+    transition: background-color var(--dur-fast) var(--ease-out), color var(--dur-fast) var(--ease-out),
+      transform var(--dur-fast) var(--ease-out);
+  }
+
+  .dropdown__link:hover {
+    background: var(--jivrus-blush);
+    color: var(--jivrus-magenta);
+    transform: translateX(4px);
+  }
+
+  /* ----------------------------------------------------------- burger -- */
+  .burger {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    width: 42px;
+    height: 42px;
+    padding: 0 10px;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+  }
+
+  .burger span {
+    display: block;
+    height: 2px;
+    width: 100%;
+    background: var(--jivrus-white);
+    border-radius: 2px;
+    transition: transform var(--dur) var(--ease-out), opacity var(--dur-fast) var(--ease-out),
+      background-color var(--dur) var(--ease-out);
+  }
+
+  .site-header--solid .burger span {
+    background: var(--jivrus-ink);
+  }
+
+  .burger[aria-expanded='true'] span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+  }
+
+  .burger[aria-expanded='true'] span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .burger[aria-expanded='true'] span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+  }
+
+  /* ------------------------------------------------------ mobile nav -- */
+  .mobile-nav {
+    background: var(--jivrus-white);
+    border-top: 1px solid var(--jivrus-line);
+    padding: 18px var(--gutter) 28px;
+    max-height: calc(100vh - var(--header-h));
+    overflow-y: auto;
+  }
+
+  .mobile-nav[hidden] {
+    display: none;
+  }
+
+  .mobile-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .mobile-nav__link {
+    display: block;
+    padding: 13px 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--jivrus-magenta);
+    border-bottom: 1px solid var(--jivrus-line);
+  }
+
+  .mobile-nav__groups {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  .mobile-nav__group-title {
+    margin: 0 0 8px;
+    font-size: var(--fs-micro);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--jivrus-muted);
+    font-weight: 700;
+  }
+
+  .mobile-nav__sublink {
+    display: block;
+    padding: 6px 0;
+    font-size: var(--fs-small);
+    color: var(--jivrus-ink);
+  }
+
+  .mobile-nav__cta {
+    margin-top: 24px;
+    width: 100%;
+  }
+
+  /* ------------------------------------------------------ responsive -- */
+  @media (max-width: 1080px) {
+    .nav__cta {
+      display: none;
+    }
+  }
+
+  @media (max-width: 940px) {
+    .nav__list {
+      display: none;
+    }
+
+    .burger {
+      display: flex;
+    }
+
+    .nav__actions {
+      margin-left: auto;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .announce__inner {
+      gap: 8px;
+    }
+
+    .mobile-nav__groups {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+</style>
+
+<script>
+  // Header behaviour: solid-on-scroll, burger drawer, keyboard-friendly dropdowns.
+  const header = document.querySelector<HTMLElement>('[data-site-header]');
+  const burger = document.querySelector<HTMLButtonElement>('[data-burger]');
+  const drawer = document.querySelector<HTMLElement>('[data-mobile-nav]');
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
+
+  if (header) {
+    const syncHeader = () => {
+      // On the homepage the header floats over the hero; once the hero has been
+      // scrolled past, it needs the solid treatment to stay legible.
+      const isHome = document.body.dataset.page === 'home';
+      if (!isHome) return;
+      header.classList.toggle('site-header--solid', window.scrollY > 80);
+    };
+    syncHeader();
+    window.addEventListener('scroll', syncHeader, { passive: true });
+  }
+
+  if (burger && drawer) {
+    const setOpen = (open: boolean) => {
+      burger.setAttribute('aria-expanded', String(open));
+      burger.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      if (open) {
+        drawer.hidden = false;
+        if (reduce.matches) {
+          drawer.style.opacity = '1';
+        } else {
+          drawer.animate(
+            [
+              { opacity: 0, transform: 'translateY(-10px)' },
+              { opacity: 1, transform: 'translateY(0)' },
+            ],
+            { duration: 260, easing: 'cubic-bezier(0.22,1,0.36,1)' }
+          );
+        }
+      } else {
+        drawer.hidden = true;
+      }
+    };
+
+    burger.addEventListener('click', () => {
+      setOpen(burger.getAttribute('aria-expanded') !== 'true');
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && burger.getAttribute('aria-expanded') === 'true') {
+        setOpen(false);
+        burger.focus();
+      }
+    });
+  }
+</script>

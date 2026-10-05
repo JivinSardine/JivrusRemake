@@ -1,0 +1,1558 @@
+{
+ "route": "/customers",
+ "slug": "customers",
+ "family": "customers",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Customers",
+ "description": "\"Passion meets Satisfaction when our solutions add value to our customers' business or solve our customers' problems\"",
+ "h1": "Customers",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/customers",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/3d262de8220ab48f.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "\"Passion meets Satisfaction when our solutions add value to our customers' business or solve our customers' problems\"",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "passion-meets-satisfaction-when-our-solutions-add-value-to-our-customers-business-or-solve-our-customers-problems"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/24d822fca6806b9e.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "A few of our customers",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "a-few-of-our-customers"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/4442f22e6be2785c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.byjus.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ee959d755d657ced.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "India",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "india"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/bcee83fdc842f7ca.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "eastbronxacademy.org",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9cc35beed09d3424.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "usa"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/4bb48eb0c45caa52.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.sheffield.ac.uk",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8f9ff553fca2c2cb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "United Kingdom",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "united-kingdom"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd6ef39f654d60a3.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.scdsb.on.ca",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/475d7d6b8d6c0137.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Canada",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "canada"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/76bc05cf8fdf1cd6.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.phonepe.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/3f247cb8112d8b0e.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "India",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d8efae05c40c9bc5.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.ualberta.ca",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/86da8fde8c122e4a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Canada",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ed01a055fdca3a38.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.woundcaresurgeons.org",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b17636821c59743f.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.edmonton.ca",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Canada",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.sayitwithasock.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "www.policystreet.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "h3",
+     "text": "Malaysia",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "malaysia"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.tdsb.on.ca",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Canada",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.rockingxranch.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.asu.edu",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.appliedintuition.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "myhappygenes.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "360payments.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72unlYBoLHj11stv6oiZ-NqvOTZ-UOhgv_fHT-Id3UUU_HUNB2dDrbU4at8DX9MqdUA3v3SH3mZA8yAf_KwVkpJdiQGultY0MGzQmhKS00AVgOmzribxYKsMU-RMjCgpn2LWO9PEIWN83HC88rYJ7Y1Xu4qng-8ghmvvuVGqfvd8s42ohe9QiOXZ=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "\"Passion meets Satisfaction when our solutions add value to our customers' business or solve our customers' problems\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "passion-meets-satisfaction-when-our-solutions-add-value-to-our-customers-business-or-solve-our-customers-problems"
+  },
+  {
+   "tag": "h2",
+   "text": "A few of our customers",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "a-few-of-our-customers"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sNusCiMeDkfxWgUDr_3_eCCQiTFcJ_p5svKoxCzL0H6rbq1dw7llBZdZxeJvdCh-ki0ewROtJbEZYTvTA-39iboYwapqVk8E1SXdvAllHuJ8Kz0JRDWD4cSqBmkGkAvD__G3YuEMXBLMgsAzXKq82J1T5E-e9EUxOQCEZ8tS4ekj1tX1bbzVWIiV3RFv1r7cY1Dph5C9cbv65sgd7CZpxwL_l7rLPtLLYs=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.byjus.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "India",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "india"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vF3IiWg5-NGl2WmEMOP3oa0M2rOJca3xP-eYN-90MPb8rWqhj1NdbK-prH8Tt1HSAKgV_A2i662JwkXE4ma4i4FK-liR9lRkKaRb69-fn7YKSdT5TrvMOPtV2fLxyQS4Nh5xcQbYFa70s7QHuktvwv3dmGclfeY0DB8PjhuPqXxZjml7hmbE0WKhbEhR8y4nFaakYF0vipfYA20xgX-us9WSyCsOWB4G8c=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "eastbronxacademy.org",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "usa"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v-6rC6YnhAkQAixiB_lIoO4DnlHQLfMzlcM5F56D_fWwwgLDrIgVFN9QazeJWfT9haTfXK0mQhHVyPcAibOaGvCFTIZ7F_kg4eMRnReKwTnowkx8JotoVazgh1n2N5vdcQIV8BZYGEHLa2L1ApsdDHh-qjeW6pm023RbK9gOlBUxbH1KWdCzhYtmIIMdJrY19QZ6bUAOqwPhFyuRSNxyMV15UpbSv9Ww=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.sheffield.ac.uk",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "United Kingdom",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "united-kingdom"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u_iy8uS8iYWGDfegENO0pYQbhsJIQBmA8Bd3hEfBuYRVZTldMi0E7fftLQewW9hb9en_8WZQbKUZJg05XP4VlU5DJ20_VZxpU7G1DDN7gdMWvu1SHzfVh_U6q4Ia_kxCMWGiKJtwEkRGZLnuT9-cS4eX2s7BHRIumXrv_XnEu-igmi2QmzGZlcpTDixrzuohm-oaSol4PaC_vHX-fuJUfBHHc4sj2Jf95L=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.scdsb.on.ca",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Canada",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "canada"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s1OottV5zjslbh_Y8w736WFynMAGHCi5bDEf9-sErnGXg5BNmFh7YRvbsJ8_pCl9DaglDFIQX9UoLvuyFY7UJLFYZUGYBfocOy6RWsfWt7SLWpC6bBi00HVT6pX7HjPqlTAKfie2Ogj2Xju_WQFBZ0-nfhFTy7WA-tk54xSQu34a0J3RY14L3PYEpH37fQOd8gQIletku9b89r_m5zKWsJZ9OXj9E4YhQa=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.phonepe.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "India",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vL0-PomY90lTK2ONWFyZPUz0h5JXyC2w1MuyPsBVxqYgUADmU5aTnltovnKaAnQpUwEwp5eOu1xzmacaSxXb2ev4q9G_o0GAdPZB6S9W5Dl6GxiVP2kqGW5r8_fS7nef-uJA84CMd4lSdZttYwovC5DRxJcy6Fz3VhBQMs5nP_SBuIkhbaXmiB4EDH-I_mIvBOzk_1u4CH-hri4qyVc1IBx2XddzPE51Lv=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.ualberta.ca",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Canada",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u0FDizOjb-Rxk7xWdn7nrQ47SgjAtxoyS1yYKUi3npbqt7r6N1RdTOJfyDxdkqp_nFKm_7mVTiwFSnwjC_eaKeTXs6mcnt87WtcO-_uFWvBov7uZKxCbihBn0KWPB-OuLsyTQ9t0i91mRM2I_tyzDKjXO5L4sx-DGo8npQW2KZMilp-SVRF4RMFHN_ks7E9MuVW3vgntgh4vEaOiaM3KL7YNTAxVVIFg6j=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.woundcaresurgeons.org",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72scBenRQw6Xp6daoMN0beWbD6IRXv1Wx2blWLkBFevtQOC-dDdYK5FVsEY6t86tjDh67ACNZFsaXL0qMdyMPFYTqsDlWT749PdLtkRhpyzvokYZtS7LJLDh4EzkGyUVqH48CVJRWwgkZxX4vmpXV3HwXSHFpiV6SkrYo_b5JOMXSmWHaXT68lsBstG-YOvXMc4QjB-6VEHSNoEsBHY9Sc-2t3G1Co-hLw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.edmonton.ca",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Canada",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vdm1701KDK1AjP1Zr0XezLFlCkgSwkUfm65EGpwj9kMjniXSlOUyPc4S_cUE2zx8u0mwFxddQDmRZ4jZaqAD0eF0mKvQg9Bgd-gIUvEwZAcaHLWvzrq-rmJkwx_6FHCAGzCEh5ET5JwnmgiX4qOWk5VJ3GKEnJbhqHINQCQRJhHP_muCSFrF5SCB_3lngagnFXjPSux2mazEEKeDknTh4w-ZPGZyis_ExK=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.sayitwithasock.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uP0NxBcSUBFlBKt264A8CutRUAydAM5zIzdextGaXc4FuDbBhgRFn0LbUZgf1A9jPiPl8gwA0NH1s2qEmCz37BJ_DtDhVDHK7_e9kr96SVL98LK_vH13ojN2UYjIyFEeu-qPNgIDZf8iCnRCmonu3LgxRtGkWst8MLNP9bTCupiP9fNvSHH2F-wJIRK5WHc-YaS6s4COXjffm1pYB0b22ARJKX33O2HXd2=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.policystreet.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Malaysia",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "malaysia"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tZvr18XFP4xL3XgqkM_uQvFCMFMaBjMsUtBp5S1xpMmOR6vXM4mjDl1uicKaY_ZvYGlKJ-uDiXCIVrarcJnQb9Tup1yEaQBSH1_34RN0cvdqdnuOp8grYA6H578H6qoLlxgBlpbbGAtoj_yWQc62nCsiSCTVNfGPDvaso8UYNlj54-TiZ-Qprv5O1dt5WOkyd9opD1TnDzd7jDwtwtXgrhxkAltAbqBuVP=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.tdsb.on.ca",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Canada",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72veSp9KO-ja3LOmVOJyXMucz1lZxaYo74f2Stlw394vJYpGrhmK0jrQY9pmWydZ-3ax6K9QbcHPq6orOobraueuc9SrtUKs8emUXkZHxZlVhKWHjPgIHeKbn-Ouj8cQsaLhojm_KUeb3PTnDgPAWCR6yhcMr6nvAxtrXJm-M5MpBv26Zeg3s8aXBStNpdNsgXFkoQ1mTk58FLZW6WK7fFt9BVblo_P9IuVB=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.rockingxranch.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vlmjEIyV1x3yjvDLnH-EMXiIStu-vozZd5ByDqVhLuS2565-jG2JQTg2gXtQHkvAIfOvGh33LxKRF8O8Cpd_4lHBq19XgOwQDh6emoL-0uo8uVSsuY6-MbqMz_Jjk3teb5J-A2ZYv-R9uoV2235dbEFlPxuvWyShzQKGThLF89UfVsG2481KaSe57FT4knYoCoN7kd-y6u0xR9gSFE8pz5b_KjvQImexHu=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.asu.edu",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72scMIWqRuwquH5oLIxC9ePmN03HdKbSysfA_txHdPlqFA9uwLhE_TP5WfBDkXKz0_h_WBga19-Fi3f2H-oBITSv5G4biwFRAwKPw0_pZfQfZMOR37vuajpvJPah4sn04P3Fdnd-6Df7Vj-8IeQJQ1iCLGWgI7Z6stReAL04uKuo-lZuwSqZOq0Tcc540PDvtWABzcIR7LWmhmAHWhAEo_a2lRA2g0tI_7fw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.appliedintuition.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v2chg7CNppfTgjR2Piuft-3k3B_ADSG5pu6j-x5JQLxEMoGkmiWbLwkX-qLGL45vnywaIFFkXZ0olAeLcL7mGfNP61TM1uaycVBNp7rq7CG36bRGQ1a_YKYabmgiTPTIsdHddgrJpJm1_bAVdaeS3Mea2r4CLTzUx-uYnuulFC6gzC6g6lOAUAo01t9rox4qo4LYnNIi4VLxLWM-ZhV1UL4D493tSBGlOp=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "myhappygenes.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u6xwlTSmwgnEhROdJhJOpgRHdUw1mnpqLObNY7qru-EAGlhL9ccY-JlIpDIyE1itcLsc5HUAhEnPakSW-RC_h69qzjWsxtlnFvwmWoAEKtIHt1kUyD4w3ivxVhxrn-VS0jqJtla5r18bGiprP5M523NVgTvln0xnfuCWjTl2FVJxU_ufgMad21ttZyCcaISbSP22rHx-p-0R6sKg7Hxj-Z-XIv_hfI4hn1=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "360payments.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uuOjjnBVjJQN3ISKbcpXDU1NbJsV5N5EbUrNknd9E0vS2nWOir-Rsf1_9NpgRnnzTITmY6Hnzofv1ExsvLk8b6impkl2bFGrb7ehKuvEeBKLojrNRrzHNq9oqWr7Y78I5oiFygG61fNGYad9sFpAwhrCXnbj5ShKvBy5cBP6r_GzJ13n0fZYVz0TfKG4OCT3AbOj61arv6lMkdmSSIT3_veB1CUiMOeQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tZO3kpMe66HPTyjJw5uqF6EyT64Hn-67d-2BXsMDtTHB_snmG5Q6xoF4NXitYEoBAft2WV-PugGxduyAoa2IhaY3QE2Ijn39_c72kchAzGjWd8s9KVNPipdpC0fDifLyaR_9l1Yj_O7KR58mAxDOzmt3L11CjFq5rIk_dtzg4oiCdebWoSIKp8-MJ8VfN4bIlhLKvwkP0agQ4m-5JRiYq18KH1EM_Fgusp=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tKGL3-Ii9bmtdjx5Z-fyseIM7crOtMEpaXK7EzqS35pRpYnjIZeq-lV3tVsrVXF2NZvhtB3Xd1swdnsASYdy4IbV2NisPqCeXdsNurX6_XfjkEmwBGiFKkEkARjHvZO7ct55_9N7ffaQuUSDFBWSly7Xt1HlGHbcTsPm6-S8qddqBd1w6Dp17O=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 409,
+   "h": 214
+  },
+  {
+   "src": "/images/3d262de8220ab48f.png",
+   "alt": "",
+   "w": 412,
+   "h": 300
+  },
+  {
+   "src": "/images/24d822fca6806b9e.png",
+   "alt": "",
+   "w": 417,
+   "h": 300
+  },
+  {
+   "src": "/images/4442f22e6be2785c.png",
+   "alt": "",
+   "w": 415,
+   "h": 300
+  },
+  {
+   "src": "/images/ee959d755d657ced.png",
+   "alt": "",
+   "w": 438,
+   "h": 233
+  },
+  {
+   "src": "/images/bcee83fdc842f7ca.png",
+   "alt": "",
+   "w": 438,
+   "h": 244
+  },
+  {
+   "src": "/images/9cc35beed09d3424.png",
+   "alt": "",
+   "w": 438,
+   "h": 240
+  },
+  {
+   "src": "/images/4bb48eb0c45caa52.png",
+   "alt": "",
+   "w": 438,
+   "h": 251
+  },
+  {
+   "src": "/images/8f9ff553fca2c2cb.png",
+   "alt": "",
+   "w": 438,
+   "h": 222
+  },
+  {
+   "src": "/images/dd6ef39f654d60a3.png",
+   "alt": "",
+   "w": 438,
+   "h": 233
+  },
+  {
+   "src": "/images/475d7d6b8d6c0137.png",
+   "alt": "",
+   "w": 438,
+   "h": 227
+  },
+  {
+   "src": "/images/76bc05cf8fdf1cd6.png",
+   "alt": "",
+   "w": 438,
+   "h": 233
+  },
+  {
+   "src": "/images/3f247cb8112d8b0e.png",
+   "alt": "",
+   "w": 438,
+   "h": 242
+  },
+  {
+   "src": "/images/d8efae05c40c9bc5.png",
+   "alt": "",
+   "w": 438,
+   "h": 242
+  },
+  {
+   "src": "/images/86da8fde8c122e4a.png",
+   "alt": "",
+   "w": 438,
+   "h": 242
+  },
+  {
+   "src": "/images/ed01a055fdca3a38.png",
+   "alt": "",
+   "w": 438,
+   "h": 242
+  },
+  {
+   "src": "/images/b17636821c59743f.png",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://byjus.com/",
+   "text": "www.byjus.com"
+  },
+  {
+   "href": "https://sites.google.com/eastbronxacademy.org/east-bronx-academy-website/home",
+   "text": "eastbronxacademy.org"
+  },
+  {
+   "href": "https://www.sheffield.ac.uk/",
+   "text": "www.sheffield.ac.uk"
+  },
+  {
+   "href": "https://www.scdsb.on.ca/",
+   "text": "www.scdsb.on.ca"
+  },
+  {
+   "href": "https://www.phonepe.com/",
+   "text": "www.phonepe.com"
+  },
+  {
+   "href": "https://www.ualberta.ca/",
+   "text": "www.ualberta.ca"
+  },
+  {
+   "href": "http://www.woundcaresurgeons.org/",
+   "text": "www.woundcaresurgeons.org"
+  },
+  {
+   "href": "https://www.edmonton.ca/",
+   "text": "www.edmonton.ca"
+  },
+  {
+   "href": "http://www.sayitwithasock.com/",
+   "text": "www.sayitwithasock.com"
+  },
+  {
+   "href": "https://www.policystreet.com/",
+   "text": "www.policystreet.com"
+  },
+  {
+   "href": "https://www.tdsb.on.ca/",
+   "text": "www.tdsb.on.ca"
+  },
+  {
+   "href": "https://www.rockingxranch.com/",
+   "text": "www.rockingxranch.com"
+  },
+  {
+   "href": "https://www.asu.edu/",
+   "text": "www.asu.edu"
+  },
+  {
+   "href": "https://www.appliedintuition.com/",
+   "text": "www.appliedintuition.com"
+  },
+  {
+   "href": "https://myhappygenes.com/",
+   "text": "myhappygenes.com"
+  },
+  {
+   "href": "https://360payments.com/",
+   "text": "360payments.com"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

@@ -1,0 +1,5329 @@
+{
+ "route": "/products",
+ "slug": "products",
+ "family": "products",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Products",
+ "description": "🚀 Jivrus Product Suite - One Platform Many Possibilities",
+ "h1": "Products",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/products",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "Integration and Automation Platform - AppiWorks",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "integration-and-automation-platform---appiworks"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "🚀 Jivrus Product Suite - One Platform Many Possibilities",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "jivrus-product-suite-one-platform-many-possibilities"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d87d2ead141b9f6d.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d87d2ead141b9f6d.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "From Google Workspace add-ons and Zoho extensions to enterprise-grade integrations and automation, Jivrus Product Suite empowers you to:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/824cb15fdf91f286.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Integrate your software and systems 🧩",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/5b38fb6787f61602.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Integrate your software and systems 🧩",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/5a31e185d7645df4.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Automate documents & forms 📝",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/df5aff92288fe936.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Automate documents & forms 📝",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/776bd0a7e3d3678b.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Supercharge your data, spreadsheets, and analytics 📊",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ced184392b5359bb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Supercharge your data, spreadsheets, and analytics 📊",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9261bf37243fc881.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Streamline workflows & processes ⚡",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ec8305aa0e77d9f1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Streamline workflows & processes ⚡",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/3bcce96e87e2645d.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Build custom solutions and agents 🧠",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/038613bab0c3cfd4.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Build custom solutions and agents 🧠",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7eedfab958263021.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Enhance collaboration & reporting 📈",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ca8ef93733be3760.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Enhance collaboration & reporting 📈",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b11510682748372a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Every product works seamlessly within our vision of Intelligent Integration & Hyper-Automation.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b6ea90521b9ad121.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks is an application integration platform that intelligently connects with any application and provides an ecosystem to interact with and automate those applications.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/84d0eedeb15a9433.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "This flagship platform lets you integrate, automate, build solutions, and optimize your business processes. It's your gateway to greater efficiency and productivity in intelligent integration and hyper-automation.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9f528cfa1b8597be.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/0afe3545c14f2d42.jpg",
+     "alt": "Database Browser"
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks is an iPaaS/ aPaaS platform.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a08e747dfb9834df.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Explore AppiWorks",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/db668e92d3eaf0ed.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Core Products",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "core-products"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2f69ecddf46092cb.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Starch",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "starch"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/86752401dc181c9e.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Form",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "form"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/77f891d09853aed1.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Bloom",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "bloom"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fd1d29ca97584c0a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Flow",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "flow"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abc9c6ca0cf212fe.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "MCP Server",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "mcp-server"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/6bac6ddd92632a86.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "AI Agent",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "ai-agent"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/4bd31b47d8d82e7b.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Client Platforms",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "client-platforms"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/aac96cef438289ed.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Explore more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b6f084b4633c2d5f.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Explore more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b6715c4da196bffe.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Explore more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ebee751bc5a10ca9.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Marketplaces",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "marketplaces"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/112cc7e55f6603a1.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Jivrus Products are available in the following marketplaces",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "jivrus-products-are-available-in-the-following-marketplaces"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d72b080ae27b44e9.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "​Jivrus Technologies offers a diverse range of products across multiple marketplaces, enhancing business processes through intelligent integration and hyper-automation. Below is an overview of the available marketplaces and the respective Jivrus Technologies products listed in each:​",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jivrus-technologies-offers-a-diverse-range-of-products-across-multiple-marketplaces-enhancing-business-processes-through-intelligent-integration-and-hyper-automation-below-is-an-overview-of-the-available-marketplaces-and-the-respective-jivrus-technologies-products-listed-in-each"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/5ebbf6d027580a28.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Google Workspace Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eb996be3c1128de2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Google Workspace Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "google-workspace-marketplace"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/38692ace2e000652.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Google Cloud Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ac7ec49642eb5ca.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Google Cloud Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "google-cloud-marketplace"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "li",
+     "text": "Zoho Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "h2",
+     "text": "Zoho Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "zoho-marketplace"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Atlassian Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Atlassian Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "atlassian-marketplace"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Google Looker Studio Connector Gallery",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Google Looker Studio Connector Gallery",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "google-looker-studio-connector-gallery"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Google Workspace Marketplace Products",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "google-workspace-marketplace-products"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Add-on products run on Google Workspace platform to enable Google Docs, Google Sheets, Google Forms, Google Slides and other Google Workspace apps to operate at their full potential and automate your business process.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Start your business automation from your Google Doc or Slide",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "start-your-business-automation-from-your-google-doc-or-slide"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Our cloud-based document template processing products \"Fillable Document\" and \"Fillable Slide\" make your existing Google Document into a fillable form to produce templated documents. And make it is easy to generate quotes, estimates, proposals, agreement, contract, certificate, and literally any form of document that you need.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Fillable Document",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "fillable-document"
+    },
+    {
+     "tag": "p",
+     "text": "Makes Google document as live Fillable form to store responses, generate doc/ PDF, deliver via email and publish form.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "2M+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h2",
+     "text": "Fillable Document for Sheets",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "fillable-document-for-sheets"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ca8ef93733be3760.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Fillable Document is also available to use from Google Sheets directly to work with list of preset rows of data",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "317,000+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b11510682748372a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Fillable Document for Slides",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "fillable-document-for-slides"
+    },
+    {
+     "tag": "p",
+     "text": "Make your Google Slide a live Fillable Form to store responses, generate PDF, deliver via email and publish form.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "871,000+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h2",
+     "text": "Get your business done by powering up with Google Forms",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "get-your-business-done-by-powering-up-with-google-forms"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b6ea90521b9ad121.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Form Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "form-director"
+    },
+    {
+     "tag": "p",
+     "text": "Direct Google Form submitted data to apps within and outside Google Workspace platform.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "2M+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/84d0eedeb15a9433.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Form Presenter",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "form-presenter"
+    },
+    {
+     "tag": "p",
+     "text": "Present Google Forms as you like for conducting Quiz, online assessments, etc..",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "41M+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Our cloud-based form creation product, Form Builder empowers users to effortlessly generate Google Forms and Quizzes from existing content. Whether you're working with Google Docs, Sheets, Slides, or other Google Workspace apps, our solutions streamline form creation, eliminating manual data entry.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Form Builder",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "form-builder"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/0345fa93de878855.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "a",
+     "text": "Form Builder",
+     "href": "https://formbuilder.jivrus.com",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "p",
+     "text": "Build your Google Form quickly from your existing Google Form, Sheet, Doc & Slide",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "9M+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/874559c1cd00d3b5.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Form Builder for Sheets",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "form-builder-for-sheets"
+    },
+    {
+     "tag": "p",
+     "text": "Form Builder exclusively designed for Google Sheets. Works with Google Sheets",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "244,000+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/0f4b650243c77c03.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Form Builder for Docs",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "form-builder-for-docs"
+    },
+    {
+     "tag": "p",
+     "text": "Form Builder exclusively designed for Google Docs. Works with Google Docs",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "5M+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2f69ecddf46092cb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Form Builder Plus",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "form-builder-plus"
+    },
+    {
+     "tag": "p",
+     "text": "Form Builder plus exclusively designed for all Google Workspace apps like docs, sheets, slides, forms, drive, Gmail, Calendar, Chat",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "3M+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Contact Us",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Supercharge your Google Sheets",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "supercharge-your-google-sheets"
+    },
+    {
+     "tag": "p",
+     "text": "Play with your Database from Google Sheet",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a7d204f13a0bd09f.jpg",
+     "alt": "Database Browser"
+    },
+    {
+     "tag": "h2",
+     "text": "Database Browser",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "database-browser"
+    },
+    {
+     "tag": "p",
+     "text": "Connect and query your Database; auto-refresh and edit it right from Google sheets.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "345,000+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Put your business data on the map",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c1f6272f8f887933.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Map My Sheet",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "map-my-sheet"
+    },
+    {
+     "tag": "p",
+     "text": "Build awesome maps from your Google Sheet data within a few seconds",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "102,000+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Channelize data flow across Google Sheets",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fd1d29ca97584c0a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Sheet Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "sheet-director"
+    },
+    {
+     "tag": "p",
+     "text": "Query your favourite app or Post into the app or synchronize data between any app & Google Sheets right from Google Sheets",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "245,000+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Extract Data from Documents into Google Sheets",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a8c0481e6e565ee7.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "ContentSense",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "contentsense"
+    },
+    {
+     "tag": "p",
+     "text": "ContentSense empowers users to extract data from various document types & organize them into structured spreadsheets within Google Sheets.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Launch any data as HyperList with a few clicks",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/6bac6ddd92632a86.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "HyperList",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "hyperlist"
+    },
+    {
+     "tag": "p",
+     "text": "HyperList transforms data from Google Sheets & Google Forms into a beautiful web-based list on your website.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h2",
+     "text": "Education & Evaluation Solutions",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "education-evaluation-solutions"
+    },
+    {
+     "tag": "p",
+     "text": "Smart Evaluation. Real-Time Insights. Better Learning.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/4bd31b47d8d82e7b.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Evalix™",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "evalix"
+    },
+    {
+     "tag": "p",
+     "text": "Evalix™ is a modern evaluation platform that helps schools, training institutes, and businesses conduct structured assessments, manage learners, and gain real-time performance insights.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h2",
+     "text": "Other Google Workspace Products",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "other-google-workspace-products"
+    },
+    {
+     "tag": "p",
+     "text": "Connect the world of applications from right inside Gmail and Calendar",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f67316e6e0190302.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Cloud Flow Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "cloud-flow-director"
+    },
+    {
+     "tag": "p",
+     "text": "Intelligent interactions with all your favourite apps from Gmail, Calendar. Contextual business view and action.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "24,000+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Integrate Google Sheets with QuickBooks - Connect, Query and Present",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Integra for QuickBooks",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "integra-for-quickbooks"
+    },
+    {
+     "tag": "p",
+     "text": "Pulls your Quick Books Data into Google Sheets and lets you play around with it",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Popular with accountants",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "29,000+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Launch Apps with Google Sheets as Database",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "App Studio",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "app-studio"
+    },
+    {
+     "tag": "p",
+     "text": "Launch your custom Web App with one click using your spreadsheet data.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "21,000+ users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Learn more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h2",
+     "text": "Google Cloud Marketplace Products",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "google-cloud-marketplace-products"
+    },
+    {
+     "tag": "p",
+     "text": "Google Cloud Marketplace is an online store where businesses can discover, deploy, and manage third-party software, services, and APIs that run on Google Cloud.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "The Jivrus products that are available in Google Cloud marketplace are listed below",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "HubSpot AppiWorks for BigQuery",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "hubspot-appiworks-for-bigquery"
+    },
+    {
+     "tag": "p",
+     "text": "HubSpot AppiWorks for BigQuery is an integration of the HubSpot CRM system with BigQuery to streamline CRM data warehousing for further processing, reporting/dashboarding, or analytics.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h2",
+     "text": "Zoho Marketplace Products",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "zoho-marketplace-products"
+    },
+    {
+     "tag": "p",
+     "text": "Zoho Marketplace is an online store offering over 2,500 ready-to-use extensions and custom applications designed to enhance the functionality of Zoho products. These extensions allow users to seamlessly integrate Zoho applications with other business tools, streamlining operations and boosting productivity.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "The Jivrus products that are available in Zoho marketplace are listed below",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "AppiWorks Extensions for Zoho CRM",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "appiworks-extensions-for-zoho-crm"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/08bdade68d8c18b1.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks for Zoho CRM is a Zoho CRM extension that automates interaction between Zoho CRM modules and any other applications via AppiWorks platform.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h2",
+     "text": "AppiWorks Extensions for Zoho Books",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "appiworks-extensions-for-zoho-books"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ebcb4179532bde0.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks Extensions for Zoho Books are Zoho Books extensions that automate interaction between Zoho Books modules and any other applications via the AppiWorks platform.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/e6ae69250ba96cd4.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "AppiWorks Extensions for Zoho Desk",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "appiworks-extensions-for-zoho-desk"
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks Extensions for Zoho Desk are Zoho Desk extensions that automate interaction between Zoho Desk modules and any other applications via the AppiWorks platform.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/40e5582589ad9e66.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "AppiWorks Extensions for Zoho Bigin",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "appiworks-extensions-for-zoho-bigin"
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks Extensions for Zoho Bigin are Zoho Bigin extensions that automate interaction between Zoho Bigin modules and any other applications via the AppiWorks platform.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h2",
+     "text": "Atlassian Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)"
+    },
+    {
+     "tag": "p",
+     "text": "Atlassian Marketplace is an online platform where users can discover, try, and purchase thousands of apps, add-ons, plugins, and integrations designed to enhance and customize Atlassian products such as Jira, Confluence, and Bitbucket.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/62ae6544c0f106d0.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "EmbedXpert",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "embedxpert"
+    },
+    {
+     "tag": "p",
+     "text": "EmbedXpert enhances Jira by allowing users to seamlessly embed, view, navigate, and manage external content directly within Jira issues.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Get it now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore more",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h2",
+     "text": "Google Looker Studio Connector Gallery",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)"
+    },
+    {
+     "tag": "p",
+     "text": "Google Looker Studio is an online data visualization tool by Google. It unlocks the power of your data with interactive dashboards and engaging reports that inspire smarter business decisions.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Jivrus Looker Studio Connectors",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jivrus-looker-studio-connectors"
+    },
+    {
+     "tag": "p",
+     "text": "Jivrus Looker Studio Connectors help you to bring your data from all your favorite apps into Google Looker Studio for visualization to your heart's content.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore Connectors",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "h2",
+     "text": "Looking for Professional Services?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "looking-for-professional-services"
+    },
+    {
+     "tag": "p",
+     "text": "Explore Professional Services",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h2",
+     "text": "Index for quick access",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "index-for-quick-access"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vRv1CAQkM_ow1PWw4qKqBeYyCuadVB0ND1HgFuTSqETQRlUTDCtMRGQzeNVyF-dVwdyaFqGFqM3qdHuuyTdIu0x6SzJS1CJJ46K_4kszZa3zIAKH67KHkn0XGVCPkJzrpdNghD1NqJtmArYxZyizqrErRnrGnUlwHzUrxAU0OB1akyqQaG4D40=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "🚀 Jivrus Product Suite - One Platform Many Possibilities",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "jivrus-product-suite-one-platform-many-possibilities"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u_YyQtf7LJY9nBdzSJMhv5IsUtwp_NwNkCkLKZJFERxVMBAyVc1KCDV8AmuRXp_CoY4PZGwdSDteoeDMkonUawLJ6KbV1eHsCAIDS9rTKBOdgtzxfxjTqBJOBcjm-3vuKgQuRmffHHJFUrjilwXGoKvbSsnPoOjgdT7lLodI_WGkfGG4fqGT88Dt8SDHmkRkjEDwVXhYvUEXqlbuB-P2xrcs7w2S6jipCN=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "From Google Workspace add-ons and Zoho extensions to enterprise-grade integrations and automation, Jivrus Product Suite empowers you to:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Integrate your software and systems 🧩",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Integrate your software and systems 🧩",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Automate documents & forms 📝",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Automate documents & forms 📝",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Supercharge your data, spreadsheets, and analytics 📊",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Supercharge your data, spreadsheets, and analytics 📊",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Streamline workflows & processes ⚡",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Streamline workflows & processes ⚡",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Build custom solutions and agents 🧠",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Build custom solutions and agents 🧠",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Enhance collaboration & reporting 📈",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Enhance collaboration & reporting 📈",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Every product works seamlessly within our vision of Intelligent Integration & Hyper-Automation.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uCRAAjlhdmuJ21lZPjE-8MOxeYp1OsfKkESVQhXI3siv3gYljIpmtSuh1i4sraupEVnv9kDPtCjZ_jyZ0m0KZ4eW7RfP0yfh3-MIhB9aw1OLE-5JOdCavLbhjfj1iA4T_OkwX5VcWb3uDRuOJTvY0dPVYV1hNzpGFL4lQicZ7dKEBpctglpA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks is an application integration platform that intelligently connects with any application and provides an ecosystem to interact with and automate those applications.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "This flagship platform lets you integrate, automate, build solutions, and optimize your business processes. It's your gateway to greater efficiency and productivity in intelligent integration and hyper-automation.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks is an iPaaS/ aPaaS platform.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tKdkFyxWxEiXo39JONwWV4jgjuWcU6-sjjlbfM0e5oCkkUDg0RC5JnO-h61ZYTKEiYaViGK0qJ3bvZWkwOKR7VWPEg10oKks8gm2uRGqGpN70G4CKh4ZB6X6_3SmWfRGGXzII1qbVSe0Xx8rCjoNN5obENujWzzx5WL2VJAZS5dhqFJ_s8ZPK96OHpn49N43bzBjxrrSUzkYPYKQGKBut7nKSdzek4B1Sy=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore AppiWorks",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h3",
+   "text": "Core Products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "core-products"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s7wnf_qPZCh5OVxu_h7NVZpNf9uOdUhJJNHm0elfmQmRcZ5ziQzAtOtT3VzZByxoHzlwehyDp5NHS635jSHlFTr5MmYnGbpTGzK-sE6Cr1fNciw4tkY3pqezkqmpRhCf55SiQqv6QKQkrC-LBhgGWuYCgKq92pGTwY9i92xshqlKtrjWILEUhQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Starch",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "starch"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vZByyRE8PYLG6-UdKWQj7L7sOabVI-5NVIl8c2Lz-jR9cpVYerzuoIqKucLTH3lS542gWD55cw-bLLcQEkMfBcp28_darwNE-UjHcNX38FBcOewqauVABHmebLlcUoy91pWnWRhqL6k_dko-DX5TxLtCY4LVMsH7jv1ITgD1XvwTynK39E3w=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Form",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "form"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tdg4idiUrx-broh9Pvv8AcXB-FxyD9fEnrpLDjNbis-0H1Cdz0ZUroBYL2pp0ykhJhH29L-RVCzHg8krSRYV_yIvJwJyjaOTP9Ys-CBC4X3a-VIQOxFzs8ytijJWNzJ-N0AFTb3zGcNFEw99XsVconpECwoAt-M5lI0CBT_2awQt6rfTswvK1B=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Bloom",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "bloom"
+  },
+  {
+   "tag": "h3",
+   "text": "Flow",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "flow"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vIT3UyAsUVGbVsw9qMJdIQAegLTJkNjdKlrm0_Ect_ZZdcc0KUW7RJpMi4aTOamU4dwle6yj4BL2D4wNkVH39TaMacb3yiXM_TmOFWMc5YYK-cmTDsRx-qduxywnziCDI_osXvXDRETK2hdAidyP3C-RNhTP-9-vLic8rPj6gx7-zL7Ept4RR7=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "MCP Server",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "mcp-server"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tS9l5y8jZXY9_E3JgPgVUV826U0qryoujVVxqyC9floE2jFdMmfwF3njhcUBPzQd3nC-oT7a9GhcEjdSGgAXgwRcjVLP9HHaJygFL1giszfy_XymRXivffDLue3hG4Jx6bsIox0fAiH_VEcEKrn_YtIk762BA_fF-mffFBK3JzFJdDDsKh7sVs=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "AI Agent",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "ai-agent"
+  },
+  {
+   "tag": "h3",
+   "text": "Client Platforms",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "client-platforms"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s2zEsh1j109ETY8Zqokx5UhP-M2hihv9wGRDSIdK84gTivGllDlCbVKTAj3BlIT0dVIoZLf3sWei-KSJIJCCV4uQVGiWrg2zFtbvCD737LOYGEhs6UfTQNPUh_YNlPiStHITf61cxQG2g2FqLYKviFwA4HzLAAIdlTLddC160Xkq2zCJjUlB_JjLaJpN2_14hWfOUy_Py5_jkBYHNajrUmeLGQJ8AHYQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v65XgPXIOxF7RvJP0QbWbjC_LvS8FbD_PevS2We-ALT6feO-v-hbCXU4bcOHdLRo0xZ4okjLW-rQPQr0kolrHg_-zJXnSVlBluK5Iyz4JTFVt8Yhog7o3j-lP-7rKssnNvUrPQDST-y7PIK4QeubU7tcOwrw--7AGMn2ARjMo8K95onvnqaZxd1FiaKh8TOfKqcV-q5mLUjsdCOmvQzO8OwGURi0-HRw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sIkcyzpkLOK0mOQp5xpUbSGcMKi8WnvHijHqmB0EI_77i8cXrrQloZ7h3dlhnIP4Gd7-npi6Rd8y5-YLFE0rsPeUuzzNvbwILMurrCGGbiKFlBconteOpTC6zas6LMAUhv31Wdu4tw6dCbqDoGxNHK_YCB00bT1d0Kef4fyU44WJrGLNtmnQldEmSd9r9RUlUu-l62Wh9EC9W3epKvmvKodSTKj_pcEVTu=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h2",
+   "text": "Marketplaces",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "marketplaces"
+  },
+  {
+   "tag": "h3",
+   "text": "Jivrus Products are available in the following marketplaces",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "jivrus-products-are-available-in-the-following-marketplaces"
+  },
+  {
+   "tag": "h3",
+   "text": "​Jivrus Technologies offers a diverse range of products across multiple marketplaces, enhancing business processes through intelligent integration and hyper-automation. Below is an overview of the available marketplaces and the respective Jivrus Technologies products listed in each:​",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jivrus-technologies-offers-a-diverse-range-of-products-across-multiple-marketplaces-enhancing-business-processes-through-intelligent-integration-and-hyper-automation-below-is-an-overview-of-the-available-marketplaces-and-the-respective-jivrus-technologies-products-listed-in-each"
+  },
+  {
+   "tag": "li",
+   "text": "Google Workspace Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Google Workspace Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "google-workspace-marketplace"
+  },
+  {
+   "tag": "li",
+   "text": "Google Cloud Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Google Cloud Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "google-cloud-marketplace"
+  },
+  {
+   "tag": "li",
+   "text": "Zoho Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Zoho Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "zoho-marketplace"
+  },
+  {
+   "tag": "li",
+   "text": "Atlassian Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Atlassian Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "atlassian-marketplace"
+  },
+  {
+   "tag": "li",
+   "text": "Google Looker Studio Connector Gallery",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Google Looker Studio Connector Gallery",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "google-looker-studio-connector-gallery"
+  },
+  {
+   "tag": "h2",
+   "text": "Google Workspace Marketplace Products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "google-workspace-marketplace-products"
+  },
+  {
+   "tag": "p",
+   "text": "Add-on products run on Google Workspace platform to enable Google Docs, Google Sheets, Google Forms, Google Slides and other Google Workspace apps to operate at their full potential and automate your business process.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Start your business automation from your Google Doc or Slide",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "start-your-business-automation-from-your-google-doc-or-slide"
+  },
+  {
+   "tag": "p",
+   "text": "Our cloud-based document template processing products \"Fillable Document\" and \"Fillable Slide\" make your existing Google Document into a fillable form to produce templated documents. And make it is easy to generate quotes, estimates, proposals, agreement, contract, certificate, and literally any form of document that you need.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sKDEktC0J0Of26dVmvy_F50UqKUVEqFR-CN4Sp2i506Gsh_ho8w-l1G_tiQCmFY81eHmxT2VXo-NF1QBeMExHOfRTsUNOhvZcK7-HpkNQ9PkHOcR_lh87wkPtnCxUPvnaji3wpi-4DsqTWtag6MHYbiipaHedy7o_BgOCCetgnSt2LwGhFHzEyyv_D7cjUrvWRNnI0udYfV7K23OfLWa7zBNDFn4UUqdE3=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Makes Google document as live Fillable form to store responses, generate doc/ PDF, deliver via email and publish form.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "2M+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Fillable Document for Sheets",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "fillable-document-for-sheets"
+  },
+  {
+   "tag": "p",
+   "text": "Fillable Document is also available to use from Google Sheets directly to work with list of preset rows of data",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "317,000+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tInFKCXyvteEA5dApEHJkMEP8Au-UBk3Ejk4przzSOlUCgX0zegJdmr6g-JXKvvdcs-7uSrAe2heyZsrOMHWkKvvR38oVGZfFH6ybQmLepBbUlUI6iH4EDKrdQa7LUEWSHBfBOEFU5jzJ0W_x5AWl9yNov-Q2xaqd59EW_oMOBdKjXTuslSuuelb573JF_4nu0PCKu3ZxCl0MaJyCv3LRGFEF3CxPjVW0p=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "Fillable Document for Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "fillable-document-for-slides"
+  },
+  {
+   "tag": "p",
+   "text": "Make your Google Slide a live Fillable Form to store responses, generate PDF, deliver via email and publish form.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "871,000+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Get your business done by powering up with Google Forms",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "get-your-business-done-by-powering-up-with-google-forms"
+  },
+  {
+   "tag": "p",
+   "text": "Direct Google Form submitted data to apps within and outside Google Workspace platform.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "2M+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tdkCK6p4I8MAxlC4kHOSUSCCWpzBozQLyPbdxTyr_Wyi-usy7EKI93K5ONR128VZGAvqfp-1cJsnWhwrruU6Du6uGkqgX78AqhxdWigqIg96iDaXkYHdAnQU3mrT9k_tOfRRJIbgJswFqGSQJOAe27hSk0yyUrF_JfIRUXhwpIzkFH_EGbqF9mE7z5ZQdzh4E30eB4ridb=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Present Google Forms as you like for conducting Quiz, online assessments, etc..",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "41M+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Our cloud-based form creation product, Form Builder empowers users to effortlessly generate Google Forms and Quizzes from existing content. Whether you're working with Google Docs, Sheets, Slides, or other Google Workspace apps, our solutions streamline form creation, eliminating manual data entry.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uo65fFbzMkHNj7Hvo3FvWsuR347Vtuv0lRfny3f0DggDkPixEzkw9Mo6BwE1Y-Lzikm3EqKgEz8_nrTBfjFMgV1T8wa9dJaCmW8uwDRUWQrxKVeutipnenD36SeQtu8BMvRxURj77AdbnZ-eORVhCaIqxBE5wG2G40xs_ww2e0bKyUXpIJsW6GzXvfKcghaYxYWs3ZXNYUWxvtnJgpqIP5sjE1lPf8Zv__=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Build your Google Form quickly from your existing Google Form, Sheet, Doc & Slide",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "9M+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sLs9iClu2K_ELrx9ZcTjIkhuCrDB9ETfpAeMGQ103yq7YNQLqHNetyf9mnyG8EHM0p7bgefirT671LOFbCA3eXcZqGfNmfiKg7_2JRmT8G1TPwzHhoqbgOMyVeafuWFgFchPWJpzpwlsJJxR8KbfnIa6qKQ7ujBPwnvBSfkhZnghydJDCqfkuJMykUIkn_dQ2JeaYEmcOvMCl-hb7ZITExHqS1O8ZleA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "Form Builder for Sheets",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "form-builder-for-sheets"
+  },
+  {
+   "tag": "p",
+   "text": "Form Builder exclusively designed for Google Sheets. Works with Google Sheets",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "244,000+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vC_KNF-GooePPkTCfleTFIk_0mNpPrn0sJ97rHqmQjJG2Tn85fvoeQlz2jNwo85Ng0xidfsnZdiW-JLR2fjIiccLlOfl1REUHsOJ6s0lAUdfJUVWyMkq2b9eIaylzLpsedWMRhvy9mseeDg0WoURKHv__zaqdiYlbIRK6g_WdIWHLJo7guamWUh76O_YJO6RoSlhUFooHJYStdcH0y18fo7i42K_M=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "Form Builder for Docs",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "form-builder-for-docs"
+  },
+  {
+   "tag": "p",
+   "text": "Form Builder exclusively designed for Google Docs. Works with Google Docs",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "5M+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vhzC4Ki3trM4Oe3PxgmojiZRLYAkMsxJ1rVnITQtp31ln12X5lnPfJA_UIkt3x0gFhp94w3pRlfT2KN98LiGfdfPSdoM0dywcG9QudEcxqfijXpnRlIdYUEqYKWAobW_zQMoxc48DngDG7GIbyPQlM8XsvvJNxiDCUZdFz5NR_ArX-Q95JtF-1JO9dFRf4kuws_shyOXMLVT5gq8m1tCHqcGq5eeiNXexA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "Form Builder Plus",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "form-builder-plus"
+  },
+  {
+   "tag": "p",
+   "text": "Form Builder plus exclusively designed for all Google Workspace apps like docs, sheets, slides, forms, drive, Gmail, Calendar, Chat",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "3M+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Supercharge your Google Sheets",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "supercharge-your-google-sheets"
+  },
+  {
+   "tag": "p",
+   "text": "Play with your Database from Google Sheet",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uSTPnDUs-Rn2O1hcTeESKU-Zkl1BCqJsFpfOdJ8UX9S4ze0PL0mJlArVapZ5QMySoxJeeQF2u2zmbmDFW5GEHvJe6u-dW-w8kemOeWqXk7-2lXRSRsb4WZOMQW2ovx54rVW-1qQh0nvoaTu6gns89xflatgQsM8sTuCE4uSWPidOZwj32KIJ7rfa3CE9XnG8RN441Opg=w1280",
+   "alt": "Database Browser",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Connect and query your Database; auto-refresh and edit it right from Google sheets.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "345,000+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Put your business data on the map",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v00UtoDxKKd0kHPu0YkqEemQBR5yhELc64nt6YrDOYxwuZk_g7AaK22T_ygfbxKlsobHaZ-hAmgLz8KaoGNM9AZAJVAUF8K67_upNXrKHx0qwFJWgaGZcPHWqVbUbdqrl6cDEyhFyS8g2g4K_0sXmzZHFkHow-OEWZhylz_w-e62cvkJO064sm8CYcdL9BegjhLahP4sEo=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Build awesome maps from your Google Sheet data within a few seconds",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "102,000+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Channelize data flow across Google Sheets",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Query your favourite app or Post into the app or synchronize data between any app & Google Sheets right from Google Sheets",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "245,000+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Extract Data from Documents into Google Sheets",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uec0bAHo4Opv2y5vsAJCK9fbYrGONdqCDgRgaj4qM_GTkP2az-JHjnnvNM7y1pKkAROSVmj0on0oC5ye8nyAiQ6fOmN5uZjwa6OSOcM5akSfWOw80g-vFkhQQnKEDFXRjBZS_Y7x2m5KTKBUYYiWmef8QHFpWUMrZW88VZIRmDXCB5-BgDRwca_WxEvX069iYRsyYsCYVPPy0peQ8pOLaHOGmLtCTBIifh=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "ContentSense",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "contentsense"
+  },
+  {
+   "tag": "p",
+   "text": "ContentSense empowers users to extract data from various document types & organize them into structured spreadsheets within Google Sheets.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Launch any data as HyperList with a few clicks",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uAH5MjEI3KLk94hV0BzyZPy6dHYfDq6VWBDvhzAdCo96Dknve1pkVvXsPREpP35qogk0PKorPONKP3jGjxaSI4qdqmx8o1jp8rsvPW3-HOEO3BwN5dL6LDS8F4CoyC5H7QRZZxVA0vWLCow-Uqo9K34d9R34Tl03Dw5KErHAOAA2wQvgeWEPU5PbSIihi2g4Y9mgtjnHVwPAlyABoKm4iaUKIdBVl6sz2B=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "HyperList",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "hyperlist"
+  },
+  {
+   "tag": "p",
+   "text": "HyperList transforms data from Google Sheets & Google Forms into a beautiful web-based list on your website.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Education & Evaluation Solutions",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "education-evaluation-solutions"
+  },
+  {
+   "tag": "p",
+   "text": "Smart Evaluation. Real-Time Insights. Better Learning.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72valmTw4LtItdKqPUP9F1lW7nFQpKdWEAy1H65WXhZJNJhP9mkqiaIwNBtGYbYJxjSGnQmN6__-RtP-651O8JB6fOOzyeNKs5cWKv3Wm1uz1K5sz4SXNHkZtA71-loMYsqvT04944pZog9pLioFxtdtBbOtcNAL7OqhmezPsTTOyNXUWFr7KAzj6OP_HtPxtHaP3AUFdsetc4RuvL8y_PTRsYUoNhSDGXP-=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "Evalix™",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "evalix"
+  },
+  {
+   "tag": "p",
+   "text": "Evalix™ is a modern evaluation platform that helps schools, training institutes, and businesses conduct structured assessments, manage learners, and gain real-time performance insights.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Other Google Workspace Products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "other-google-workspace-products"
+  },
+  {
+   "tag": "p",
+   "text": "Connect the world of applications from right inside Gmail and Calendar",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vLxzdBcIsNM2HlwTuHaLdJHg8iF8EWZmNEiwZcomVGmL1KfEqNzWoJPKGz1tzljGqBiqwNYFvx8mFbIBdE9SMwqryj8NBXfR_7KfR-cE-16G5b4CdrssAcbCnS8vPExzfiKPft3m5_k6Ed7PkkMmIOTwPHVizxkJoX0QAWMgYKsdW7HhtFYTCTvajTnSXRkeNqcfEGPBOf=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "Cloud Flow Director",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "cloud-flow-director"
+  },
+  {
+   "tag": "p",
+   "text": "Intelligent interactions with all your favourite apps from Gmail, Calendar. Contextual business view and action.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "24,000+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Integrate Google Sheets with QuickBooks - Connect, Query and Present",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vZLk9RQd5o9RgpgWJJg4Xjx-Z8szaKXe5sqQbiGRbzk9gzLqdFUI2qUwOTu0lwCJtxwQ88L2mAyqfk2i2pXH-MI9GFdrU_4PPk_1eXg5JFk_uHmStD_YTGqAsXrSsitT5P9BdmXpANIpyzkeoQj5YSVm_swhZzfm_pD2AGyE-7JxGAg9TWgJCLeDSUR0F8OD9iSfUmMeo0=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "Integra for QuickBooks",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "integra-for-quickbooks"
+  },
+  {
+   "tag": "p",
+   "text": "Pulls your Quick Books Data into Google Sheets and lets you play around with it",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Popular with accountants",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "29,000+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Launch Apps with Google Sheets as Database",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vnL-KGf_CtD5ZvatIi1stXiZNnZ0cniHmlkgt4ZMp7Oy4A3IAJOIQpXf64hvjVNyfWj6-oNu77c69Kq7lO7DTmgP1WkePwKhTxvw5yY0eYrhwveeIjDUcwGuU71GA_D9-e3g-jDr5JWBAQPPf9XgtYJky8INA1eEhikJuo7MrLV_0AL6RZxcuJbLhZ7X-SmnZ6Bq6mH6s_=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "App Studio",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "app-studio"
+  },
+  {
+   "tag": "p",
+   "text": "Launch your custom Web App with one click using your spreadsheet data.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "21,000+ users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Learn more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Google Cloud Marketplace Products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "google-cloud-marketplace-products"
+  },
+  {
+   "tag": "p",
+   "text": "Google Cloud Marketplace is an online store where businesses can discover, deploy, and manage third-party software, services, and APIs that run on Google Cloud.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The Jivrus products that are available in Google Cloud marketplace are listed below",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s14oUIU8SCaf5Scbp830KLYlDwR2pMJ36YfnAe7ZYFzmhTbkGk56KLs_CHnRSCvY-LRR9x3X_PLVXgCohHKJcEiFxKrwzpiElmDM7rWtpbnl34wFF9e3nnND_j6bEANv5XzUmVOhmBUTnceH3TP5UUBUhAb_GQSi8ERTqPVnIXgfaQEngRg2RE=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "HubSpot AppiWorks for BigQuery",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "hubspot-appiworks-for-bigquery"
+  },
+  {
+   "tag": "p",
+   "text": "HubSpot AppiWorks for BigQuery is an integration of the HubSpot CRM system with BigQuery to streamline CRM data warehousing for further processing, reporting/dashboarding, or analytics.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Zoho Marketplace Products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "zoho-marketplace-products"
+  },
+  {
+   "tag": "p",
+   "text": "Zoho Marketplace is an online store offering over 2,500 ready-to-use extensions and custom applications designed to enhance the functionality of Zoho products. These extensions allow users to seamlessly integrate Zoho applications with other business tools, streamlining operations and boosting productivity.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The Jivrus products that are available in Zoho marketplace are listed below",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72srQLzsyvF3Dx2nFz7jM6MVSY8XYHQAWO-qgd4_HG9NGFXUZqxQxVkDud4lsFd6VaqITBtS06CqfIawc8P1O_FR-dAP2vD9m_3KsMT7S92R3dITKj0vwZRlI2VWRdtRU_2uRj8dVrP7pks7gAYAejQVoW_xXNGCE3_LfTrOU-wpyN0uBjNOki-0VXo9FS_k_JmIJv7tCrGU8SIhA-rVIuTjGrI9hROZjMaP=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "AppiWorks Extensions for Zoho CRM",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "appiworks-extensions-for-zoho-crm"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks for Zoho CRM is a Zoho CRM extension that automates interaction between Zoho CRM modules and any other applications via AppiWorks platform.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vn9fbNqAxTxYIHidW3xxb_MRBoxuzOYv9CpW66gpyFkMB9e8kwwHrAxAb94qLfprcGRqmhTz_np-hFNMd4elHuyEQ4LhOt-EmcWOwqLlt4vQzL5XrpIltYHlV5vt9k6FM9OQ7j-7FmNSuzkzADUvPTomVX8r5KQpAsmAOWfhSaLkTZemSdLHFyZ6-ca39ALIvRzLxWkGWc8_5bImk7FNwk-uc6Iplz8XWx=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "AppiWorks Extensions for Zoho Books",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "appiworks-extensions-for-zoho-books"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks Extensions for Zoho Books are Zoho Books extensions that automate interaction between Zoho Books modules and any other applications via the AppiWorks platform.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72unXDtcB_RtDed9nDe3AcvzlUpBZdrDYpGKxAbEXoYM3MrtaOS85jxMXfRl8Dp9iI262AM9YVtMSt76eu2xYLeMFZixWkRdSdXgQn_h5TbSj7pjLP4St-iGiTI7mYjL7DKLeq1ZgJ6QhvHSrMN48vPO8e0Zxgt15JGHkMVFG4QlSQo31UViDEOh96l2DVgZUsz1eRuwQ_tf5-bbardT3tuBPBMH2edFtgpQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "AppiWorks Extensions for Zoho Desk",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "appiworks-extensions-for-zoho-desk"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks Extensions for Zoho Desk are Zoho Desk extensions that automate interaction between Zoho Desk modules and any other applications via the AppiWorks platform.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sQivOYMJGoBDeGAZjiQ7-ILcHrWNEd6cYqPeNtXj4uKZnDtFbw-jmIFp3JKqfwGLduMWU_ShP3pwHTtTGzPdtrasuIPH4gAQDSAx0dEOHho5I6a4AG0B_ReOrfIls3IKo1YxSZU-QgojcW_j1-4iDECyUCKp_Ut2K948tr5RnN-U8RO4lZ1rYNSGavaTYlZhbSjQLBf4xxAhLQDniB4F7kqkIDGU39o6yy=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "AppiWorks Extensions for Zoho Bigin",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "appiworks-extensions-for-zoho-bigin"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks Extensions for Zoho Bigin are Zoho Bigin extensions that automate interaction between Zoho Bigin modules and any other applications via the AppiWorks platform.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Atlassian Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Atlassian Marketplace is an online platform where users can discover, try, and purchase thousands of apps, add-ons, plugins, and integrations designed to enhance and customize Atlassian products such as Jira, Confluence, and Bitbucket.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uDnMMxrurCW1O8ut6wfV_IiaBidQ41u61aDuxNVQDd6o2p1SPKkvJ0Z9Zqr3t9teOQzKQ9GDRxxFc_cxwQUqPCogpG04H7EDE1fDo4Wgc3M7r6zuKLf8YpAcDFC4h-Wo2O58HDi893UgTOL4-L_CKZTSbymF1if8xEAYjyj09w6Daheo-bqOziZMAJS95AWcd7TO8jKZ-QOwAKzltQJY6Rs10VSEmXvZkp=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "EmbedXpert",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "embedxpert"
+  },
+  {
+   "tag": "p",
+   "text": "EmbedXpert enhances Jira by allowing users to seamlessly embed, view, navigate, and manage external content directly within Jira issues.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Get it now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Google Looker Studio Connector Gallery",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Google Looker Studio is an online data visualization tool by Google. It unlocks the power of your data with interactive dashboards and engaging reports that inspire smarter business decisions.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uv2H2F2YOgOvM8i7zIPK0XGozxqysNyjUFwYmyGtWqasB0oXbLz_X0sb5tkg9q3llwst5uC-pAyGES2zFdCqho4awcveH-_U6hIqK9TtLpuCOpaZjNiJEPHbc60ltkdG2YeaH0RyK_D-L82yCBO5Cc73a4GOFjb_9IBd-tz4hJJbphaTczHxPIuVQKJdZ7VLCLq6yD93LufCX0PrCQscybFp-w9P0PDbSI=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "Jivrus Looker Studio Connectors",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jivrus-looker-studio-connectors"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Looker Studio Connectors help you to bring your data from all your favorite apps into Google Looker Studio for visualization to your heart's content.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore Connectors",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Looking for Professional Services?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "looking-for-professional-services"
+  },
+  {
+   "tag": "p",
+   "text": "Explore Professional Services",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Index for quick access",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "index-for-quick-access"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sgd0lg-OBa0pNMlNPzoA8j76wlgE8XJMtjRky7ouN2C5Z32drVT7OiX6_u6eVoT0FqnbquxLrDnhR1ccOXOSCJIcGuiNb7EnEIEIsbuOSpBRGeDTz6wduG3-wT5zkquhz2htowfXFcBdZhW4XZl0p8Y1SgoOM9xNm4Du6I3fCuKsoYigKqS5qZj6fMC7byb5mSm4au1e0UGfbJ7qoCu7iefkc6JW3Gng=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uC42xoFk5kkJhMJ6XiO-ZZWNTVeJHFH3JufLGn00joMxSapnetUHFdAqIftbh-i4hP_-G0xzPGcxwlIaPxv-euPNlY7Ml9tr7Fd37YoP5xJClhSgX7dU36zw_5jD3vUjDO7YZZPSh6Q3XhI33WuZYI33L4iwlHLwdxrg6Wh47uI94QlJ0BpEwncuUW46OarlKMyD__ZPi9XrDvOjyHag-AnM7RhVje6m6T=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ucAm4h_GnAi1Pl2xjVz5s8iUaLDD-pyLPn94W5tbTFJV0Rn_EnVRAS6SQzCqwdwU_C53wtiLscpNYaWQfKJp55TxCHqM23icgzD78-zTdzkK9dY8BwnWvmZ7IhhGX1OZ2wt1pLBsFtu9ILxApOSg02VuggB3NQW80aeGC5AiamX5gPJkFAoFJL=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1416
+  },
+  {
+   "src": "/images/d87d2ead141b9f6d.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "src": "/images/824cb15fdf91f286.png",
+   "alt": "",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "src": "/images/5b38fb6787f61602.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/5a31e185d7645df4.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/df5aff92288fe936.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/776bd0a7e3d3678b.png",
+   "alt": "",
+   "w": 512,
+   "h": 512
+  },
+  {
+   "src": "/images/ced184392b5359bb.png",
+   "alt": "",
+   "w": 1024,
+   "h": 964
+  },
+  {
+   "src": "/images/9261bf37243fc881.png",
+   "alt": "",
+   "w": 720,
+   "h": 667
+  },
+  {
+   "src": "/images/ec8305aa0e77d9f1.png",
+   "alt": "",
+   "w": 640,
+   "h": 272
+  },
+  {
+   "src": "/images/3bcce96e87e2645d.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/038613bab0c3cfd4.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/7eedfab958263021.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/ca8ef93733be3760.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/b11510682748372a.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/b6ea90521b9ad121.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/84d0eedeb15a9433.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/0afe3545c14f2d42.jpg",
+   "alt": "Database Browser",
+   "w": 429,
+   "h": 280
+  },
+  {
+   "src": "/images/a08e747dfb9834df.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/db668e92d3eaf0ed.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 800
+  },
+  {
+   "src": "/images/2f69ecddf46092cb.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/86752401dc181c9e.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/77f891d09853aed1.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/fd1d29ca97584c0a.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/abc9c6ca0cf212fe.jpg",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/6bac6ddd92632a86.jpg",
+   "alt": "",
+   "w": 512,
+   "h": 512
+  },
+  {
+   "src": "/images/4bd31b47d8d82e7b.jpg",
+   "alt": "",
+   "w": 740,
+   "h": 340
+  },
+  {
+   "src": "/images/aac96cef438289ed.jpg",
+   "alt": "",
+   "w": 512,
+   "h": 235
+  },
+  {
+   "src": "/images/b6715c4da196bffe.jpg",
+   "alt": "",
+   "w": 740,
+   "h": 340
+  },
+  {
+   "src": "/images/ebee751bc5a10ca9.png",
+   "alt": "",
+   "w": 870,
+   "h": 495
+  },
+  {
+   "src": "/images/112cc7e55f6603a1.jpg",
+   "alt": "",
+   "w": 720,
+   "h": 638
+  },
+  {
+   "src": "/images/d72b080ae27b44e9.jpg",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/5ebbf6d027580a28.jpg",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/eb996be3c1128de2.jpg",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/38692ace2e000652.jpg",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/1ac7ec49642eb5ca.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/d87d2ead141b9f6d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1416
+  },
+  {
+   "src": "/images/ca8ef93733be3760.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/b11510682748372a.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/b6ea90521b9ad121.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/84d0eedeb15a9433.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/2f69ecddf46092cb.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/fd1d29ca97584c0a.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/6bac6ddd92632a86.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  },
+  {
+   "src": "/images/4bd31b47d8d82e7b.png",
+   "alt": "",
+   "w": 440,
+   "h": 280
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fwww.appiworks.com%2F&sa=D&sntz=1&usg=AOvVaw3qs2cq5CU3PNIWDpvaC1Xx",
+   "text": "Explore AppiWorks"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fappiworks.jivrus.com%2Fclient-platforms%2Fgoogle&sa=D&sntz=1&usg=AOvVaw1pC3A2DIaq4kTaiozg0Wd5",
+   "text": "Explore more"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fappiworks.jivrus.com%2Fclient-platforms%2Fmicrosoft&sa=D&sntz=1&usg=AOvVaw2qm1Ehf5Gdtl0zatAOVEKR",
+   "text": "Explore more"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fappiworks.jivrus.com%2Fclient-platforms%2Fzoho&sa=D&sntz=1&usg=AOvVaw0oM_Q7L04uirk3bunBo6AY",
+   "text": "Explore more"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/fillable_document/305830069607",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Ffillabledocument.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw3ImvtZpvPWIyfhPoNDCY5N",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document for Sheets"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/fillable_document_for_sheets/63828731146?hl=en-GB&pann=cwsdp",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Ffillabledocument.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw3ImvtZpvPWIyfhPoNDCY5N",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://fillableslide.jivrus.com/",
+   "text": "Fillable Document for Slide"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/fillable_slide/97307850399",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Ffillabledocument.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw3ImvtZpvPWIyfhPoNDCY5N",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/form_director/824044380012",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fformdirector.jivrus.com&sa=D&sntz=1&usg=AOvVaw1o9XmoAlofKRpWFASvOmsB",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/form_presenter/93519377337",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fformpresenter.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw3kRXKalC8nuyqKZN3wsqrq",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/form_builder/133781775166",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fformbuilder.jivrus.com&sa=D&sntz=1&usg=AOvVaw2_fI0bXpcrrIrXnjhuxi_j",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder for Sheets"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/form_builder_for_sheets/463417060578",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fformbuilder.jivrus.com&sa=D&sntz=1&usg=AOvVaw2_fI0bXpcrrIrXnjhuxi_j",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder for Docs"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/form_builder_for_docs/725512574241",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fformbuilder.jivrus.com&sa=D&sntz=1&usg=AOvVaw2_fI0bXpcrrIrXnjhuxi_j",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder Plus"
+  },
+  {
+   "href": "https://workspace.google.com/marketplace/app/form_builder_plus/235019714744",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fformbuilder.jivrus.com&sa=D&sntz=1&usg=AOvVaw2_fI0bXpcrrIrXnjhuxi_j",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/database_browser/480893432423",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fdatabasebrowser.jivrus.com&sa=D&sntz=1&usg=AOvVaw3xFurkQMmILJ-A4BGWnPkQ",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/map_my_sheet/165796308680",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fmapmysheet.jivrus.com&sa=D&sntz=1&usg=AOvVaw0yobcLMvMi04Tr7jMk0zp0",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/sheet_director/428888432468?hl=en-GB&pann=cwsdp",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fsheetdirector.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw1eYX-WqH-1jZnhsGVoKb7Q",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://contentsense.jivrus.com/",
+   "text": "ContentSense"
+  },
+  {
+   "href": "https://workspace.google.com/marketplace/app/contentsense/869532983556?flow_type=2",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fcontentsense.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw28cyjLbEv4M6cB2x3NRrWM",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://hyperlist.jivrus.com/",
+   "text": "HyperList"
+  },
+  {
+   "href": "https://workspace.google.com/marketplace/app/hyperlist/181703156714?flow_type=2",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fhyperlist.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw0gljDUNPkUiGpttnIMs1uS",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://evalix.org/",
+   "text": "Evalix"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fevalix.appiworks.com%2F&sa=D&sntz=1&usg=AOvVaw3w4_kzoF310YlOdrkRTafv",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fevalix.org%2F&sa=D&sntz=1&usg=AOvVaw0mu7r-Uj9wROKOmPqhq8Ia",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://cloudflow.jivrus.com/",
+   "text": "Cloud Flow Director"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/cloud_flow_director/562457960346",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fcloudflow.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw35OWgs-wZOX14sLPWRCHHj",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://quickbooks.jivrus.com/",
+   "text": "Integra for QuickBooks"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/jivrus_integra_for_quickbooks/356405545193",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fquickbooks.jivrus.com&sa=D&sntz=1&usg=AOvVaw2Fn_l8Hht-yIHMF-A9EJuV",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://appstudio.jivrus.com/",
+   "text": "App Studio"
+  },
+  {
+   "href": "https://gsuite.google.com/marketplace/app/jivrus_app_studio/21579344126",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fappstudio.jivrus.com&sa=D&sntz=1&usg=AOvVaw2iqSdsb-ugggaRQ26d0Gtv",
+   "text": "Learn more"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/client-platforms/google/google-cloud-marketplace",
+   "text": "HubSpot AppiWorks for BigQuery"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fappiworks.jivrus.com%2Fclient-platforms%2Fgoogle%2Fgoogle-cloud-marketplace&sa=D&sntz=1&usg=AOvVaw2zdvowa6wRosmRyekaiFyg",
+   "text": "Explore more"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/client-platforms/zoho/zoho-crm",
+   "text": "AppiWorks Extensions for Zoho CRM"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fappiworks.jivrus.com%2Fclient-platforms%2Fzoho%2Fzoho-crm&sa=D&sntz=1&usg=AOvVaw3Yvs_p8ItjyOSS2ZBMDaLR",
+   "text": "Explore more"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/client-platforms/zoho/zoho-books",
+   "text": "AppiWorks Extensions for Zoho Books"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fappiworks.jivrus.com%2Fclient-platforms%2Fzoho%2Fzoho-books&sa=D&sntz=1&usg=AOvVaw2Zb1nxDJEj25k9kd1c6ha3",
+   "text": "Explore more"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/client-platforms/zoho/zoho-desk",
+   "text": "AppiWorks Extensions for Zoho Desk"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fappiworks.jivrus.com%2Fclient-platforms%2Fzoho%2Fzoho-desk&sa=D&sntz=1&usg=AOvVaw1xhXLH9mah_I2pc-B87_yB",
+   "text": "Explore more"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/client-platforms/zoho/zoho-bigin",
+   "text": "AppiWorks Extensions for Zoho Bigin"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fappiworks.jivrus.com%2Fclient-platforms%2Fzoho%2Fzoho-bigin&sa=D&sntz=1&usg=AOvVaw2EiUkqQZXINho6xHM7MX5k",
+   "text": "Explore more"
+  },
+  {
+   "href": "https://atlas.jivrus.com/",
+   "text": "EmbedXpert"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fmarketplace.atlassian.com%2Fapps%2F1235334%2Fembedxpert%3Fhosting%3Dcloud%26tab%3Doverview&sa=D&sntz=1&usg=AOvVaw0PSQYYTZRpZzVictCXGrIB",
+   "text": "Get it now"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fatlas.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw0XmkuNnuDp_NsisGI3__4p",
+   "text": "Explore more"
+  },
+  {
+   "href": "https://lookerstudio.jivrus.com/",
+   "text": "Jivrus Looker Studio Connectors"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Flookerstudio.jivrus.com%2F&sa=D&sntz=1&usg=AOvVaw2-pyWQwFX3OsV3KIyrs7BS",
+   "text": "Explore Connectors"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Explore Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.25h4hjg3i8qw",
+   "text": "🚀 Jivrus Product Suite - One Platform Many Possibilities"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.dais5w5gg2bf",
+   "text": "Integration and Automation Platform - AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.ha8hu063fcvm",
+   "text": "Core Products"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.vkwigbb0b9uj",
+   "text": "Starch"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.8ryng1s9foln",
+   "text": "Form"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.bjkafnrqstt2",
+   "text": "Bloom"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.mca5v03muc9",
+   "text": "Flow"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.6tm3twy3vi5t",
+   "text": "MCP Server"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.hpj5bqykq17k",
+   "text": "AI Agent"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.g7eta2xw8g3b",
+   "text": "Client Platforms"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.1ibke9aetqas",
+   "text": "Marketplaces"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.md6dtvv9wdku",
+   "text": "Google Workspace Marketplace"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.gk2o7a48aqgz",
+   "text": "Google Cloud Marketplace"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.6yh4f33y2s2f",
+   "text": "Zoho Marketplace"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.ttiktmn3q38j",
+   "text": "Atlassian Marketplace"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.j3yrc5l70mpx",
+   "text": "Google Looker Studio Connector Gallery"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.69r8vjrathmx",
+   "text": "Google Workspace Marketplace Products"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.pzjc6jbk9x6r",
+   "text": "Start your business automation from your Google Doc or Slide"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.na1x5g7m2p3p",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.88q52km9zyss",
+   "text": "Fillable Document for Sheets"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.f34fg8745kdy",
+   "text": "Fillable Document for Slides"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.qqi5no9alb5u",
+   "text": "Get your business done by powering up with Google Forms"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.azc830i0q6u1",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.atqa5oeayh3c",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.yaqbudidkfmq",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.ofvbxj1jl96j",
+   "text": "Form Builder for Sheets"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.87y0bl7pq7s4",
+   "text": "Form Builder for Docs"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.1hqdfmgj0y8g",
+   "text": "Form Builder Plus"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.3iz3cf1hc6hm",
+   "text": "Supercharge your Google Sheets"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.w4y502ww8jlb",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.9xzijzsmi097",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.v2crgi4nlq6",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.nviavu10yihq",
+   "text": "ContentSense"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.dj6mtdab0852",
+   "text": "HyperList"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.6d3c66ug7p8r",
+   "text": "Education & Evaluation Solutions"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.cu60pi6cnmql",
+   "text": "Evalix™"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.559tvibftm5d",
+   "text": "Other Google Workspace Products"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.vuf0k57gbm35",
+   "text": "Cloud Flow Director"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.4nd3eadp8x6f",
+   "text": "Integra for QuickBooks"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.rvmsmknytghc",
+   "text": "App Studio"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.k7suaxixzm0z",
+   "text": "Google Cloud Marketplace Products"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.q86nkrjedw43",
+   "text": "HubSpot AppiWorks for BigQuery"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.nvtv84x90u0s",
+   "text": "Zoho Marketplace Products"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.2qq9f8j4anfy",
+   "text": "AppiWorks Extensions for Zoho CRM"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.s2id00efkkl4",
+   "text": "AppiWorks Extensions for Zoho Books"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.plcgb2kcpor1",
+   "text": "AppiWorks Extensions for Zoho Desk"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.ksfn3t7zesti",
+   "text": "AppiWorks Extensions for Zoho Bigin"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.7w0j8qspx4gn",
+   "text": "Atlassian Marketplace"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.gn4bdqtu010c",
+   "text": "EmbedXpert"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.6orpjtuvit7k",
+   "text": "Google Looker Studio Connector Gallery"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.dx1uaz32mu81",
+   "text": "Jivrus Looker Studio Connectors"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.919h04nt1mhv",
+   "text": "Looking for Professional Services?"
+  },
+  {
+   "href": "https://www.jivrus.com/products#h.z1jqlbk48t2w",
+   "text": "Index for quick access"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

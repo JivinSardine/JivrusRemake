@@ -1,0 +1,43 @@
+---
+import { withBase } from '~/lib/urls';
+/**
+ * Breadcrumbs — the live site exposes the page path above the content on
+ * interior pages. Built from the route so it is always accurate.
+ */
+export interface Props {
+  route: string;
+  /** Label overrides for the root segment. */
+  labels?: Record<string, string>;
+}
+const { route, labels = {} } = Astro.props;
+
+const pretty = (seg: string) =>
+  labels[seg] ??
+  seg
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, (c) => c.toUpperCase());
+
+const parts = route.split('/').filter(Boolean);
+const crumbs = [
+  { label: 'Home', href: '/home' },
+  ...parts.map((seg, i) => ({
+    label: pretty(seg),
+    href: '/' + parts.slice(0, i + 1).join('/'),
+  })),
+];
+---
+
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  {
+    crumbs.map((c, i) => (
+      <>
+        {i > 0 && <span class="breadcrumbs__sep" aria-hidden="true">/</span>}
+        {i === crumbs.length - 1 ? (
+          <span aria-current="page">{c.label}</span>
+        ) : (
+          <a href={withBase(c.href)}>{c.label}</a>
+        )}
+      </>
+    ))
+  }
+</nav>

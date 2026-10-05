@@ -1,0 +1,22 @@
+---
+/**
+ * SectionStrip — the full-width magenta title bar that separates every major
+ * section on the live site (measured 60px bold white on #D01752).
+ */
+export interface Props {
+  title: string;
+  /** Optional id so in-page anchors can target the section below. */
+  id?: string;
+}
+const { title, id } = Astro.props;
+---
+
+<div class="strip" data-reveal>
+  <h2 class="strip__title" id={id}>{title}</h2>
+</div>
+
+<style>
+  .strip {
+    overflow: hidden;
+  }
+</style>

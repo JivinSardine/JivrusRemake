@@ -1,0 +1,75 @@
+---
+/**
+ * The single route renderer for the whole site.
+ *
+ * Every route discovered on jivrus.com (92 of them, nested to any depth) is
+ * generated from `src/data/pages/<slug>.json`, which holds that route's own
+ * extracted content. One renderer means the URL structure is exactly the
+ * source's, and each page still renders its own copy and structure.
+ */
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import PageContent from '~/components/PageContent.astro';
+import Breadcrumbs from '~/components/Breadcrumbs.astro';
+import type { PageData } from '~/types';
+
+export async function getStaticPaths() {
+  const { readdir, readFile } = await import('node:fs/promises');
+  const path = await import('node:path');
+  const dir = path.join(process.cwd(), 'src/data/pages');
+  const files = await readdir(dir);
+  const pages: PageData[] = [];
+  for (const f of files) {
+    if (!f.endsWith('.json')) continue;
+    pages.push(JSON.parse(await readFile(path.join(dir, f), 'utf8')));
+  }
+  // The homepage has its own bespoke layout in ../index.astro.
+  return pages
+    .filter((p) => p.slug !== 'root' && p.slug !== 'home')
+    .map((page) => ({
+      params: { route: page.slug.replace(/__/g, '/') },
+      props: { page },
+    }));
+}
+
+const { page } = Astro.props as { page: PageData };
+const route = page.route;
+---
+
+<BaseLayout
+  title={page.title}
+  description={page.description}
+  route={route}
+  ogImage={page.ogImage || '/og-default.svg'}
+  family={page.family}
+  schema={{
+    '@type': page.isContainer ? 'CollectionPage' : 'WebPage',
+    name: page.title,
+    url: `https://www.jivrus.com${route}`,
+    description: page.description,
+    isPartOf: { '@type': 'WebSite', name: 'Jivrus Technologies', url: 'https://www.jivrus.com' },
+  }}
+>
+  <div class="container"><Breadcrumbs route={route} /></div>
+
+  <div class="page-head">
+    <div class="container">
+      <h1 class="page-head__title">{page.h1}</h1>
+    </div>
+  </div>
+
+  <PageContent sections={page.sections} />
+</BaseLayout>
+
+<style>
+  .page-head {
+    padding: 18px 0 6px;
+  }
+
+  .page-head__title {
+    margin: 0;
+    font-size: var(--fs-h1);
+    color: var(--jivrus-magenta);
+    font-weight: 700;
+    line-height: 1.2;
+  }
+</style>

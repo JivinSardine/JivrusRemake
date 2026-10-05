@@ -1,0 +1,938 @@
+{
+ "route": "/resources/articles/artificial-intelligence/claude-by-anthropic",
+ "slug": "resources__articles__artificial-intelligence__claude-by-anthropic",
+ "family": "resources",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Claude by Anthropic",
+ "description": "\"Anthropic AI spearheads the evolution of artificial intelligence, driving innovation to uplift humanity\"",
+ "h1": "Claude by Anthropic",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/articles/artificial-intelligence/claude-by-anthropic",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/064ccb94a6edab9f.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "\"Anthropic AI spearheads the evolution of artificial intelligence, driving innovation to uplift humanity\"",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "anthropic-ai-spearheads-the-evolution-of-artificial-intelligence-driving-innovation-to-uplift-humanity"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/59d25ea39501af13.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Anthropic AI's flagship model, Claude, stands as a remarkable testament to the company's pioneering advancements in artificial intelligence. Claude boasts sophisticated algorithms that excel in processing vast datasets, enabling unparalleled insights and predictions across diverse domains. Its exceptional natural language processing abilities facilitate nuanced understanding and generation of human-like text, enhancing tasks like language translation and content creation. Alongside Claude, Anthropic's suite of models showcases adaptability and scalability, fine-tuned to suit specific applications and data sets, delivering exceptional performance and reliability. Moreover, Anthropic prioritizes ethical AI development, integrating safeguards to ensure transparency, fairness, and accountability in its models' operations. This commitment to responsible AI deployment sets Anthropic apart as a leader in shaping the future of artificial intelligence and its impact on society.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/e77bbd2d9a5ec6ad.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dbbdce4903c17af4.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "How to get the API Key of Claude",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "how-to-get-the-api-key-of-claude"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b0c7c6cf1734addd.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "To obtain your API key from your Anthropic Claude account:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Log in to your Anthropic Claude console.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Log in to your Anthropic Claude console.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "In the top-right corner, click on your profile icon > API Keys.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "In the top-right corner, click on your profile icon > API Keys.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/12c0afdcff69cb22.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "li",
+     "text": "Click the Create Key button.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "Click the Create Key button.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Enter a Key Name and click Create Key button.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Enter a Key Name and click Create Key button.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ec0b0f26705e2a2a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Copy your key and store it in a safe place as you cannot view it again.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Copy your key and store it in a safe place as you cannot view it again.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Provide this API key in the required input and connect.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Provide this API key in the required input and connect.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Cost Calculation",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Explore more on Artificial Intelligence",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vTBWsrcmjr8D4O1KWmGYjL-p-Yyc8LvEgD92Hc3YdRSC-aS0Tz95xdEUKRbY8Zq2BWbr4z3QejweFINjCLfTORvCJFrVoBzJbcG6fDyIQJw99K4_l_Rvfx3DiIKHMKMs3UW27esjhODX0G3ArOwyy_uG-oXohlQ3kcBOBEp3AKlUpxYib1QRVg=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "\"Anthropic AI spearheads the evolution of artificial intelligence, driving innovation to uplift humanity\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "anthropic-ai-spearheads-the-evolution-of-artificial-intelligence-driving-innovation-to-uplift-humanity"
+  },
+  {
+   "tag": "p",
+   "text": "Anthropic AI's flagship model, Claude, stands as a remarkable testament to the company's pioneering advancements in artificial intelligence. Claude boasts sophisticated algorithms that excel in processing vast datasets, enabling unparalleled insights and predictions across diverse domains. Its exceptional natural language processing abilities facilitate nuanced understanding and generation of human-like text, enhancing tasks like language translation and content creation. Alongside Claude, Anthropic's suite of models showcases adaptability and scalability, fine-tuned to suit specific applications and data sets, delivering exceptional performance and reliability. Moreover, Anthropic prioritizes ethical AI development, integrating safeguards to ensure transparency, fairness, and accountability in its models' operations. This commitment to responsible AI deployment sets Anthropic apart as a leader in shaping the future of artificial intelligence and its impact on society.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "How to get the API Key of Claude",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "how-to-get-the-api-key-of-claude"
+  },
+  {
+   "tag": "p",
+   "text": "To obtain your API key from your Anthropic Claude account:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Log in to your Anthropic Claude console.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Log in to your Anthropic Claude console.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "In the top-right corner, click on your profile icon > API Keys.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "In the top-right corner, click on your profile icon > API Keys.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ucfl75AnDi7tiaQ_R8TaKgXNPrtiV5LmC6G_odIDE1KZxbphsPl8WoiBlYcErPSzxrBJFAe1-Fe6KeOxBh1_LBV1GDg0dCjKxv5gYo_6dPy1Xv867I_fqs5UDFuOnneac167Vb1SAefauzJMCH4x48pCKC60vNUZQAw_NhT9xYFJs6knMbxMqnd4FScK69sWJC_1vgqDCG7ZOhJxt4ZM7gtY9KNFI1SS0q=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Click the Create Key button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click the Create Key button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uZ2cndW5_h4uGoCCEYnZn5Phct5DVBWOEhpEG2aEiPrmfATjg6dQj7bOcYSIFqwCL2hXnRtkc5Sz5rUxlbRbVqzXGwSObOX9FnNtyB8tEVcoqPluaG9l7uzle3eKFvsShUfuXJVmy-M1MDKez-UCoFu1Vh3yXsjxzSJzlxWBrlJgFcmMIX8pByKgOsw77T_6-rTZ-Wx-2U-UeyYXvZ4V7Ug0qjaKRisfWs=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Enter a Key Name and click Create Key button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Enter a Key Name and click Create Key button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uMGT3s0U6fpVJvFTnoz0fy9apYQ-BOuD9cRsjGXkp4M1YJEiqyr8tNEwUvqCf_GkoTiETsMB4zrm559HcNDRkOnG7n0Euv-3n7JWrOGVq94cbnWbOCIqHNjQA4dNFmIwPQLD_4Z8sdrRHc54f2f9lfWAtBIIoCzeYc-QPekmqlWCpZ-qtzG0Isc92S1GZiycGtx9DSR-QN41nM1r8EJmkNnki52rCRVg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Copy your key and store it in a safe place as you cannot view it again.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Copy your key and store it in a safe place as you cannot view it again.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Provide this API key in the required input and connect.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Provide this API key in the required input and connect.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vS_h-O_IPK6mUWbVwSPnq_DrsglFIyOl1uGDKYuYCYLE9a8ObNMXaPxBaGzTgH0jOZaak5FlGRhZL1zZUhuEptmlq1-9xXodH0RtboDJS5RsisD71qdg7ysdaH627pICKY-LvExfLu9w8HIa0HZhW_o5VdHZzhDfhJfUk6WGNy782s1wVjQa52QsGUs9OSaAcGuR7lJxiidHMfHM8JrauiWrw-3RTaRQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Cost Calculation",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more on Artificial Intelligence",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tskDebYIJ_o997kfP2rFQxi03JJ-lpW8iU8ZzEOAklIUQELxVlslt3ZbgBVZc5zUFiFuVBXXA17VcYYrr0k7EMcYRkfJf3_AbXWwcvqI7cQp7MeUnHP6O78jsFXbQMbyxSadE0yXB8Chi6byRQG6r8zB56UL_RcEXGCRaXRS1H62vp6-RCvRIL-vPNun8m4g_8xINgdf9C2wpnw9HfYgDPUOsZwgE0Sg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72udwgvg0mqeXSfV3qxuU1mDBbGWjg8NyEACUUS6pjI9xCX6YaIc6-2Eq5R5bF16Z03m6QElcRPNOnoY7hL0IWXZaYRwwiGh7G8W_f8vzFe0Rq2mybcq2ptgZzseAR-yttgc7DqdHdJiMskl_P1Z4hWjKElCeN_qfa0DRq-SiaehogTltD78Nzb04PJepkjvSkRCAH5mu5NsuuiKwlQ7Fou2ld8C03PSXNRj=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vYpEtzNkTblUBfevYVpZzyu6cKLQ_GsY8hnwo2MMf0dxWRR3htUvidbeZ7rxknkWRXcgRtjoPwoI9udypfGxCV8eTxZ01pBpVS7Yi8OjaPkAXEc4T2m7BDSwJytJokYSU-3ZwyaGDRSgTFi9HyHqUPzuIAeVBlGH_otSRGvb4MXJ5loZzNJ-tG=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 292,
+   "h": 582
+  },
+  {
+   "src": "/images/064ccb94a6edab9f.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 152
+  },
+  {
+   "src": "/images/59d25ea39501af13.jpg",
+   "alt": "",
+   "w": 526,
+   "h": 223
+  },
+  {
+   "src": "/images/b0c7c6cf1734addd.jpg",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://console.anthropic.com/login",
+   "text": "Anthropic Claude console"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/technical/how-ai-providers-are-calculating-charges",
+   "text": "Cost Calculation"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/artificial-intelligence",
+   "text": "Explore more on Artificial Intelligence"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

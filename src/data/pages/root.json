@@ -1,0 +1,2769 @@
+{
+ "route": "/",
+ "slug": "root",
+ "family": "home",
+ "isContainer": true,
+ "title": "Jivrus Technologies",
+ "description": "Digital Transformation starts with You ! Get started with intelligent integrations and powerful automation.",
+ "h1": "Digital Transformation starts with You !",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7fea1048f407c7c2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Accelerate Your Digital Transformation with Our Products and Services. Unlock Peak Performance!",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(0, 0, 0)"
+    },
+    {
+     "tag": "h2",
+     "text": "Get started with intelligent integrations and powerful automation.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "get-started-with-intelligent-integrations-and-powerful-automation"
+    },
+    {
+     "tag": "p",
+     "text": "Get Started",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b7aa88931f6a1df5.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "🌐 Jivrus Product Suite",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jivrus-product-suite"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/352a0533f2d398ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Discover the complete ecosystem of Jivrus products – from powerful form & document automation to intelligent app integrations, Google Workspace extensions, CRM connectors, and analytics tools.Our suite is built to simplify, automate, and scale your business.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "discover-the-complete-ecosystem-of-jivrus-products-from-powerful-form-document-automation-to-intelligent-app-integrations-google-workspace-extensions-crm-connectors-and-analytics-tools-our-suite-is-built-to-simplify-automate-and-scale-your-business"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/24d822fca6806b9e.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Explore all our Products",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/4442f22e6be2785c.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "What we do?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "what-we-do"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ee959d755d657ced.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "awesomeness redefined with integration intelligence and hyper-automation",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "awesomeness-redefined-with-integration-intelligence-and-hyper-automation"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ffe113a896dc975b.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "With intelligent integration and hyper-automation, business processes can be taken on auto-pilot mode for success.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "with-intelligent-integration-and-hyper-automation-business-processes-can-be-taken-on-auto-pilot-mode-for-success"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/735419389054b165.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "We specialize in intelligent integration and hyper-automation with Applications, Products, Cloud, IoT and analytics to bring out the full potential of your business.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "we-specialize-in-intelligent-integration-and-hyper-automation-with-applications-products-cloud-iot-and-analytics-to-bring-out-the-full-potential-of-your-business"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/458cd36a4bd3da48.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "We research, conceive, produce, and maintain awesome software products worldwide to make customer business successful.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "we-research-conceive-produce-and-maintain-awesome-software-products-worldwide-to-make-customer-business-successful"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/44182aafe08e0072.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "We are a technology partner with major platforms like Google, Microsoft, Zoho",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "we-are-a-technology-partner-with-major-platforms-like-google-microsoft-zoho"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd6ef39f654d60a3.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Read more about us",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/475d7d6b8d6c0137.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Testimonials",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "testimonials"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/76bc05cf8fdf1cd6.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "A great app to generate a Google Doc from a form. We use it for testimonials and it works a treat. The students provides the data and the teachers can verify it by sharing with other staff. It saves so much time and energy, not more passing a form around!",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "a-great-app-to-generate-a-google-doc-from-a-form-we-use-it-for-testimonials-and-it-works-a-treat-the-students-provides-the-data-and-the-teachers-can-verify-it-by-sharing-with-other-staff-it-saves-so-much-time-and-energy-not-more-passing-a-form-around"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/3f247cb8112d8b0e.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "~ Dawn Siso",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "dawn-siso"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d8efae05c40c9bc5.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "\"Amazing and affordable service! Great full stack options. Super swift support and they think with your case for possible features requests. After my request to Jivrus Technologies now they made Stripe automated invoicing and payment processing possible. Never experiences such a good software tool and support.\"",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "amazing-and-affordable-service-great-full-stack-options-super-swift-support-and-they-think-with-your-case-for-possible-features-requests-after-my-request-to-jivrus-technologies-now-they-made-stripe-automated-invoicing-and-payment-processing-possible-never-experiences-such-a-good-software-tool-and-support"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/86da8fde8c122e4a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "~ Roy van der Steen",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "roy-van-der-steen"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ed01a055fdca3a38.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "I have been using Form Director for years. I set it up so teachers in my school can easily send me announcements that my students read on our daily newscast in our school.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b17636821c59743f.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "It is an easy way for teachers to send me the info they want read to the school. It saves me a ton of effort and once set, you can just let it do it's thing! I could not recommend it more highly. Great product!",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "~ Peter O'Farrell",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "This is a great product produced by a team of people that are responsive to their user base. I submitted a request for a addition to functionality that was answered promptly and implemented quickly. Highly recommend.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "this-is-a-great-product-produced-by-a-team-of-people-that-are-responsive-to-their-user-base-i-submitted-a-request-for-a-addition-to-functionality-that-was-answered-promptly-and-implemented-quickly-highly-recommend"
+    },
+    {
+     "tag": "h3",
+     "text": "~ Taylor Smith",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "taylor-smith"
+    },
+    {
+     "tag": "h3",
+     "text": "First time using this add-on. Very user friendly and easy to navigate. When I had an issue with Required fields Support was great! They fixed the problem and allowed my doc to function as needed. This is what Customer Service should be! Thank you!",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "first-time-using-this-add-on-very-user-friendly-and-easy-to-navigate-when-i-had-an-issue-with-required-fields-support-was-great-they-fixed-the-problem-and-allowed-my-doc-to-function-as-needed-this-is-what-customer-service-should-be-thank-you"
+    },
+    {
+     "tag": "p",
+     "text": "~ Pam Kieslich",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Some of our customers",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "some-of-our-customers"
+    },
+    {
+     "tag": "p",
+     "text": "www.byjus.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "India",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "india"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "eastbronxacademy.org",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "usa"
+    },
+    {
+     "tag": "p",
+     "text": "www.sheffield.ac.uk",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "United Kingdom",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "united-kingdom"
+    },
+    {
+     "tag": "p",
+     "text": "www.scdsb.on.ca",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Canada",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "canada"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.phonepe.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "India",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.ualberta.ca",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Canada",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.woundcaresurgeons.org",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "www.edmonton.ca",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "h3",
+     "text": "Canada",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.sayitwithasock.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.policystreet.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Malaysia",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "malaysia"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.tdsb.on.ca",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Canada",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.rockingxranch.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.asu.edu",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "www.appliedintuition.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "myhappygenes.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "360payments.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "USA",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h3",
+     "text": "Technology Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "technology-partners"
+    },
+    {
+     "tag": "h3",
+     "text": "Integration Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "integration-partners"
+    },
+    {
+     "tag": "h3",
+     "text": "Sales Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "sales-partners"
+    },
+    {
+     "tag": "p",
+     "text": "See more Customers",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h2",
+     "text": "History",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "history"
+    },
+    {
+     "tag": "h3",
+     "text": "Dec 2015 - The idea 💡",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "dec-2015-the-idea"
+    },
+    {
+     "tag": "h3",
+     "text": "Jan 2019 - Partnered with Zoho",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jan-2019-partnered-with-zoho"
+    },
+    {
+     "tag": "h3",
+     "text": "May 2016 - Company launched",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "may-2016-company-launched"
+    },
+    {
+     "tag": "h3",
+     "text": "Jul 2018 - Launched Form Builder",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jul-2018-launched-form-builder"
+    },
+    {
+     "tag": "h3",
+     "text": "Apr 2017 - Launch of Fillable Document",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "apr-2017-launch-of-fillable-document"
+    },
+    {
+     "tag": "h3",
+     "text": "Aug 2018 - Launched Map My Sheet",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "aug-2018-launched-map-my-sheet"
+    },
+    {
+     "tag": "h3",
+     "text": "May 2017 - Partnered with Google",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "may-2017-partnered-with-google"
+    },
+    {
+     "tag": "h3",
+     "text": "Feb 2019 - Launched Sheet Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "feb-2019-launched-sheet-director"
+    },
+    {
+     "tag": "h3",
+     "text": "Jul 2017 - Launch of Database Browser",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jul-2017-launch-of-database-browser"
+    },
+    {
+     "tag": "h3",
+     "text": "May 2020 - Launched Form Presenter",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "may-2020-launched-form-presenter"
+    },
+    {
+     "tag": "h3",
+     "text": "Jan 2018 - Moved into Springboard office space",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jan-2018-moved-into-springboard-office-space"
+    },
+    {
+     "tag": "h3",
+     "text": "May 2021 - Launched Worksheet Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "may-2021-launched-worksheet-director"
+    },
+    {
+     "tag": "h3",
+     "text": "May 2018 - Launched Form Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "may-2018-launched-form-director"
+    },
+    {
+     "tag": "h3",
+     "text": "Oct 2021 - AppiWorks Platform - Soft launch",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "oct-2021-appiworks-platform-soft-launch"
+    },
+    {
+     "tag": "p",
+     "text": "Read Full History",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "p",
+   "text": "Accelerate Your Digital Transformation with Our Products and Services. Unlock Peak Performance!",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72svdYvsudaG4P8G2IEzbBMAu0XvkmWCxJYjj2gJoGHlAqM_abRFv-EJgTEbOmXDOdi670I-z_sVhT9rdGE0QCtjhkiVbMs8Mx_RRIKgt_FTSxgcdLczHQSyC3Y_233c7tVWv-1MyQUk7rdZRVsxh2T1Iem3QutGuSYS_G1tRAM7Yscg05zSOHCa=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Get started with intelligent integrations and powerful automation.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "get-started-with-intelligent-integrations-and-powerful-automation"
+  },
+  {
+   "tag": "p",
+   "text": "Get Started",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vMGnQjxOUNDECHCtJFiQG2lVeQrEL1kkPv6KqDj3lBdF4JsMjdl1mmArOLzoP8FPflMsM-UmTkoQAwgDUyqF5sGTnrGdujpLigVQslqdSLeUWJQMxxDe5nk3osbR_JbMFSnixY3Abqy5L-VMXztDW0md776y1rrXa4LzkoYFcLjp-MasyjVNH_Ihu-HrZELxuG220K7Tm2Zwqfn3HQolqDxYxxg03slHpc=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "🌐 Jivrus Product Suite",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jivrus-product-suite"
+  },
+  {
+   "tag": "h3",
+   "text": "Discover the complete ecosystem of Jivrus products – from powerful form & document automation to intelligent app integrations, Google Workspace extensions, CRM connectors, and analytics tools.Our suite is built to simplify, automate, and scale your business.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "discover-the-complete-ecosystem-of-jivrus-products-from-powerful-form-document-automation-to-intelligent-app-integrations-google-workspace-extensions-crm-connectors-and-analytics-tools-our-suite-is-built-to-simplify-automate-and-scale-your-business"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tZKRopXYdxJKeKG9H7Ho9vpE-DQL5xBDr7w5WlVJFvwEzc5a8FkUmOfvszixs1ghp9LwP9XmLcmAMxANCXcHfuQ6PwuRe76uqmeES3AuhciepPmnv17Lh_rNm-At0NUTNbfXUaxCZvJqh9q3OVvfYRH-yn473r5g-4X-6XO3JWT0P-nmkQLnHBvkr-77WYq81W8BSsVRKznr9okf4ykq5fri_5uPG42iWN=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore all our Products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "What we do?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "what-we-do"
+  },
+  {
+   "tag": "h2",
+   "text": "awesomeness redefined with integration intelligence and hyper-automation",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "awesomeness-redefined-with-integration-intelligence-and-hyper-automation"
+  },
+  {
+   "tag": "h3",
+   "text": "With intelligent integration and hyper-automation, business processes can be taken on auto-pilot mode for success.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "with-intelligent-integration-and-hyper-automation-business-processes-can-be-taken-on-auto-pilot-mode-for-success"
+  },
+  {
+   "tag": "h3",
+   "text": "We specialize in intelligent integration and hyper-automation with Applications, Products, Cloud, IoT and analytics to bring out the full potential of your business.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "we-specialize-in-intelligent-integration-and-hyper-automation-with-applications-products-cloud-iot-and-analytics-to-bring-out-the-full-potential-of-your-business"
+  },
+  {
+   "tag": "h3",
+   "text": "We research, conceive, produce, and maintain awesome software products worldwide to make customer business successful.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "we-research-conceive-produce-and-maintain-awesome-software-products-worldwide-to-make-customer-business-successful"
+  },
+  {
+   "tag": "h3",
+   "text": "We are a technology partner with major platforms like Google, Microsoft, Zoho",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "we-are-a-technology-partner-with-major-platforms-like-google-microsoft-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tdKjROoWCNOePJGGURCZGGgvoj-QIY60QKK6p-lY_T9L5GmBHRel3DQ-AWR07TZAF5-nnojdCia5ADmkvB_z0dN86EkciXZTB5IXzGQ5mt0AVrh8fC9Uf9b2mrcA1lBW_8-dBexxSOppE3tN3bTNeqgZ1D26VNtSGdVEbXgwJgtG97bsYYB1NrDwQR6E2oj2D1bbI7_MCqadpsn5CXGZ015Octg6JAleAS=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Read more about us",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Testimonials",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "testimonials"
+  },
+  {
+   "tag": "h3",
+   "text": "A great app to generate a Google Doc from a form. We use it for testimonials and it works a treat. The students provides the data and the teachers can verify it by sharing with other staff. It saves so much time and energy, not more passing a form around!",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "a-great-app-to-generate-a-google-doc-from-a-form-we-use-it-for-testimonials-and-it-works-a-treat-the-students-provides-the-data-and-the-teachers-can-verify-it-by-sharing-with-other-staff-it-saves-so-much-time-and-energy-not-more-passing-a-form-around"
+  },
+  {
+   "tag": "h3",
+   "text": "~ Dawn Siso",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "dawn-siso"
+  },
+  {
+   "tag": "h3",
+   "text": "\"Amazing and affordable service! Great full stack options. Super swift support and they think with your case for possible features requests. After my request to Jivrus Technologies now they made Stripe automated invoicing and payment processing possible. Never experiences such a good software tool and support.\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "amazing-and-affordable-service-great-full-stack-options-super-swift-support-and-they-think-with-your-case-for-possible-features-requests-after-my-request-to-jivrus-technologies-now-they-made-stripe-automated-invoicing-and-payment-processing-possible-never-experiences-such-a-good-software-tool-and-support"
+  },
+  {
+   "tag": "h3",
+   "text": "~ Roy van der Steen",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "roy-van-der-steen"
+  },
+  {
+   "tag": "p",
+   "text": "I have been using Form Director for years. I set it up so teachers in my school can easily send me announcements that my students read on our daily newscast in our school.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "It is an easy way for teachers to send me the info they want read to the school. It saves me a ton of effort and once set, you can just let it do it's thing! I could not recommend it more highly. Great product!",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "~ Peter O'Farrell",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "This is a great product produced by a team of people that are responsive to their user base. I submitted a request for a addition to functionality that was answered promptly and implemented quickly. Highly recommend.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "this-is-a-great-product-produced-by-a-team-of-people-that-are-responsive-to-their-user-base-i-submitted-a-request-for-a-addition-to-functionality-that-was-answered-promptly-and-implemented-quickly-highly-recommend"
+  },
+  {
+   "tag": "h3",
+   "text": "~ Taylor Smith",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "taylor-smith"
+  },
+  {
+   "tag": "h3",
+   "text": "First time using this add-on. Very user friendly and easy to navigate. When I had an issue with Required fields Support was great! They fixed the problem and allowed my doc to function as needed. This is what Customer Service should be! Thank you!",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "first-time-using-this-add-on-very-user-friendly-and-easy-to-navigate-when-i-had-an-issue-with-required-fields-support-was-great-they-fixed-the-problem-and-allowed-my-doc-to-function-as-needed-this-is-what-customer-service-should-be-thank-you"
+  },
+  {
+   "tag": "p",
+   "text": "~ Pam Kieslich",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Some of our customers",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "some-of-our-customers"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v3P40dFTdorCe2PFgStx-Tam6pxfVpdCpJuxwRes1lztVck439wysCUPoveCRB3H2Dv3BWTL5ZweVzmPOJZAwFVMCG8jXFmY5ackKxWzWqj8ngrg7Vzti4Ipai4yPz35N3_2m8f2dyPDR1oSUR3VPNLH4LlKqeo9D47KB90kohoUwxjihaK_B0qCqHryJ0JKniUswlBTdcbPyNZiYQbRlU5Kys-GAGG2pV=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.byjus.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "India",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "india"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tuZof7UF15snxtgtIGHKR7MAMYI8pV_pI4Dbykp4SlxosEAFhfYeAweoM3a3BSVMl72GbGAeq70DMPjB-mJeqVSXi23YVsB46XVcZpV_Wzdc5tyk_hS85GGcXk5fUQV4q2YEIJBXqRZRR26a38ARIZORY7WomDzGD59bfobG5yEgMybfeT0-KotY7WR7lG6dBeFpsPKJRr9ltK3_nGrePsB6JGejZb6F-X=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "eastbronxacademy.org",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "usa"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sfXGac4K-cxGOxKsv7Qo5RVLnG67Ddcq32lt5KVCosGtejbg2LfG3J7KX-ySFbxtNg463A8dtEWTkXSIbNCEYEW1r53EnNPLL3211kxIuvfSBrI8VC9feSI5FxbZipB9D-APJNAItIa0aqMu2g9kbmZILD5gNfjLKIwiU1uUM1R1F-lPcoee5suT_XC-ixS2euwsoS0hpToi3mfo50mI80LjzPeJ-9zw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.sheffield.ac.uk",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "United Kingdom",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "united-kingdom"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t_yGD_NKDgIoXrKLGCmxKCJOsOB7Xm8EpzEbOF7shfGR3MDMr0UoffZlF6rzcCyv0jArsqo7lo7Q5l-bYxvARwe-0tl58HXs9CFnp0EneHJmD9XlzPO7yp_F2oOn2E_weZzUMiREkd5tS_nXscUYNWTV4L8PHzv_XFsTlEQg4-7bwQeyJRdbY9o3lRR3ExMcB989JD6YicSfjN83mjXFwREvjQBTNZ8DLl=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.scdsb.on.ca",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Canada",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "canada"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72suFXF7cKNXtPyhjYF-mvqIRpv_JR9JaFLxd1kkKr36Fkub13JY29SBqUSFjuAR6LinwxNAgUG8hZynHukLJp_D5z9JPfdEKyQ2X1VHARS1Ge6LylAJRjngzAbv-vJXDiLECJhZFLOmZ09ttLXD0TbZq0GVMHDTNThbEPo-OAHA6ssHJPpWJRvT8wougSz0gIxY1SHYiAehmPJb6rc85LI7-dqQwxYPESxe=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.phonepe.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "India",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72viW8fCk_xts6OS-WbTaAcM-6T5oTe9w000FO1B16Dqb4O8gyxRq1q4Xusds8z0AvycpgsRlLO9idSWGvyW1EqeIEVxhY1zefMFJpjZzDgbCfY2TodzWKnrJqZ5B7sDbhTNnjR_RiSeFD_zdEsC363CZPTQF3UM-GVezwTEDaMCiaWJP7lu3LWQCOq5pZod9EIygLVzkeYG0wqSOE840wwh6hUBcVcxOGZ2=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.ualberta.ca",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Canada",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uCTaJ-WiDNXABBkDYGtabqSKEXaS323-fP7EbFuGfWn8UiwK877j5Vn0X62V8fotqpwTeGgiKK47SzJKAX9jECBTRYAaMX7wfB_bzapKlT1nfH8iu2VRjSKSYS-mEpg4sLX8wOHnrBxJVnGsSNV_fng3Cd3JFkE2kLluwTgXRwxHPIUhNL9lTEn0qdhCdcYa2zMFc0Tnu9VqUQITCnIDdR82LfKZJgqIX5=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.woundcaresurgeons.org",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v73c4KmffcZtrL26JvjLRbuwrVyDfcOBTdv-aiGQ2avVQ1LgnPharFvSyak9sZcP2N5X2mJz2YBYCmrFZlcXgaes3R2NUHPUv7KN0ZdlVwnHoVbNgkSwQcGSkov10VyqRs1G9psbEx-QSj_tbY9siN4MTNo8520fRiFctoy2leNVOcrEC3MJMPCTXuWlG_mJzNwIA5bJ25qMkgOx1dHDH4NiIMLjvWcw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.edmonton.ca",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Canada",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72swqLACpzC87jPlvTLGzKgyNdu6Ex0Knd3TtVNKyaGkL7b6965zR3qHmTMETGc3vz7ijcMCD4s5NpExfew0wkLvVImpdrptuM4eudT5_yB6BZaD-Ctt1UdRiLh2HCPCd-zZqw5pKuTh18LkgdUjD_XCLXFf3wBydZnmcGUnqut1ZgGDX5JDYZk6LTke5hgdqJQ28_vpw9Spi6c45wQyzPxa0I7Kj2QP0tty=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.sayitwithasock.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vkD5pU7rGNM-qohIoAo1143KxFMWMh37ZwM7yUcHERpHyXwvg7eL_F2fyBSnLpq9pNq23lOZtfF_Xncivd1Shrx4vQatiFptNWP_DE9lLIAsArrGQAcY51d2BBZ9iOhccGzEV3a0SJzOinkSBBWpghmXUHXkQ-68dP6QhrRhgD6XnHlusZlBEtNSAM1wv5JyFqI_DK-EDPx46QDdik9Rj6oF52uEq1yI2j=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.policystreet.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Malaysia",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "malaysia"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tbLnfQ85araNZbdnicN4AOKn_XdorG5VQDEFHBZLsiOr2Q6bJvsF5HsCVyWL0nfjll3iauPXcQ0AYYUg6UjRS8f0V8vNQEEC3dXEx58vYPvO22Ca19olCLiv-RIOSA111Coni4tAbCJOxzkgg-vg9TbJVj5J3uNZQqJ2Bg8BFxYZWtwVJjHf7Y1z2D5TmNzBtyCaA4d1r3FMoPdtENssu16I5jZm3V_lcM=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.tdsb.on.ca",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Canada",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tdhNpMlzHdufnUQk3po4tPfXLVC3hjSUFAq-iviYKJdw8bCfBN83zMR5BaAqF_z7xhnV6xj9wKxnfJnVajimZfpyX8N1jxR5kPJAvO2itToCWESW5IVUnXZ-ofS9bcD3JbG9lUMSFwKUkzSxTrUMTEsWlKRTHsR69LTlOOmMwB5SpPDWhA2Q2phS2dfftznqrJSTdLOp3q9XQVtKZ1-8msfqCLdnuNJfmR=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.rockingxranch.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vrgCtXvwqTWB9sh8ODJWLEtamxRoKFLN0ygzwhR6FaZJHqy_xNtanNJ1doSMfYJ18geh6N6XdlTXj5FOzM8WZnQd8PcbFJyJJVc796MJnhpCI3QcwOWRdc6f67OxpjknRAZSISxbbNMao6X3YDN-S03cWcXZzqF7Tt-GGLiTlq9QUvdXmpuOntxDVBflQDie2U2sUOwdNm7KcJ4fYG26doMsnk-b9rTk-Z=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.asu.edu",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72upYaaU42n1zCe1bhBdBKiobTzcSfFrptsXg6BmpyEabDe-NEIXsZLDzMtB5OxmGpq9pfwPGP-UpoaGqeqdkp7Pc4VINb5VdqEcGyl0GEH1BUcN6Ch_qduX2uaCx62418N94s8NSpyqH2moac1_-r67o3YqWAKpK6U0F7ACPSZNlTI9oA_pEyzu7mxH-kERe8cM7QkeH4HM4igMi_koJAax0CLNiJrzZ6tI=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "www.appliedintuition.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vzii_b90eRlR6gEhJXHoZrAeAsPBqX8WrigA-5dzPMo_oR9NBWmpjjd3Tq_67THuRKaSj0IsZr6H1950oktfvlmWtf8u6NJG41IJ7jlwAR_wLqMxVeVlOVqZ_drSB6Q4VYDb-3qHTWAGlgTFX5Qu4rvLC_Buj1MLD_cNbv0nuALgkLTUAfNuRtYbolPD0e_lEsg0DYgRQ0YGBby5T8c7CijunL4ph3BMQI=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "myhappygenes.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72svkvkzKwqacD-wjZmZi8aouY848lF9r-9TRPn9vEAjZGgzNjMXRZU8FbkzGN32yQNbWrtsyMrENmHjEjQJADbNuDyndvqB05oTwebydYU_0v_5--Z6hTMo2g5KjeqyL7LG92jfWBsf9pooRzc9vFbNR2Y5GfYg9cWCSlAsKmNv0sILutaXJ0TamVbm_M1GaHqXfEBT9AEZ14dgkE9vyqQ1an6kd0XQHuSa=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "360payments.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "USA",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tqwjuChcmysEcTgChlP6k_fGVZ3R5RkHnsRWWPmtj9Tv56XG0AVtdV5mjCHeDlgqnuDOYL24pDBTjs0KQyjjSNV2WgbR7k-UsC_2f_Obog0P3ycYzDvZ-PkNC65MA9VEfoJ9ha5GWcR6J2XT9B5pngg8Za1CS6Bmqu1RBKGk_tbZ_Scy61Ru10nOpYjU_9QVtZ5Kb89nxNhhDGtFETCr070jGPs54d-w=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners"
+  },
+  {
+   "tag": "h3",
+   "text": "Integration Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "integration-partners"
+  },
+  {
+   "tag": "h3",
+   "text": "Sales Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "sales-partners"
+  },
+  {
+   "tag": "p",
+   "text": "See more Customers",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "History",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "history"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t8u_eiufERhhQFTaU2X44i6AXwISxB72ge_wiVjaNMSvvBk9d4c8llZiHUaS-BRH3gjgf9gy0V1KtHALElZvYfBhGgYZLW9fJY0a_kmvHPnwnUyQi-6rzC7J5z5CMclnObp8p-TaxKzsi3L0AIARVoTxAkrIVK8FpPmBis_az1J-Cu60GOLBIXrrEXOifVztZ4quqNe8sSK0MlDOUC5_eMk8mqEUSSUGB0=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Dec 2015 - The idea 💡",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "dec-2015-the-idea"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sigtzSm84xThNjwYZHOIQmJsCEVuHvo-qOdy99HIx5QKXGlze-Za1POC0f6hFSdmJcDgOT18KK5OG3uqTTSCDjHUsR_IfEvrA69zSAWVIPIlU5wP17t8G3yu39l2PL-562pGiP2moSmJi0UCZC92KLUvhAX2E-m7eiFp3FzAdVbu6n91A5uA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Jan 2019 - Partnered with Zoho",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jan-2019-partnered-with-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tS5nEOO-aAJAhTMdu7r_pfZ9D0UxRDkx6H8D-gYBPt8UMFU3ZQdvopP1FHlz4S378zHQGQmW1PgHEXELTXxt7-UL75CgFZZrYZA-wcW7woHbx5grQzGe4xstw0Ot2xmIjkReAZ63HnGhnyweFiyb0SWLj8HQsnvmw7_hhu-Potw0ah1_z_9eAUYDt0k5bcGmzx8NhT6-eRnxol6ERQqwX9DSvGvmDk8Q=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "May 2016 - Company launched",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "may-2016-company-launched"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72spjIbyjpe2dJHdrUf04y3Q6IxuTFIQfWdO0SwEYtZlBhBatoGf5AZYvnZEx87ZkE9iajrqedlOBTvgRaDzFd4UqVUbn_wMlVsPzH8_ll7KiiQ1vsLrX6sTInH40X_iDklp9htlR-g2NUkjtz-kIMkObwZDz0o5P9OPocgAHof78qeh6o9YxzQx=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Jul 2018 - Launched Form Builder",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jul-2018-launched-form-builder"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uQ48XYvwzo8P8WVrTLXDXpvW7vv4aPr4rlG_fEVvqfyJGieEem8oImVHJGxWeoMvwlmCILvFhGuQjF7ae1wnuwnFflBhEseOjRdVs3Ch6rYdE1wardIRaIfJWAzl8_CudebxXNZgsT4FYudk11ESkt8IJGbblcTGMQh5VHjaImMOWug7_rKNfC=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Apr 2017 - Launch of Fillable Document",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "apr-2017-launch-of-fillable-document"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sIEe_23hCXoBhMCvoIoZezURKgG8wmqYau704KtztRBeUI1NL-7Cfua9ndfAQxOfiSL1OwE3XlY5uN7jt03YVsISWf03Er0QoPyCDL_Bd58cn56zz3z8xuPDNu5KWtCALNShr76fCQvySM5JaU6s7OZtkUXfSEwGw6jckV7O6uun0w3n51mppDaRxBkrBq6rNmsuMKbwvedNoNXKgLDoV8cu1CVz6uLA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Aug 2018 - Launched Map My Sheet",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "aug-2018-launched-map-my-sheet"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vNlkd_RpC_3i15qddS5pWrj8fVHxN5lARpUlFXbfl-1nN3xJN8Qh4UJuqv801Htx3GmfiLXcJLCBTK2bq4SRMBdtshffjQOoHZADnPK_hqD_Hbq5RkEeH0sB3oT7tOXt7mwcXW5WXRg5W10N11BEQcH4YfHg4R=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "May 2017 - Partnered with Google",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "may-2017-partnered-with-google"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vJZAGxH-P75CUqkCe-TIQUzRbfxXsHGVtGG7-TbSpH4W8C9eFWBN8CJ3WJDGVJN-nS53FZCamZoCSUxVDrHPTwBDRHjypST4HbahBihX4SzEEhKOWHtuS5eb8z47Ik5yjzeeIVxkTPzSOHu285eJ3wFHQvgYU66BVa4yX43CmlIRxuyD6U3feVSa8lMffwXnWYCPduOz7PaSJ4IH4deBt1mQCVHsgnzQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Feb 2019 - Launched Sheet Director",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "feb-2019-launched-sheet-director"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uvga9QRxvID--n4VX1i0CKOBJ-AB8zz-l8qgfIAp-Gw87Cjuy45bdAn1tBECdNRXAHTzEEb7pxUv42Ik3C85EAmWvFHvapfG79esVtIAw6_xuvOuYZ_fiXUG1PMyym6Jk_MeBRVWF1CkyDBU3hWxzOMqiZW7NbauATF0OpXXxr08kpSACWp7Y0K_Xl_tLKA0gnlNuE0KOOKrVfQNC3jWmHn96_-21MVAuJ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Jul 2017 - Launch of Database Browser",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jul-2017-launch-of-database-browser"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vImAcus9NiyROJPU76t75II5Fq4NBHdt9gvZE_TJAiuWGzvxKBiBFTwS4QMl-nLyC4LyhrFwMZWBcqsk9Wexo1lVKWBv8rXD38flpZsDhToCY7uSWtlmT0WLRFIeAeTMVkFUotOq7hMik1imdsxZSXnTbinXN9D17nY-EUp5PEGrEdq5ZpXjn6CA3qw2YrGkTVUY6umH8Jf1BJ54jxMxJYStg50eGSyA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "May 2020 - Launched Form Presenter",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "may-2020-launched-form-presenter"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tNzesiT7Cuj8cfWHxY4N7YNbGtV5FtKK1jlfXKam-jpngqY8hIOqujmlOOd2anBm4CfC4GQw69-yBqmVNzOFntylaoFtCSs11dnXl9S8Kq5cVWmkzUelBDWRo-4tPySy9QDwrhr1B5d4YaZnWZBJjxuVzuBIbZYUjNKQugmr0LwXSp1Cqm4UZIvTjxwPnUdTp9tlIPI2N6fG4LntZmXe4pia4DfPsXYX3w=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Jan 2018 - Moved into Springboard office space",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jan-2018-moved-into-springboard-office-space"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72skmd-fA1kle4EbZDZAfj6kXNamNK-yOHZ-A0SaTPGFVHYn2ERPKzQGxDZ3c99kjORI60RYCmTdv0u2YlkRh0kKGNFgZOBQe13S6BlalUuhTpC_nuvhY8eN2_9vqpq7tgNcqT6LVLEMVSrLI-vcNXsozjCXYSux8n9msKybiFp6DGy961eqVw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "May 2021 - Launched Worksheet Director",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "may-2021-launched-worksheet-director"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uKcPKTPsxKECjYDOxj2SiW74juuyblDk4tpIjL0OE33bYMd1SQGlnk-OLSsc84bHTqoWdq0IDd-QhFF_OCrIMyUMbM8m4TM1oqtppWvlhEA62p-rgBfwyFYdmOQ97YtGroc7g_JiMXy48v7Dz8C46eIZiD7yvoZqlKGHJgiS12ZI-Dfyp0oQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "May 2018 - Launched Form Director",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "may-2018-launched-form-director"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vuxfhUD6Hh2XzPW5bnEM5jUH4jiIj780KQgUbjpYFMPUoP9xR5mHtG6hp28yFybD2GF5ZlqUeDz95icymJtkQ-bUo3TRT09XK2lowBCgDIXmOVuNObLCc4KOiJGCjMQ-rgsj-H5_2DqdHuZWBN1IdBlg0r2rq4tc_lSS-Xt7OXPQj2O_E=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Oct 2021 - AppiWorks Platform - Soft launch",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "oct-2021-appiworks-platform-soft-launch"
+  },
+  {
+   "tag": "p",
+   "text": "Read Full History",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vPsuuENA-WxdXA__YqQNlC04wmS2XMFv2NcMtQNo8eFYCs-r3DN1Ijgex_5ekI0JSr9YCxsJSl3KDH93-zsi0MAaX_1Uga9vXjCNRIv1_C8-Fb0fv2pvSLuUmIqLEu_zymkLcRXJ0DtvbCJ_6TecUnlsLySLg4TWV_MvXkg8T4ib-KwMpZ38gI6spaLbxGAEGdl8cyVM7XSrHm27qxJ5w0D3gbdD937g=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sKbUSqv3ZDpjW6aFsrrPqeQDVxrYJcHKvk_TFyYA736QZ2TF5QOaZurTO66CF9s4s_cU3Njn-7BcfE0Rm7ti-fd1nHVqbY0go3rRF6qHylZ5plPWEmM6CpvDYpAdMJynA5OIrtBliPn2PQCgUtJbPfAv1QuVY7L_xecD4s4_b65gAhSUMpHAGhCwbvARQq1v_HRJky9F2UDTm9r4Sp_CIrxC9tJQFJRgQN=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sHXLcIR_-apwBqPqpr-4D7p9Ha_GEke6JHPH_KeBDbzBPlJaP3iBlFYe8m3i-_pQDFk3zeLWH40fOktQu6W3XJs8BLtvNi5Qo80Mc-s41pM-lsXkF4Ld2Alz60d21w9r2eqQGX5873uyI5TXri4AXhfBIQantYMapXniV-e6zuGpP7S-b1e7Pd=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 439,
+   "h": 117
+  },
+  {
+   "src": "/images/7fea1048f407c7c2.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 1193
+  },
+  {
+   "src": "/images/b7aa88931f6a1df5.jpg",
+   "alt": "",
+   "w": 409,
+   "h": 241
+  },
+  {
+   "src": "/images/352a0533f2d398ec.png",
+   "alt": "",
+   "w": 412,
+   "h": 300
+  },
+  {
+   "src": "/images/24d822fca6806b9e.png",
+   "alt": "",
+   "w": 417,
+   "h": 300
+  },
+  {
+   "src": "/images/4442f22e6be2785c.png",
+   "alt": "",
+   "w": 415,
+   "h": 300
+  },
+  {
+   "src": "/images/ee959d755d657ced.png",
+   "alt": "",
+   "w": 438,
+   "h": 284
+  },
+  {
+   "src": "/images/ffe113a896dc975b.png",
+   "alt": "",
+   "w": 438,
+   "h": 288
+  },
+  {
+   "src": "/images/735419389054b165.png",
+   "alt": "",
+   "w": 438,
+   "h": 293
+  },
+  {
+   "src": "/images/458cd36a4bd3da48.png",
+   "alt": "",
+   "w": 438,
+   "h": 293
+  },
+  {
+   "src": "/images/44182aafe08e0072.png",
+   "alt": "",
+   "w": 438,
+   "h": 222
+  },
+  {
+   "src": "/images/dd6ef39f654d60a3.png",
+   "alt": "",
+   "w": 438,
+   "h": 233
+  },
+  {
+   "src": "/images/475d7d6b8d6c0137.png",
+   "alt": "",
+   "w": 438,
+   "h": 227
+  },
+  {
+   "src": "/images/76bc05cf8fdf1cd6.png",
+   "alt": "",
+   "w": 438,
+   "h": 233
+  },
+  {
+   "src": "/images/3f247cb8112d8b0e.png",
+   "alt": "",
+   "w": 438,
+   "h": 242
+  },
+  {
+   "src": "/images/d8efae05c40c9bc5.png",
+   "alt": "",
+   "w": 438,
+   "h": 242
+  },
+  {
+   "src": "/images/86da8fde8c122e4a.png",
+   "alt": "",
+   "w": 438,
+   "h": 242
+  },
+  {
+   "src": "/images/ed01a055fdca3a38.png",
+   "alt": "",
+   "w": 438,
+   "h": 242
+  },
+  {
+   "src": "/images/b17636821c59743f.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 954,
+   "h": 906
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 125,
+   "h": 127
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Explore Now"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fportal.jivrus.com&sa=D&sntz=1&usg=AOvVaw12kXPKN_bHowdfN5OO-TdZ",
+   "text": "Sign in to Customer Portal"
+  },
+  {
+   "href": "https://www.jivrus.com/support/faq",
+   "text": "FAQs"
+  },
+  {
+   "href": "mailto:support@jivrus.com",
+   "text": "support@jivrus.com"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Get Started"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Explore all our Products"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Read more about us"
+  },
+  {
+   "href": "https://byjus.com/",
+   "text": "www.byjus.com"
+  },
+  {
+   "href": "https://sites.google.com/eastbronxacademy.org/east-bronx-academy-website/home",
+   "text": "eastbronxacademy.org"
+  },
+  {
+   "href": "https://www.sheffield.ac.uk/",
+   "text": "www.sheffield.ac.uk"
+  },
+  {
+   "href": "https://www.scdsb.on.ca/",
+   "text": "www.scdsb.on.ca"
+  },
+  {
+   "href": "https://www.phonepe.com/",
+   "text": "www.phonepe.com"
+  },
+  {
+   "href": "https://www.ualberta.ca/",
+   "text": "www.ualberta.ca"
+  },
+  {
+   "href": "http://www.woundcaresurgeons.org/",
+   "text": "www.woundcaresurgeons.org"
+  },
+  {
+   "href": "https://www.edmonton.ca/",
+   "text": "www.edmonton.ca"
+  },
+  {
+   "href": "http://www.sayitwithasock.com/",
+   "text": "www.sayitwithasock.com"
+  },
+  {
+   "href": "https://www.policystreet.com/",
+   "text": "www.policystreet.com"
+  },
+  {
+   "href": "https://www.tdsb.on.ca/",
+   "text": "www.tdsb.on.ca"
+  },
+  {
+   "href": "https://www.rockingxranch.com/",
+   "text": "www.rockingxranch.com"
+  },
+  {
+   "href": "https://www.asu.edu/",
+   "text": "www.asu.edu"
+  },
+  {
+   "href": "https://www.appliedintuition.com/",
+   "text": "www.appliedintuition.com"
+  },
+  {
+   "href": "https://myhappygenes.com/",
+   "text": "myhappygenes.com"
+  },
+  {
+   "href": "https://360payments.com/",
+   "text": "360payments.com"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "See more Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Explore Partners"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://worksheetdirector.jivrus.com/",
+   "text": "Worksheet Director"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Read Full History"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

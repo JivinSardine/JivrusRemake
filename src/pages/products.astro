@@ -1,0 +1,156 @@
+---
+import { withBase } from '~/lib/urls';
+/**
+ * /products — the live site's product hub.
+ *
+ * The source page was reorganised around the current product suite (Core
+ * Products / Client Platforms / marketplace listings). The footer's legacy
+ * product links point at headings that no longer exist, so the footer is
+ * re-anchored to the real section headings on this page — the live site's own
+ * headings, no invented ones.
+ */
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import Breadcrumbs from '~/components/Breadcrumbs.astro';
+import PageContent from '~/components/PageContent.astro';
+import type { PageData } from '~/types';
+import products from '~/data/pages/products.json';
+import imageMap from '~/data/image-map.json';
+
+/** The headings a visitor can actually jump to on this page. */
+const anchors = products.blocks
+  .filter((b) => ['h2', 'h3'].includes(b.tag) && b.text)
+  .map((b) => b.text);
+
+const marketplaces = [
+  'Google Workspace Marketplace',
+  'Google Cloud Marketplace',
+  'Zoho Marketplace',
+  'Atlassian Marketplace',
+  'Google Looker Studio Connector Gallery',
+];
+
+const local = (src: string) => imageMap[src] || src;
+const hero = products.images[0];
+---
+
+<BaseLayout
+  title={products.title}
+  description={products.description}
+  route="/products"
+  family="products"
+  ogImage={products.ogImage ? local(products.ogImage) : '/og-default.svg'}
+>
+  <div class="container"><Breadcrumbs route="/products" /></div>
+
+  <div class="page-head">
+    <div class="container">
+      <h1 class="page-head__title">{products.h1}</h1>
+      <p class="page-head__lead">
+        awesome software products worldwide | build your own automation solution | codeless |
+        intelligent integration | hyper automation
+      </p>
+      {
+        hero && (
+          <img
+            class="page-head__art"
+            src={local(hero.src)}
+            alt={hero.alt || 'Jivrus product ecosystem'}
+            width={hero.w || undefined}
+            height={hero.h || undefined}
+            data-reveal
+          />
+        )
+      }
+    </div>
+  </div>
+
+  <PageContent sections={products.sections} />
+
+  <section class="section section--blush">
+    <div class="container">
+      <h2 class="index__title" data-reveal>Index for quick access</h2>
+      <ul class="index__list" data-stagger>
+        {
+          anchors.map((a) => (
+            <li class="index__item" data-stagger-item>
+              <a href={`#${a.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`}>
+                {a}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container text-center">
+      <h2 data-reveal>Looking for Professional Services?</h2>
+      <div class="btn-row">
+        <a class="btn btn--primary" href={withBase("/professional-services")} data-reveal>Explore Services</a>
+        <a class="btn btn--outline" href={withBase("/about/contact-sales")} data-reveal>Contact Sales</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .page-head {
+    padding: 24px 0 10px;
+  }
+
+  .page-head__title {
+    margin: 0 0 10px;
+    font-size: var(--fs-h1);
+    color: var(--jivrus-magenta);
+    font-weight: 700;
+  }
+
+  .page-head__lead {
+    max-width: 76ch;
+    margin: 0 0 18px;
+    color: var(--jivrus-muted);
+  }
+
+  .page-head__art {
+    /* `max-width` alone does not shrink an image carrying intrinsic
+       width/height attributes on a narrow viewport. Force it fluid. */
+    width: 100%;
+    height: auto;
+    max-width: 900px;
+    margin: 0 auto;
+    border-radius: var(--radius);
+  }
+
+  .index__title {
+    font-size: var(--fs-h2);
+    color: var(--jivrus-magenta);
+    text-align: center;
+    margin: 0 0 22px;
+  }
+
+  .index__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 10px;
+  }
+
+  .index__item a {
+    display: block;
+    padding: 12px 16px;
+    background: var(--jivrus-white);
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-sm);
+    color: var(--jivrus-ink);
+    font-size: var(--fs-small);
+    transition: transform var(--dur) var(--ease-out), color var(--dur-fast) var(--ease-out);
+  }
+
+  .index__item a:hover {
+    transform: translateY(-3px);
+    color: var(--jivrus-magenta);
+  }
+</style>

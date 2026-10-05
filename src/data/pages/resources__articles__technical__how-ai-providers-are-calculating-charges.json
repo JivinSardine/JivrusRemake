@@ -1,0 +1,2206 @@
+{
+ "route": "/resources/articles/technical/how-ai-providers-are-calculating-charges",
+ "slug": "resources__articles__technical__how-ai-providers-are-calculating-charges",
+ "family": "resources",
+ "isContainer": false,
+ "title": "Jivrus Technologies - How AI Providers are Calculating charges",
+ "description": "Who are AI Providers?",
+ "h1": "How AI Providers are Calculating charges",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/articles/technical/how-ai-providers-are-calculating-charges",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Who are AI Providers?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "who-are-ai-providers"
+    },
+    {
+     "tag": "p",
+     "text": "\"AI Providers\" is a broad term encompassing a wide range of entities involved in the development, deployment, and maintenance of artificial intelligence technologies.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Tech Gaints Like Google, Amazon, Meta have their own AI and few open source and researches like OpenAI provide a AI capabilites.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Lets have a look at how these AI Providers charge",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "lets-have-a-look-at-how-these-ai-providers-charge"
+    },
+    {
+     "tag": "h3",
+     "text": "OpenAI",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "openai"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "OpenAI combines the total tokens used for both requests (prompts) and responses to calculate the overall cost.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "What is a token? Tokens are the basic unit that OpenAI models (GPT Models) use to compute the length of a text. They are groups of characters, which sometimes align with words, but not always. In particular, it depends on the number of characters and includes punctuation signs or emojis. Please go through the official OpenAI Tokenizer tool here https://platform.openai.com/tokenizer",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Models and costs",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "models-and-costs"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "There are many Models present in OpenAI few are GPT Models (3.5, 4)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "There are many Models present in OpenAI few are GPT Models (3.5, 4)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "li",
+     "text": "These models will have different costs for requests (prompts) and responses (output).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "These models will have different costs for requests (prompts) and responses (output).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Example: The Selected OpenAI model is gpt-4-32k gpt-4-32k Input cost/1000 tokens is $0.06 gpt-4-32k output cost/1000 tokens is $0.12 The total cost is 0.06 + 0.12 = $0.18",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Example: The Selected OpenAI model is gpt-4-32k",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "gpt-4-32k Input cost/1000 tokens is $0.06",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "gpt-4-32k Input cost/1000 tokens is $0.06",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "gpt-4-32k output cost/1000 tokens is $0.12",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "gpt-4-32k output cost/1000 tokens is $0.12",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "The total cost is 0.06 + 0.12 = $0.18",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "The total cost is 0.06 + 0.12 = $0.18",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Google (Gemini)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "google-gemini"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Google's generative AI charges every 1,000 characters of input (prompt) and every 1,000 characters of output (response). Characters are counted by UTF-8 code points and white space is excluded from the count. At the end of each billing cycle, fractions of one cent ($0.01) are rounded to one cent.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Models and Costs",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "li",
+     "text": "Similar to OpenAI, Google Also provides many models in their generative AI capabilities Text Bison, Text Bison 32k, and the Latest Gemini Pro.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "These models will have different costs for requests (prompts) and responses (output).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Example: The selected Model is PaLM Text Bison Input cost: 200 input characters x 5 prompts = 1,000 total input characters; 1,000 total input characters x ($0.00025 / 1000) = $0.00025 input cost. Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2,000 total output characters x ($0.0005 / 1000) = $0.001 output cost. Total: $0.00025 input cost + $0.001 output cost = $0.00125 total cost. For more details and updated pricing of these models, please have a look at the pricing page https://cloud.google.com/vertex-ai/docs/generative-ai/pricing",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Example: The selected Model is PaLM Text Bison",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Input cost: 200 input characters x 5 prompts = 1,000 total input characters; 1,000 total input characters x ($0.00025 / 1000) = $0.00025 input cost. Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2,000 total output characters x ($0.0005 / 1000) = $0.001 output cost. Total: $0.00025 input cost + $0.001 output cost = $0.00125 total cost.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Input cost: 200 input characters x 5 prompts = 1,000 total input characters; 1,000 total input characters x ($0.00025 / 1000) = $0.00025 input cost.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Input cost:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "200 input characters x 5 prompts = 1,000 total input characters;",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "1,000 total input characters x ($0.00025 / 1000) = $0.00025 input cost.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2,000 total output characters x ($0.0005 / 1000) = $0.001 output cost.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Output cost:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "400 output characters x 5 prompts = 2,000 total output characters;",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "2,000 total output characters x ($0.0005 / 1000) = $0.001 output cost.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Total: $0.00025 input cost + $0.001 output cost = $0.00125 total cost.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "For more details and updated pricing of these models, please have a look at the pricing page https://cloud.google.com/vertex-ai/docs/generative-ai/pricing",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Mistral",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "mistral"
+    },
+    {
+     "tag": "p",
+     "text": "Mistral, works in a Pay as you go model, we would require to pay only for the usage we made. The Mistral calculation is based on 1 Million tokens",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Models and Costs",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "li",
+     "text": "Mistral provides many models in their generative AI capabilities These models will have different costs for requests (prompts) and responses (output).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Example: The selected Model is mistral-small Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $2/1M tokens, 2 * (1000 / 1000000) = $0.002 input Cost Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $6/1M tokens, 6 * (2000/ 1000000) = $0.012 output Cost Total = input cost + output cost Total = $0.002 + $0.012 = $0.014 For more details and updated pricing of these models, please have a look at the pricing page https://mistral.ai/technology/#pricing",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Example: The selected Model is mistral-small",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $2/1M tokens, 2 * (1000 / 1000000) = $0.002 input Cost Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $6/1M tokens, 6 * (2000/ 1000000) = $0.012 output Cost Total = input cost + output cost Total = $0.002 + $0.012 = $0.014",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $2/1M tokens, 2 * (1000 / 1000000) = $0.002 input Cost",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Input cost:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "200 input tokens x 5 prompts = 1,000 total input tokens;",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "1000 input tokens, input cost on this model is $2/1M tokens,",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "2 * (1000 / 1000000) = $0.002 input Cost",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $6/1M tokens, 6 * (2000/ 1000000) = $0.012 output Cost",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Output cost:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "400 output characters x 5 prompts = 2,000 total output characters;",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "2000 output tokens, output cost on this model is $6/1M tokens,",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "6 * (2000/ 1000000) = $0.012 output Cost",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Total = input cost + output cost",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Total = $0.002 + $0.012 = $0.014",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "For more details and updated pricing of these models, please have a look at the pricing page https://mistral.ai/technology/#pricing",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Anthropic - Claude",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "anthropic-claude"
+    },
+    {
+     "tag": "p",
+     "text": "Anthropic - Claude, is another famous AI provider with multiple models. The Anthropic calculation is based on 1 Million tokens",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Anthropic provides many models in their generative AI capabilities These models will have different costs for requests (prompts) and responses (output).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Example: The selected Model is Claude 3 Opus Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $12/1M tokens, 15 * (1000 / 1000000) = $0.015 input Cost Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $75/1M tokens, 75 * (2000/ 1000000) = $0.15 output Cost Total = input cost + output cost Total = $0.015 + $0.15 = $0.164 For more details and updated pricing of these models, please have a look at the pricing page https://docs.anthropic.com/claude/docs/models-overview#model-comparison",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Example: The selected Model is Claude 3 Opus",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $12/1M tokens, 15 * (1000 / 1000000) = $0.015 input Cost Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $75/1M tokens, 75 * (2000/ 1000000) = $0.15 output Cost Total = input cost + output cost Total = $0.015 + $0.15 = $0.164",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $12/1M tokens, 15 * (1000 / 1000000) = $0.015 input Cost",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Input cost:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "200 input tokens x 5 prompts = 1,000 total input tokens;",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "1000 input tokens, input cost on this model is $12/1M tokens,",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "15 * (1000 / 1000000) = $0.015 input Cost",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $75/1M tokens, 75 * (2000/ 1000000) = $0.15 output Cost",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Output cost:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "400 output characters x 5 prompts = 2,000 total output characters;",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "2000 output tokens, output cost on this model is $75/1M tokens,",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "75 * (2000/ 1000000) = $0.15 output Cost",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Total = input cost + output cost",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Total = $0.015 + $0.15 = $0.164",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "For more details and updated pricing of these models, please have a look at the pricing page https://docs.anthropic.com/claude/docs/models-overview#model-comparison",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore more on Artificial Intelligence",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v5RDAP8Vs4OMpUiT08_3wQzVviZvBnaYY43MOcgVJQbBNd6YHbHI4T9XdjFb2Jpc8PNovIteFQUgyfgaS4nT9JDrpCPX6KiK9YmxHBB9uBmAoDlbpfkBonq0k0jCHJT1N6jBKphhGB52OA-ecdA-ma7bR9_BZ_Hb_xUQcVwKqaSZ8t-CA5fUw5=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Who are AI Providers?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "who-are-ai-providers"
+  },
+  {
+   "tag": "p",
+   "text": "\"AI Providers\" is a broad term encompassing a wide range of entities involved in the development, deployment, and maintenance of artificial intelligence technologies.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Tech Gaints Like Google, Amazon, Meta have their own AI and few open source and researches like OpenAI provide a AI capabilites.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Lets have a look at how these AI Providers charge",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "lets-have-a-look-at-how-these-ai-providers-charge"
+  },
+  {
+   "tag": "h3",
+   "text": "OpenAI",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "openai"
+  },
+  {
+   "tag": "p",
+   "text": "OpenAI combines the total tokens used for both requests (prompts) and responses to calculate the overall cost.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "What is a token? Tokens are the basic unit that OpenAI models (GPT Models) use to compute the length of a text. They are groups of characters, which sometimes align with words, but not always. In particular, it depends on the number of characters and includes punctuation signs or emojis. Please go through the official OpenAI Tokenizer tool here https://platform.openai.com/tokenizer",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Models and costs",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "models-and-costs"
+  },
+  {
+   "tag": "li",
+   "text": "There are many Models present in OpenAI few are GPT Models (3.5, 4)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "There are many Models present in OpenAI few are GPT Models (3.5, 4)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "These models will have different costs for requests (prompts) and responses (output).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "These models will have different costs for requests (prompts) and responses (output).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Example: The Selected OpenAI model is gpt-4-32k gpt-4-32k Input cost/1000 tokens is $0.06 gpt-4-32k output cost/1000 tokens is $0.12 The total cost is 0.06 + 0.12 = $0.18",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Example: The Selected OpenAI model is gpt-4-32k",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "gpt-4-32k Input cost/1000 tokens is $0.06",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "gpt-4-32k Input cost/1000 tokens is $0.06",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "gpt-4-32k output cost/1000 tokens is $0.12",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "gpt-4-32k output cost/1000 tokens is $0.12",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "The total cost is 0.06 + 0.12 = $0.18",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The total cost is 0.06 + 0.12 = $0.18",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Google (Gemini)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "google-gemini"
+  },
+  {
+   "tag": "p",
+   "text": "Google's generative AI charges every 1,000 characters of input (prompt) and every 1,000 characters of output (response). Characters are counted by UTF-8 code points and white space is excluded from the count. At the end of each billing cycle, fractions of one cent ($0.01) are rounded to one cent.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Models and Costs",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "li",
+   "text": "Similar to OpenAI, Google Also provides many models in their generative AI capabilities Text Bison, Text Bison 32k, and the Latest Gemini Pro.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Similar to OpenAI, Google Also provides many models in their generative AI capabilities Text Bison, Text Bison 32k, and the Latest Gemini Pro.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "These models will have different costs for requests (prompts) and responses (output).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "These models will have different costs for requests (prompts) and responses (output).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Example: The selected Model is PaLM Text Bison Input cost: 200 input characters x 5 prompts = 1,000 total input characters; 1,000 total input characters x ($0.00025 / 1000) = $0.00025 input cost. Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2,000 total output characters x ($0.0005 / 1000) = $0.001 output cost. Total: $0.00025 input cost + $0.001 output cost = $0.00125 total cost. For more details and updated pricing of these models, please have a look at the pricing page https://cloud.google.com/vertex-ai/docs/generative-ai/pricing",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Example: The selected Model is PaLM Text Bison",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Input cost: 200 input characters x 5 prompts = 1,000 total input characters; 1,000 total input characters x ($0.00025 / 1000) = $0.00025 input cost. Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2,000 total output characters x ($0.0005 / 1000) = $0.001 output cost. Total: $0.00025 input cost + $0.001 output cost = $0.00125 total cost.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Input cost: 200 input characters x 5 prompts = 1,000 total input characters; 1,000 total input characters x ($0.00025 / 1000) = $0.00025 input cost.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Input cost:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "200 input characters x 5 prompts = 1,000 total input characters;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "200 input characters x 5 prompts = 1,000 total input characters;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "1,000 total input characters x ($0.00025 / 1000) = $0.00025 input cost.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "1,000 total input characters x ($0.00025 / 1000) = $0.00025 input cost.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2,000 total output characters x ($0.0005 / 1000) = $0.001 output cost.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Output cost:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "400 output characters x 5 prompts = 2,000 total output characters;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "400 output characters x 5 prompts = 2,000 total output characters;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "2,000 total output characters x ($0.0005 / 1000) = $0.001 output cost.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "2,000 total output characters x ($0.0005 / 1000) = $0.001 output cost.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Total: $0.00025 input cost + $0.001 output cost = $0.00125 total cost.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Total: $0.00025 input cost + $0.001 output cost = $0.00125 total cost.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "For more details and updated pricing of these models, please have a look at the pricing page https://cloud.google.com/vertex-ai/docs/generative-ai/pricing",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "For more details and updated pricing of these models, please have a look at the pricing page https://cloud.google.com/vertex-ai/docs/generative-ai/pricing",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Mistral",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "mistral"
+  },
+  {
+   "tag": "p",
+   "text": "Mistral, works in a Pay as you go model, we would require to pay only for the usage we made. The Mistral calculation is based on 1 Million tokens",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Models and Costs",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "li",
+   "text": "Mistral provides many models in their generative AI capabilities These models will have different costs for requests (prompts) and responses (output).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Mistral provides many models in their generative AI capabilities These models will have different costs for requests (prompts) and responses (output).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Example: The selected Model is mistral-small Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $2/1M tokens, 2 * (1000 / 1000000) = $0.002 input Cost Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $6/1M tokens, 6 * (2000/ 1000000) = $0.012 output Cost Total = input cost + output cost Total = $0.002 + $0.012 = $0.014 For more details and updated pricing of these models, please have a look at the pricing page https://mistral.ai/technology/#pricing",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Example: The selected Model is mistral-small",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $2/1M tokens, 2 * (1000 / 1000000) = $0.002 input Cost Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $6/1M tokens, 6 * (2000/ 1000000) = $0.012 output Cost Total = input cost + output cost Total = $0.002 + $0.012 = $0.014",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $2/1M tokens, 2 * (1000 / 1000000) = $0.002 input Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Input cost:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "200 input tokens x 5 prompts = 1,000 total input tokens;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "200 input tokens x 5 prompts = 1,000 total input tokens;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "1000 input tokens, input cost on this model is $2/1M tokens,",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "1000 input tokens, input cost on this model is $2/1M tokens,",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "2 * (1000 / 1000000) = $0.002 input Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "2 * (1000 / 1000000) = $0.002 input Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $6/1M tokens, 6 * (2000/ 1000000) = $0.012 output Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Output cost:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "400 output characters x 5 prompts = 2,000 total output characters;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "400 output characters x 5 prompts = 2,000 total output characters;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "2000 output tokens, output cost on this model is $6/1M tokens,",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "2000 output tokens, output cost on this model is $6/1M tokens,",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "6 * (2000/ 1000000) = $0.012 output Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "6 * (2000/ 1000000) = $0.012 output Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Total = input cost + output cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Total = input cost + output cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Total = $0.002 + $0.012 = $0.014",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Total = $0.002 + $0.012 = $0.014",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "For more details and updated pricing of these models, please have a look at the pricing page https://mistral.ai/technology/#pricing",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "For more details and updated pricing of these models, please have a look at the pricing page https://mistral.ai/technology/#pricing",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Anthropic - Claude",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "anthropic-claude"
+  },
+  {
+   "tag": "p",
+   "text": "Anthropic - Claude, is another famous AI provider with multiple models. The Anthropic calculation is based on 1 Million tokens",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Anthropic provides many models in their generative AI capabilities These models will have different costs for requests (prompts) and responses (output).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Anthropic provides many models in their generative AI capabilities These models will have different costs for requests (prompts) and responses (output).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Example: The selected Model is Claude 3 Opus Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $12/1M tokens, 15 * (1000 / 1000000) = $0.015 input Cost Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $75/1M tokens, 75 * (2000/ 1000000) = $0.15 output Cost Total = input cost + output cost Total = $0.015 + $0.15 = $0.164 For more details and updated pricing of these models, please have a look at the pricing page https://docs.anthropic.com/claude/docs/models-overview#model-comparison",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Example: The selected Model is Claude 3 Opus",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $12/1M tokens, 15 * (1000 / 1000000) = $0.015 input Cost Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $75/1M tokens, 75 * (2000/ 1000000) = $0.15 output Cost Total = input cost + output cost Total = $0.015 + $0.15 = $0.164",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Input cost: 200 input tokens x 5 prompts = 1,000 total input tokens; 1000 input tokens, input cost on this model is $12/1M tokens, 15 * (1000 / 1000000) = $0.015 input Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Input cost:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "200 input tokens x 5 prompts = 1,000 total input tokens;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "200 input tokens x 5 prompts = 1,000 total input tokens;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "1000 input tokens, input cost on this model is $12/1M tokens,",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "1000 input tokens, input cost on this model is $12/1M tokens,",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "15 * (1000 / 1000000) = $0.015 input Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "15 * (1000 / 1000000) = $0.015 input Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Output cost: 400 output characters x 5 prompts = 2,000 total output characters; 2000 output tokens, output cost on this model is $75/1M tokens, 75 * (2000/ 1000000) = $0.15 output Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Output cost:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "400 output characters x 5 prompts = 2,000 total output characters;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "400 output characters x 5 prompts = 2,000 total output characters;",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "2000 output tokens, output cost on this model is $75/1M tokens,",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "2000 output tokens, output cost on this model is $75/1M tokens,",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "75 * (2000/ 1000000) = $0.15 output Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "75 * (2000/ 1000000) = $0.15 output Cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Total = input cost + output cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Total = input cost + output cost",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Total = $0.015 + $0.15 = $0.164",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Total = $0.015 + $0.15 = $0.164",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "For more details and updated pricing of these models, please have a look at the pricing page https://docs.anthropic.com/claude/docs/models-overview#model-comparison",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "For more details and updated pricing of these models, please have a look at the pricing page https://docs.anthropic.com/claude/docs/models-overview#model-comparison",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore more on Artificial Intelligence",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vmV_57ZAT_4pEXSoGoasbiqkiP-HnBkrj6rFGq4bBlnvuBDmTZXk_bqpBOc789kE5B1wUNl2NMAOc4mEUqJbhiVE1fhY_atyajbpNeRi2Bz-eJudVR-eujr7yL-hJz0mI-xnJ73rnU13J1KFP4quXtP0B7wiHhyRNROW3EP9s2WeHV6cwE6FEJlT5Dqk-G2W49JlAeZfiHeYF6OjgSQoEVXqyQMuoKrA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v-3m2ZH-9JSoMm5zbtMEnR8Jd_QOK2k40isTbDjrSZL8SQknm_eFJblXEliTTPVndm0d0NGBJoW47Zd2a_gwC6GD67ZX8-Jb0trTlD2aGK6byfGPfVaPhmpYlfdeRQbBHJzC98j0sw8bh5lEt_vgR_3NL_lqvrAfQua4kNNCzZSKUOe3bVMhiJ75qoBhw6QL-1C5S3MilS2JjmKnhCniI_kqe9g9M0MWVL=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tDPL5rMhf-O1qErQh-45_QrQpJx9LpFzpGOhiE21pVZpkiTmUr2-W_cz0WZMJR6fJM_dZSVRuNB-nrM1ei2MBEDdN5qy3Q9y7GoZ4Pf-exaKjviITDy8NrYmKqzcxGQMVdoK1Ged40cBgj8mEAkpnFPxY0T5W8mHPd_cJ8TZv7hX-Tcrq4ypW7=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://platform.openai.com/tokenizer",
+   "text": "https://platform.openai.com/tokenizer"
+  },
+  {
+   "href": "https://cloud.google.com/vertex-ai/docs/generative-ai/pricing",
+   "text": "https://cloud.google.com/vertex-ai/docs/generative-ai/pricing"
+  },
+  {
+   "href": "https://mistral.ai/technology/#pricing",
+   "text": "https://mistral.ai/technology/#pricing"
+  },
+  {
+   "href": "https://docs.anthropic.com/claude/docs/models-overview#model-comparison",
+   "text": "https://docs.anthropic.com/claude/docs/models-overview#model-comparison"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/artificial-intelligence",
+   "text": "Explore more on Artificial Intelligence"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

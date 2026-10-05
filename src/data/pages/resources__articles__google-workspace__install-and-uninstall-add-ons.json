@@ -1,0 +1,2623 @@
+{
+ "route": "/resources/articles/google-workspace/install-and-uninstall-add-ons",
+ "slug": "resources__articles__google-workspace__install-and-uninstall-add-ons",
+ "family": "resources",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Install and Uninstall Add-ons",
+ "description": "How to Install and Uninstall Google Workspace Add-ons",
+ "h1": "Install and Uninstall Google Marketplace Add-ons",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/50ceb3d430390eba.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "How to Install and Uninstall Google Workspace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "how-to-install-and-uninstall-google-workspace"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dcf0b067604aa5c2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Add-ons",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "add-ons"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/3857f0852c1a9682.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Installation",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "installation"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/73e509a39c8514fc.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Installation can be done by two methods",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/e914d3cfb149d22e.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Install directly from Google Workspace Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1a113b7cda9fe405.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Install directly from Google Workspace Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ad0357bf7ff4e147.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Installation from Docs/ Forms/ Sheets/ Slides",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/748ebf882451f7e0.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Installation from Docs/ Forms/ Sheets/ Slides",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/6f7c2e55bca88d0d.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Option 1 - Installation from Google Workspace Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "option-1-installation-from-google-workspace-marketplace"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/50ceb3d430390eba.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/cde80f466c3386f2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Browse Google Workspace Marketplace.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/50efbc92658cc807.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Browse Google Workspace Marketplace.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/50ceb3d430390eba.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Search for Jivrus or any other text that you are looking for",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f8a2484279994bc2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Search for Jivrus or any other text that you are looking for",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1f9b0fbfc171880b.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "All the matching add-ons will be displayed in a single page.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/6b3ddae6f0d2be6a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Select the add-on you need to install.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/64fe15519a73a392.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/38f70acb335b056b.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c5aa157f198e6505.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Select the add-on you need to install.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9a144cd3c2a3208b.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Click on \"Install\" and follow the process.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b6eb1226e3b84515.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Click on \"Install\" and follow the process.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/3ef701143e2e8a58.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Click Continue to allow permission to start installing the Add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Click Continue to allow permission to start installing the Add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Select the account with which the add-on need to be installed.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7e82e01e42000309.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Select the account with which the add-on need to be installed.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "li",
+     "text": "Click Allow to install the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "Click Allow to install the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "By following the above steps the add-on can be installed.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Option 2 - Installation from Sheets/ Forms/ Docs/ Slides",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "option-2-installation-from-sheets-forms-docs-slides"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/afecdd8d894bac0a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Open your Docs/Sheets/ Forms/ Slides",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Open your Docs/Sheets/ Forms/ Slides",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Click on Add-ons and then Get add-ons",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Click on Add-ons and then Get add-ons",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "A Google Workspace Marketplace page will open.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "In the search box search for the required add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "In the search box search for the required add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "(For example: If you search for Map My Sheet add-on the following screen with Map My Sheet add-on will appear )",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/278f48fe76298bf5.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/59a8448482fe8ad6.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d5334ea067e1704a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/e3a30fcfeda1c7b3.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Click on Install and follow the process to install the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Click on Install and follow the process to install the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click Continue to allow permission to start installing the Add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Select the account with which the add-on need to be installed.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9ac33658152080b2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Select the account with which the add-on need to be installed.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click Allow to install the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "By following the above steps the add-on can be installed.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Uninstall",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "uninstall"
+    },
+    {
+     "tag": "p",
+     "text": "Uninstall can be done by two methods",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Uninstall directly from Google Workspace Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Uninstall from Docs/ Forms/ Sheets/ Slides",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Option 1 - Uninstall directly from Google Workspace Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "option-1-uninstall-directly-from-google-workspace-marketplace"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/50ceb3d430390eba.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Browse to Google Workspace Marketplace.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Search for Jivrus.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "All our add-on's will be displayed in a single page.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Select the add-on you need to uninstall.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click on uninstall and follow the process.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click Uninstall button",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "A confirmation popup appears to cancel or uninstall app.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/defed72d023fa518.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Click Uninstall App to uninstall the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Option 2 - Uninstall from Docs/ Forms/ Sheets/ Slides",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "option-2-uninstall-from-docs-forms-sheets-slides"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8945360b8f13145a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Open your Docs/ Sheets/ Forms/ Slides",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click on Add-ons and then Manage add-ons",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "A Google Workspace Marketplace page will open.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/bdda1ed2bbeb6695.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "The add-ons that are installed will be displayed.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Select the add-on that needs to be uninstalled.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/0c17adb9f78d114a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Select the add-on that needs to be uninstalled.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click Uninstall button",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "A confirmation popup appears to cancel or uninstall app.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click Uninstall App to uninstall the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "By following the above steps you can uninstall the add-on.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "FAQ",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "faq"
+    },
+    {
+     "tag": "p",
+     "text": "handled by Google Workspace and Google, not the add-on provider",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Why I am not able to install an add-on?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "why-i-am-not-able-to-install-an-add-on"
+    },
+    {
+     "tag": "p",
+     "text": "If you are not able to install an add-on please check your admin network whether permissions are allowed and retry again to install.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Who to contact if I am not able to install an add-on?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "who-to-contact-if-i-am-not-able-to-install-an-add-on"
+    },
+    {
+     "tag": "p",
+     "text": "If you are not able to install the add-on, please contact the Google Workspace or Google team for help.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Why I am not able to uninstall?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "why-i-am-not-able-to-uninstall"
+    },
+    {
+     "tag": "p",
+     "text": "If you are not able to uninstall an add-on try to refresh the add-on once and try to uninstall, if the same problem continues again it might be an internal error in development.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Who to contact if I am not able to uninstall an add-on?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "who-to-contact-if-i-am-not-able-to-uninstall-an-add-on"
+    },
+    {
+     "tag": "p",
+     "text": "If you are not able to uninstall an add-on please contact the developer team immediately for help.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Why the add-on does not appear after installation?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "why-the-add-on-does-not-appear-after-installation"
+    },
+    {
+     "tag": "p",
+     "text": "If the add-on does't appear after installation, check whether the installation is done properly, if not follow the installation steps mentioned above and try to install again.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Why add-on menu does not appear for my add-on?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "why-add-on-menu-does-not-appear-for-my-add-on"
+    },
+    {
+     "tag": "p",
+     "text": "If menu does not appear in your add-on, try to refresh the add-on several times and again if the menu doesn't appear please contact the developer team.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t62EZFIvCzOkbfRYBMmBj-3dgNhAtHp2aVKPLhXCHOgLAOK9FQu5P6apquVfl6VmOxUIF3spL-OtJmzOEm-dvX6mYOYw9Guv_Q69RIHwV-hsJ0FGxGLaMfgPOjclmbvC753pDACfQvnPy7BjGJN-V3e2Sn_xDLFEL6U8U0ruwDlmWakgXFuRRC=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "How to Install and Uninstall Google Workspace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "how-to-install-and-uninstall-google-workspace"
+  },
+  {
+   "tag": "h2",
+   "text": "Add-ons",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "add-ons"
+  },
+  {
+   "tag": "h2",
+   "text": "Installation",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "installation"
+  },
+  {
+   "tag": "p",
+   "text": "Installation can be done by two methods",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Install directly from Google Workspace Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Install directly from Google Workspace Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Installation from Docs/ Forms/ Sheets/ Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Installation from Docs/ Forms/ Sheets/ Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Option 1 - Installation from Google Workspace Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "option-1-installation-from-google-workspace-marketplace"
+  },
+  {
+   "tag": "li",
+   "text": "Browse Google Workspace Marketplace.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Browse Google Workspace Marketplace.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Search for Jivrus or any other text that you are looking for",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Search for Jivrus or any other text that you are looking for",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "All the matching add-ons will be displayed in a single page.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Select the add-on you need to install.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Select the add-on you need to install.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on \"Install\" and follow the process.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on \"Install\" and follow the process.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uY1L7SLfyN7Xc4RSY_0t3MEoSq5UL5gwUplOZOl7MonLSGd51l3Dqe7c3mc38EN6GszHZLlbuQ6R9AlIv5lQ0MccQpvj9jqQZ3xSDchzs2gRRnHjYmm0v8VUtwzoFng1sbEqi0nHzRzYlrAt00WrE7mjAGr5vzGOiW3GwAwPiWvkgevX6EtTTiwPlnc3UxJXV9rujLxe6-=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Click Continue to allow permission to start installing the Add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click Continue to allow permission to start installing the Add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Select the account with which the add-on need to be installed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Select the account with which the add-on need to be installed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sZ-B6fkSJlVli92SqGAavG68nkZtafDC_yRenkfJQ3nV5WACoyvNkbxCUXUZryEwXJ3ijj0MH5IR2BnZe8lpgLPy8dlYHkF-OdRu47lJdiy6-73AbD0X92NpNP1v6zSpunh4scvDS5RCkhGoXTZvlR608MUCH3YB0vfLuMj_BHp16p3yMUXvBMDcrcBgZHJ1GQ3QakAg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Click Allow to install the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click Allow to install the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vVioTnvm-LrQhoF6XCeL_OfXyHXnQMrKSP-IlNg0BW3BiHiEdCtUJ9__xerJYjPg-kWFOro0racqif4LOga7Qh6fmrJzFq06PdHunwpD_S2diO4udqQqiFv23cf9EgWk8G8m4dYxah2eYlYImwwHL4-fgo8JU1CuI_lVjFRmPG2XmUcGH9ExU-mbgdHsQfBBaSbjcSj2vO=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "By following the above steps the add-on can be installed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Option 2 - Installation from Sheets/ Forms/ Docs/ Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "option-2-installation-from-sheets-forms-docs-slides"
+  },
+  {
+   "tag": "li",
+   "text": "Open your Docs/Sheets/ Forms/ Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Open your Docs/Sheets/ Forms/ Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on Add-ons and then Get add-ons",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on Add-ons and then Get add-ons",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "A Google Workspace Marketplace page will open.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "In the search box search for the required add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "In the search box search for the required add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "(For example: If you search for Map My Sheet add-on the following screen with Map My Sheet add-on will appear )",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vWBFAhF7mL6BOVNp8AHlP-qXrekjfIUgOOQpOAvCxP4fQUHtI-jcLj3LpVCIx2VIxxQ5iKmHciErQfj7yIRFr8oLeRYlGSyNOIuDvaAtOwx51Ech8wYky01JjvNGtAK9rBriSh3tNpY5okkytpWxHhSCaV7U7Fsue1y8v2-I5y3NUX2-eXnrMmbEuZ0DI2ba1Af7Wr1exW=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on Install and follow the process to install the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on Install and follow the process to install the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72swMXOZKXWS75LThCu13dAONf944AxVre48kIy0ukFVp2wkZa706d2ZoS5Nbqtk8GSdgOv0naK0Y2hBGlaaL1U8DX28Y4j1L_LWPcUaufJ8dDyjx7zTEajf7qUKXgfYSijgiEvuumcX0vZfFAIcxavIWIERPYQB2yqA2r7JoMZbgh0zNztP95vaGsCfb3igfMma77ExmE4O=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Click Continue to allow permission to start installing the Add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click Continue to allow permission to start installing the Add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uykZoDlRlNrfkT8Twn_SKruQBUzfRHRbbNHcWOpJwT6nfLXlWrfH8yLP58fIVMlXwvTAGSYBjj_PoCqwWCLzwcqzYeC6QvAyU3aOEFMFArlK9pyqROxDuZMFM3io1VAE2uOIioX_dm_68-gWylBxNKk3HutR_77hbnwZTlDvrH6JhWdYeTN-XzV3CB8Iv6jOE2EgwdSg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Select the account with which the add-on need to be installed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Select the account with which the add-on need to be installed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tJWbN0K36mgHlLSQkryeBDhYtPQhFvbT7ElR9AK87SNtolOCaepKzXRyZRHyPq_vt0ZjC5J5ABKYs6IsTL_75kI-eAXIAyEqQvbhXkB5jV6A6tb4iZOjCayaDdzfrDgBQd1z9DbRCkW-Ht19YgBGeRCBly1kj7jBdUfpKithSf4V1bm0vCMWUXTnfD2Ae0B7_4lHIaPg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Click Allow to install the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click Allow to install the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uYyyw3bbkr5C_Ye9Uo-oqrIWmowvOc7YUe2dwWO9OZJSvcnbr5OkzJoaF0qE62meR2CcthUjou_HvNc5jgXGJV0alCGAspY8YxVTjEo-ZqJ6zzR5VTN03eeDC1Wv5QHliva9-1qDTfRMkUA3azOPMABqGN3iLo6AC8JkHeswUXrN1UDUrIiUUlRLy_nks4LQe9R7RwL6Gs=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "By following the above steps the add-on can be installed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Uninstall",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "uninstall"
+  },
+  {
+   "tag": "p",
+   "text": "Uninstall can be done by two methods",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Uninstall directly from Google Workspace Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Uninstall directly from Google Workspace Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Uninstall from Docs/ Forms/ Sheets/ Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Uninstall from Docs/ Forms/ Sheets/ Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Option 1 - Uninstall directly from Google Workspace Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "option-1-uninstall-directly-from-google-workspace-marketplace"
+  },
+  {
+   "tag": "li",
+   "text": "Browse to Google Workspace Marketplace.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Browse to Google Workspace Marketplace.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Search for Jivrus.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Search for Jivrus.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "All our add-on's will be displayed in a single page.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Select the add-on you need to uninstall.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Select the add-on you need to uninstall.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on uninstall and follow the process.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on uninstall and follow the process.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tjlEm91UoDZGHlr5O1okaP0Q_c2HWpgqeziLqVKr6A2O_xhfUAoZdeQ-HNoqb8CPrzMe5DaDAgoNuLed-V9jbk6KkJE2B1NM7A64IsVEUSkKJn9mAHePAvjZ2R4IOnflkYsp1-CZmH67L2-CmsUHK0Ihmr_jObjzq09Jpx8kfViZJ2LgQuTfwXlOWDQ3jekScnQRcvrw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Click Uninstall button",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click Uninstall button",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "A confirmation popup appears to cancel or uninstall app.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click Uninstall App to uninstall the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click Uninstall App to uninstall the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vYR9EYgEdpgCy3VkZq9NxqOA6LW6jzlaDS4Mh4GeNpWjBB9i6t-EQ9Wka8i9Vap9mprE1s0KHngeJLwv4tQVwqok67vVQT2A6N0vfaB2thEA0GbPQ9xgtcYKkhgEx6GbjkhJSkK5_NdNm6uewwExQznYg0TLkKqSKAMw7zvuSgyh_jdQvxWTKNAginwxnE6CAA0abo35cD=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Option 2 - Uninstall from Docs/ Forms/ Sheets/ Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "option-2-uninstall-from-docs-forms-sheets-slides"
+  },
+  {
+   "tag": "li",
+   "text": "Open your Docs/ Sheets/ Forms/ Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Open your Docs/ Sheets/ Forms/ Slides",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on Add-ons and then Manage add-ons",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on Add-ons and then Manage add-ons",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "A Google Workspace Marketplace page will open.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72utvi8yrnEDIfpKjs3mw4MkJpdrhsXY5gr9NDbG2mJOSNTc2pSSgFdnKHPG3Vrex1QI_lnJcfog3EynNAvXAGukrh8L2ho7nLRxgvQZrrp-iF2lZE4wV7e_trP5JZBP_bqR_J3-qQ_5IyTv3kWJH9ObUHjLiBli20sisB8oz0msHnSoe2c1GokKXKO6AJgluZlTuDBqeA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "The add-ons that are installed will be displayed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The add-ons that are installed will be displayed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Select the add-on that needs to be uninstalled.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Select the add-on that needs to be uninstalled.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ukabw7DxRfCKyGomCFu_zuwO59Jt_ZrwMw5GQsh_pJxrPOcpI3UTFQEzmZk1QqgHoM7I__lBMLmF-SSln6qsQ7IG-qc4Picu7hzwis-V4GM2jParGReb-QgquYILAAlDZXCFFVQiwDY6jVZeQRSZHdLhrivrGRSir8LBtb9OxZyybY9ZVj94CDD7GCc6ee2laINbacdYNt=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Click Uninstall button",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click Uninstall button",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "A confirmation popup appears to cancel or uninstall app.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vH7E5chr18V2qisl3WoR8XE_UgXE1etuSU_23gGdtYVW0mTwtB-IEGjRTs6UsBkPvavjDLFdUAFAu6A9WO_eceDPCxGCxyOW6BWya2JPNOWdLffvVHMKKSZVYC2onibF_vpSrUzJurpBnRT8jn_Bn74tc5se4Pg2Snnj4eeaasKNfyOWkSzkWbcWfl5J4ofL0nusOxquYl=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Click Uninstall App to uninstall the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click Uninstall App to uninstall the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vpgQNY12Cr80Cxcd8THInn7GdUGMCXP7pqsixaUpHMsgHOoOQFXwYi7uyN5Vtv-IMyv0V0e1OvsjFm0q2tjgZgh82ao-By475YsmJkOhfl_0iqhvnpssHipIjfwG1fhD9tw658drG0IsTE8_PgCndEJOkdLl9yKLwAwOVJQqgp7P4GLjQJ-bGFL-uw1LC7RUCR9O7Qtw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "By following the above steps you can uninstall the add-on.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "FAQ",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "faq"
+  },
+  {
+   "tag": "p",
+   "text": "handled by Google Workspace and Google, not the add-on provider",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Why I am not able to install an add-on?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "why-i-am-not-able-to-install-an-add-on"
+  },
+  {
+   "tag": "p",
+   "text": "If you are not able to install an add-on please check your admin network whether permissions are allowed and retry again to install.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Who to contact if I am not able to install an add-on?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "who-to-contact-if-i-am-not-able-to-install-an-add-on"
+  },
+  {
+   "tag": "p",
+   "text": "If you are not able to install the add-on, please contact the Google Workspace or Google team for help.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Why I am not able to uninstall?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "why-i-am-not-able-to-uninstall"
+  },
+  {
+   "tag": "p",
+   "text": "If you are not able to uninstall an add-on try to refresh the add-on once and try to uninstall, if the same problem continues again it might be an internal error in development.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Who to contact if I am not able to uninstall an add-on?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "who-to-contact-if-i-am-not-able-to-uninstall-an-add-on"
+  },
+  {
+   "tag": "p",
+   "text": "If you are not able to uninstall an add-on please contact the developer team immediately for help.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Why the add-on does not appear after installation?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "why-the-add-on-does-not-appear-after-installation"
+  },
+  {
+   "tag": "p",
+   "text": "If the add-on does't appear after installation, check whether the installation is done properly, if not follow the installation steps mentioned above and try to install again.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Why add-on menu does not appear for my add-on?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "why-add-on-menu-does-not-appear-for-my-add-on"
+  },
+  {
+   "tag": "p",
+   "text": "If menu does not appear in your add-on, try to refresh the add-on several times and again if the menu doesn't appear please contact the developer team.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tAy-0kdZg26_5NdtPem8kwiRgwAUVpx4hfBtacqdkgMpF3xqtMG8Ti6TM-BjQmGAd-gtMqowElruA3nxDt06mcT0QmJZPGEGJ4u_2V3PSTEh5g4RYze3w2eG7bs912FO2Tae7vvfWVXzEwqHqsO5v8a3mr-1pIQzgRSbKqCNIB4GrRh7en5MiNUNcrb2_HvKs9Yn0ZXQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uMslR36er0qBEMGR5Hm36CV4OCcPkD-_5R_BW6zpS4lhk8tSEwVhxEtZmO3g4bieh0Mwi9vs79_QrIZXwX2E7TEeWkm3oiNQEOSiZKk2LQqDcmgbNJK3EVC80xQMUXEP0xqwhTM1_ycKx9cuiP161fkHmijUduWR19DNxY8kT5h4h307rIyZTaic6nLkqcVq59YeUtL-tqPbllgcDEgne-vdnvk3fU8Q=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uxKr5aZGxA6Os9MIcAC1tNCW8IuKlPmhinW1kZ261OvPmo2FdRfgLttRYSX44OG8nDGtf3D3O0ilBhPRsj1oe_EMcrjxUa2xhPvA_Yjj-4AZ9xCrzjX5MDdkU4jJ57EcFetIapMGJto6ZcTS0uc3RULeucsyYZpUKT1silHsayFI5L5OzR4VIQHB7yTcajMot4Bb9uPB5NAb-yi1Y0YWdJCr1_zneFZSk8=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tG2R68Sfbr0U_GR8sVtdmJVS_TM9rOXa_lkamOClj26NXivwt5K8wy0Iu7KJscRVu9TvtVDN695h91yhMfAPlmOvctNEpiIYAgA0r5-wGRdG8fCh3HO3Fb8gPK4K_vNZnLQupNImVz59dNpukQmHtqnovSmPWE3yYUyXO95U6YYnmqCJIWwsEV=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 634,
+   "h": 577
+  },
+  {
+   "src": "/images/50ceb3d430390eba.jpg",
+   "alt": "",
+   "w": 932,
+   "h": 133
+  },
+  {
+   "src": "/images/dcf0b067604aa5c2.jpg",
+   "alt": "",
+   "w": 466,
+   "h": 568
+  },
+  {
+   "src": "/images/73e509a39c8514fc.jpg",
+   "alt": "",
+   "w": 632,
+   "h": 276
+  },
+  {
+   "src": "/images/e914d3cfb149d22e.jpg",
+   "alt": "",
+   "w": 970,
+   "h": 512
+  },
+  {
+   "src": "/images/1a113b7cda9fe405.jpg",
+   "alt": "",
+   "w": 986,
+   "h": 525
+  },
+  {
+   "src": "/images/ad0357bf7ff4e147.jpg",
+   "alt": "",
+   "w": 390,
+   "h": 310
+  },
+  {
+   "src": "/images/748ebf882451f7e0.jpg",
+   "alt": "",
+   "w": 468,
+   "h": 575
+  },
+  {
+   "src": "/images/6f7c2e55bca88d0d.jpg",
+   "alt": "",
+   "w": 468,
+   "h": 678
+  },
+  {
+   "src": "/images/cde80f466c3386f2.jpg",
+   "alt": "",
+   "w": 634,
+   "h": 577
+  },
+  {
+   "src": "/images/50efbc92658cc807.jpg",
+   "alt": "",
+   "w": 876,
+   "h": 141
+  },
+  {
+   "src": "/images/50ceb3d430390eba.jpg",
+   "alt": "",
+   "w": 956,
+   "h": 542
+  },
+  {
+   "src": "/images/1f9b0fbfc171880b.jpg",
+   "alt": "",
+   "w": 987,
+   "h": 525
+  },
+  {
+   "src": "/images/6b3ddae6f0d2be6a.jpg",
+   "alt": "",
+   "w": 985,
+   "h": 525
+  },
+  {
+   "src": "/images/c5aa157f198e6505.jpg",
+   "alt": "",
+   "w": 392,
+   "h": 289
+  },
+  {
+   "src": "/images/9a144cd3c2a3208b.jpg",
+   "alt": "",
+   "w": 220,
+   "h": 540
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/50ceb3d430390eba.png",
+   "alt": "",
+   "w": 634,
+   "h": 577
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.f19q5smkeluw",
+   "text": "Add-ons"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_lfrhh7A5gS6y",
+   "text": "Installation"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_aRJZVLofg5Yu",
+   "text": "Option 1 - Installation from Google Workspace Marketplace"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_sG3iFFK0kom1",
+   "text": "Option 2 - Installation from Sheets/ Forms/ Docs/ Slides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_wZnxYC7vvh5J",
+   "text": "Uninstall"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_bHZuWhZ6wKpo",
+   "text": "Option 1 - Uninstall directly from Google Workspace Marketplace"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_3BMnv4C6xZHI",
+   "text": "Option 2 - Uninstall from Docs/ Forms/ Sheets/ Slides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_jtJKgZ7lWzA1",
+   "text": "FAQ"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_2te8EaX6AOE4",
+   "text": "Why I am not able to install an add-on?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_CYoVLIQLAYZF",
+   "text": "Who to contact if I am not able to install an add-on?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_Bf-sxEuDAc66",
+   "text": "Why I am not able to uninstall?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_pXV8Y1nCAnVb",
+   "text": "Who to contact if I am not able to uninstall an add-on?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_FgdGKo3dAo-u",
+   "text": "Why the add-on does not appear after installation?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons#h.p_ySQMz5UpAu7z",
+   "text": "Why add-on menu does not appear for my add-on?"
+  },
+  {
+   "href": "https://workspace.google.com/marketplace/search/jivrus",
+   "text": "Google Workspace Marketplace"
+  },
+  {
+   "href": "https://workspace.google.com/marketplace/search/jivrus",
+   "text": "Google Workspace Marketplace"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

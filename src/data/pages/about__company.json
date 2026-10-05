@@ -1,0 +1,1685 @@
+{
+ "route": "/about/company",
+ "slug": "about__company",
+ "family": "about",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Company",
+ "description": "Our story It was a crisp, cold winter evening during the 2015 Christmas holidays—a time for celebration, reflection, and unexpected revelations. Our founder, enjoying a quiet moment, found himself in a casual but profound conversation with a business owner in the USA. That businessman was no tech",
+ "h1": "Company",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/about/company",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "We are Jivrus",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "we-are-jivrus"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f31ef61c0af8c46d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Our story",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "our-story"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/95932ee10e7fc014.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "It was a crisp, cold winter evening during the 2015 Christmas holidays—a time for celebration, reflection, and unexpected revelations. Our founder, enjoying a quiet moment, found himself in a casual but profound conversation with a business owner in the USA. That businessman was no tech wizard, but he was passionate about his work and driven to succeed. Yet, despite his passion, his words showed a shadow of frustration.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/6619862981b2166e.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "He spoke about his business—a thriving one by most accounts—but confessed his struggles with technology. He had invested heavily in software—more than his business even needed—but something was missing. The systems weren’t working together, his needs weren’t being met, and the promised efficiency was nowhere to be found. He felt trapped, and his story was a familiar one.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b7fa6d6362ec4713.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "That conversation planted a seed. It wasn’t about software abundance; it was about synergy. The realization hit like a lightning bolt: businesses don’t just need software—they need software that works together seamlessly. And this wasn’t a problem confined to tech giants. It was universal, affecting businesses of every size across the globe. The integration gap wasn’t a niche inconvenience; it was a trillion-dollar dilemma waiting to be solved.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "In that pivotal moment, the idea of Jivrus Technologies was born. It was more than just a business concept—it was a calling. The mission was clear: to become the enabler, the bridge, the missing link that would turn fragmented tools into cohesive solutions. Our founder envisioned a world where technology didn’t hinder success but became its greatest ally—a world where businesses, big or small, could focus on their goals without being bogged down by the chaos of disconnected systems.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "The journey began with fire in the heart and determination in the soul. By early 2016, Jivrus Technologies had taken shape—a self-funded startup built on the belief that simplicity and innovation could transform the way the world works. We dove headfirst into the challenge, crafting solutions in intelligent integration, hyper-automation, and codeless computing to empower businesses to automate workflows and harmonize systems.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Today, Jivrus Technologies stands as a testament to that singular moment of inspiration. What started as one conversation has become a movement, revolutionizing the way businesses think about technology. From bustling startups to established enterprises, our solutions are empowering organizations to bridge gaps, unlock efficiencies, and achieve more than they ever thought possible.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "This is our story. A story of vision, resilience, and innovation. It began with a spark, grew into a mission, and now fuels a revolution. Jivrus Technologies: Transforming Technology Into Seamless Success.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "h2",
+     "text": "Jivrus Technologies is at the forefront of digital transformation, delivering innovative SaaS solutions that redefine intelligent integration, hyper-automation, and codeless computing.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jivrus-technologies-is-at-the-forefront-of-digital-transformation-delivering-innovative-saas-solutions-that-redefine-intelligent-integration-hyper-automation-and-codeless-computing"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "h2",
+     "text": "Our mission is to streamline complex processes, empowering businesses to integrate systems seamlessly and automate workflows effortlessly; boosting productivity and creating successful outcomes for our customers.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "our-mission-is-to-streamline-complex-processes-empowering-businesses-to-integrate-systems-seamlessly-and-automate-workflows-effortlessly-boosting-productivity-and-creating-successful-outcomes-for-our-customers"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Whether you love it or not, today’s market is packed with an abundance of software capable (free, low-cost to premium level) of more than ever—and constantly evolving to meet future demands.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "whether-you-love-it-or-not-today-s-market-is-packed-with-an-abundance-of-software-capable-free-low-cost-to-premium-level-of-more-than-ever-and-constantly-evolving-to-meet-future-demands"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "The reality? Most people either don’t know about these tools, aren’t sure how to connect them for maximum impact, or simply don’t have time to build custom solutions.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "the-reality-most-people-either-don-t-know-about-these-tools-aren-t-sure-how-to-connect-them-for-maximum-impact-or-simply-don-t-have-time-to-build-custom-solutions"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Jivrus Technologies changes the game. We offer software that seamlessly connects people with the platforms they already use, enabling them to get exactly what they need with ease and enjoyment.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jivrus-technologies-changes-the-game-we-offer-software-that-seamlessly-connects-people-with-the-platforms-they-already-use-enabling-them-to-get-exactly-what-they-need-with-ease-and-enjoyment"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "At Jivrus, we believe in empowering everyone to create the automation solutions they envision.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "at-jivrus-we-believe-in-empowering-everyone-to-create-the-automation-solutions-they-envision"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Today, we’re proud to support millions of users harnessing the power of automation to streamline workflows, accelerate growth, and transform their businesses. And this is just the beginning. 🚀",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "today-we-re-proud-to-support-millions-of-users-harnessing-the-power-of-automation-to-streamline-workflows-accelerate-growth-and-transform-their-businesses-and-this-is-just-the-beginning"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "We envision providing everyone with the ability to create useful, best-in-class automation solutions.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Vision",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Empower anyone to build the automation solution they want.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Themes",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Intelligent integration",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Intelligent integration",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Hyper-automation",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Codeless",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Awesome software products",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Useful and best-in-class",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Innovative and brilliant",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Resilient and trustworthy",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Going back to the basics, it is the storage, computing, and network behind every fancy technology. Technology choices are abundant and ever-growing - from registers to big data storage, processors to cognitive computing, and AI, with networking being only next to breathing. The breadth and depth of technologies are enormous.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "At Jivrus, we are passionate about building innovative, brilliant, resilient, and trustworthy software solutions. We provide platforms and extensions that help businesses and citizen developers get things done in a simple, efficient way.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eb76ec0e2b1ad0b2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Bringing light and life to solutions that ensure your business success. That's what Jivrus stands for.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "bringing-light-and-life-to-solutions-that-ensure-your-business-success-that-s-what-jivrus-stands-for"
+    },
+    {
+     "tag": "p",
+     "text": "Choosing right is a talent. But, automating business for success is more than just choosing right technologies and products for business. It is about enabling solutions for business; Shining light and life to solutions that ensure your business success. That's what Jivrus stands for.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "We connect the tiny dots in your business in the most awesome way with technology and platforms that gets things done in your business. We are the last-mile connectivity of your business and cloud platforms.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Mission",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Provide a platform and product extensions to get automation done for businesses and citizen developers in a simple way.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Themes",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "iSaaS/aPaaS platform and marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Aggregate, Integrate, Orchestrate, Automate & Visualize",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "No code & Conversational",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Values",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Quicker benefits",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Readymade and DIY solutions",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Superior UX",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Monetization",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/72bedf294890dafb.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "We connect the tiny dots in your business in the most awesome way with technology stacks and platforms",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "we-connect-the-tiny-dots-in-your-business-in-the-most-awesome-way-with-technology-stacks-and-platforms"
+    },
+    {
+     "tag": "h3",
+     "text": "Jivrus Technologies uses excellent technology to make your business successful through innovative products and solutions in Cloud, analytics, automation, IoT, and AI.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jivrus-technologies-uses-excellent-technology-to-make-your-business-successful-through-innovative-products-and-solutions-in-cloud-analytics-automation-iot-and-ai"
+    },
+    {
+     "tag": "p",
+     "text": "Explore our Culture",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Meet the Team",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "a",
+     "text": "Our History",
+     "href": "/about/our-history",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "a",
+     "text": "Careers",
+     "href": "/about/careers",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Worldwide reach",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "worldwide-reach"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f467fccbcdfd2b98.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "We build softwares for businesses worldwide",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "we-build-softwares-for-businesses-worldwide"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tkzDXnLcu_NfU5SxsnVfsrZL4nJOQ7bl_2QTuTQMJQQrq1CCkENRJEON5uwgjy3HdgTetqRMR8yhKIkX5au_MWRz_057mVyEufrK5SUxqCowhkWGUuU78Vi_dC2n8cTv3WAZ6pgG5J8h6Ck8R4Wh7hcuYLYcF6CMrYzN1iSnnQXw1AwIPDHGqL=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Our story",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "our-story"
+  },
+  {
+   "tag": "p",
+   "text": "It was a crisp, cold winter evening during the 2015 Christmas holidays—a time for celebration, reflection, and unexpected revelations. Our founder, enjoying a quiet moment, found himself in a casual but profound conversation with a business owner in the USA. That businessman was no tech wizard, but he was passionate about his work and driven to succeed. Yet, despite his passion, his words showed a shadow of frustration.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "He spoke about his business—a thriving one by most accounts—but confessed his struggles with technology. He had invested heavily in software—more than his business even needed—but something was missing. The systems weren’t working together, his needs weren’t being met, and the promised efficiency was nowhere to be found. He felt trapped, and his story was a familiar one.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "That conversation planted a seed. It wasn’t about software abundance; it was about synergy. The realization hit like a lightning bolt: businesses don’t just need software—they need software that works together seamlessly. And this wasn’t a problem confined to tech giants. It was universal, affecting businesses of every size across the globe. The integration gap wasn’t a niche inconvenience; it was a trillion-dollar dilemma waiting to be solved.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "In that pivotal moment, the idea of Jivrus Technologies was born. It was more than just a business concept—it was a calling. The mission was clear: to become the enabler, the bridge, the missing link that would turn fragmented tools into cohesive solutions. Our founder envisioned a world where technology didn’t hinder success but became its greatest ally—a world where businesses, big or small, could focus on their goals without being bogged down by the chaos of disconnected systems.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The journey began with fire in the heart and determination in the soul. By early 2016, Jivrus Technologies had taken shape—a self-funded startup built on the belief that simplicity and innovation could transform the way the world works. We dove headfirst into the challenge, crafting solutions in intelligent integration, hyper-automation, and codeless computing to empower businesses to automate workflows and harmonize systems.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Today, Jivrus Technologies stands as a testament to that singular moment of inspiration. What started as one conversation has become a movement, revolutionizing the way businesses think about technology. From bustling startups to established enterprises, our solutions are empowering organizations to bridge gaps, unlock efficiencies, and achieve more than they ever thought possible.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "This is our story. A story of vision, resilience, and innovation. It began with a spark, grew into a mission, and now fuels a revolution. Jivrus Technologies: Transforming Technology Into Seamless Success.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Jivrus Technologies is at the forefront of digital transformation, delivering innovative SaaS solutions that redefine intelligent integration, hyper-automation, and codeless computing.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jivrus-technologies-is-at-the-forefront-of-digital-transformation-delivering-innovative-saas-solutions-that-redefine-intelligent-integration-hyper-automation-and-codeless-computing"
+  },
+  {
+   "tag": "h2",
+   "text": "Our mission is to streamline complex processes, empowering businesses to integrate systems seamlessly and automate workflows effortlessly; boosting productivity and creating successful outcomes for our customers.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "our-mission-is-to-streamline-complex-processes-empowering-businesses-to-integrate-systems-seamlessly-and-automate-workflows-effortlessly-boosting-productivity-and-creating-successful-outcomes-for-our-customers"
+  },
+  {
+   "tag": "h3",
+   "text": "Whether you love it or not, today’s market is packed with an abundance of software capable (free, low-cost to premium level) of more than ever—and constantly evolving to meet future demands.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "whether-you-love-it-or-not-today-s-market-is-packed-with-an-abundance-of-software-capable-free-low-cost-to-premium-level-of-more-than-ever-and-constantly-evolving-to-meet-future-demands"
+  },
+  {
+   "tag": "h3",
+   "text": "The reality? Most people either don’t know about these tools, aren’t sure how to connect them for maximum impact, or simply don’t have time to build custom solutions.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "the-reality-most-people-either-don-t-know-about-these-tools-aren-t-sure-how-to-connect-them-for-maximum-impact-or-simply-don-t-have-time-to-build-custom-solutions"
+  },
+  {
+   "tag": "h3",
+   "text": "Jivrus Technologies changes the game. We offer software that seamlessly connects people with the platforms they already use, enabling them to get exactly what they need with ease and enjoyment.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jivrus-technologies-changes-the-game-we-offer-software-that-seamlessly-connects-people-with-the-platforms-they-already-use-enabling-them-to-get-exactly-what-they-need-with-ease-and-enjoyment"
+  },
+  {
+   "tag": "h3",
+   "text": "At Jivrus, we believe in empowering everyone to create the automation solutions they envision.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "at-jivrus-we-believe-in-empowering-everyone-to-create-the-automation-solutions-they-envision"
+  },
+  {
+   "tag": "h3",
+   "text": "Today, we’re proud to support millions of users harnessing the power of automation to streamline workflows, accelerate growth, and transform their businesses. And this is just the beginning. 🚀",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "today-we-re-proud-to-support-millions-of-users-harnessing-the-power-of-automation-to-streamline-workflows-accelerate-growth-and-transform-their-businesses-and-this-is-just-the-beginning"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v-VKPKH1TlfjiGEgSDlILCcVm-JHbcNGiJ8axdqpO5yfR8qDcp2RdEii6kPDFSKHu9FcU6t36etmsDlVwWFMhRYFg8Hc6DToGaVGVMdDbikccXlwX7HCN9odnJotqVYvoWIskXHb_FS_CnW6Rym11gvgkd0ozXp_pia3qmrXQO2VL_mgMrTfzvXhLRpkOt_LvZChY963Yb=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "We envision providing everyone with the ability to create useful, best-in-class automation solutions.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Vision",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Empower anyone to build the automation solution they want.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Themes",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Intelligent integration",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Intelligent integration",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Hyper-automation",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Hyper-automation",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Codeless",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Codeless",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Awesome software products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Useful and best-in-class",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Useful and best-in-class",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Innovative and brilliant",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Innovative and brilliant",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Resilient and trustworthy",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Resilient and trustworthy",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Going back to the basics, it is the storage, computing, and network behind every fancy technology. Technology choices are abundant and ever-growing - from registers to big data storage, processors to cognitive computing, and AI, with networking being only next to breathing. The breadth and depth of technologies are enormous.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "At Jivrus, we are passionate about building innovative, brilliant, resilient, and trustworthy software solutions. We provide platforms and extensions that help businesses and citizen developers get things done in a simple, efficient way.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Bringing light and life to solutions that ensure your business success. That's what Jivrus stands for.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "bringing-light-and-life-to-solutions-that-ensure-your-business-success-that-s-what-jivrus-stands-for"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tVTc-rSAsZ61ToJnf8h0gx59R6wES2gpdIFM7DGWHSxkYKxYIToi0TOoLUoDvi8tcd2WifGYIZpAJ-FcVZQi9-jJsQ4c7f8IMHrZQckFD1oeM38Q8D-_I1YSh1LS2kDahBKaM2EdWFNgxQQgXGNdPH0ooWytxgISUKnaFwajSNpTLlWsdZZ_KxqG7adNeAeriTYa3nVw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Choosing right is a talent. But, automating business for success is more than just choosing right technologies and products for business. It is about enabling solutions for business; Shining light and life to solutions that ensure your business success. That's what Jivrus stands for.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "We connect the tiny dots in your business in the most awesome way with technology and platforms that gets things done in your business. We are the last-mile connectivity of your business and cloud platforms.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Mission",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Provide a platform and product extensions to get automation done for businesses and citizen developers in a simple way.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Themes",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "iSaaS/aPaaS platform and marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "iSaaS/aPaaS platform and marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Aggregate, Integrate, Orchestrate, Automate & Visualize",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Aggregate, Integrate, Orchestrate, Automate & Visualize",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "No code & Conversational",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "No code & Conversational",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Values",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Quicker benefits",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Quicker benefits",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Readymade and DIY solutions",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Readymade and DIY solutions",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Superior UX",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Superior UX",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Monetization",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Monetization",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t7Drng3tiPVnS3WYhAFu2aflGkoz9NhD3d5W159o7DtO-ZWLMJW1Y_TR4ZEg7xx367N5ge5FD9h06C0-zgBtxWEa6D6GuiJTEC-lMbBl7gbjIjb6vLvBjwhy5eGKcWVeaJFeqc8c8FWfa_wn-zKjL4GrsrqTyebfuWrIB6Imj0DuH7QtCohKzx9gNBEWadqiAfXx0Nxw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h2",
+   "text": "We connect the tiny dots in your business in the most awesome way with technology stacks and platforms",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "we-connect-the-tiny-dots-in-your-business-in-the-most-awesome-way-with-technology-stacks-and-platforms"
+  },
+  {
+   "tag": "h3",
+   "text": "Jivrus Technologies uses excellent technology to make your business successful through innovative products and solutions in Cloud, analytics, automation, IoT, and AI.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jivrus-technologies-uses-excellent-technology-to-make-your-business-successful-through-innovative-products-and-solutions-in-cloud-analytics-automation-iot-and-ai"
+  },
+  {
+   "tag": "p",
+   "text": "Explore our Culture",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Meet the Team",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Worldwide reach",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "worldwide-reach"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s_4dQOloRPOgJzxK_s3Sa-v3S9cGExNiWKP4OaKMsH1WT2B8ZiP3EHsI3dDNO86IyGWbY51FUcqw9dn8T9LWC8n8cS2EhjJm7kbD2U0HgneWzgSb0HHEwTAW_Z5MbJgEJdge4maVT9LP8nyHF69PDBSzVu6YduX_YZNVXRQWcgnX7dFtbXo_0pmKR-ThoZH4r3whF9_XL3=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h2",
+   "text": "We build softwares for businesses worldwide",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "we-build-softwares-for-businesses-worldwide"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tJ_G36kK3T8KirLASnhBuA-Pgd9klwQ4myLnAQJZ2vM2ak-F_a7FhzwwVAuKZ3Ib7LN8GvKF15P-euraheDoeBs_MX5JUMAYoJcIaX4TSK7IZsvEJtg6IxYSUmWdRObpolRL-VRYnHZScH2yxfbuxWx6idLqOEdFPCm15hpa1h0JKH7xTAbsGYOJnCs_VVF3EiSRCoIJiMCyH0kcTYZSqYbVWNoWIoEA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t_Qw5adeYAv2k4BtL1W9nNixrD0cM1f1DYqbR73Siux4mLfOF69tfy6SIVvs3kRoGKlpN-Wy94geN-j4K_szNC1N8q6Yz0NhQM1Ye98VWl0dDLl8BxdYR7sZSesrqqCxST-tFY_6br2_k6sRRVUIIFhCxNhdKQ146L1n8lJI96yJTchmO4TEelD1jCkC5wELaFAeAmk6FVVSGars6Voj0OE21_AzgNnQVb=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tQMFo_JcEIpcsHUFeVFwjTVcKo5UreVB2VFBKEIHyqziNTdtSqjEmxGWJHcNjRvbe2bRfKuHigcmRC5B6uhsvEVCd5zxrdSeEGBjubdIyXjjn8U5RRc2oClouD2PGCjn3SgBD8XQ6jgK-i1dFzzotVbbKcTzmUGbAmy6CFsPXkA3MQT7Dpbep-=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1280,
+   "h": 713
+  },
+  {
+   "src": "/images/f31ef61c0af8c46d.png",
+   "alt": "",
+   "w": 846,
+   "h": 548
+  },
+  {
+   "src": "/images/95932ee10e7fc014.jpg",
+   "alt": "",
+   "w": 1110,
+   "h": 821
+  },
+  {
+   "src": "/images/6619862981b2166e.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 229
+  },
+  {
+   "src": "/images/b7fa6d6362ec4713.jpg",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/about/culture",
+   "text": "Explore our Culture"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Meet the Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

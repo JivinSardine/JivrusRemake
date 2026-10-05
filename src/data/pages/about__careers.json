@@ -1,0 +1,1314 @@
+{
+ "route": "/about/careers",
+ "slug": "about__careers",
+ "family": "about",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Careers",
+ "description": "We are carving the future of Intelligent Integration and Hyper-Automation and The future is calling you!",
+ "h1": "Careers",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/about/careers",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "We are carving the future of Intelligent Integration and Hyper-Automation",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "we-are-carving-the-future-of-intelligent-integration-and-hyper-automation"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d4cd1b06ee17bcca.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "and",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8dd22e7e07f6626a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "The future is calling you!",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "the-future-is-calling-you"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f35b5558614cfeeb.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/11de510bca0fa2cb.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c94abceffa62c4a6.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b49837bc248dcf90.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57292bf5beafa1cd.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f016174c5cc2663d.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/44f6813c5eeddc38.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Great Culture, Great Work 😎",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/072f09070755b063.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Remote Work, Flexible 😀",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/3c36e64613635a32.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Performance Recognition 🎁",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/685ccf51e95164a8.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Social: PTO, Health Insurance, more 🎉",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Competitive Compensation💰",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Grow your passion and career 🚀",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "👋 Hey there",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "hey-there"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "We are hiring",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "we-are-hiring"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "h2",
+     "text": "Join Us, Become a Jivster",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "join-us-become-a-jivster"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "h2",
+     "text": "🚀",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Engineering",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "engineering"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Intern or Trainee - Software Developer (Code: JRS-ID)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "intern-or-trainee-software-developer-code-jrs-id"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Apply Now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Software Developer (Code: JRS-SD) - MEAN stack",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "software-developer-code-jrs-sd-mean-stack"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Apply Now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Need help in learning? Explore Jivrus Academy",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Marketing and Sales",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "marketing-and-sales"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Internship - Graphics & Animation Designer (Code: JRS-IGAD)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "internship-graphics-animation-designer-code-jrs-igad"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Meet the Team",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "a",
+     "text": "Company",
+     "href": "/about/company",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "a",
+     "text": "Our History",
+     "href": "/about/our-history",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Apply Now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Intern or Trainee Marketer (Code: JRS-IM)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "intern-or-trainee-marketer-code-jrs-im"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Apply Now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "h3",
+     "text": "Growth Specialist - SaaS Products (Code: JRS-MS)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "growth-specialist-saas-products-code-jrs-ms"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b373b0be8db34308.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Apply Now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Explore our Culture",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Internship",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tkzDXnLcu_NfU5SxsnVfsrZL4nJOQ7bl_2QTuTQMJQQrq1CCkENRJEON5uwgjy3HdgTetqRMR8yhKIkX5au_MWRz_057mVyEufrK5SUxqCowhkWGUuU78Vi_dC2n8cTv3WAZ6pgG5J8h6Ck8R4Wh7hcuYLYcF6CMrYzN1iSnnQXw1AwIPDHGqL=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "p",
+   "text": "and",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "The future is calling you!",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "the-future-is-calling-you"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72urRXGX7i-otlSNZuWlxct7zfhN9bfg5J2D8B9mScgm7egH0q-dMMnS_l2OqhHMr-edcoA2M1kiX015A6i4P5ojFU5DcziU0ZAYrN8iqH_32emYnIDFMcU2_EGrE3-Af4rFApU8f38vsgTgDhkg1ClOUU3ISC2TYinsZhgyMoLD-QpKBEr4_hjzs90kkt55cKEtxZlx_x4yBV61vH9oZr0aivu0Syg8obix=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Great Culture, Great Work 😎",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tJzKwRbfmzoB45ZuEKYrpE3ahO0yALcDzbjfFOWDDZnAuV2pFter3gXnqkBD30GtGFma69fy3Or6l6ACJlM5llweIeABBCwcpNdPixj7zGZt0K1m35pD9yDkE1FSTw82nyEW-C6FGTwEN9Sjg5fBn2vKvsR578YmA-hEoCRzrCYtbs3WwgQx7KQ6_5jbs7aRSTCK3S9qH0tU6UK__IgOh1lmQ4Fq58ww=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Remote Work, Flexible 😀",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s-kJMVL9TqwWPbaZN3BJQfg3QlMHPdnTaaQCHeUxQibAxX_M07Zacq6qnIDstOxmqCpRzObz3S333Tb-5dK_JBJoicnp3VaExiWLf17tiovCtwRFk9RN8M2-u4StucUg-BkBIYTrd2YFZqfJhZb72uPHMM5O_sh5LeY3-HWoW0XIK63tBeZpOx7aICfSIfga028_PJ7STJiYYLd3hKPTNT-H0gsrNAvc7r=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Performance Recognition 🎁",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tYDYygFBBWfewGvc6Cp3AdmqNI2SPP5xUdRHOo-DsAH5bbIqzrjrs1o_HR0jMn9ruJB3HkAUBJGKoAaO9q4e7TCzd2Q6xRT8K0Sqqccy7kMbaqjpaHo_miutM9gL6BLUW3u4kGNpYawKMeMHSkzPEnkkH8-d_bA3IsfTcXIT82q_JRCOmCUF1ybfV48CA2IiIgugPnwzq5J_8a14VKoQNNBnPkrwKbzg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Social: PTO, Health Insurance, more 🎉",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sWLyqJjqUB8s1o_8ROx01BnQJg42emGf8qt1NN6PigIBVXDjpqTkSax4Tn393Loc190hS0Mr4tfayoHMvWJX0VFsQSmILTOK_VTMIxFGLZA1xz1w2Aon3w1nDtuRFcXxlJsKUq0c3Pg1Ylfg9Nd5A7WubZoU1JY9xYtxdJBUcDRRyqCtaQjTNr51pAq0KZrj56n9yxXGiiFyzAE58mvYZaM5UVUdbxFEdh=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Competitive Compensation💰",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tpojCR7rx57o9mr8dk3Kyb-w8KnAvmMnv3rr3VFBcp70zx58z5viwwdos3ZeCVd77ZVfcHDpI9cbZ2A0jRM93HO0CfU9yebOhbYnV914OpJ9p35glVmB5CiMNgVPcAKP8y90XwcLnlpkh7yAmTDxdWysJrVRAYg8NcRQTXMdm8YKdkFh2qRHVcOzGMnhNcZX0i8Lk12mq0E4O4BemMW1VM5COyoQTN4mYm=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Grow your passion and career 🚀",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "👋 Hey there",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "hey-there"
+  },
+  {
+   "tag": "h2",
+   "text": "We are hiring",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "we-are-hiring"
+  },
+  {
+   "tag": "h2",
+   "text": "Join Us, Become a Jivster",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "join-us-become-a-jivster"
+  },
+  {
+   "tag": "h2",
+   "text": "🚀",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)"
+  },
+  {
+   "tag": "h2",
+   "text": "Engineering",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "engineering"
+  },
+  {
+   "tag": "h3",
+   "text": "Intern or Trainee - Software Developer (Code: JRS-ID)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "intern-or-trainee-software-developer-code-jrs-id"
+  },
+  {
+   "tag": "p",
+   "text": "Apply Now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h3",
+   "text": "Software Developer (Code: JRS-SD) - MEAN stack",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "software-developer-code-jrs-sd-mean-stack"
+  },
+  {
+   "tag": "p",
+   "text": "Apply Now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Need help in learning? Explore Jivrus Academy",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h2",
+   "text": "Marketing and Sales",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "marketing-and-sales"
+  },
+  {
+   "tag": "h3",
+   "text": "Internship - Graphics & Animation Designer (Code: JRS-IGAD)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "internship-graphics-animation-designer-code-jrs-igad"
+  },
+  {
+   "tag": "p",
+   "text": "Meet the Team",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Apply Now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h3",
+   "text": "Intern or Trainee Marketer (Code: JRS-IM)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "intern-or-trainee-marketer-code-jrs-im"
+  },
+  {
+   "tag": "p",
+   "text": "Apply Now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "h3",
+   "text": "Growth Specialist - SaaS Products (Code: JRS-MS)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "growth-specialist-saas-products-code-jrs-ms"
+  },
+  {
+   "tag": "p",
+   "text": "Apply Now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tVPnXI6KHEt_HtBdaW9nnRHSH_gmIv8UTErkANM8ygH86XF_tfMvMcDGstNs1-ySX7URfiplbwbDTxkyd6U1pWcYalRwY9LBXY1DzRSLCHbbmEmk_Jj6ch-6t7KdBsnl3QPtoV0bz29R-4_rVmBcgO_UjUjMljhksS9pYzclpmxnSRn_ymmwD8-nvgIY0zI_Q1r_hkk1qpdPSfp5SrMRoACt3VVM9Xfyzq=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Explore our Culture",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Internship",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s7jSuHIGWOxTWhY6M94bL-SLaBIshA_E0tH4LlWyW_L_gda8pUVD4H3mtbAxMSbzdx3mLOe6l7iEb7wb1w_ZcWV0TduEx3BcqhjF4nzgJV4NNzLGMZBV1NfkGXGGIAKXgmQvsoTHyvnBR_NoD-YcERAIfPTKLt-soHdElAFyYu0GnS2pAUD35TroKelrn3ELdMzcRGDmHMQdZU_QU2J9s4Ckf63aToVA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vpnb6AKLoH2mxwNGo7ZM43zBvi5MX-CvusygZRhwVyszaUwvWiYxeoHS0AVk7_z7lXstzxlFcrtF9IkeMLx9-JeGLgzqldSH6_Kj3Z7DpQdrxK1VszBMgwXmQB8YEOqVmHD9dYUgouJrbomlWAe-Rap4orDTHw5KoDqvQNiD2MRhYmFRfrTUdBznmXNpjYl5jMaHDqJT1-7tc0n8JF62Lb0xSfgn6oMcvm=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tGLNM8wwmuIi1irgDeUdi9kXRylP7fR58B1lqbEvqSjAvmXKUmOgxCo1O4876hIYPZE1NAyDd6xJi06bAxutwpametdeq8AjgsAvEN3UObJOvOaRokqOCan43wE8wdeGI5gb0-pGsu8D1gnO9Q7k_ScJviHD4CHed2WTQmpFx1F0ZvdKHpbevz=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 574,
+   "h": 417
+  },
+  {
+   "src": "/images/d4cd1b06ee17bcca.jpg",
+   "alt": "",
+   "w": 565,
+   "h": 417
+  },
+  {
+   "src": "/images/8dd22e7e07f6626a.jpg",
+   "alt": "",
+   "w": 626,
+   "h": 452
+  },
+  {
+   "src": "/images/44f6813c5eeddc38.jpg",
+   "alt": "",
+   "w": 577,
+   "h": 417
+  },
+  {
+   "src": "/images/072f09070755b063.jpg",
+   "alt": "",
+   "w": 574,
+   "h": 417
+  },
+  {
+   "src": "/images/3c36e64613635a32.jpg",
+   "alt": "",
+   "w": 577,
+   "h": 417
+  },
+  {
+   "src": "/images/685ccf51e95164a8.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 314
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/b373b0be8db34308.png",
+   "alt": "",
+   "w": 1280,
+   "h": 314
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/culture",
+   "text": "Culture"
+  },
+  {
+   "href": "https://www.jivrus.com/about/apply-online",
+   "text": "Apply Now"
+  },
+  {
+   "href": "https://www.jivrus.com/about/apply-online",
+   "text": "Apply Now"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Need help in learning? Explore Jivrus Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Meet the Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/apply-online",
+   "text": "Apply Now"
+  },
+  {
+   "href": "https://www.jivrus.com/about/apply-online",
+   "text": "Apply Now"
+  },
+  {
+   "href": "https://www.jivrus.com/about/apply-online",
+   "text": "Apply Now"
+  },
+  {
+   "href": "https://www.jivrus.com/about/company",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/about/culture",
+   "text": "Explore our Culture"
+  },
+  {
+   "href": "https://www.jivrus.com/about/internship",
+   "text": "Internship"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

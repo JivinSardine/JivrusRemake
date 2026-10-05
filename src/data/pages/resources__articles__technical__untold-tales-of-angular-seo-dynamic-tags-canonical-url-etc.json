@@ -1,0 +1,1782 @@
+{
+ "route": "/resources/articles/technical/untold-tales-of-angular-seo-dynamic-tags-canonical-url-etc",
+ "slug": "resources__articles__technical__untold-tales-of-angular-seo-dynamic-tags-canonical-url-etc",
+ "family": "resources",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Untold tales of Angular SEO, Dynamic Tags, Canonical URL, etc",
+ "description": "SPA and SEO",
+ "h1": "Untold tales of Angular SEO, truly Dynamic Tags, Canonical URL, etc",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/articles/technical/untold-tales-of-angular-seo-dynamic-tags-canonical-url-etc",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1298cfe7903932e7.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b0233fa5c42cc997.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "SPA and SEO",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "spa-and-seo"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/412b2b2c84fb84e2.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Achieving SEO on SPA is tough; yes, in the year 2020 too, it is painstakingly tough. period.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b8e691aed3ddffbc.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "But sharing the experience to save someone from going through the pain, is simple. And this post is for that.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "We at Jivrus develop SPA web applications mainly using AngularJS and Angular predominantly as frontend framework for both our products and projects. It was a breeze to develop web applications in AngularJS and Angular until we hit hard reality of issues on SEO.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "There are already several articles (here and there) on the Internet that teach you about SEO, SEO on SPA, SEO with AngularJS / Angular. This post is not intended to reproduce those here. Rather, provide a solid path on the decisions we made to get SEO work for us and document the undocumented solutions. Warn you, it is highly opinionated.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Wake up! AngularJS is dead. Long live AngularJS",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "wake-up-angularjs-is-dead-long-live-angularjs"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Yes, AngularJS is dead. And it is contradictory to say 'long live' on something dead. But that is true too.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "Developers coming from plan javascript and jQuery world embraced AngularJS (1.x) with 'Wow!' ness until it is evolved into Angular (2+) with completely different paradigms, syntaxes and semantics. And the new world is not in favour of AngularJS as it is not actively developed anymore (but only supported). So dead; or dying.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "Nevertheless, the apps that are already developed in AngularJS and live are doing good for the purpose. As long as they are not very aspirant for new features, they are maintainable and continue to being fit for the purpose. So, long live AngularJS",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Now, coming to the point of SEO, there is no native solution on AngularJS and there will not be any as it is not actively maintained. Where as Angular (2+) has a native way, called Angular Universal.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "So, move to Angular (Universal) sooner than later if your apps are in AngularJS and you need SEO.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "So, what is the problem with Angular Universal?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "so-what-is-the-problem-with-angular-universal"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "No problem! Actually expected to be fantastic when Angular Universal claimed to be the solution. And Angular is actively maintained (unlike AngularJS), where is the problem?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Yet, we faced a number of issue with SEO. A quick search on Internet revealed that we are not at all alone. There are a number of articles which covered what to do with Angular Universal. All those articles soon became like curriculum subject papers that appear to be helping the job, but not in reality.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "The good, bad & worst; and the solutions",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "the-good-bad-worst-and-the-solutions"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Angular Universal Itself",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "angular-universal-itself"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "It is supposed to be a solution until the setup intimidates you with several trial and runs before getting settled (especially in hybrid AngularJS + Angular environment).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "A lot of article covers these, so not a problem except the iterations dig your efforts.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Good news is, it really does a good job and improves TTFB, FP, FCP (check article if you are not aware of these)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Good news is, it really does a good job and improves TTFB, FP, FCP (check article if you are not aware of these)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Universal SSR hates client side references",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "universal-ssr-hates-client-side-references"
+    },
+    {
+     "tag": "p",
+     "text": "SSR cannot use client side Javascript references that are supposed to be used only in Browsers.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Browser objects are strict NO Window, Location, Screen, History, Popup, Navigator, Timing, Cookies",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Browser objects are strict NO",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Window, Location, Screen, History, Popup, Navigator, Timing, Cookies",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "any plain javascript library that is not required for server e.g. we needed Google API (gapi) for client side JavaScript that broke big time in SSR we used several other client side javascript APIs in the project that broke SSR",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "any plain javascript library that is not required for server",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "e.g. we needed Google API (gapi) for client side JavaScript that broke big time in SSR",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "we used several other client side javascript APIs in the project that broke SSR",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Important Tip: SSR won't give you the error message on a platter for you to easily debug and fix. You need to keep eyes wide open and search on server window (not browser console logs) to catch these errors.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Solution:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "solution"
+    },
+    {
+     "tag": "p",
+     "text": "Check whether it is client side - The golden rule",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Manually write code to check whether code is not running in Server Side before using these browser objects or javascript libraries.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Code Snippet:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "import { Inject, PLATFORM_ID } from '@angular/core';",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "import { isPlatformBrowser } from '@angular/common';",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "....",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "constructor(@Inject(PLATFORM_ID) platformId: Object) {",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "this.isBrowser = isPlatformBrowser(platformId);",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "}",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "And use \"this.isBrowser\" before doing any such client side operations in server where it is deemed as crime.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Dynamic Tags just won't work; well, until you figure it out.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "dynamic-tags-just-won-t-work-well-until-you-figure-it-out"
+    },
+    {
+     "tag": "p",
+     "text": "Angular has Title and Meta services which makes things easier to set title and meta tags required for SEO. So, where is the difficulty?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "It just works when you use it with static text (means hardcoded text in code). But just refuses to work when setting values dynamically retrieved from API/ database.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "The tricky part is that the dynamic tags appear correctly set when you print in browser console and inspect the DOM. But it does not provide the tags to Search Engine crawlers (like Google Bot). Ever faced this issue and went clueless? You are joining the developers struggling out there on stackoverflow with growing number of unanswered questions.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Solution:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "First make sure that Client side reference issue mentioned above is fixed.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Then, keenly watch logs to understand what is happening on server side (not browser console logs). Depending on the server you host, you will see a cryptic error message that appears. For us, on localhost, we saw the great reporting of the following error.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "ERROR [error]",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "That's it. No error message, no stack trace and nothing to give a clue where it goes wrong.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "(It could be bit different for you depending on where you run the SSR code)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Once you see this error, as a smart developer, you can figure out what is failing. Simply, keep tracing the console.log message before and after this error to narrow down on the code that is failing on server side.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "For us, the httpClient.get function was failing without any reason. It worked perfectly on browser but not on server side. Digging into it, we found that Angular Universal is not able to fire API calls to relative URL. Making the URL into absolute made it work. That is, changing URL from /api/member to https://localhost:8080/api/member. Soon, we extended this to Staging and Production. And it worked like charm.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Canonical URL messes up for no reason",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "canonical-url-messes-up-for-no-reason"
+    },
+    {
+     "tag": "p",
+     "text": "The popular approach for setting canonical URL in Angular is documented this article. This is just one of the articles that talks about canonical URL. It works but we noticed our sitemap URLs are not reconciling with the canonical URLs for many cases.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Solution:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Looking at the canonical URL, for some unknown reason, the canonical URL (from doc.URL) came as http:// instead of https://. We do not yet know the reason but had to handle this in code to avoid reconciliation error with sitemap. (if anyone knows the reason, please write in the comments section below)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Continuing SEO journey in Angular",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "continuing-seo-journey-in-angular"
+    },
+    {
+     "tag": "p",
+     "text": "We are continuing SEO journey in Angular and our aim is to get all URLs indexable by search engines.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Though we see major issues are resolved, we do expect some more issues coming up that deserves a place in this post. So you expect more getting added here.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Author: Michaes, CoFounder and Director of Jivrus Technologies.He is so passionate about building software products and solutions.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Michaes @ LinkedIn",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(208, 23, 82)"
+    },
+    {
+     "tag": "p",
+     "text": "Co-author is Shashidhara, Software Developer of Jivrus Technologies. He works on best JavaScript frameworks in his everyday work to make things better for Jivrus and clients.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vP4BXrVBuhsr_bt1OW-9Ziin1CLe2lpP4oUM2FUAi-HIS_Lj08XjBZJvQ2M4hLQ45ufeAjt06txpTr2cX4Wga5j0g2xHzFD1qCB1q9xEWNXGWUVtOWqYiiO0kaIiSbFqNIqkt7Prk3Qg5TfCwTYA4_MgUBmYkW1LwZE-jgPXKujTUbaiBObvC2=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tjlWVxC0krUgfK_tWuphG9XwPLaWeKKABvpiKMzI06TObIDUCz2__yUCaPjd5aX2ZyPKlATkW9qx6VuwS7mV7E2yMq-y4TckQ9je6LcEy_47VBIIr55N4UaVzJ0ywxTA4qj4jLGeK1jeXnfEH0lmp9DyKLMYdXkolgX8yfQxcmDhdMahFX0efJabEBc5wCp-bfbwMD0FmO=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h2",
+   "text": "SPA and SEO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "spa-and-seo"
+  },
+  {
+   "tag": "p",
+   "text": "Achieving SEO on SPA is tough; yes, in the year 2020 too, it is painstakingly tough. period.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "But sharing the experience to save someone from going through the pain, is simple. And this post is for that.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "We at Jivrus develop SPA web applications mainly using AngularJS and Angular predominantly as frontend framework for both our products and projects. It was a breeze to develop web applications in AngularJS and Angular until we hit hard reality of issues on SEO.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "There are already several articles (here and there) on the Internet that teach you about SEO, SEO on SPA, SEO with AngularJS / Angular. This post is not intended to reproduce those here. Rather, provide a solid path on the decisions we made to get SEO work for us and document the undocumented solutions. Warn you, it is highly opinionated.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Wake up! AngularJS is dead. Long live AngularJS",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "wake-up-angularjs-is-dead-long-live-angularjs"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, AngularJS is dead. And it is contradictory to say 'long live' on something dead. But that is true too.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Developers coming from plan javascript and jQuery world embraced AngularJS (1.x) with 'Wow!' ness until it is evolved into Angular (2+) with completely different paradigms, syntaxes and semantics. And the new world is not in favour of AngularJS as it is not actively developed anymore (but only supported). So dead; or dying.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Nevertheless, the apps that are already developed in AngularJS and live are doing good for the purpose. As long as they are not very aspirant for new features, they are maintainable and continue to being fit for the purpose. So, long live AngularJS",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Now, coming to the point of SEO, there is no native solution on AngularJS and there will not be any as it is not actively maintained. Where as Angular (2+) has a native way, called Angular Universal.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "So, move to Angular (Universal) sooner than later if your apps are in AngularJS and you need SEO.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "So, what is the problem with Angular Universal?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "so-what-is-the-problem-with-angular-universal"
+  },
+  {
+   "tag": "p",
+   "text": "No problem! Actually expected to be fantastic when Angular Universal claimed to be the solution. And Angular is actively maintained (unlike AngularJS), where is the problem?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Yet, we faced a number of issue with SEO. A quick search on Internet revealed that we are not at all alone. There are a number of articles which covered what to do with Angular Universal. All those articles soon became like curriculum subject papers that appear to be helping the job, but not in reality.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "The good, bad & worst; and the solutions",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "the-good-bad-worst-and-the-solutions"
+  },
+  {
+   "tag": "h2",
+   "text": "Angular Universal Itself",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "angular-universal-itself"
+  },
+  {
+   "tag": "p",
+   "text": "It is supposed to be a solution until the setup intimidates you with several trial and runs before getting settled (especially in hybrid AngularJS + Angular environment).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "A lot of article covers these, so not a problem except the iterations dig your efforts.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Good news is, it really does a good job and improves TTFB, FP, FCP (check article if you are not aware of these)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Good news is, it really does a good job and improves TTFB, FP, FCP (check article if you are not aware of these)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Universal SSR hates client side references",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "universal-ssr-hates-client-side-references"
+  },
+  {
+   "tag": "p",
+   "text": "SSR cannot use client side Javascript references that are supposed to be used only in Browsers.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Browser objects are strict NO Window, Location, Screen, History, Popup, Navigator, Timing, Cookies",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Browser objects are strict NO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Window, Location, Screen, History, Popup, Navigator, Timing, Cookies",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Window, Location, Screen, History, Popup, Navigator, Timing, Cookies",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "any plain javascript library that is not required for server e.g. we needed Google API (gapi) for client side JavaScript that broke big time in SSR we used several other client side javascript APIs in the project that broke SSR",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "any plain javascript library that is not required for server",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "e.g. we needed Google API (gapi) for client side JavaScript that broke big time in SSR",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "e.g. we needed Google API (gapi) for client side JavaScript that broke big time in SSR",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "we used several other client side javascript APIs in the project that broke SSR",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "we used several other client side javascript APIs in the project that broke SSR",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Important Tip: SSR won't give you the error message on a platter for you to easily debug and fix. You need to keep eyes wide open and search on server window (not browser console logs) to catch these errors.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Solution:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "solution"
+  },
+  {
+   "tag": "p",
+   "text": "Check whether it is client side - The golden rule",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Manually write code to check whether code is not running in Server Side before using these browser objects or javascript libraries.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Code Snippet:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "import { Inject, PLATFORM_ID } from '@angular/core';",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "import { isPlatformBrowser } from '@angular/common';",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "....",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "constructor(@Inject(PLATFORM_ID) platformId: Object) {",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "this.isBrowser = isPlatformBrowser(platformId);",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "}",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "And use \"this.isBrowser\" before doing any such client side operations in server where it is deemed as crime.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Dynamic Tags just won't work; well, until you figure it out.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "dynamic-tags-just-won-t-work-well-until-you-figure-it-out"
+  },
+  {
+   "tag": "p",
+   "text": "Angular has Title and Meta services which makes things easier to set title and meta tags required for SEO. So, where is the difficulty?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "It just works when you use it with static text (means hardcoded text in code). But just refuses to work when setting values dynamically retrieved from API/ database.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The tricky part is that the dynamic tags appear correctly set when you print in browser console and inspect the DOM. But it does not provide the tags to Search Engine crawlers (like Google Bot). Ever faced this issue and went clueless? You are joining the developers struggling out there on stackoverflow with growing number of unanswered questions.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Solution:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "First make sure that Client side reference issue mentioned above is fixed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Then, keenly watch logs to understand what is happening on server side (not browser console logs). Depending on the server you host, you will see a cryptic error message that appears. For us, on localhost, we saw the great reporting of the following error.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "ERROR [error]",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "That's it. No error message, no stack trace and nothing to give a clue where it goes wrong.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "(It could be bit different for you depending on where you run the SSR code)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Once you see this error, as a smart developer, you can figure out what is failing. Simply, keep tracing the console.log message before and after this error to narrow down on the code that is failing on server side.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "For us, the httpClient.get function was failing without any reason. It worked perfectly on browser but not on server side. Digging into it, we found that Angular Universal is not able to fire API calls to relative URL. Making the URL into absolute made it work. That is, changing URL from /api/member to https://localhost:8080/api/member. Soon, we extended this to Staging and Production. And it worked like charm.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Canonical URL messes up for no reason",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "canonical-url-messes-up-for-no-reason"
+  },
+  {
+   "tag": "p",
+   "text": "The popular approach for setting canonical URL in Angular is documented this article. This is just one of the articles that talks about canonical URL. It works but we noticed our sitemap URLs are not reconciling with the canonical URLs for many cases.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Solution:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Looking at the canonical URL, for some unknown reason, the canonical URL (from doc.URL) came as http:// instead of https://. We do not yet know the reason but had to handle this in code to avoid reconciliation error with sitemap. (if anyone knows the reason, please write in the comments section below)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Continuing SEO journey in Angular",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "continuing-seo-journey-in-angular"
+  },
+  {
+   "tag": "p",
+   "text": "We are continuing SEO journey in Angular and our aim is to get all URLs indexable by search engines.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Though we see major issues are resolved, we do expect some more issues coming up that deserves a place in this post. So you expect more getting added here.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Author: Michaes, CoFounder and Director of Jivrus Technologies.He is so passionate about building software products and solutions.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Michaes @ LinkedIn",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(208, 23, 82)"
+  },
+  {
+   "tag": "p",
+   "text": "Co-author is Shashidhara, Software Developer of Jivrus Technologies. He works on best JavaScript frameworks in his everyday work to make things better for Jivrus and clients.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ugMZKxfXjCAC4hVICtg9v6FjQC_GUkCGWKf-_2xFPPQl1oxz9XClgc27SXlqmDDXHektpI5cBicz9sEHbnQ7N5wj5N5_5IF9cTyhkdWwTrHMIjokhUMIdeXIcB2Hx92RnRZq-8Dz3B2rbbd_ruhI5EmxVoU8FWmV53-6vbl6eoDC35A2Bq70lPNxjWk5NFGKmh9fFPVNV4rAAJTu9kU_K80nXQZyfP6g=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uXE4OZwQQLA31_Zegm29NW3EldErj8qgbXdj_HA2QUYH7yltbaowPkhpJlF47_tA9E3p4iksRFYMQc71Dfl91uejlEca2mdUCrPwaPh47sSTfhVwZdFNjs3Q4GnZQ00Pm7SXnsvTO5CMWcJcpHpFjQS5bK0Nf18GumjLVbZd7kBSg_MuoPMy_ZXVyhdFJXnOWwNTFVeSPGATD72rpzH6PUVMGqQ-pz0QIU=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uvPoK0uIQFfS8cBhKfF-_tEEqPKBvJZPuzImZ2y2RlIxLjKfIu6h5H_OPrndeY_954GgMTGSeRQwq03IohMFFPHinO39UYaCqAevTLaEBViwPUU2dZzP4SyYUu6ZxUVSGrsCwok4TzUzJFr2K5gaV588xDwuynuZaj5xmzH1hTeALmbZ73o5WP=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 176,
+   "h": 186
+  },
+  {
+   "src": "/images/412b2b2c84fb84e2.png",
+   "alt": "",
+   "w": 1118,
+   "h": 440
+  },
+  {
+   "src": "/images/b8e691aed3ddffbc.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 632
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/company",
+   "text": "Jivrus"
+  },
+  {
+   "href": "https://www.searchenginejournal.com/angular-seo-guide/303849/",
+   "text": "here"
+  },
+  {
+   "href": "https://snipcart.com/blog/angular-seo-universal-server-side-rendering",
+   "text": "there"
+  },
+  {
+   "href": "https://angular.io/guide/universal",
+   "text": "Angular Universal"
+  },
+  {
+   "href": "https://developers.google.com/web/updates/2019/02/rendering-on-the-web",
+   "text": "article"
+  },
+  {
+   "href": "https://www.google.com/search?q=angular+dynamic+tags+not+working+site%3Astackoverflow.com",
+   "text": "struggling out there on stackoverflow"
+  },
+  {
+   "href": "https://localhost/",
+   "text": "https://localhost"
+  },
+  {
+   "href": "https://www.concretepage.com/angular/angular-title-service-and-canonical-url#Canonical",
+   "text": "this article"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichaes&sa=D&sntz=1&usg=AOvVaw1KcYnwCDWP-x_FRjQYgsb7",
+   "text": "Michaes @ LinkedIn"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

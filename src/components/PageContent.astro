@@ -1,0 +1,290 @@
+---
+/**
+ * PageContent — renders a route's extracted page model using the live site's own
+ * layout grammar: a magenta strip between sections, prose for copy, card grids
+ * for listings, with the original block order preserved exactly.
+ */
+import type { Block, Section } from '~/types';
+import SectionStrip from './SectionStrip.astro';
+import BlockView from './BlockView.astro';
+
+export interface Props {
+  sections: Section[];
+}
+const { sections } = Astro.props;
+
+/**
+ * Picks the presentation for a run of blocks.
+ *
+ * The live site is mostly continuous prose with h2/h3 subheads, so `prose` is
+ * the default and must stay WHITE. Blush is only for genuine card/logo grids,
+ * which are exactly the runs that are mostly images or many short list items.
+ */
+function layoutFor(blocks: Block[]): 'grid' | 'list' | 'prose' | 'tiles' {
+  const tags = blocks.map((b) => b.tag);
+  const imgs = tags.filter((t) => t === 'img').length;
+  const lis = tags.filter((t) => t === 'li').length;
+  // A run led by a heading and then mostly artwork is a tile gallery, not a
+  // card grid. The brand kit (/about/branding) lays its logos out four to a
+  // row; the generic card grid pads each image into a box as tall as the
+  // tallest cell in its row, which made that page 50% taller than the source.
+  // Judge on the run AFTER the heading, since the heading and its explanatory
+  // paragraphs are copy, not tiles.
+  const head = blocks.find((b) => b.tag === 'h1' || b.tag === 'h2' || b.tag === 'h3');
+  const body = head ? blocks.filter((b) => b !== head) : blocks;
+  const bodyImgs = body.filter((b) => b.tag === 'img').length;
+  if (imgs >= 4 && bodyImgs >= body.length * 0.45) return 'tiles';
+  // Image-led run => card grid (testimonials, customers, history, partners).
+  if (imgs >= 3) return 'grid';
+  // Many short sibling list items => a listing, not a document.
+  if (lis >= 4 && lis >= tags.length * 0.6) return 'list';
+  return 'prose';
+}
+
+/**
+ * A card must not contain a bare <li>: list items need a list parent, or the
+ * meaning is lost to assistive tech. Runs containing <li> render as a list.
+ */
+function hasListItem(blocks: Block[]): boolean {
+  return blocks.some((b) => b.tag === 'li');
+}
+---
+
+{
+  sections.map((section) => {
+    if (section.kind === 'strip' && section.title) {
+      return <SectionStrip title={section.title} />;
+    }
+    const blocks = section.blocks ?? [];
+    // A section may be copy-only, e.g. once its artwork has been split out.
+    if (!blocks.length) {
+      if (!section.copy?.length) return null;
+      return (
+        <section class="section">
+          <div class="container prose">
+            {section.copy.map((b) => (
+              <BlockView block={b} />
+            ))}
+          </div>
+        </section>
+      );
+    }
+    const mode = layoutFor(blocks);
+
+    // A run that contains <li> is a list: give it a real <ul> so the list
+    // semantics survive. Never put a bare <li> inside a card or a <div>.
+    if (hasListItem(blocks)) {
+      return (
+        <section class="section">
+          <div class="container">
+            <ul class="listing" data-stagger>
+              {blocks.map((b) => (
+                <li class="listing__item" data-stagger-item>
+                  <BlockView block={b} inline />
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
+      );
+    }
+
+    // An image-led run renders as a compact tile gallery: the heading spans
+    // the full width, then the artwork sits four to a row the way the source
+    // lays out the brand kit. The generic card grid would pad every image
+    // into a box as tall as the tallest cell in its row.
+    //
+    // Captions are paired with the image they describe. The extraction stores
+    // them as siblings - `img, "Perfectly proportionate logo", img, ...` - so
+    // without pairing, a caption becomes its own grid cell and lands in the
+    // next column from the logo it belongs to.
+    if (mode === 'tiles') {
+      const heading = blocks.find((b) => b.tag === 'h1' || b.tag === 'h2' || b.tag === 'h3');
+      const rest = blocks.filter((b) => b !== heading);
+
+      // Pairing, derived from how the source stores these runs.
+      //
+      // A logo group is a set of images with a matching set of labels:
+      //
+      //     img, img, "Perfectly proportionate logo",
+      //     img, "Monochrome in dark background", ...
+      //
+      // The labels are NOT adjacent to the image they name - the first label
+      // follows two images - so pairing each label with the image in front of
+      // it shifts every caption one column to the right. Pair by index: the
+      // nth label belongs to the nth image.
+      //
+      // A section's own copy (the lifted prose, plus any name with no artwork
+      // to attach to) stays full width above the grid.
+      const artwork = rest.filter((b) => b.tag === 'img');
+      const labels = rest.filter((b) => b.tag !== 'img');
+
+      return (
+        <section class="section section--blush">
+          <div class="container">
+            {heading && <BlockView block={heading} />}
+            {section.copy?.map((b) => (
+              <div class="tiles__copy tiles__copy--lead">
+                <BlockView block={b} />
+              </div>
+            ))}
+            {labels.length > artwork.length && (
+              <div class="tiles__copy tiles__copy--names">
+                {labels.slice(artwork.length).map((b) => (
+                  <BlockView block={b} inline />
+                ))}
+              </div>
+            )}
+            <div class="tiles" data-stagger>
+              {artwork.map((img, i) => (
+                <figure class="tile" data-stagger-item>
+                  <BlockView block={img} />
+                  {labels[i] && <figcaption><BlockView block={labels[i]} inline /></figcaption>}
+                </figure>
+              ))}
+            </div>
+          </div>
+        </section>
+      );
+    }
+
+    return (
+      <section class:list={['section', { 'section--blush': mode === 'grid' }]}>
+        <div class="container">
+          {mode === 'prose' && (
+            <div class="prose">
+              {blocks.map((b) => (
+                <BlockView block={b} />
+              ))}
+            </div>
+          )}
+          {mode === 'grid' && (
+            <div class="grid grid--3" data-stagger>
+              {blocks.map((b) => (
+                <div class="card" data-stagger-item>
+                  <BlockView block={b} />
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      </section>
+    );
+  })
+}
+
+<style>
+  /*
+   * Tile gallery. Four to a row, matching the source's brand kit, with no
+   * padded card box: the artwork keeps its own aspect ratio and the label sits
+   * directly beneath it, so a row is only as tall as its tallest tile.
+   */
+  .tiles {
+    display: grid;
+    /* minmax(0, 1fr) rather than minmax(240px, 1fr): a min-content floor lets a
+       long unbreakable caption set the track width and overflow the page. */
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 22px 18px;
+    align-items: start;
+  }
+
+  .tile {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    /* Grid items default to min-content width, so a long caption can push the
+       column wider than the viewport on a phone. Both of these let the column
+       shrink to the track size. */
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .tile :global(img) {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+
+  .tile figcaption {
+    font-size: 13px;
+    line-height: 1.4;
+    color: var(--jivrus-ink-soft, #555);
+    max-width: 100%;
+    overflow-wrap: anywhere;
+  }
+
+  .tile figcaption :global(p) {
+    font-size: inherit;
+    line-height: inherit;
+    margin: 0;
+    color: inherit;
+  }
+
+  /* Copy that is not a caption keeps its own full-width line below the grid,
+     the way the source sets an explanatory paragraph under the artwork. */
+  .tiles__copy {
+    max-width: 78ch;
+    margin: 20px auto 0;
+  }
+
+  .tiles__copy--lead {
+    margin: 0 0 22px;
+  }
+
+  /* A list of product names with no artwork of their own: set them as a
+     wrapping row of labels rather than a paragraph. */
+  .tiles__copy--names {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 18px;
+    margin: 0 0 22px;
+    font-size: 14px;
+    color: var(--jivrus-ink-soft, #555);
+  }
+
+  @media (max-width: 900px) {
+    .tiles {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 640px) {
+    .tiles {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  .listing {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 18px;
+  }
+
+  .listing__item {
+    background: var(--jivrus-white);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+    box-shadow: var(--shadow-sm);
+    transition:
+      transform var(--dur) var(--ease-out),
+      box-shadow var(--dur) var(--ease-out);
+  }
+
+  .listing__item:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow);
+  }
+
+  .listing__item :global(.block--h1),
+  .listing__item :global(.block--h2),
+  .listing__item :global(.block--h3) {
+    font-size: 17px;
+    margin-bottom: 0.2em;
+  }
+</style>

@@ -1,0 +1,14 @@
+---
+/** `/home` — the live site's own canonical path for the homepage. */
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import HomeBody from '~/components/HomeBody.astro';
+---
+
+<BaseLayout
+  title="Jivrus Technologies"
+  description="Jivrus Technologies builds awesome software products worldwide for intelligent integration and hyper-automation."
+  route="/home"
+  family="home"
+>
+  <HomeBody />
+</BaseLayout>

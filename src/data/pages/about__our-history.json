@@ -1,0 +1,1723 @@
+{
+ "route": "/about/our-history",
+ "slug": "about__our-history",
+ "family": "about",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Our History",
+ "description": "The history",
+ "h1": "Our History",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/about/our-history",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/5a8c398d1b59a95f.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "The history",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "the-history"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ad3eea75bbe31a26.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dad7b42aef30aece.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Dec 2015 - The idea 💡",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "dec-2015-the-idea"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "It all started in a cold winter* during the 2015 Christmas holidays. It was a casual chat between our founder and a non-tech-savvy business owner in the USA. He had more software than his business needs, but he was still not happy with those and not achieving his needs.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "It sparked the idea. People have software; they need enablers to integrate that software work for them. These trillion-dollar integration issues are not just for extra-large companies but are universal to all sizes.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Read our full story",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/6ad91890bd6c8cf7.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "May 2016 - The Company launched",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "may-2016-the-company-launched"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "In early 2016, driven by a strong entrepreneurial spirit and a vision to innovate, our founder Dr. Michaeswaran Subramanian embarked on a journey to establish Jivrus Technologies. With unwavering faith and determination, the groundwork was laid in April 2016, culminating in the official registration of Jivrus Technologies as a self-funded startup in India by May 2016.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "\"In January 2016, after years of cultivating an entrepreneurial mindset, I felt a profound calling to embark on my venture that solves modern software integration issues. I submitted my resignation on February 3, 2016, and concluded my lucrative corporate journey on April 8, 2016—dates that mark the beginning of an exciting new chapter. This pivotal moment led to the creation of Jivrus Technologies, where we are dedicated to delivering intelligent integration, hyper-automation, and codeless computing solutions. Our mission is to empower businesses to seamlessly integrate systems and automate workflows, enabling them to build the automation solutions they envision.\" - Michaes",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Since our inception, we have been committed to providing innovative solutions in intelligent integration, hyper-automation, and codeless computing, enabling businesses to streamline processes and achieve effortless system automation. Our journey reflects our commitment to innovation, resilience, and the pursuit of excellence in the technology landscape.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a194461de797759d.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Jan 2017 - Launch of the first product",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jan-2017-launch-of-the-first-product"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Google Sheets to QuickBooks integration launched on Google Marketplace. The product is later expanded into Sheet Director integrating with 50+ apps.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ae6760f2aee4f082.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Apr 2017 - Launch of Fillable Document",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "apr-2017-launch-of-fillable-document"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "An innovative way to make your Google Docs/ Slides / Sheets as interactive apps on the web.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/94f18f83518c5de9.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "May 2017 - Partnered with Google",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "may-2017-partnered-with-google"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Became a Google Cloud Technology Partner.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Google recognized our products for Cloud and SaaS initiative partnerships.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/50a806170404acb7.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Jul 2017 - Launch of Database Browser",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jul-2017-launch-of-database-browser"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "A product that lets you work with any databases right from Google Sheets - Query and edit database table from Sheets",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/641e989cf5af4897.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Jan 2018 - Moved into Springboard office space",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jan-2018-moved-into-springboard-office-space"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa8641fd18cc5b8a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Started building a bigger team.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Started developing more products with the aim to make automation easier for Google workspace/ consumer users",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/5a15921a4bbe5216.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Year 2018 - Launched 3 new products",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "year-2018-launched-3-new-products"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/3eda0c4dc365e183.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "May 2018 - Launched Form Director that lets you send your Google Form responses to any application.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Jul 2018 - Launched Form Builder that helps you to build Google Forms quickly",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Aug 2018 - Launched Map My Sheet that visualizes your data on Google Sheets on a map.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Jan 2019 - Partnered with Zoho",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jan-2019-partnered-with-zoho"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/51bfe7a394b723b4.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Partnered with Zoho and launched Google Sheets Extension for Zoho CRM. This technology partnership with Zoho is a long term strategic partnership that exposes our products to Zoho platform customers.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Feb 2019 - Launched Sheet Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "feb-2019-launched-sheet-director"
+    },
+    {
+     "tag": "p",
+     "text": "Sheet Director helps to integrate Google Sheets to query, post and, synchronize with 50+ apps",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/206bab412d5ac22c.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "May 2020 - Launched Form Presenter",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "may-2020-launched-form-presenter"
+    },
+    {
+     "tag": "p",
+     "text": "A struggling teacher during the covid pandemic inspired us to build a Form Presenter that helps educators to conduct online tests with Google Forms.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a2311c8a8e662b8d.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "May 2021 - Launched Worksheet Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "may-2021-launched-worksheet-director"
+    },
+    {
+     "tag": "p",
+     "text": "Worksheet Director integrates Microsoft Excel with a number of applications",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/0a57a20cd2c6215c.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Oct 2021 - Soft launch of AppiWorks - iPaaS & aPaaS platform",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "oct-2021-soft-launch-of-appiworks-ipaas-apaas-platform"
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks is a flagship platform product. It works as iPaaS and aPaaS to immensely make business easier and successful.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Database Browser add-on is using AppiWorks for integrating with premium databases from Google Sheets.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Form Director add-on is AppiWorks for integrating with premium databases from Google Forms.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "AppiWorks Data Studio Connector is a all in one connector for Data Studio to connect with any app and build visual reports from it.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Looker Studio Connectors - reached 75",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks Starch and Forms",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks Google Workspace Add-ons",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks Zoho CRM Extensions",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "AppiWorks Zoho Book/Desk Extensions",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "ContentSense",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "HyperList",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "EmbedXpert",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "And keep progressing and enjoying the journey of making history...",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72txVzSIeDM-o-yuayMmEwEbXx78-kRJVmin-2Y1liTJyUT_z_DHo1wnNe7Xu_ECntJYEfLzfjDc8PFGDCQWqXmiZZKP0TxdpXHgQMd8IHp93yTSvOX13hwfrdeWO7S8NJ7F2Rwtc7kfZNkN2nWpPveQRciWKxWYurEIOqJ3X9yjzDotiCDs9Itx=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "The history",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "the-history"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s8CUtrboD3-0mNg2AG1UN5ZA2XuXYr6uhXs0olUD9gPEV-OJldBBaclcCxQ5Zyyfaey9z9Q0hNeqrS8HbiywwOkQNE6E6ZfXgmXf9t_AReS3jVrV8D0XRmzfVdQE7OeS6o80XbXuPQbFC0TDVk1l0Y2ESlocKaGPVH1VZVu32bORKNdAewRQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Dec 2015 - The idea 💡",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "dec-2015-the-idea"
+  },
+  {
+   "tag": "p",
+   "text": "It all started in a cold winter* during the 2015 Christmas holidays. It was a casual chat between our founder and a non-tech-savvy business owner in the USA. He had more software than his business needs, but he was still not happy with those and not achieving his needs.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "It sparked the idea. People have software; they need enablers to integrate that software work for them. These trillion-dollar integration issues are not just for extra-large companies but are universal to all sizes.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Read our full story",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s5uMjT-oS0q_Ud7qii0X175y7HHbbdTkNfPjNW056qCBlz4TJ-FdqwkRpj9xad124V0Sc469z1sZA6-CXkeDYQzY-Js4TqPOCcQWAAFlE5y-LpQPvdCH9tO0XWryOF_p3v2r1xZgzcT3fdxaBCoqSoJjJd9VHfoIyGAED4g_StxKHPivwwPfTY=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "May 2016 - The Company launched",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "may-2016-the-company-launched"
+  },
+  {
+   "tag": "p",
+   "text": "In early 2016, driven by a strong entrepreneurial spirit and a vision to innovate, our founder Dr. Michaeswaran Subramanian embarked on a journey to establish Jivrus Technologies. With unwavering faith and determination, the groundwork was laid in April 2016, culminating in the official registration of Jivrus Technologies as a self-funded startup in India by May 2016.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "\"In January 2016, after years of cultivating an entrepreneurial mindset, I felt a profound calling to embark on my venture that solves modern software integration issues. I submitted my resignation on February 3, 2016, and concluded my lucrative corporate journey on April 8, 2016—dates that mark the beginning of an exciting new chapter. This pivotal moment led to the creation of Jivrus Technologies, where we are dedicated to delivering intelligent integration, hyper-automation, and codeless computing solutions. Our mission is to empower businesses to seamlessly integrate systems and automate workflows, enabling them to build the automation solutions they envision.\" - Michaes",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Since our inception, we have been committed to providing innovative solutions in intelligent integration, hyper-automation, and codeless computing, enabling businesses to streamline processes and achieve effortless system automation. Our journey reflects our commitment to innovation, resilience, and the pursuit of excellence in the technology landscape.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tuBP3PyUbNwI2evlWfxxSQvqBTED2NSH6C7KGk4ztULO-0L4GyUV_6QDL6-L-bZu-oFGbYPydwdxqleaFDFYoJPbtzlm_gU1GXAcNes1WLL9TLw2cXEPZDxrgRVnxWW9gfEF3xWJOuJuIdcaGBIKbk3TlgpCOyIoPGKWsAoeyQ-GqLDpSA5DJA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Jan 2017 - Launch of the first product",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jan-2017-launch-of-the-first-product"
+  },
+  {
+   "tag": "p",
+   "text": "Google Sheets to QuickBooks integration launched on Google Marketplace. The product is later expanded into Sheet Director integrating with 50+ apps.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sGddLZuyl6VN14Fnd_xg0V76-PMAKd8uoSpHN9U1VRN1aE5Hl-aGDUregft3b0osqDJgBGzL_Iibe9fVZokwAhBY_YhYVs1zkXd0goXLDOJ2uEIG8Vcg6eh5hqV1gaxIrPikltnc4q1luz9Dt3gNG1gFb9pkZ9AbTkJ0cOwci--eHNZ3w9e4UB=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Apr 2017 - Launch of Fillable Document",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "apr-2017-launch-of-fillable-document"
+  },
+  {
+   "tag": "p",
+   "text": "An innovative way to make your Google Docs/ Slides / Sheets as interactive apps on the web.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vKr8YaEuyq0G8v7Eek-rMWcjpTmcYehTU_ZJ0egK04FwECu-cXiyANfTr1ZJrPoterRyqRourMMiDzLeK7TUVsBKBD8a-v9HM40nU-VGgOho4CaClfL-obhEIkY0iBUxCsnxU6EzNiUf652HxwQjWSK09UxyoKIr1thF3X2XX0OwIT2ZQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "May 2017 - Partnered with Google",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "may-2017-partnered-with-google"
+  },
+  {
+   "tag": "p",
+   "text": "Became a Google Cloud Technology Partner.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Google recognized our products for Cloud and SaaS initiative partnerships.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vcVMJHrI1Vg62l8xSrB59P7-t-S6Ynerd3UGDJ8YcEsTDaeJCk2nsjN7izev3Q5Siz270dy_2jcp1kI4ZW-u4Nv7jEbSxcfzZ-p93xvhzGSpVJV32OO5dPhW-FnCabWJao5lX9uC22pya6r1OLASWIQGuQ8Y4MYMkIALnACa_UM5TV_6DjOQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Jul 2017 - Launch of Database Browser",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jul-2017-launch-of-database-browser"
+  },
+  {
+   "tag": "p",
+   "text": "A product that lets you work with any databases right from Google Sheets - Query and edit database table from Sheets",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72twDzns1tSKWv8Se3BlDHprslzUE2Az8HlkHRcn4XSdlS4fA-VmlSOsa9Yt98rQE6056Pkc1mt0q4YnQiCaLn3MhrcO1VQ1kJn6IvWxMDkIWSo82laAzv47Pt_vl7JLEwZsLDnJt26j2aG1RmPGETPqAEWet0I6T_TbtD3sT27TJOtm4VwWFkvG=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Jan 2018 - Moved into Springboard office space",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jan-2018-moved-into-springboard-office-space"
+  },
+  {
+   "tag": "p",
+   "text": "Started building a bigger team.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Started developing more products with the aim to make automation easier for Google workspace/ consumer users",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tE_ZX-OheK0SAXKK7qQflMnyXqPJJKvd5D50-ZNoxswBtdVvcA7n9_mfFDBWLBNIKYy6Ca-j6Lalq5b79SoR_OrHyO_l2RN_tvm1-LukiQFp4lpd1TthSKSC8DD_BBLCf7ui2E1RU4q5AOrPWD7OmNvl6gWLJCvCk3SiRGiu9NlABjFvugug=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Year 2018 - Launched 3 new products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "year-2018-launched-3-new-products"
+  },
+  {
+   "tag": "p",
+   "text": "May 2018 - Launched Form Director that lets you send your Google Form responses to any application.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Jul 2018 - Launched Form Builder that helps you to build Google Forms quickly",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Aug 2018 - Launched Map My Sheet that visualizes your data on Google Sheets on a map.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uhjgmUIJ6PLbE9K0yPwlpQRwgct7hWW_jVLnBmjS3YLXhLTaG6EXk90KmLqIdi3s8lHmp1BJQw3rXgfDEhRdzoLc6u8D9CcPEREoIaDCnDVQH5Ph-KAU8Lvmp_dmKM0f7Pvm0nnGY2MfOuoq_2jVK_j-SShiAEcOTLV2qsnBbhd7gSZk5I9RQ7=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Jan 2019 - Partnered with Zoho",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jan-2019-partnered-with-zoho"
+  },
+  {
+   "tag": "p",
+   "text": "Partnered with Zoho and launched Google Sheets Extension for Zoho CRM. This technology partnership with Zoho is a long term strategic partnership that exposes our products to Zoho platform customers.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vzIv-NQjZNjE15_NJUIobsW7j8a7AnFNZoTPmWw6hmRO6GR5XswdcIEb65PhRf4FOseO8CzqfazVSxKXkHueKnhSKYRTPjPbBaPqB1mm37N_sb0q8A_J9bDroicsZZOdIkHXsp5EhFMDPxrTgGp4A7k_Y0nUF85qTItgyq8yicEXOBYSJdog=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Feb 2019 - Launched Sheet Director",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "feb-2019-launched-sheet-director"
+  },
+  {
+   "tag": "p",
+   "text": "Sheet Director helps to integrate Google Sheets to query, post and, synchronize with 50+ apps",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v17aOmptnbrPDVBN2DHSDED501MLFa65dO2511exOaHy5PUABWPiex-58jkA_Z1nW5adHdLA-L5df-gZkKZ7IZhdhovw9rjdAeLJLbVUeCuonpTn5CMg3mBq4MJ80X1YRF1-vPuHcjNsUFqDV9pndMEskrl-e-GcNNkMw54Sr7VPFTJX8hTNUU=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "May 2020 - Launched Form Presenter",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "may-2020-launched-form-presenter"
+  },
+  {
+   "tag": "p",
+   "text": "A struggling teacher during the covid pandemic inspired us to build a Form Presenter that helps educators to conduct online tests with Google Forms.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sivvkXnXGJSDu9RK7zR-smC0-TjVA1d0O907zmGmyjuWXEuyNvtiruJw7TlzKIjLp84vKghf96v0MCj254nYZFepjoprvn386nTCmtYqvUiKwxhS6ZwvZ2URRaTTU1C4EBiuJSrg_xlQQw7SRUvBGpJpkPpKUgiGItX0N3D1DUu_thFaxZDhV8=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "May 2021 - Launched Worksheet Director",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "may-2021-launched-worksheet-director"
+  },
+  {
+   "tag": "p",
+   "text": "Worksheet Director integrates Microsoft Excel with a number of applications",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72siSr5x4JoN9bahlO-cvrvoD-A7UcVEVcZOPeUBFGQzVI0cMsxXHPm3Iixhs7uxBzxie1YDzDsQ2fj32kVO9LlXro7dWgWSF4olzOVooh2VU_GHRnq14JUS75wrPOo-jQG-QdebNqZLLqYtD4TxSyWajkWZPuY5xiPNs7ukAIGSxaXxY6AQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Oct 2021 - Soft launch of AppiWorks - iPaaS & aPaaS platform",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "oct-2021-soft-launch-of-appiworks-ipaas-apaas-platform"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks is a flagship platform product. It works as iPaaS and aPaaS to immensely make business easier and successful.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Database Browser add-on is using AppiWorks for integrating with premium databases from Google Sheets.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Database Browser add-on is using AppiWorks for integrating with premium databases from Google Sheets.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Form Director add-on is AppiWorks for integrating with premium databases from Google Forms.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Form Director add-on is AppiWorks for integrating with premium databases from Google Forms.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "AppiWorks Data Studio Connector is a all in one connector for Data Studio to connect with any app and build visual reports from it.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks Data Studio Connector is a all in one connector for Data Studio to connect with any app and build visual reports from it.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Looker Studio Connectors - reached 75",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks Starch and Forms",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks Google Workspace Add-ons",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks Zoho CRM Extensions",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "AppiWorks Zoho Book/Desk Extensions",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "ContentSense",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "HyperList",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "EmbedXpert",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "And keep progressing and enjoying the journey of making history...",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uyCjerJefjR6UblWwkVXk3OZoE7-1e-9-eG2j5yhGrAF8UsIZQQbmoRyemQevebdPV6zgTWSEWdCkwg40EcPA2tyKX59KQw2K3Qg19opbzkm3jC45zC8kyxK8OMB7eUWRETZtIRfcvRDF3h3J16gcZ24ivPLXHi31yZkm4qP_SDDGUjY4xHPrelVYFTNF6QKKYD4ti8s2siuM_s6WYsU1mgYsyBXsMhw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v9FTwS7xA5K2OW6-DpqRr5lIMfAnZe1ObS7EQqLOHk3or7TtFEN0WaxG2zUOOCBuGI7zi9z3eYxR_5C4xzl35gw2ATHtgghZE0MPH-18CUNn17b82NE2opl07erjmTlTOXyYAjZyxC7WY20dV-LFgaF0F_u-TDCg52NSpjz6u5oDkdUJwFN6O0oH6eMGjPnfPuQp01dyOvhhab5u-Dp2fLoOxUNECdqWhP=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s9Pxlm9hALOROy4w1vPUYRc6hc_E-4tNKyQzNQuK_278x_SSd6l6U2JbnSU8Fd0r0IBLe1L1Qc1ksWTp8sA8bJAQJidbeN3kJAKFyr6Lly7OVQRSDwJuCrTG8f6MmPH_EfhHA8RhGL2mTu5jVto_wgOqXhbHjmsXfDJnon7Q59gEoIDR63McOc=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1000,
+   "h": 1000
+  },
+  {
+   "src": "/images/5a8c398d1b59a95f.jpg",
+   "alt": "",
+   "w": 1000,
+   "h": 1000
+  },
+  {
+   "src": "/images/dad7b42aef30aece.jpg",
+   "alt": "",
+   "w": 1000,
+   "h": 1000
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/fa8641fd18cc5b8a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/company",
+   "text": "Read our full story"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team/michaes",
+   "text": "Dr. Michaeswaran Subramanian"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://zohosheets.jivrus.com/",
+   "text": "Google Sheets Extension for Zoho CRM"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://worksheetdirector.jivrus.com/",
+   "text": "Worksheet Director"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/databases/premium-databases",
+   "text": "premium databases"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/databases/premium-databases",
+   "text": "premium databases"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/products/data-studio-connector",
+   "text": "AppiWorks Data Studio Connector"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

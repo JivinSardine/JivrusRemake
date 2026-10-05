@@ -1,0 +1,1549 @@
+{
+ "route": "/about/team",
+ "slug": "about__team",
+ "family": "about",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Team",
+ "description": "\"The strength of the team is each individual member. The strength of each member is the team.\" -- Phil Jackson",
+ "h1": "Team",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/about/team",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "h2",
+     "text": "Founders",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "founders"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/0787a47a74baa000.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c3f279c9b8b6b35d.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "\"The strength of the team is each individual member. The strength of each member is the team.\"",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "the-strength-of-the-team-is-each-individual-member-the-strength-of-each-member-is-the-team"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/99407bd9ded9ce96.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/6dc454558f3cfbfd.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/45aae5818b091bc2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Dr. Michaes Subramanian",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "dr-michaes-subramanian"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f326a6760a924079.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Co-Founder and Director",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d2d5470e9f1acd72.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Passionate about technology that brings customer success",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/0612ab8245ec292b.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "LinkedIn Profile",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/fa5013697143c75a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Jasperin Jebaraj Isaac",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "jasperin-jebaraj-isaac"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/277ff9bc2153f1ee.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Co-Founder and Director, Operations",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/202add21274b500c.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Operations management, on the fly",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/539df87b287cb9a8.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "LinkedIn Profile",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/de36b0e8fad486e8.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Key Team",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "key-team"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d8baccb8276d0c8c.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/49222cf2b7161ae1.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/acb3c092820c4cca.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Bestus Noble",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "bestus-noble"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/270c0a1983ae4ce2.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Platforms",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/929b0545f5f2dd20.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Ajith Tamilmoney",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "ajith-tamilmoney"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b7a56ee125ae3147.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Growth",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Athul C Rao",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "athul-c-rao"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Engineering",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05ca7c660a8a2115.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/6a54de8ab4878926.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7758d594c47c3faf.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/4d24a93bd4328c77.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Shwetagni Karad",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "shwetagni-karad"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "Customer Success",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "h3",
+     "text": "Bharat Pandey",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "bharat-pandey"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Engineering",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Sandipan Dutta",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "sandipan-dutta"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Client Platforms",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Bhanu Pratap Sahu",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "bhanu-pratap-sahu"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Growth",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/358001f656a2367b.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f0b6db540ed9f71d.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/3fc4cf4355ad2a50.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Lingesh K",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "lingesh-k"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Engineering",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Sayani Guha",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "sayani-guha"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Engineering",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Thanuja.C",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "thanuja-c"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Engineering",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Soham Sarkar",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "soham-sarkar"
+    },
+    {
+     "tag": "p",
+     "text": "Quality",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Check Our Partners",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "a",
+     "text": "Contact Us",
+     "href": "/about/contact-us",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": ""
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72unlYBoLHj11stv6oiZ-NqvOTZ-UOhgv_fHT-Id3UUU_HUNB2dDrbU4at8DX9MqdUA3v3SH3mZA8yAf_KwVkpJdiQGultY0MGzQmhKS00AVgOmzribxYKsMU-RMjCgpn2LWO9PEIWN83HC88rYJ7Y1Xu4qng-8ghmvvuVGqfvd8s42ohe9QiOXZ=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tMTHOijwDipmiWDtdtjocTrMylBG4AZsFQBq7p16K-mnOwxf2C7Ym2cham4tu0UjEyOSejVmkxzGICsLw5MGc5u0KyRZizb5Vwvj9nBr7p0N1xjSoFmjH2TxaxLc-nQyTN-w8JXj9MGUYyH5ZIVt2McCSOST0W2HA2_mBljBMm7qXpCkEVawHDVZE5xFtWWLqinxmBasCWUynU2Ffp6Sy0njSJSczyPA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h2",
+   "text": "\"The strength of the team is each individual member. The strength of each member is the team.\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "the-strength-of-the-team-is-each-individual-member-the-strength-of-each-member-is-the-team"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sBLUqIYRX2ILaGlicafjIWoZw8jUKap1JkwOGcKQfMiKaeup1FN8HfrmJzKmkQPOs4mDRapbTO9noaHFekLK51T2AzIBZWa1SBExieC4bok8cECPIxUwAgkiOCF-1gLMxsDtsN8oxuNWvI39Mo-SDkD7JAf1ZMgv5dhnJEJKHP44wmugz9izLfmqZ4HDQ9xKj2AcUSjQ4tQpahkTLkWR1ZOoeLXYjYSQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h2",
+   "text": "Dr. Michaes Subramanian",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "dr-michaes-subramanian"
+  },
+  {
+   "tag": "p",
+   "text": "Co-Founder and Director",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Passionate about technology that brings customer success",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "LinkedIn Profile",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72suPltbBcAZZBAWnQaHIjY5V1RXBnd5VKB3MZfMCfeUIQRkB2Qu2DmRzAgOH7oCREsRxVWmoOY7UeGABFLHwq1U4jfRNAGSMXWpbgqkh1pHpketEQRZSIj8og6CCqXoY--gBgfSIeKZ0PXRKaak6tjSGQWhlXasjZ-yszeOk6Hd6mk-GM1WMbGaYC0f4s-baUDLQmXFeTq8RGonA3cDsnK3klR5S4CgPbWu=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h2",
+   "text": "Jasperin Jebaraj Isaac",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "jasperin-jebaraj-isaac"
+  },
+  {
+   "tag": "p",
+   "text": "Co-Founder and Director, Operations",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Operations management, on the fly",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "LinkedIn Profile",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Key Team",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "key-team"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vnsu7QKlNqzE49JT0GeLAauOJD_4K_2BkMLEAThPwDnYTdqKw2o5G-cqAKcloqStROlrqURNyGlz6qCe0EjE38PuHx3mq4j_CZaHvMljA9GquCdBDsQHeEKfg9i4AZt2J8lKweotEr55_lTMtBiPIS6CTKYwYRMZyzSSWmROIxZ8WSpYV-qYmGQAhTzP961q-4DF-x2WZfMb5OzCGLU5sEUdXC5C5XkWeV=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Bestus Noble",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "bestus-noble"
+  },
+  {
+   "tag": "p",
+   "text": "Platforms",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tKRpzHojs_IEM21ptxGvwN4poIDQoc6YGTh4YQJmVyOT7cE-S_SM84_cP-U4Y5fZ3nhIs-p9I0uxj--qQHJ8EwJx8a11h00PBMXxJbT8qg4QRO_o5ykXbN-3yUa4tEA4EQKNy-mPh7_0RPbcOjjIKv93ldkSlnB6dnFDUmuOGoS_o-J_jUIvrRU-zAei6KI9hBsW-UaSwZwHFUzNPrHn9iV36zQYJ93w=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Ajith Tamilmoney",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "ajith-tamilmoney"
+  },
+  {
+   "tag": "p",
+   "text": "Growth",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vOMMZYlZowu1YvGqmg5jraPtkl3qpNUUGiCcNBRj2NK6kiWjaCByRISdd1UwWW2gIgaEKf39u31iI4bKsI-QO750GdyMW-mXpixy8xAubsMCCc_KmTid-13i3orLy8c_qhM913cxE0qwee5neP5ZpkWJXyw-sYqm7EuMG9TQvlr6RcgYDg7MDT4QQWXlCGHXFhlsNlf756BH9qsncPzJH4wIvrhVTCrg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Athul C Rao",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "athul-c-rao"
+  },
+  {
+   "tag": "p",
+   "text": "Engineering",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vHym2ys8y5QfeAp80ta1ZuSajMO7d7shzc4eeaMJKtKZU3olHoYfqJRvmrwLOsggTDq03WsC_tHA1PGgX3TWnKmpUfOVh1gpDCQABthvIUYuggvSkV75Q_UawVOftWELwasowPDIGx9kfqCCHmfml_V0zkWfQnJsPnJc5ZxmsiIU3TGdFkJsgGq4aJoGHHrUZ27e1hKaeI_z9CuMkkmBf0hRNxFQCuhw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Shwetagni Karad",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "shwetagni-karad"
+  },
+  {
+   "tag": "p",
+   "text": "Customer Success",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72su33FJlpeXlSIP3fclpwKsQinTvcBzemvKjl0tdq77bjousVazKyl6dFtLEk1aoXrf7rde4VD79MfIVSVCy-QOz8XXlOBpLKnXQQ4KJsui8msFlp5kEpNQxvD_zGcuX44SEs-6TmGR0PU-FyKy1loN3Wzoh3D_s3qRWmfYCvmzNyNBN7eYgiZ1eMcVn9IhjBp5gkQudUIJl3J7QXj31-avIWOvBxUSydt7=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Bharat Pandey",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "bharat-pandey"
+  },
+  {
+   "tag": "p",
+   "text": "Engineering",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uzc9Esr8qntIpZpk8swA-udxCGo8WVOnBCi6yEa1EVVC-RNfuYXGDLobEVmt9dCFy6g6zjv0rwnG0jKrrrOYzFPnkRDf7YEvyrWWCiazR9XBt5kc0wInuugWv3uB1tMidpSgOlL-l5-9YJ5MaAxwrBguaFHDcYh4te9mibewx9II1cOYwClQRz3LfQRo6EKtXGgPpm2oxCV3KmAR9X4-h2evB0u1GcxLDV=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Sandipan Dutta",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "sandipan-dutta"
+  },
+  {
+   "tag": "p",
+   "text": "Client Platforms",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vFKlsmfv9alMEPeOZpni-kV8BA8tmfw5IWsFoF-UxTea-0dIarhqjF5cUdN7SaIxTxI_wq4PAXuIwCJVEBfpjHnTpz8QMvZiUnumtrHgM4cldSWuaU6TLB-v9wXLuJtePGEPZybNQinDtTGCkdyiDmSQpHSkKC_KiWjNQKWRkQ2P6MEzlrk08jfYPbq5sInfiVbiTp_BxugkzmXRqz5dWP9In4deCA3_nE=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Bhanu Pratap Sahu",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "bhanu-pratap-sahu"
+  },
+  {
+   "tag": "p",
+   "text": "Growth",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Lingesh K",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "lingesh-k"
+  },
+  {
+   "tag": "p",
+   "text": "Engineering",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72snMZidmJthsgOzQhR4955QLfAjoOtp8kw6DA_DZj93uOsl-_qE440aqodKk5aQUUCfzPP-K0LV-Re9zclFBbnCCCm-ZBwNBT8QcPjg9pm6nWHwgIT0UTsh26pJfLSchq_4uKhqtXy2AhQrFeJRJevpg8D_3JI190tBj7T5gk21quPGVRzKM9G0XRGzUIWoAuwUwT-Ci6Jfp5Ss5T59MMxmD-QZ6IT09AuM=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Sayani Guha",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "sayani-guha"
+  },
+  {
+   "tag": "p",
+   "text": "Engineering",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sEsH3VCilHX42gftZrvtWXYfgoaMwEudQtAIykzAly0NepzRRaUR3_saNXyIZHfhsuX0BbA-euYQ_wFtxs0aF0m4M4d1W2mEN4_L32cjyvSpvR5KY6c5QigvNNlbRBiY4hZeAakoI6yJ6FlPUMLYHfyDqITReXD_vIQA9yt7N3eRiIVDJcmRZMxp-7nhEsYOwVlJNQ7bF0ttJitNbSjLFV2IFTM0c8KQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Thanuja.C",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "thanuja-c"
+  },
+  {
+   "tag": "p",
+   "text": "Engineering",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uEFK55z950aKLa_WTlrXHPGCSva5s1EwVETVCm3Ybv_OgfdRbTJoMg3Ls1rj1GjF79FbTMPDHa2w_XN3AnBKOEnSLGasV2INLPTa--VrgyMIkucZ-rgUEWilpa3TrR9Lwn7noLUb2gR1NlEwo1ek-64fGBiMpfMM8oh-zWDaj9S9dqMDsgIwFc-WnLZQUs15dRX_s4Qa1hwMc8aik1Xyr5tq-_14c=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Soham Sarkar",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "soham-sarkar"
+  },
+  {
+   "tag": "p",
+   "text": "Quality",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Check Our Partners",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uyCjerJefjR6UblWwkVXk3OZoE7-1e-9-eG2j5yhGrAF8UsIZQQbmoRyemQevebdPV6zgTWSEWdCkwg40EcPA2tyKX59KQw2K3Qg19opbzkm3jC45zC8kyxK8OMB7eUWRETZtIRfcvRDF3h3J16gcZ24ivPLXHi31yZkm4qP_SDDGUjY4xHPrelVYFTNF6QKKYD4ti8s2siuM_s6WYsU1mgYsyBXsMhw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tZO3kpMe66HPTyjJw5uqF6EyT64Hn-67d-2BXsMDtTHB_snmG5Q6xoF4NXitYEoBAft2WV-PugGxduyAoa2IhaY3QE2Ijn39_c72kchAzGjWd8s9KVNPipdpC0fDifLyaR_9l1Yj_O7KR58mAxDOzmt3L11CjFq5rIk_dtzg4oiCdebWoSIKp8-MJ8VfN4bIlhLKvwkP0agQ4m-5JRiYq18KH1EM_Fgusp=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s9Pxlm9hALOROy4w1vPUYRc6hc_E-4tNKyQzNQuK_278x_SSd6l6U2JbnSU8Fd0r0IBLe1L1Qc1ksWTp8sA8bJAQJidbeN3kJAKFyr6Lly7OVQRSDwJuCrTG8f6MmPH_EfhHA8RhGL2mTu5jVto_wgOqXhbHjmsXfDJnon7Q59gEoIDR63McOc=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 612,
+   "h": 249
+  },
+  {
+   "src": "/images/0787a47a74baa000.jpg",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/45aae5818b091bc2.jpg",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/f326a6760a924079.jpg",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/d2d5470e9f1acd72.jpg",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/0612ab8245ec292b.jpg",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/fa5013697143c75a.jpg",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/277ff9bc2153f1ee.jpg",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/202add21274b500c.jpg",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/539df87b287cb9a8.jpg",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/de36b0e8fad486e8.jpg",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/acb3c092820c4cca.png",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/270c0a1983ae4ce2.jpg",
+   "alt": "",
+   "w": 515,
+   "h": 485
+  },
+  {
+   "src": "/images/929b0545f5f2dd20.jpg",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/b7a56ee125ae3147.jpg",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team/michaes",
+   "text": "Michaes Subramanian"
+  },
+  {
+   "href": "https://www.linkedin.com/in/michaes/",
+   "text": "LinkedIn Profile"
+  },
+  {
+   "href": "https://www.linkedin.com/in/jasperin/",
+   "text": "LinkedIn Profile"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Check Our Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

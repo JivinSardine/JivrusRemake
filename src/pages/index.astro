@@ -1,0 +1,19 @@
+---
+/**
+ * The homepage (`/`).
+ *
+ * The live site serves this content at `/` and at `/home` (Google Sites'
+ * canonical path is `jivrus/home`), so both routes render <HomeBody>.
+ */
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import HomeBody from '~/components/HomeBody.astro';
+---
+
+<BaseLayout
+  title="Jivrus Technologies"
+  description="Jivrus Technologies builds awesome software products worldwide for intelligent integration and hyper-automation."
+  route="/"
+  family="home"
+>
+  <HomeBody />
+</BaseLayout>

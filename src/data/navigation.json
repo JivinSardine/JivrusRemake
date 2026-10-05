@@ -1,0 +1,367 @@
+{
+ "header": [
+  {
+   "label": "Home",
+   "href": "/home"
+  },
+  {
+   "label": "Products",
+   "href": "/products"
+  },
+  {
+   "label": "Professional Services",
+   "href": "/professional-services"
+  },
+  {
+   "label": "Customers",
+   "href": "/customers"
+  },
+  {
+   "label": "About",
+   "href": "/about"
+  },
+  {
+   "label": "Resources",
+   "href": "/resources"
+  },
+  {
+   "label": "Support",
+   "href": "/support"
+  },
+  {
+   "label": "Offers",
+   "href": "/offers"
+  }
+ ],
+ "dropdowns": {
+  "About": [
+   {
+    "label": "Company",
+    "href": "/about/company"
+   },
+   {
+    "label": "Culture",
+    "href": "/about/culture"
+   },
+   {
+    "label": "Our History",
+    "href": "/about/our-history"
+   },
+   {
+    "label": "Team",
+    "href": "/about/team"
+   },
+   {
+    "label": "Partners",
+    "href": "/about/partners"
+   },
+   {
+    "label": "Careers",
+    "href": "/about/careers"
+   },
+   {
+    "label": "Internship",
+    "href": "/about/internship"
+   },
+   {
+    "label": "Branding",
+    "href": "/about/branding"
+   },
+   {
+    "label": "Apply Online",
+    "href": "/about/apply-online"
+   }
+  ],
+  "Resources": [
+   {
+    "label": "Articles",
+    "href": "/resources/articles"
+   },
+   {
+    "label": "Guides",
+    "href": "/resources/guides"
+   },
+   {
+    "label": "Templates",
+    "href": "/resources/templates"
+   },
+   {
+    "label": "Academy",
+    "href": "/resources/academy"
+   },
+   {
+    "label": "Community",
+    "href": "/resources/community"
+   }
+  ],
+  "Support": [
+   {
+    "label": "Support Categories",
+    "href": "/support/support-categories"
+   },
+   {
+    "label": "Support Request",
+    "href": "/support/support-request"
+   },
+   {
+    "label": "FAQ",
+    "href": "/support/faq"
+   },
+   {
+    "label": "Schedule a Demo",
+    "href": "/support/schedule-a-demo"
+   },
+   {
+    "label": "Book a Meeting",
+    "href": "/support/book-a-meeting"
+   },
+   {
+    "label": "Feature Request",
+    "href": "/support/feature-request"
+   },
+   {
+    "label": "Feedback",
+    "href": "/support/feedback"
+   },
+   {
+    "label": "Contact Sales",
+    "href": "/support/contact-sales"
+   },
+   {
+    "label": "Contact Us",
+    "href": "/support/contact-us"
+   }
+  ]
+ },
+ "footer": {
+  "Products": [
+   {
+    "label": "Form Builder",
+    "href": "https://formbuilder.jivrus.com"
+   },
+   {
+    "label": "Form Presenter",
+    "href": "https://formpresenter.jivrus.com/"
+   },
+   {
+    "label": "Form Director",
+    "href": "https://formdirector.jivrus.com"
+   },
+   {
+    "label": "Fillable Document",
+    "href": "https://fillabledocument.jivrus.com"
+   },
+   {
+    "label": "Database Browser",
+    "href": "https://databasebrowser.jivrus.com/"
+   },
+   {
+    "label": "Sheet Director",
+    "href": "https://sheetdirector.jivrus.com"
+   },
+   {
+    "label": "Map My Sheet",
+    "href": "https://mapmysheet.jivrus.com/"
+   },
+   {
+    "label": "AppiWorks",
+    "href": "https://appiworks.jivrus.com/"
+   },
+   {
+    "label": "Enquire a Product",
+    "href": "/about/contact-us"
+   }
+  ],
+  "About": [
+   {
+    "label": "Company",
+    "href": "/about"
+   },
+   {
+    "label": "Team",
+    "href": "/about/team"
+   },
+   {
+    "label": "Our History",
+    "href": "/about/our-history"
+   },
+   {
+    "label": "Customers",
+    "href": "/customers"
+   },
+   {
+    "label": "Partners",
+    "href": "/about/partners"
+   },
+   {
+    "label": "Careers",
+    "href": "/about/careers"
+   },
+   {
+    "label": "Contact Us",
+    "href": "/about/contact-us"
+   }
+  ],
+  "Resources": [
+   {
+    "label": "Blog",
+    "href": "https://blog.jivrus.com"
+   },
+   {
+    "label": "Articles",
+    "href": "/resources/articles"
+   },
+   {
+    "label": "Guides",
+    "href": "/resources/guides"
+   },
+   {
+    "label": "Community",
+    "href": "/resources/community"
+   },
+   {
+    "label": "Academy",
+    "href": "/resources/academy"
+   }
+  ],
+  "Legal": [
+   {
+    "label": "Terms and Conditions",
+    "href": "/legal/terms-and-conditions"
+   },
+   {
+    "label": "Privacy Policy",
+    "href": "/legal/privacy-policy"
+   },
+   {
+    "label": "GDPR",
+    "href": "/legal/gdpr"
+   },
+   {
+    "label": "Compliances",
+    "href": "/legal/compliance"
+   },
+   {
+    "label": "HIPAA Compliance",
+    "href": "/legal/compliance/hipaa-compliance"
+   },
+   {
+    "label": "BAA",
+    "href": "/legal/compliance/baa"
+   },
+   {
+    "label": "Student Privacy Policy",
+    "href": "/legal/compliance/student-privacy-policy"
+   },
+   {
+    "label": "Partner Compliance",
+    "href": "/legal/compliance/partner-compliance"
+   },
+   {
+    "label": "Security Policies",
+    "href": "/legal/security-policies"
+   },
+   {
+    "label": "Security Policy",
+    "href": "/legal/security-policies/security-policy"
+   },
+   {
+    "label": "Vulnerability Policy",
+    "href": "/legal/security-policies/vulnerability-management-policy"
+   },
+   {
+    "label": "Data Policy",
+    "href": "/legal/security-policies/data-policy"
+   },
+   {
+    "label": "Support Policy",
+    "href": "/legal/support-policy"
+   }
+  ]
+ },
+ "announcement": {
+  "text": "Accelerate Your Digital Transformation with Our Products and Services. Unlock Peak Performance!",
+  "cta": "Explore Now",
+  "href": "/products"
+ },
+ "tagline": "awesome software products worldwide | build your own automation solution | codeless | intelligent integration | hyper automation",
+ "copyright": "Jivrus Technologies - 2016 - 2025",
+ "partners": {
+  "label": "Technology Partners - GOOGLE & ZOHO",
+  "images": [
+   {
+    "label": "Jivrus",
+    "img": "/images/footer-partner-badge.png",
+    "href": ""
+   },
+   {
+    "label": "Zoho Marketplace Partner",
+    "img": "/images/footer-partner-zoho.png",
+    "href": ""
+   },
+   {
+    "label": "Google Cloud Partner",
+    "img": "/images/footer-partner-googlecloud.png",
+    "href": "https://cloud.withgoogle.com/partners/detail/?id=ACkb94bBULpnYD65btIHH0E5Tm9iJ5PxhQxLFAxFLVKPBeqwlCRw_Bn7sypJ0a5XZFFb4gxjjpZI&hl=en-GB"
+   }
+  ]
+ },
+ "social_blurb": "Follow our Social Media accounts for the latest updates on giveaways, irresistible offers, and occasional discounts!",
+ "portal_note": "is a Google Cloud and Zoho Marketplace Partner",
+ "popular_products": {
+  "heading": "Our Popular Products",
+  "items": [
+   {
+    "label": "Form Builder",
+    "href": "https://formbuilder.jivrus.com/",
+    "img": "/images/footer-popular-form-builder.png"
+   },
+   {
+    "label": "Form Director",
+    "href": "https://formdirector.jivrus.com/",
+    "img": "/images/footer-popular-form-director.png"
+   },
+   {
+    "label": "Fillable Document",
+    "href": "https://fillabledocument.jivrus.com/",
+    "img": "/images/footer-popular-fillable-document.png"
+   },
+   {
+    "label": "Form Presenter",
+    "href": "https://formpresenter.jivrus.com/",
+    "img": "/images/footer-popular-form-presenter.png"
+   },
+   {
+    "label": "Database Browser",
+    "href": "https://databasebrowser.jivrus.com/",
+    "img": "/images/footer-popular-database-browser.png"
+   },
+   {
+    "label": "Map My Sheet",
+    "href": "https://mapmysheet.jivrus.com/",
+    "img": "/images/footer-popular-map-my-sheet.png"
+   },
+   {
+    "label": "Cloud Flow Director",
+    "href": "http://cloudflow.jivrus.com/",
+    "img": "/images/footer-popular-cloud-flow.png"
+   },
+   {
+    "label": "Sheet Director",
+    "href": "https://sheetdirector.jivrus.com/",
+    "img": "/images/footer-popular-sheet-director.png"
+   }
+  ]
+ },
+ "tagline_segments": [
+  "awesome software products worldwide ",
+  "| ",
+  "build your own automation solution ",
+  "| codeless",
+  " | intelligent integration | hyper automation "
+ ],
+ "portal_link": {
+  "label": "Jivrus Technologies",
+  "href": "https://www.jivrus.com"
+ }
+}

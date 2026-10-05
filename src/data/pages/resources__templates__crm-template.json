@@ -1,0 +1,2421 @@
+{
+ "route": "/resources/templates/crm-template",
+ "slug": "resources__templates__crm-template",
+ "family": "resources",
+ "isContainer": false,
+ "title": "Jivrus Technologies - CRM Template",
+ "description": "Introduction",
+ "h1": "CRM Template",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/templates/crm-template",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Introduction",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "introduction"
+    },
+    {
+     "tag": "p",
+     "text": "Sharm, a Sheet CRM is a lightweight, ready-to-use CRM template built entirely in Google Sheets. It helps you organize your contacts, companies, leads, products, and sales opportunities in one place, while giving you a clear dashboard view of your sales pipeline.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "This template is ideal if you are not yet ready for a full-blown CRM system but still need a structured way to track relationships, deals, and revenue. It automatically saves your changes in Google Sheets, so your data is always current and accessible from anywhere. To get started, simply open the template, review the Settings, and begin entering your data.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "What is a CRM Template?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "what-is-a-crm-template"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "A CRM (Customer Relationship Management) template is a pre-built structure that provides the core tables, fields, and workflows you need to manage customer-related data—without having to design everything from scratch.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "The Sharm, a Sheet CRM template includes dedicated sheets and logic for:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Dashboard – A control panel showing total sales value, number of contacts, companies, and opportunities, plus opportunity count and value by stage.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8304698ffd38f970.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Dashboard – A control panel showing total sales value, number of contacts, companies, and opportunities, plus opportunity count and value by stage.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Contacts – A structured list of people you interact with, including their company, contact details, type (e.g., potential or current customer), and descriptions.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Contacts – A structured list of people you interact with, including their company, contact details, type (e.g., potential or current customer), and descriptions.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Companies – Organizations you do or may do business with, with fields for tags, contact type, website, address, LinkedIn, assignee, and descriptions.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "p",
+     "text": "Companies – Organizations you do or may do business with, with fields for tags, contact type, website, address, LinkedIn, assignee, and descriptions.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "li",
+     "text": "Leads – Prospects who are not yet customers, with lead status, source, potential amount, and notes.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Leads – Prospects who are not yet customers, with lead status, source, potential amount, and notes.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Opportunities – Deals or sales efforts you want to track through stages such as Qualified, Presentation, Negotiation, Follow-up, and Contract Sent, with value, close date, and win probability.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Opportunities – Deals or sales efforts you want to track through stages such as Qualified, Presentation, Negotiation, Follow-up, and Contract Sent, with value, close date, and win probability.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Products – A simple product library with name, SKU, price, cost, term length, and description to associate with deals.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Products – A simple product library with name, SKU, price, cost, term length, and description to associate with deals.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Settings – Central configuration for Contact Types, Opportunity Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types that drive validations and dropdowns across the template.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Settings – Central configuration for Contact Types, Opportunity Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types that drive validations and dropdowns across the template.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Using this template, you get the essentials of a CRM inside Google Sheets, ready to customize for your own business process.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Target Audience",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "target-audience"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "This CRM sheet template is designed for:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Freelancers and solopreneurs who need a simple way to track clients, prospects, and deals without investing in a complex CRM tool.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dd1d231ff120a3ec.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Freelancers and solopreneurs who need a simple way to track clients, prospects, and deals without investing in a complex CRM tool.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Small and growing businesses that want to centralize contact, company, and opportunity data in Google Sheets before moving to an enterprise CRM.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Sales and account managers who prefer spreadsheet-based pipelines but still need structure around stages, statuses, and forecasted revenue.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Marketing and business development teams who track leads by source, status, and potential amount and need quick reporting in a dashboard.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Ops / RevOps professionals who want a customizable, sheet-based CRM that can connect with other tools using Jivrus products (Forms, Docs, and app integrations).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "If you already live in Google Workspace and prefer flexible, transparent data in spreadsheets, this template is built for you.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Use Cases",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "use-cases"
+    },
+    {
+     "tag": "p",
+     "text": "You can use Sharm, a Sheet CRM for many day-to-day customer and sales activities, including:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Managing your sales pipeline: Track every opportunity with stage, value, close date, win probability, and status so you can forecast revenue and prioritize work.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Centralizing contacts and companies: Maintain a single source of truth for people and organizations, including tags, contact type, communication details, and notes.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Capturing and qualifying leads: Log all inbound and outbound leads with lead status (New, Assigned, In Process, Converted, Recycled, Dead), source (Email, Campaign, Cold Call, etc.), and potential amount.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Tracking products and offerings: Keep a product catalog with prices, costs, term lengths, and descriptions to support quotes and deal analysis.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Planning daily, weekly, and monthly actions: Use the Dashboard to see total pipeline value, number of opportunities by stage, and which deals to follow up on next.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Automating workflows with Jivrus tools:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Use Form Director to capture lead data via Google Forms and push it into the Leads or Contacts sheet. Use Fillable Document to generate proposals and contracts from Opportunities and Products data. Use Form Builder to turn this Sheet structure into reusable CRM forms. Use Sheet Director to sync CRM data between Sheets and external apps. Use AppiWorks to integrate this CRM with other business applications and automate end-to-end workflows.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Use Form Director to capture lead data via Google Forms and push it into the Leads or Contacts sheet.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Use Fillable Document to generate proposals and contracts from Opportunities and Products data.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Use Form Builder to turn this Sheet structure into reusable CRM forms.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Use Sheet Director to sync CRM data between Sheets and external apps.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Use AppiWorks to integrate this CRM with other business applications and automate end-to-end workflows.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Key Objects",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "key-objects"
+    },
+    {
+     "tag": "p",
+     "text": "The template is organized around a few core CRM objects.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Contacts: People you interact with (customers, prospects, partners) including name, company, email, phone, address, LinkedIn, contact type, and notes.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Companies: Organizations linked to your contacts and opportunities, with information such as website, industry description, and assignee.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Leads: Early-stage prospects who may become customers, tracked with lead status, source, potential amount, and description.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Opportunities (Deals): Sales or business development efforts you want to move through defined stages (Qualified, Presentation, Negotiation, Follow-up, Contract Sent, Won, Lost, Abandoned). Each opportunity includes value, close date, win %, status, priority, loss reason, and notes.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Products: Goods or services you sell, with SKU, price, cost, term length, and description used across your deals.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Settings: A configuration and lookup sheet that defines Contact Types, Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types that are referenced in other sheets.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "These objects work together to give you a 360° view of your customer lifecycle—from lead to contact, company, opportunity, and revenue.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Key Processes",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "key-processes"
+    },
+    {
+     "tag": "p",
+     "text": "The CRM template supports a set of repeatable processes that you can follow and adapt to your business.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Configure CRM rules: (one-time setup) Go to the Settings sheet and define your Contact Types, Opportunity Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types. Align these values with your existing sales and marketing process so that users select the correct options from dropdowns.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Configure CRM rules: (one-time setup)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Go to the Settings sheet and define your Contact Types, Opportunity Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Align these values with your existing sales and marketing process so that users select the correct options from dropdowns.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Capture and qualify leads: Add new prospects in the Leads sheet with appropriate Lead status (New, Assigned, In Process, Converted, Recycled, Dead) and Lead source (Cold Call, Email, Campaign, etc.). Update the potential amount and description as you learn more about each lead. Optionally, use forms and integrations (Form Director, Form Builder, AppiWorks) to automate lead capture.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Capture and qualify leads:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Add new prospects in the Leads sheet with appropriate Lead status (New, Assigned, In Process, Converted, Recycled, Dead) and Lead source (Cold Call, Email, Campaign, etc.).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Update the potential amount and description as you learn more about each lead.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Optionally, use forms and integrations (Form Director, Form Builder, AppiWorks) to automate lead capture.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Convert leads into contacts, companies, and opportunities: When a lead is qualified, convert it into a Contact and Company entry and create a corresponding Opportunity with stage, value, and expected close date. Update the lead status to Converted to keep your pipeline clean.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Convert leads into contacts, companies, and opportunities:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "When a lead is qualified, convert it into a Contact and Company entry and create a corresponding Opportunity with stage, value, and expected close date.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Update the lead status to Converted to keep your pipeline clean.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Manage the sales pipeline: Use the Opportunities sheet to move deals across stages like Qualified, Presentation, Negotiation, Follow-up, and Contract Sent. Maintain Status (Open, Won, Lost, Abandoned) and Loss Reason (Competitor, Features, Price, etc.) to improve reporting. Adjust Win % and Close Date to improve forecasting accuracy.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Manage the sales pipeline:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Use the Opportunities sheet to move deals across stages like Qualified, Presentation, Negotiation, Follow-up, and Contract Sent.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Maintain Status (Open, Won, Lost, Abandoned) and Loss Reason (Competitor, Features, Price, etc.) to improve reporting.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Adjust Win % and Close Date to improve forecasting accuracy.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Monitor performance in the Dashboard: Review the Dashboard sheet to see: total value of all opportunities, total number of contacts, companies, and opportunities, and breakdown of opportunity count and value by stage. Use these insights to plan daily and weekly actions, such as which follow-ups to prioritize.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Monitor performance in the Dashboard:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Review the Dashboard sheet to see: total value of all opportunities, total number of contacts, companies, and opportunities, and breakdown of opportunity count and value by stage.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Use these insights to plan daily and weekly actions, such as which follow-ups to prioritize.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Automate documents and integrations: (optional but recommended) Generate proposals, quotes, and contracts from Opportunities and Products data using Fillable Document. Sync data with other apps (CRMs, marketing tools, ERPs) using Sheet Director and AppiWorks, keeping information consistent across systems.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Automate documents and integrations: (optional but recommended)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Generate proposals, quotes, and contracts from Opportunities and Products data using Fillable Document.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Sync data with other apps (CRMs, marketing tools, ERPs) using Sheet Director and AppiWorks, keeping information consistent across systems.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Preview",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "preview"
+    },
+    {
+     "tag": "h3",
+     "text": "📥 How to Use this template:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-to-use-this-template"
+    },
+    {
+     "tag": "li",
+     "text": "Click on \"Make a Copy\" to create your own version.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Customize it to suit your requirements.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Download this template",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "h2",
+     "text": "Conclusion",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "conclusion"
+    },
+    {
+     "tag": "p",
+     "text": "Sharm, a Sheet CRM gives you a simple yet complete CRM system right inside Google Sheets, combining contacts, companies, leads, products, and opportunities with an easy-to-read sales dashboard. With clear objects, defined stages, and configurable settings, you can start quickly, adapt it to your own process, and grow into automations using Jivrus integrations when you’re ready.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sSkuRuxE0eRLg5OhsjlzIKqxJVfW1OiqXsTbZfIjG5DBFSiSRDVk6rYVp4_JDXp6ISS3Md1F8Uqbs10_oA1hTNxVxOC0lzOoiKiyiceGMEAZTYKbRujIgy6FzNqGOPiXfEf6Ns5Jp-echrdSFpYE7RKvTl9Snth_3bciMklbqkGYXfulHZhPAD=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Introduction",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "introduction"
+  },
+  {
+   "tag": "p",
+   "text": "Sharm, a Sheet CRM is a lightweight, ready-to-use CRM template built entirely in Google Sheets. It helps you organize your contacts, companies, leads, products, and sales opportunities in one place, while giving you a clear dashboard view of your sales pipeline.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "This template is ideal if you are not yet ready for a full-blown CRM system but still need a structured way to track relationships, deals, and revenue. It automatically saves your changes in Google Sheets, so your data is always current and accessible from anywhere. To get started, simply open the template, review the Settings, and begin entering your data.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "What is a CRM Template?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "what-is-a-crm-template"
+  },
+  {
+   "tag": "p",
+   "text": "A CRM (Customer Relationship Management) template is a pre-built structure that provides the core tables, fields, and workflows you need to manage customer-related data—without having to design everything from scratch.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The Sharm, a Sheet CRM template includes dedicated sheets and logic for:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Dashboard – A control panel showing total sales value, number of contacts, companies, and opportunities, plus opportunity count and value by stage.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Dashboard – A control panel showing total sales value, number of contacts, companies, and opportunities, plus opportunity count and value by stage.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Contacts – A structured list of people you interact with, including their company, contact details, type (e.g., potential or current customer), and descriptions.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Contacts – A structured list of people you interact with, including their company, contact details, type (e.g., potential or current customer), and descriptions.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Companies – Organizations you do or may do business with, with fields for tags, contact type, website, address, LinkedIn, assignee, and descriptions.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Companies – Organizations you do or may do business with, with fields for tags, contact type, website, address, LinkedIn, assignee, and descriptions.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Leads – Prospects who are not yet customers, with lead status, source, potential amount, and notes.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Leads – Prospects who are not yet customers, with lead status, source, potential amount, and notes.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Opportunities – Deals or sales efforts you want to track through stages such as Qualified, Presentation, Negotiation, Follow-up, and Contract Sent, with value, close date, and win probability.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Opportunities – Deals or sales efforts you want to track through stages such as Qualified, Presentation, Negotiation, Follow-up, and Contract Sent, with value, close date, and win probability.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Products – A simple product library with name, SKU, price, cost, term length, and description to associate with deals.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Products – A simple product library with name, SKU, price, cost, term length, and description to associate with deals.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Settings – Central configuration for Contact Types, Opportunity Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types that drive validations and dropdowns across the template.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Settings – Central configuration for Contact Types, Opportunity Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types that drive validations and dropdowns across the template.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Using this template, you get the essentials of a CRM inside Google Sheets, ready to customize for your own business process.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Target Audience",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "target-audience"
+  },
+  {
+   "tag": "p",
+   "text": "This CRM sheet template is designed for:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Freelancers and solopreneurs who need a simple way to track clients, prospects, and deals without investing in a complex CRM tool.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Freelancers and solopreneurs who need a simple way to track clients, prospects, and deals without investing in a complex CRM tool.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Small and growing businesses that want to centralize contact, company, and opportunity data in Google Sheets before moving to an enterprise CRM.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Small and growing businesses that want to centralize contact, company, and opportunity data in Google Sheets before moving to an enterprise CRM.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Sales and account managers who prefer spreadsheet-based pipelines but still need structure around stages, statuses, and forecasted revenue.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Sales and account managers who prefer spreadsheet-based pipelines but still need structure around stages, statuses, and forecasted revenue.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Marketing and business development teams who track leads by source, status, and potential amount and need quick reporting in a dashboard.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Marketing and business development teams who track leads by source, status, and potential amount and need quick reporting in a dashboard.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Ops / RevOps professionals who want a customizable, sheet-based CRM that can connect with other tools using Jivrus products (Forms, Docs, and app integrations).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Ops / RevOps professionals who want a customizable, sheet-based CRM that can connect with other tools using Jivrus products (Forms, Docs, and app integrations).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "If you already live in Google Workspace and prefer flexible, transparent data in spreadsheets, this template is built for you.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Use Cases",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "use-cases"
+  },
+  {
+   "tag": "p",
+   "text": "You can use Sharm, a Sheet CRM for many day-to-day customer and sales activities, including:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Managing your sales pipeline: Track every opportunity with stage, value, close date, win probability, and status so you can forecast revenue and prioritize work.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Centralizing contacts and companies: Maintain a single source of truth for people and organizations, including tags, contact type, communication details, and notes.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Capturing and qualifying leads: Log all inbound and outbound leads with lead status (New, Assigned, In Process, Converted, Recycled, Dead), source (Email, Campaign, Cold Call, etc.), and potential amount.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Tracking products and offerings: Keep a product catalog with prices, costs, term lengths, and descriptions to support quotes and deal analysis.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Planning daily, weekly, and monthly actions: Use the Dashboard to see total pipeline value, number of opportunities by stage, and which deals to follow up on next.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Automating workflows with Jivrus tools:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Use Form Director to capture lead data via Google Forms and push it into the Leads or Contacts sheet. Use Fillable Document to generate proposals and contracts from Opportunities and Products data. Use Form Builder to turn this Sheet structure into reusable CRM forms. Use Sheet Director to sync CRM data between Sheets and external apps. Use AppiWorks to integrate this CRM with other business applications and automate end-to-end workflows.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Use Form Director to capture lead data via Google Forms and push it into the Leads or Contacts sheet.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Use Form Director to capture lead data via Google Forms and push it into the Leads or Contacts sheet.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Use Fillable Document to generate proposals and contracts from Opportunities and Products data.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Use Fillable Document to generate proposals and contracts from Opportunities and Products data.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Use Form Builder to turn this Sheet structure into reusable CRM forms.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Use Form Builder to turn this Sheet structure into reusable CRM forms.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Use Sheet Director to sync CRM data between Sheets and external apps.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Use Sheet Director to sync CRM data between Sheets and external apps.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Use AppiWorks to integrate this CRM with other business applications and automate end-to-end workflows.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Use AppiWorks to integrate this CRM with other business applications and automate end-to-end workflows.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Key Objects",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "key-objects"
+  },
+  {
+   "tag": "p",
+   "text": "The template is organized around a few core CRM objects.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Contacts: People you interact with (customers, prospects, partners) including name, company, email, phone, address, LinkedIn, contact type, and notes.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Contacts: People you interact with (customers, prospects, partners) including name, company, email, phone, address, LinkedIn, contact type, and notes.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Companies: Organizations linked to your contacts and opportunities, with information such as website, industry description, and assignee.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Companies: Organizations linked to your contacts and opportunities, with information such as website, industry description, and assignee.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Leads: Early-stage prospects who may become customers, tracked with lead status, source, potential amount, and description.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Leads: Early-stage prospects who may become customers, tracked with lead status, source, potential amount, and description.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Opportunities (Deals): Sales or business development efforts you want to move through defined stages (Qualified, Presentation, Negotiation, Follow-up, Contract Sent, Won, Lost, Abandoned). Each opportunity includes value, close date, win %, status, priority, loss reason, and notes.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Opportunities (Deals): Sales or business development efforts you want to move through defined stages (Qualified, Presentation, Negotiation, Follow-up, Contract Sent, Won, Lost, Abandoned). Each opportunity includes value, close date, win %, status, priority, loss reason, and notes.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Products: Goods or services you sell, with SKU, price, cost, term length, and description used across your deals.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Products: Goods or services you sell, with SKU, price, cost, term length, and description used across your deals.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Settings: A configuration and lookup sheet that defines Contact Types, Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types that are referenced in other sheets.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Settings: A configuration and lookup sheet that defines Contact Types, Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types that are referenced in other sheets.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "These objects work together to give you a 360° view of your customer lifecycle—from lead to contact, company, opportunity, and revenue.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Key Processes",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "key-processes"
+  },
+  {
+   "tag": "p",
+   "text": "The CRM template supports a set of repeatable processes that you can follow and adapt to your business.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Configure CRM rules: (one-time setup) Go to the Settings sheet and define your Contact Types, Opportunity Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types. Align these values with your existing sales and marketing process so that users select the correct options from dropdowns.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Configure CRM rules: (one-time setup)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Go to the Settings sheet and define your Contact Types, Opportunity Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Go to the Settings sheet and define your Contact Types, Opportunity Stages, Statuses, Sources, Loss Reasons, Lead Statuses, Lead Sources, and Deal Types.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Align these values with your existing sales and marketing process so that users select the correct options from dropdowns.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Align these values with your existing sales and marketing process so that users select the correct options from dropdowns.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Capture and qualify leads: Add new prospects in the Leads sheet with appropriate Lead status (New, Assigned, In Process, Converted, Recycled, Dead) and Lead source (Cold Call, Email, Campaign, etc.). Update the potential amount and description as you learn more about each lead. Optionally, use forms and integrations (Form Director, Form Builder, AppiWorks) to automate lead capture.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Capture and qualify leads:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Add new prospects in the Leads sheet with appropriate Lead status (New, Assigned, In Process, Converted, Recycled, Dead) and Lead source (Cold Call, Email, Campaign, etc.).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Add new prospects in the Leads sheet with appropriate Lead status (New, Assigned, In Process, Converted, Recycled, Dead) and Lead source (Cold Call, Email, Campaign, etc.).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Update the potential amount and description as you learn more about each lead.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Update the potential amount and description as you learn more about each lead.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Optionally, use forms and integrations (Form Director, Form Builder, AppiWorks) to automate lead capture.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Optionally, use forms and integrations (Form Director, Form Builder, AppiWorks) to automate lead capture.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Convert leads into contacts, companies, and opportunities: When a lead is qualified, convert it into a Contact and Company entry and create a corresponding Opportunity with stage, value, and expected close date. Update the lead status to Converted to keep your pipeline clean.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Convert leads into contacts, companies, and opportunities:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "When a lead is qualified, convert it into a Contact and Company entry and create a corresponding Opportunity with stage, value, and expected close date.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "When a lead is qualified, convert it into a Contact and Company entry and create a corresponding Opportunity with stage, value, and expected close date.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Update the lead status to Converted to keep your pipeline clean.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Update the lead status to Converted to keep your pipeline clean.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Manage the sales pipeline: Use the Opportunities sheet to move deals across stages like Qualified, Presentation, Negotiation, Follow-up, and Contract Sent. Maintain Status (Open, Won, Lost, Abandoned) and Loss Reason (Competitor, Features, Price, etc.) to improve reporting. Adjust Win % and Close Date to improve forecasting accuracy.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Manage the sales pipeline:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Use the Opportunities sheet to move deals across stages like Qualified, Presentation, Negotiation, Follow-up, and Contract Sent.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Use the Opportunities sheet to move deals across stages like Qualified, Presentation, Negotiation, Follow-up, and Contract Sent.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Maintain Status (Open, Won, Lost, Abandoned) and Loss Reason (Competitor, Features, Price, etc.) to improve reporting.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Maintain Status (Open, Won, Lost, Abandoned) and Loss Reason (Competitor, Features, Price, etc.) to improve reporting.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Adjust Win % and Close Date to improve forecasting accuracy.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Adjust Win % and Close Date to improve forecasting accuracy.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Monitor performance in the Dashboard: Review the Dashboard sheet to see: total value of all opportunities, total number of contacts, companies, and opportunities, and breakdown of opportunity count and value by stage. Use these insights to plan daily and weekly actions, such as which follow-ups to prioritize.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Monitor performance in the Dashboard:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Review the Dashboard sheet to see: total value of all opportunities, total number of contacts, companies, and opportunities, and breakdown of opportunity count and value by stage.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Review the Dashboard sheet to see: total value of all opportunities, total number of contacts, companies, and opportunities, and breakdown of opportunity count and value by stage.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Use these insights to plan daily and weekly actions, such as which follow-ups to prioritize.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Use these insights to plan daily and weekly actions, such as which follow-ups to prioritize.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Automate documents and integrations: (optional but recommended) Generate proposals, quotes, and contracts from Opportunities and Products data using Fillable Document. Sync data with other apps (CRMs, marketing tools, ERPs) using Sheet Director and AppiWorks, keeping information consistent across systems.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Automate documents and integrations: (optional but recommended)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Generate proposals, quotes, and contracts from Opportunities and Products data using Fillable Document.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Generate proposals, quotes, and contracts from Opportunities and Products data using Fillable Document.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Sync data with other apps (CRMs, marketing tools, ERPs) using Sheet Director and AppiWorks, keeping information consistent across systems.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Sync data with other apps (CRMs, marketing tools, ERPs) using Sheet Director and AppiWorks, keeping information consistent across systems.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Preview",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "preview"
+  },
+  {
+   "tag": "h3",
+   "text": "📥 How to Use this template:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-to-use-this-template"
+  },
+  {
+   "tag": "li",
+   "text": "Click on \"Make a Copy\" to create your own version.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on \"Make a Copy\" to create your own version.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Customize it to suit your requirements.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Customize it to suit your requirements.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Download this template",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Conclusion",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "conclusion"
+  },
+  {
+   "tag": "p",
+   "text": "Sharm, a Sheet CRM gives you a simple yet complete CRM system right inside Google Sheets, combining contacts, companies, leads, products, and opportunities with an easy-to-read sales dashboard. With clear objects, defined stages, and configurable settings, you can start quickly, adapt it to your own process, and grow into automations using Jivrus integrations when you’re ready.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vAsNMAVQChSOazn1DT3PMgPyCmW0Gm-TkMHnv3F4FZCxyYMg20NfOsutOBkA84_hhs1S4pqt8HMaC3OGv9u85dNtwAd-jB6PjwCertigkxeJWxYP_3gqYdWmLKa2GKDt3b5VA7YHYB87hOWVj45R6azgzbVDo175603cgdXm6arH6Q19cjLNlgZk4-A8beKdp32Tz85keCNk2vUKNaxPljfUyJLjyLMw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sc851rV_G-6qLNzhwzkl8B1vgELwV3Hg3IPBi1IE8GEl_PWeSeMxMSq_AIYwhTS5W4KE28vZX_jdtgSZwXu-tnQnI2sSZoYTWKjcAxTwWYWiQqdvdOKEMoiSQRmpUv2qyZN5yWwO0xWma4A4QamZHWNHyCmL8lPPslXoDgEQWuqmwNECzdCKKtntDP6tc7oi5BlZn19xsVm5TZQ23R3Q2m-Gjt7gV54Vmg=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tFzcMrsdc9lKOqt1g2r5fv56D-JwjRt4xYS0u-8VoEeNIs1k_9IBhZMfVOoqfNMyw6l4CPtQil9ukJkxqvigoAD19ucnqpSp0hcgS0FdS6CNq4AbDbqllUPF1BaonsxB3Vauhv2BrNXeZfDG9Tsmm5HAa8HCzPpvkKoSBSPg0rZznDR88iTGvZ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/8304698ffd38f970.png",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/dd1d231ff120a3ec.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://docs.google.com/spreadsheets/d/1uiAeU3jfzHAlRF7xCyAYK02Lmx5r96_ISEahMwdnM1Q/edit?gid=17837942#gid=17837942/copy",
+   "text": "Download this template"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

@@ -1,0 +1,1112 @@
+{
+ "route": "/resources/articles/google-workspace",
+ "slug": "resources__articles__google-workspace",
+ "family": "resources",
+ "isContainer": true,
+ "title": "Jivrus Technologies - Google Workspace",
+ "description": "Unconventional Google Workspace Wisdom",
+ "h1": "Google Workspace",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/articles/google-workspace",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/db3ce747dc0e54ee.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Unconventional Google Workspace Wisdom",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "unconventional-google-workspace-wisdom"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/705f76dd2df099ed.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Add-on FAQ",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "add-on-faq"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/bb525bb0f0fd73c8.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "The Frequently Asked Questions about add-ons and why you should know.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/411a5c03daefc798.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Read now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1299ee43f884c3f5.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "How to Install and Uninstall Add-ons?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-to-install-and-uninstall-add-ons"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65d89c2be2ccf3b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Google Workspace add-ons extend the behaviour of Google Workspace apps. Get to know how to install and uninstall the add-ons",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8ce11c2634520b52.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Read now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Whitelisting Google Workspace Apps",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "whitelisting-google-workspace-apps"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "What is whitelisting or allowlisting add-ons? And How to do it?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Read now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "h3",
+     "text": "Rate and Comment Google Workspace Marketplace",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "rate-and-comment-google-workspace-marketplace"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "p",
+     "text": "How do I give a feedback or review on an application on Google Workspace Marketplace?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Read now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Why emails are blocked by Gmail and how to resolve?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "why-emails-are-blocked-by-gmail-and-how-to-resolve"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Why my emails are not delivered from Google Workspace or Gmail and what can I do?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Read now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Do I Need a Google Account to use Jivrus Products?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "do-i-need-a-google-account-to-use-jivrus-products"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Do I need a Google account to use Jivrus Products? What can I do if do not have one or do not want to have one?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Read now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Google Workspace Referral Program",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "google-workspace-referral-program"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Google Workspace referral program provides discounted promotion codes.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Read now",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uE3kF9W0_G8GSVvHqsxRDiwL34-uh17K8n6plZmcgTlApnQWHwv_oC3iTPApS5n5sf_509igJaVDpSY0jvmuo6kaXzDUoPOdI0zOaDOTjNIEDKNbB82b9UChEsS2tHHQpAMPBV9xXuq1lJk3Iefd7rTu5ktyj_Ul_DC7eAkfkDXLL7RM4ckuaZ=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Unconventional Google Workspace Wisdom",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "unconventional-google-workspace-wisdom"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vZDkBYl7gGD7s7Gg0r-1FSMunLhGMkEygaaDCVD_FK6RizUKVyUbYwyPoaE-CFDWB1wZSqEBriicrsbY6YoKOJDZ_QlH3w6Xw8FW8mpvL997XAbxfOeNF9ahetGghW4_Dpz3kPvKF0cdWJEDeQ1k5KJIr3tAcm4q4Fi3JUHJouTaOV5pz4EX4e=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Add-on FAQ",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "add-on-faq"
+  },
+  {
+   "tag": "p",
+   "text": "The Frequently Asked Questions about add-ons and why you should know.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Read now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vxyUMyNnVEDo2Nh6M1Y1EYD_qU29wkIG6_IekRxEg4IR6Zg6EsrcJuDWp3sZ61rTvVZ7D41Cm_LEXQusFoBdYdCDnojj2nQvTOJLEvHRSgVxi-st2ska-ps3igIMKnRy3ecX1YFpxgxbYxy2f6UqiedA6atgHwbvDn8R27xUWaWnnoBBaXMDSk4LadBHzVsZ_RRkmNyr1l=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "How to Install and Uninstall Add-ons?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-to-install-and-uninstall-add-ons"
+  },
+  {
+   "tag": "p",
+   "text": "Google Workspace add-ons extend the behaviour of Google Workspace apps. Get to know how to install and uninstall the add-ons",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Read now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vuG1QQsSTkHR9QGnGRr6o09SZaD1emILolmMlfLtK53ubjq06s7g5h8A34NmVJzO0pnML_ZpccVA5y_83v2OzUfkBpV0bcWix2-ybMtkMIbL6tkDX-GyNEZMdZ8WoBbR0-L5cBAagW0hiKjU_JECIyPWUHaIPx0Jg7Sb4BJyQbOllWq7nvm-DA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Whitelisting Google Workspace Apps",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "whitelisting-google-workspace-apps"
+  },
+  {
+   "tag": "p",
+   "text": "What is whitelisting or allowlisting add-ons? And How to do it?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Read now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tNCow_jwTWgKqtRuPQG2XJlv3IkkiUMbbKzQOgapJiuDBs_DtDGfDAnx5i7h7yQhhxHJJpjfEEsB7eZbksf9f2T0rxa761cfZHvjuZTrVaiztweZe3UvvzWd7NhYoibFj12teYg9eJwuXZ1l35vGaFVo_VpSlfU2cwlrVTOZLybPVz5RSLV-Ss=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Rate and Comment Google Workspace Marketplace",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "rate-and-comment-google-workspace-marketplace"
+  },
+  {
+   "tag": "p",
+   "text": "How do I give a feedback or review on an application on Google Workspace Marketplace?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Read now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uDx9GyMOpBjJbkzP8wppKIdEAsx5wPX9oUCnNATvVvsnDnNIiWaU71akq71Acvo9uCbB6GM93b-Byrg67E5_DOtcOLRuN9QqScgS5bJWA0oSjaJrHwkt_CNDf1HjzNcRBRW0b_A-_MU-oqaglTtr4W9U7ChfoCWOkIzumXs4_t2H0BvjaUJw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Why emails are blocked by Gmail and how to resolve?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "why-emails-are-blocked-by-gmail-and-how-to-resolve"
+  },
+  {
+   "tag": "p",
+   "text": "Why my emails are not delivered from Google Workspace or Gmail and what can I do?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Read now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vzpMT6Hfmx6EPplmxGPUwNFeBQAf5dbpgA-XOYb0RG1b6MUt2IKG05mU5V5g3RXb7ZXYL8evxBKLR5y6HmwqcjLbx5U7WhtUnIs-RWWSeo3bgJzZhTnvjVudKiRstLo1tNZ8y68_8-SJ_rtewbtIwFqPUaND2GyaqLrQE3ABqAwsR90uV73qgf=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Do I Need a Google Account to use Jivrus Products?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "do-i-need-a-google-account-to-use-jivrus-products"
+  },
+  {
+   "tag": "p",
+   "text": "Do I need a Google account to use Jivrus Products? What can I do if do not have one or do not want to have one?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Read now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uK9Rg4-zhZHiCL5aMbfxEgzTLWmsR5Qi3DunINu2rE2LPEqqtO6z6GR2IQXSTbH1LmMuMBZRT0e3ZuH0gOxe8hEuI0C0ZLKXAAwoDZPuBPkuGvnV_i_8NuU3lFGdLZFhWgJ_DqwYGyGCkrUlr1OTgi-pUhsXXJanNIrYu8uWbKx3dogCvha-80=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Google Workspace Referral Program",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "google-workspace-referral-program"
+  },
+  {
+   "tag": "p",
+   "text": "Google Workspace referral program provides discounted promotion codes.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Read now",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vr_RgCyUL3ip8uTpx0mPEuvb_7dkpTrpw19JhmHURNEJI0SpV_9Zq2cxXYhWt-JvQgBcZLPltAfdixFGvmF3HIwCrUCDcTrSHqXfOSbYLlFTywFMRTvTHggpJif313BF8HgpRuFJ3sVF1wNrtbUaAb-KQ1LN-WIVMC6BMvRiRbZvDb-VK67ujpUMCInwTw1q5yGtqAWSokWYtfORYD7l3f5ArIlDZnrw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sxYYhxDeKl5iCqgPMNYlQxoBdlcaWFe0BMXTYuWPcJtqikAX6P5bkRF-kxoZxBoUaHwqgeYzSgYnWRNbwZSakd4yFAQ2F1FjT6RtsJGB_kPyeYYqjRq5XplzDqohbr1Y6yTUUW8Fld0cIngIS2iQA1wRI5PglylAXoqtWbW-W-RWp62XMZpKivUFmdbIZ3sKwRAkcmW_K1laXIjNctb_zH9tvbowSM6UuF=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s7iNryZYzqLCFlMPC1iJOCtii1R8OBrx1Juyc5wif1LlgcBtVq0J4fwRYZ6vqHNUbeiRUzD4SM-7EXqDlbG8ocksIJ0Gk_grxSoB5MgO5oHtRKR3QmAcilXgZtmEZfbWRykEqu12rjW0Wp5hB0Ofgedi7xBkSZRdDiqxhYKrmvN8bcK_TlTaR2=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/db3ce747dc0e54ee.png",
+   "alt": "",
+   "w": 1207,
+   "h": 1207
+  },
+  {
+   "src": "/images/705f76dd2df099ed.jpg",
+   "alt": "",
+   "w": 512,
+   "h": 512
+  },
+  {
+   "src": "/images/bb525bb0f0fd73c8.png",
+   "alt": "",
+   "w": 512,
+   "h": 512
+  },
+  {
+   "src": "/images/411a5c03daefc798.png",
+   "alt": "",
+   "w": 512,
+   "h": 512
+  },
+  {
+   "src": "/images/1299ee43f884c3f5.png",
+   "alt": "",
+   "w": 512,
+   "h": 512
+  },
+  {
+   "src": "/images/d65d89c2be2ccf3b.png",
+   "alt": "",
+   "w": 512,
+   "h": 512
+  },
+  {
+   "src": "/images/8ce11c2634520b52.png",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/add-ons-faq",
+   "text": "Add-on FAQ"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/add-ons-faq",
+   "text": "Read now"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons",
+   "text": "How to Install and Uninstall Add-ons?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons",
+   "text": "Read now"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/whitelisting-google-workspace-apps",
+   "text": "Whitelisting Google Workspace Apps"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/whitelisting-google-workspace-apps",
+   "text": "Read now"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/how-to-rate-and-comment-google-workspace-marketplace",
+   "text": "Rate and Comment Google Workspace Marketplace"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/install-and-uninstall-add-ons",
+   "text": "Read now"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/why-emails-are-blocked-by-gmail-and-how-to-resolve",
+   "text": "Why emails are blocked by Gmail and how to resolve?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/why-emails-are-blocked-by-gmail-and-how-to-resolve",
+   "text": "Read now"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/do-i-need-a-google-account-to-use-jivrus-products",
+   "text": "Do I Need a Google Account to use Jivrus Products?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/do-i-need-a-google-account-to-use-jivrus-products",
+   "text": "Read now"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/referral-programme",
+   "text": "Google Workspace Referral Program"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles/google-workspace/referral-programme",
+   "text": "Read now"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

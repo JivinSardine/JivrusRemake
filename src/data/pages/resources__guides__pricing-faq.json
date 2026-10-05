@@ -1,0 +1,6281 @@
+{
+ "route": "/resources/guides/pricing-faq",
+ "slug": "resources__guides__pricing-faq",
+ "family": "resources",
+ "isContainer": false,
+ "title": "Jivrus Technologies - Pricing FAQ",
+ "description": "Pricing - Frequently Asked Questions",
+ "h1": "Pricing FAQ",
+ "ogImage": "",
+ "ogUrl": "https://www.jivrus.com/resources/guides/pricing-faq",
+ "sections": [
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Pricing - Frequently Asked Questions",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "34.6667px",
+     "color": "rgb(250, 232, 238)",
+     "anchor": "pricing-frequently-asked-questions"
+    },
+    {
+     "tag": "p",
+     "text": "This FAQ (Frequently Asked Questions) is prepared with the intension of providing answers to all possible questions related to pricing/ subscription that users might face when using Jivrus Products adhering to the agreed Terms & Conditions and Privacy Policy.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Subscription",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "subscription"
+    },
+    {
+     "tag": "h3",
+     "text": "Can I use this product for free?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-use-this-product-for-free"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Yes, we offer both free and paid plans to cater to your specific needs. We understand that users may want to explore our services before committing to a paid plan. That's why we provide basic plans with limited quota that are available for free, allowing you to experience our offerings and determine if they meet your requirements. To ensure your satisfaction, we provide the option of a free trial will full features also. Check our pricing plans from the pricing page of our product websites.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "What is a subscription?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "what-is-a-subscription"
+    },
+    {
+     "tag": "p",
+     "text": "Subscription refers to a promise of service from a Jivrus product made available to a customer with the defined features and usage quota for a defined frequency (monthly or yearly) for an amount of money as per the plan.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/db6562e3e9d76747.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "How do I get a subscription?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-get-a-subscription"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/413836b3b73b7969.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "You can get a subscription by selecting a pricing plan for a Jivrus product and paying for it. The available plans are listed on the pricing page of the product’s website.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/4a7b8d1a657470db.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "How do I purchase a license?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-purchase-a-license"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/beab4439b5d08a97.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Jivrus Technologies provides multiple convenient options for purchasing our products or add-ons. Here are the different avenues through which you can make a purchase:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/6d8b667e436475bb.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Pricing Page: You can visit the pricing page on our product website, where you will find comprehensive information about the available plans and their corresponding features. From there, you can select the desired plan and proceed with the purchase.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d779c95f487103d0.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Pricing Page: You can visit the pricing page on our product website, where you will find comprehensive information about the available plans and their corresponding features. From there, you can select the desired plan and proceed with the purchase.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dfe33e695b508b56.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Product/Add-on: If you are already using one of our products or add-ons, you can initiate the purchase directly from within the product itself. You can check our products from Google Workspace Marketplace.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfc67b400bcf8be.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Product/Add-on: If you are already using one of our products or add-ons, you can initiate the purchase directly from within the product itself. You can check our products from Google Workspace Marketplace.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dea237f7ba372058.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Customer Portal: The customer portal serves as a centralized platform where you can manage your subscriptions, view your purchase history, and make new purchases. The customer portal provides a convenient and personalized experience for managing your products and making additional purchases.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dc92a57d665bce49.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Customer Portal: The customer portal serves as a centralized platform where you can manage your subscriptions, view your purchase history, and make new purchases. The customer portal provides a convenient and personalized experience for managing your products and making additional purchases.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b16910257f7f97bf.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Is there any setup fee or hidden charges?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "is-there-any-setup-fee-or-hidden-charges"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/45438b9d4994aa59.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "No. There is no setup fee or hidden charges from our side. We want to be transparent and upfront about our pricing structure. At Jivrus Technologies, we do not impose any setup fees or hidden charges. When you engage with our products or services, you can rest assured that there will be no additional costs beyond the stated pricing.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/bcb221ae078c2de5.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "However, in some countries/regions, there could be a local charge from your bank or payment gateway as per the law of the land and that is beyond our control.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/e0cf392cdec5b663.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Is my payment safe with you?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "is-my-payment-safe-with-you"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/bfac01eeae7cc9ae.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Yes, you payment is always safe & secure with us. At Jivrus Technologies, we prioritize the safety and security of your payment transactions. We use Stripe, Razorpay & PayPal as our payment gateway. Check payment gateway security for more details.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/6ea68575d17bbc8a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "What are my payment options?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "what-are-my-payment-options"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/69f03d6cd2c5afc6.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "At Jivrus Technologies, we offer you multiple options for making payments conveniently and securely. We support popular payment gateways such as PayPal, Stripe, and Razorpay, ensuring a seamless transaction experience. These trusted payment gateways adhere to stringent security standards to protect your financial information.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b16910257f7f97bf.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "We at Jivrus, do not directly accept or store card details used for payments.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b2e721ade9292a4d.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Can I pay via UPI?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-pay-via-upi"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/342e7c0be26d1740.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Yes, UPI payments are available exclusively for Indian customers. To proceed with a UPI payment, select 'One-Time Payment' as the payment type and choose Razorpay as the payment method, where UPI options are enabled.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d0fc62f2a15badbc.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Supported UPI platforms include GPay, Amazon Pay, Paytm, PhonePe, and Net Banking.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/856d4e5a8ce80c7f.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c53c815ee31d3ae0.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/ce2e2b6d9688219a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Can I get a quote & pay via purchase order?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-get-a-quote-pay-via-purchase-order"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8304698ffd38f970.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "We prioritize online payments as our preferred method for convenience and efficiency. When purchasing our products or services, we highly encourage using online payment options, such as credit cards or electronic payment gateways, which provide a secure and streamlined process.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8304698ffd38f970.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "However, If you are interested in yearly or group plans and you are based in the United States, we offer the option to request a quote and make the payment via a purchase order.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/36b75993e49d6ceb.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Can I use any PayPal, Stripe or Razorpay account to pay for a subscription?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-use-any-paypal-stripe-or-razorpay-account-to-pay-for-a-subscription"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/5273e5be44f15efd.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Yes, you can use Paypal, Stripe or Razor pay account to pay for the subscription",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/38da96edb97ce915.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "What is \"License to Email\" input while making payments?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "what-is-license-to-email-input-while-making-payments"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/013a6e5d76705e9c.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "You can pay from any PayPal or Stripe account to any of your Gmail or Google Workspace accounts (email) for a subscription. Please ensure that \"License to Email\" is correctly mentioned with the email from which you are going to use Jivrus Products.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/c80cab5f2d860f83.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "On subscription/ purchase, Jivrus products will be licensed to the given \"License to Email\". So it is very important to give the correct \"License to Email\"",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/f7e5538e1f0f7fa9.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/00778ed7789ad2fb.png",
+     "alt": "Map My Sheet"
+    },
+    {
+     "tag": "h3",
+     "text": "Which are the STRIPE supported Tax types?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "which-are-the-stripe-supported-tax-types"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/971d79a8bbce61a8.png",
+     "alt": "Cloud Flow Director"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I provide the correct Tax type when purchasing via Stripe?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-provide-the-correct-tax-type-when-purchasing-via-stripe"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a9b61a5dc0a2f998.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "While purchasing subscriptions, you can provide your organization's Tax Type and Tax ID (if applicable). If you are paying via Stripe, please enter the correct Tax type(Enum) as listed on the STRIPE website.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/7f49cd2470bcece1.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Stripe supported Taxes",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/790b1d69262fcd7d.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "How to check whether my payment is successful?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-to-check-whether-my-payment-is-successful"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/26194d490464fb74.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "After payment is made, you can re-open the product/ add-on/ extension and check the \"Account\" menu item. This will show whether you are upgraded to the purchased plan (Pro, Premium, Business, Enterprise etc) and show the validity period of the license.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/57a7aa5d52a85c1d.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Your payment (except for group/domain license) is expected to be reflected within a few minutes in our system and your account is expected to be updated with the taken plan and validity period. In case you face any issues, please Contact Support with details of your Account.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1ab5955f2dd574d1.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "How do I get a license after payment?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-get-a-license-after-payment"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/abaa7e6dd355d010.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Once your payment is successfully processed, our system will automatically provision the license associated with the provided email address. This means that you will receive access to the product or add-on using the same email address you provided during the payment process. Using the email address associated with your license, you can proceed to use the product or add-on seamlessly.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/eddfa642ff43bb00.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Will my license be renewed automatically?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "will-my-license-be-renewed-automatically"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d65740251b10affb.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "If you have purchased a subscription for our product or service, it will automatically renew until you decide to cancel it. This means that the subscription will continue without interruption according to the specified billing cycle (e.g., monthly, annually) unless you take action to stop the renewal.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/b2830f5cbb2108ef.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/9dfd24901330f45b.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "Is there a one-time payment available instead of a subscription?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "is-there-a-one-time-payment-available-instead-of-a-subscription"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/8af98c637678e49a.png",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Yes, when making a purchase, you have the option to choose a one-time payment for either a monthly or yearly subscription. This means that instead of opting for automatic recurring payments, you can make a single payment upfront for the selected duration of your subscription.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ec800085fb1b925.png",
+     "alt": ""
+    },
+    {
+     "tag": "h3",
+     "text": "How frequently will a subscription renewal happen?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-frequently-will-a-subscription-renewal-happen"
+    },
+    {
+     "tag": "p",
+     "text": "Subscription renewal happens based on the plan you have selected (monthly or yearly).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Group Subscriptions",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "group-subscriptions"
+    },
+    {
+     "tag": "h3",
+     "text": "Can I get a subscription for my team or a group?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-get-a-subscription-for-my-team-or-a-group"
+    },
+    {
+     "tag": "p",
+     "text": "Yes, you can get a subscription for your team/ group. You can subscribe to the domain/ group plan of our products.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I add/ change/ remove a member from my group subscription?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-add-change-remove-a-member-from-my-group-subscription"
+    },
+    {
+     "tag": "p",
+     "text": "To add/ remove/ change a member from your group subscription you can follow any of the mentioned steps",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "You can log in with your admin email at the Customer Portal Choose the product that you have purchased Click on the Group button provided in the sidebar to see all the users who are under the group Now you can click on the trash can icon to delete a specific user or click on the \"Add User\" button to add a new user to the group.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "You can log in with your admin email at the Customer Portal",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Choose the product that you have purchased",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click on the Group button provided in the sidebar to see all the users who are under the group",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Now you can click on the trash can icon to delete a specific user or click on the \"Add User\" button to add a new user to the group.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/a77bd6f5a7be9df3.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Now you can click on the trash can icon to delete a specific user or click on the \"Add User\" button to add a new user to the group.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "You can write to our support team along with the admin email & the emails that need to be added/ changed/ removed.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Can I use the same license from different devices?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-use-the-same-license-from-different-devices"
+    },
+    {
+     "tag": "p",
+     "text": "Yes. Your license is attached to the email that you provide in the \"License to Email\" field. You can use the license from any device as long as it is logged into the licensed email id.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I choose the right plan for me?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-choose-the-right-plan-for-me"
+    },
+    {
+     "tag": "p",
+     "text": "At Jivrus Technologies, we understand that selecting the perfect plan is essential to meet your unique needs. To make an informed decision, consider the following factors:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Features Needed: Start by looking at the specific features and functionalities that are crucial for your needs. Make sure the chosen plan includes all the features and capabilities you require.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Number of Users: Evaluate the number of users who will be utilizing our software products. Our plans are designed to accommodate varying team sizes, from individual users to entire organizations.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Estimated Monthly Usage: Estimate your monthly usage patterns, such as transactions, operations or any other resources relevant to your needs. This will help you choose a plan that aligns with your expected usage.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I change the licensed email to another?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-change-the-licensed-email-to-another"
+    },
+    {
+     "tag": "h3",
+     "text": "I accidentally bought the license on a different email account. Can I transfer my license to another email?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "i-accidentally-bought-the-license-on-a-different-email-account-can-i-transfer-my-license-to-another-email"
+    },
+    {
+     "tag": "p",
+     "text": "You can simply cancel the subscription and take another subscription on the new email if it is a monthly subscription.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "The license is transferrable only for the yearly subscription with a considerable amount of remaining validity period. Please raise a support request using Contact Us by providing details.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Will my service be disconnected immediately on subscription expiry?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "will-my-service-be-disconnected-immediately-on-subscription-expiry"
+    },
+    {
+     "tag": "h3",
+     "text": "What will happen to my service if I cancel the service or the renewal payment fails?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "what-will-happen-to-my-service-if-i-cancel-the-service-or-the-renewal-payment-fails"
+    },
+    {
+     "tag": "p",
+     "text": "There is an expiry date for your subscription, however, you are provided with a 2-day grace period to renew your subscription.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "If the renewal procedure fails for any reason such as bank failure or card declined within the grace period your service will be discontinued post grace period.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Upgrade and Downgrade",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "upgrade-and-downgrade"
+    },
+    {
+     "tag": "h3",
+     "text": "Can I upgrade my plan anytime?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-upgrade-my-plan-anytime"
+    },
+    {
+     "tag": "p",
+     "text": "Yes, you can upgrade a plan from a current plan to another.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "We offer the flexibility to upgrade your plan anytime to better align with your requirements. When you decide to upgrade your plan, a differential amount will be calculated based on a pro-rata basis. This means that the upgrade cost will be prorated according to the remaining duration of your current billing cycle.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Can I downgrade my plan anytime?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-downgrade-my-plan-anytime"
+    },
+    {
+     "tag": "p",
+     "text": "Yes, you can downgrade a plan from a current plan to another.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "We offer the flexibility to downgrade your plan from one paid plan to another. When you decide to downgrade your plan, the change will take effect after the current billing cycle. This means that you will continue to have access to the features and benefits of your existing plan until the end of the current billing period. Once the billing cycle is complete, your plan will be automatically switched to the downgraded plan you have chosen.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I upgrade my plan?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-upgrade-my-plan"
+    },
+    {
+     "tag": "p",
+     "text": "When you want to upgrade your plan, you can simply choose a new plan, mention the required email ID, and pay for it from the Product GUI or from the Product Website.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Upgrading to a new plan will automatically cancel your previous subscription.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Note: In case of multiple payments due to multiple subscriptions to the same licensed email, the latest renewal will be reflected in your licensed email account. If you happen to be in this situation, you can cancel unwanted subscriptions and keep only one subscription per licensed email account per product. There is no refund in any of these cases.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "If your account is not reflecting your current plan, please Contact Us.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How to upgrade via PayPal Smart?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-to-upgrade-via-paypal-smart"
+    },
+    {
+     "tag": "li",
+     "text": "Select the plan.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Enter the license email that needs to be upgraded",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click on the \"Buy now with PayPal\" button.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/e2d0f47150310fb9.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Step 1: Pay Prorated upgrade charges.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Proration charges occur whenever you start or change service in the middle of a billing period, such as on your first bill, when you make a change to your plan.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click on the PayPal button and pay the prorated charges.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Step 2: Confirm your plan upgrade.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click on the PayPal button and authorize the new plan.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "The new plan will be reflected.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Note: you need to complete the 2nd step to get the new plan reflected.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How to upgrade and downgrade via Stripe or Razorpay?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-to-upgrade-and-downgrade-via-stripe-or-razorpay"
+    },
+    {
+     "tag": "p",
+     "text": "Upgrades and Downgrades on Stripe or Razorpay are automatically managed by Stripe or Razorpay itself. As a user, you simply need to choose the right plan for you and click on \"Pay with Stripe\" or \"Pay with Razorpay\"",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Stripe or Razorpay will automatically identify whether it is an upgrade or downgrade, apply proration as necessary, and guide you through the process.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "When the upgrade and downgrade will be effective?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "when-the-upgrade-and-downgrade-will-be-effective"
+    },
+    {
+     "tag": "p",
+     "text": "On an upgrade, the new pan will be effective immediately.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "On a downgrade, the new plan will be effective from the next billing cycle.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Changing Billing Cycle",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "changing-billing-cycle"
+    },
+    {
+     "tag": "p",
+     "text": "There are two billing cycles - Monthly and Yearly (Annual)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Your billing cycle depends on the plan that you have purchased.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Only one billing cycle is applicable at any point in time",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I switch from a monthly billing cycle to a yearly billing cycle?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-switch-from-a-monthly-billing-cycle-to-a-yearly-billing-cycle"
+    },
+    {
+     "tag": "p",
+     "text": "To switch from a monthly billing cycle to a yearly billing cycle, you need to purchase a new plan with a yearly billing cycle from the Product GUI or from the Product Website. Then you need to cancel the old monthly subscription.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Cancelling the previous plan is important. Otherwise, you would be charged multiple times during the next billing cycle and your plans would keep switching from one to another as the renewals get executed. You can see all your subscriptions from your PayPal or Stripe account (Refer to the Cancellation procedure below).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I switch from a yearly billing cycle to a monthly billing cycle?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-switch-from-a-yearly-billing-cycle-to-a-monthly-billing-cycle"
+    },
+    {
+     "tag": "p",
+     "text": "It is not advisable to downgrade from a yearly plan to a monthly plan. Rather we would encourage you to downgrade plans that are on the same billing cycle. eg: Yearly Business plan to Yearly Premium or Yearly Premium to Yearly Pro (based on your usage).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Is there any discount available?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "is-there-any-discount-available"
+    },
+    {
+     "tag": "p",
+     "text": "Yes, when you purchase a yearly subscription with us, you are entitled to a special discount of 2 months free, which effectively provides you with a 16% discount compared to the monthly subscription rate. This means that by opting for the annual payment option, you receive two months of service at no additional cost, representing significant savings over the course of the year.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Additionally, we understand that there are cases where multiple users or domains within an organization may require our services. In such situations, we provide group discounts on group or domain plans.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Do you offer any special discounts for educational institutions or non-profits?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "do-you-offer-any-special-discounts-for-educational-institutions-or-non-profits"
+    },
+    {
+     "tag": "p",
+     "text": "Yes, we now offer categorized plans that include special discounts for educational institutions and non-profit organizations. We encourage you to visit the pricing page on our product website to explore the latest plans and see which option best suits your needs.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Cancellation",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "cancellation"
+    },
+    {
+     "tag": "h3",
+     "text": "Can I cancel my subscription anytime?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-cancel-my-subscription-anytime"
+    },
+    {
+     "tag": "p",
+     "text": "Yes, you can cancel your subscription at any time.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I stop auto-renewal?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-stop-auto-renewal"
+    },
+    {
+     "tag": "p",
+     "text": "To stop auto-renewal, simply cancel your subscription. Once cancelled, it will not renew at the end of the billing period.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I cancel my subscription?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-cancel-my-subscription"
+    },
+    {
+     "tag": "h3",
+     "text": "Option 1: Cancel From Jivrus Customer Portal",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "option-1-cancel-from-jivrus-customer-portal"
+    },
+    {
+     "tag": "p",
+     "text": "You can cancel your subscription at any time from Jivrus portal",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/dc92a57d665bce49.png",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "go to portal.jivrus.com",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Log in with your licensed email account.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "You will get listed all your Products",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Select the product and click on the view button that you need to cancel.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ee0761967e63b6b.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Choose 'Account' from the Menu items.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "You can see the subscription details along with the cancel subscription button.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Cancellation Journey",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/1032f4b8e0f546bf.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "li",
+     "text": "Provide the reason for cancellation",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Once you select any reason you can help us to understand your issue and solve it by going through the cancellation journey",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Or after choosing a reason you can cancel your subscription anytime by clicking the 'Do you want to Cancel anyway?' button",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click ReCaptcha to confirm",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click on \"Cancel Now\" to cancel the subscription",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "You will get the success message of cancellation and the notification mail",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Option 2: Cancel From Product",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "option-2-cancel-from-product"
+    },
+    {
+     "tag": "p",
+     "text": "You can cancel your subscription at any time right from your product.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Open the Product that you are using (e.g. Form Presenter)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Go to the Account section in Product. ☰ Menu > Account ==> You will see the account screen",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Go to the Account section in Product.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "☰ Menu > Account ==> You will see the account screen",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "You will see your account details like the plan, validity",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click on \"Manage your account\" button",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "It will take you to our portal.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Choose the licensed email on authentication",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/2ee0761967e63b6b.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Choose the licensed email on authentication",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "After login you can see \"Cancel Subscription\" button",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click on the \"Cancel Subscription\" button and follow the same Cancellation Journey mentioned in the above section.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Option 3: Cancel From Payment Gateway",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "option-3-cancel-from-payment-gateway"
+    },
+    {
+     "tag": "h3",
+     "text": "PayPal:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "paypal"
+    },
+    {
+     "tag": "p",
+     "text": "You can cancel your subscription at any time by logging into your PayPal account.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Please check \"My Pre-Approved Payments\" of the PayPal account for the subscriptions and cancel.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Or",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "You can open the transaction under the \"Activity\" menu, click on \"Manage Jivrus Technologies LLP payments\" and cancel",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "You can refer to the step-by-step guide from PayPal here",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Stripe:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "stripe"
+    },
+    {
+     "tag": "p",
+     "text": "You can cancel your subscription at any time by logging into your Stripe account.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "The user is in full control of maintaining subscriptions all the time. And it is the responsibility of users to cancel the subscription on time when they do not need it further.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "There is no refund for an already paid subscription, but there will be no further subscription fee charged when you cancel the subscription.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "NOTE: If you still need help in canceling or need information, you can Contact Us.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Will you provide a refund?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "will-you-provide-a-refund"
+    },
+    {
+     "tag": "p",
+     "text": "No. Once payment is made, we generally do not offer refunds as per the Terms and Conditions you agreed to at the time of purchase. All our products operate on a freemium model for users to try before purchasing, so they can make an informed decision.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Exception: In case of duplicate payments, we can process a refund for the duplicate payment only.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "It's important to note that canceling your subscription will ensure that no future automatic charges are made. When you choose to cancel your subscription, you will not be billed for any subsequent billing cycles.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Is there any cancellation fee?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "is-there-any-cancellation-fee"
+    },
+    {
+     "tag": "p",
+     "text": "No. There is no cancellation fee.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Can I still access the product after cancellation?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-still-access-the-product-after-cancellation"
+    },
+    {
+     "tag": "p",
+     "text": "Yes, you can access Jivrus products till your current subscription validity expires.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Can I subscribe again after 2 months of cancellation?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-subscribe-again-after-2-months-of-cancellation"
+    },
+    {
+     "tag": "p",
+     "text": "Yes, you can subscribe again anytime after cancellation. Your new subscription period starts from current date or existing validity end date (whichever is later)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Billing Information and Card Change",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "billing-information-and-card-change"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I change billing information to the subscription?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-change-billing-information-to-the-subscription"
+    },
+    {
+     "tag": "p",
+     "text": "Users can change the billing information anytime from the customer portal",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Login to the Customer Portal https://portal.jivrus.com with the licensed Email ID",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Choose the Product which you have purchased and click on the Billing Button.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "3. There you will see a billing address edit option. With that, you can update your billing address.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I change my card used for subscription payments?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-change-my-card-used-for-subscription-payments"
+    },
+    {
+     "tag": "h3",
+     "text": "Change/update card in PayPal",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "change-update-card-in-paypal"
+    },
+    {
+     "tag": "p",
+     "text": "From your PayPal app, here's how to update your card information:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Tap the Settings icon at the top right.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Select Banks and Cards.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Select the card that needs to be updated and tap Edit.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "From your computer, here's how:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click Wallet at the top of the page.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click the card you wish to update.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click Edit.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Fill in the updated information, and then click Save.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Change/update card in Stripe",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "change-update-card-in-stripe"
+    },
+    {
+     "tag": "p",
+     "text": "*** This is applicable only if you have subscribed via Stripe",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "From your Account:",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Open the Product that you are using (e.g. Form Director)",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Go to the Account section in Product. ☰ Menu > Account ==> You will see the account screen",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Go to the Account section in Product.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "☰ Menu > Account ==> You will see the account screen",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click on the \"Update Billing Info\" button.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "The Stripe Customer portal will open.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "You can add the new payment method by clicking \"Add payment method\"",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Set default method by clicking \"Make default\"",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "You can also edit your billing information",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click \"Return to Jivrus\" to return your Account page.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "Can I change the payment gateway?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-change-the-payment-gateway"
+    },
+    {
+     "tag": "p",
+     "text": "Yes, you can change the payment gateway at any time.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "To change the payment gateway, you can simply visit the pricing page on our website. From there, you will have access to the necessary information and options to select a different payment gateway that suits your requirements.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I change my payment method(e.g. change of credit card)?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-change-my-payment-method-e-g-change-of-credit-card"
+    },
+    {
+     "tag": "p",
+     "text": "We offer you the flexibility to change the payment method for your subscription conveniently through our Customer Portal. The Customer Portal provides a user-friendly interface where you can manage various aspects of your subscription, including payment-related settings.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I change the card information, when I have just paid only through the card, not with any payment gateway or vice versa?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-change-the-card-information-when-i-have-just-paid-only-through-the-card-not-with-any-payment-gateway-or-vice-versa"
+    },
+    {
+     "tag": "li",
+     "text": "You can simply cancel the existing subscription and pay through the card/payment gateway which you want to continue. we recommend you cancel the subscription when it is near the next billing cycle as we wanted you to use the benefits that you paid for. (canceling the plan is a must to avoid multiple charges ).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Invoices",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "invoices"
+    },
+    {
+     "tag": "h3",
+     "text": "How to I get an invoice for my purchase?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-to-i-get-an-invoice-for-my-purchase"
+    },
+    {
+     "tag": "p",
+     "text": "Users can now download their invoice whenever they require it, and here are the steps to be followed in order to download the invoice.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Click or browse https://portal.jivrus.com/ and sign in with your licensed email ID",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "You will be shown the list of Jivrus products you have used/subscribed to, choose the product.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "Inside the product, you will find the transactions button, click on that and all the transactions related to the licensed email to this product will be listed",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/d9eb11d8f1f2969a.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/85ba6b8f84802557.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "p",
+     "text": "Inside the product, you will find the transactions button, click on that and all the transactions related to the licensed email to this product will be listed",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "4. If you have purchased through Paypal/Paypal Smart, then follow step 5, if purchased through Stripe then follow step 6 (You can refer to the gateway column in the transaction table).",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "5. For Paypal/Paypal-Smart - Click on the view invoice and that will open in a new tab, you will see the invoice details now, to download press Ctrl + P, save as PDF, and choose the location to save the invoice.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "6. For Stripe - Click on the view invoice and this will open another tab where you can download the invoice with one click.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "If paid in USD - Click on the invoice image to download",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "li",
+     "text": "If Paid in INR - You will have buttons to download the invoice and receipt",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/beac7a2fc73625a5.jpg",
+     "alt": ""
+    },
+    {
+     "tag": "h2",
+     "text": "Miscellaneous",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "miscellaneous"
+    },
+    {
+     "tag": "h3",
+     "text": "Can I pay through any other way other than PayPal, Stripe or Razorpay?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "can-i-pay-through-any-other-way-other-than-paypal-stripe-or-razorpay"
+    },
+    {
+     "tag": "p",
+     "text": "No, In general. Paypal, Stripe and Razorpay are our default payment gateways. purchase orders are applicable when you're trying to opt for yearly individual or Domain/Group licenses.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "h2",
+     "text": "Support & Compliances",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "24px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "support-compliances"
+    },
+    {
+     "tag": "h3",
+     "text": "How do I get support?",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "17.3333px",
+     "color": "rgb(208, 23, 82)",
+     "anchor": "how-do-i-get-support"
+    },
+    {
+     "tag": "p",
+     "text": "We provide multiple channels through which you can receive support for any inquiries or assistance you may need. The available support channels are Email, WhatsApp, Facebook chat, etc.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Check our support page for more details.",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(33, 33, 33)"
+    },
+    {
+     "tag": "p",
+     "text": "Check Terms and Conditions",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "16px",
+     "color": "rgb(255, 255, 255)"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tVxvg6RIJanMhyklA36CsgGYRr9g8vsHtoGSKNTLb24ePM62TPa03XC7iIOdNfY1Nwwa8Tl38tPz0krBAtE5XYTO4SGAviHSy1j522EYHCRGgC2nkRy-uQ9bM1q2JN5A8xFVHyG1428I07YOfl8gWkEMBclQicN5f7sexraNOiR1guFdWgiq5Q=w16383",
+   "alt": "",
+   "size": "20px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "h2",
+   "text": "Pricing - Frequently Asked Questions",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "34.6667px",
+   "color": "rgb(250, 232, 238)",
+   "anchor": "pricing-frequently-asked-questions"
+  },
+  {
+   "tag": "p",
+   "text": "This FAQ (Frequently Asked Questions) is prepared with the intension of providing answers to all possible questions related to pricing/ subscription that users might face when using Jivrus Products adhering to the agreed Terms & Conditions and Privacy Policy.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Subscription",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "subscription"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I use this product for free?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-use-this-product-for-free"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, we offer both free and paid plans to cater to your specific needs. We understand that users may want to explore our services before committing to a paid plan. That's why we provide basic plans with limited quota that are available for free, allowing you to experience our offerings and determine if they meet your requirements. To ensure your satisfaction, we provide the option of a free trial will full features also. Check our pricing plans from the pricing page of our product websites.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "What is a subscription?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "what-is-a-subscription"
+  },
+  {
+   "tag": "p",
+   "text": "Subscription refers to a promise of service from a Jivrus product made available to a customer with the defined features and usage quota for a defined frequency (monthly or yearly) for an amount of money as per the plan.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I get a subscription?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-get-a-subscription"
+  },
+  {
+   "tag": "p",
+   "text": "You can get a subscription by selecting a pricing plan for a Jivrus product and paying for it. The available plans are listed on the pricing page of the product’s website.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I purchase a license?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-purchase-a-license"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies provides multiple convenient options for purchasing our products or add-ons. Here are the different avenues through which you can make a purchase:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Pricing Page: You can visit the pricing page on our product website, where you will find comprehensive information about the available plans and their corresponding features. From there, you can select the desired plan and proceed with the purchase.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Pricing Page: You can visit the pricing page on our product website, where you will find comprehensive information about the available plans and their corresponding features. From there, you can select the desired plan and proceed with the purchase.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Product/Add-on: If you are already using one of our products or add-ons, you can initiate the purchase directly from within the product itself. You can check our products from Google Workspace Marketplace.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Product/Add-on: If you are already using one of our products or add-ons, you can initiate the purchase directly from within the product itself. You can check our products from Google Workspace Marketplace.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Customer Portal: The customer portal serves as a centralized platform where you can manage your subscriptions, view your purchase history, and make new purchases. The customer portal provides a convenient and personalized experience for managing your products and making additional purchases.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Customer Portal: The customer portal serves as a centralized platform where you can manage your subscriptions, view your purchase history, and make new purchases. The customer portal provides a convenient and personalized experience for managing your products and making additional purchases.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Is there any setup fee or hidden charges?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "is-there-any-setup-fee-or-hidden-charges"
+  },
+  {
+   "tag": "p",
+   "text": "No. There is no setup fee or hidden charges from our side. We want to be transparent and upfront about our pricing structure. At Jivrus Technologies, we do not impose any setup fees or hidden charges. When you engage with our products or services, you can rest assured that there will be no additional costs beyond the stated pricing.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "However, in some countries/regions, there could be a local charge from your bank or payment gateway as per the law of the land and that is beyond our control.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Is my payment safe with you?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "is-my-payment-safe-with-you"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, you payment is always safe & secure with us. At Jivrus Technologies, we prioritize the safety and security of your payment transactions. We use Stripe, Razorpay & PayPal as our payment gateway. Check payment gateway security for more details.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "What are my payment options?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "what-are-my-payment-options"
+  },
+  {
+   "tag": "p",
+   "text": "At Jivrus Technologies, we offer you multiple options for making payments conveniently and securely. We support popular payment gateways such as PayPal, Stripe, and Razorpay, ensuring a seamless transaction experience. These trusted payment gateways adhere to stringent security standards to protect your financial information.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "We at Jivrus, do not directly accept or store card details used for payments.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I pay via UPI?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-pay-via-upi"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, UPI payments are available exclusively for Indian customers. To proceed with a UPI payment, select 'One-Time Payment' as the payment type and choose Razorpay as the payment method, where UPI options are enabled.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Supported UPI platforms include GPay, Amazon Pay, Paytm, PhonePe, and Net Banking.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ud_sXMYm07_YF152uwV9l21-xg9k6UtycnJUV6vhpKZbdXVY5HZ_vH-gKtIqhGhVZImqryiT9vr7gIaPndJOS_BZcNWR2Mr8ZWniGbea-rrlh7shXH0ZXJlI0qdJZCDz19qa0siscHTkDUwK66L43LKcD3t2LwgAGB2kWB63VEEc2C6WixXmxsp1A2Ie0qg0mVc4Z3eY-7a7RNhzn0q65-KpPYmAFwEw=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I get a quote & pay via purchase order?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-get-a-quote-pay-via-purchase-order"
+  },
+  {
+   "tag": "p",
+   "text": "We prioritize online payments as our preferred method for convenience and efficiency. When purchasing our products or services, we highly encourage using online payment options, such as credit cards or electronic payment gateways, which provide a secure and streamlined process.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "However, If you are interested in yearly or group plans and you are based in the United States, we offer the option to request a quote and make the payment via a purchase order.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I use any PayPal, Stripe or Razorpay account to pay for a subscription?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-use-any-paypal-stripe-or-razorpay-account-to-pay-for-a-subscription"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, you can use Paypal, Stripe or Razor pay account to pay for the subscription",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "What is \"License to Email\" input while making payments?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "what-is-license-to-email-input-while-making-payments"
+  },
+  {
+   "tag": "p",
+   "text": "You can pay from any PayPal or Stripe account to any of your Gmail or Google Workspace accounts (email) for a subscription. Please ensure that \"License to Email\" is correctly mentioned with the email from which you are going to use Jivrus Products.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "On subscription/ purchase, Jivrus products will be licensed to the given \"License to Email\". So it is very important to give the correct \"License to Email\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Which are the STRIPE supported Tax types?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "which-are-the-stripe-supported-tax-types"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I provide the correct Tax type when purchasing via Stripe?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-provide-the-correct-tax-type-when-purchasing-via-stripe"
+  },
+  {
+   "tag": "p",
+   "text": "While purchasing subscriptions, you can provide your organization's Tax Type and Tax ID (if applicable). If you are paying via Stripe, please enter the correct Tax type(Enum) as listed on the STRIPE website.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Stripe supported Taxes",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh3.googleusercontent.com/docsubipk/AP9E6xVnraIWHygBxuOxKCC1oC153ggDMDXidXVm3hPMoQ2UH9bHYUSEK6lpO7v3AAgJfS2b79MKULB4CrTIRRzTysiqUMVmwwjIIZwQopIrFE_np2NiWykA1HSXK22gpbZ7mHAaoQN1XZ4ZijJskh3l0ATfd-03sKCkkbw2tNQ",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "How to check whether my payment is successful?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-to-check-whether-my-payment-is-successful"
+  },
+  {
+   "tag": "p",
+   "text": "After payment is made, you can re-open the product/ add-on/ extension and check the \"Account\" menu item. This will show whether you are upgraded to the purchased plan (Pro, Premium, Business, Enterprise etc) and show the validity period of the license.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Your payment (except for group/domain license) is expected to be reflected within a few minutes in our system and your account is expected to be updated with the taken plan and validity period. In case you face any issues, please Contact Support with details of your Account.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I get a license after payment?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-get-a-license-after-payment"
+  },
+  {
+   "tag": "p",
+   "text": "Once your payment is successfully processed, our system will automatically provision the license associated with the provided email address. This means that you will receive access to the product or add-on using the same email address you provided during the payment process. Using the email address associated with your license, you can proceed to use the product or add-on seamlessly.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Will my license be renewed automatically?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "will-my-license-be-renewed-automatically"
+  },
+  {
+   "tag": "p",
+   "text": "If you have purchased a subscription for our product or service, it will automatically renew until you decide to cancel it. This means that the subscription will continue without interruption according to the specified billing cycle (e.g., monthly, annually) unless you take action to stop the renewal.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Is there a one-time payment available instead of a subscription?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "is-there-a-one-time-payment-available-instead-of-a-subscription"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, when making a purchase, you have the option to choose a one-time payment for either a monthly or yearly subscription. This means that instead of opting for automatic recurring payments, you can make a single payment upfront for the selected duration of your subscription.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vpVqkSJ5g6_gMmaM_nnxdQtjqVTnToDVhaqj8hWT6xHuimrdE5JB5WSVrKwmit-Qu04aaimoE8BbCBiMxaCsonwtleRG4n73IFu196N4XkxAntP8bBa2rQMGMLJPUWtq3_du4vCvh-cAe2ZKlVHR06Ysvxu7s7DpZjr8jx4N8Kj95ivHWqHwn3VdcSXlgnTwxAkbGG7ppgsZwD9GhDEV--MBEDbiNz8g=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "How frequently will a subscription renewal happen?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-frequently-will-a-subscription-renewal-happen"
+  },
+  {
+   "tag": "p",
+   "text": "Subscription renewal happens based on the plan you have selected (monthly or yearly).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Group Subscriptions",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "group-subscriptions"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I get a subscription for my team or a group?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-get-a-subscription-for-my-team-or-a-group"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, you can get a subscription for your team/ group. You can subscribe to the domain/ group plan of our products.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I add/ change/ remove a member from my group subscription?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-add-change-remove-a-member-from-my-group-subscription"
+  },
+  {
+   "tag": "p",
+   "text": "To add/ remove/ change a member from your group subscription you can follow any of the mentioned steps",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "You can log in with your admin email at the Customer Portal Choose the product that you have purchased Click on the Group button provided in the sidebar to see all the users who are under the group Now you can click on the trash can icon to delete a specific user or click on the \"Add User\" button to add a new user to the group.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You can log in with your admin email at the Customer Portal",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Choose the product that you have purchased",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Choose the product that you have purchased",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on the Group button provided in the sidebar to see all the users who are under the group",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on the Group button provided in the sidebar to see all the users who are under the group",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Now you can click on the trash can icon to delete a specific user or click on the \"Add User\" button to add a new user to the group.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Now you can click on the trash can icon to delete a specific user or click on the \"Add User\" button to add a new user to the group.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "You can write to our support team along with the admin email & the emails that need to be added/ changed/ removed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You can write to our support team along with the admin email & the emails that need to be added/ changed/ removed.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tlSbrFcdifx8pJWEim3egGfDjljFCD1PSmtXKEyL3oQ2UTIIJpRj5ewQOYDuoXu6ZQdrWYXk84n6TDA2OQLEheJqxztzG8EJ0bEoawde8dZ371UgjhyWR834RzU7agpJKMMZat9FjEn-z41OkNBeDxpVJuE-h4TfzRsCEjnKzW4sRVW_3vNBm8YQJhwCRJ8qmPdy5ad0QhDbIB_4kNR7paL_4J52gVlpkM=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I use the same license from different devices?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-use-the-same-license-from-different-devices"
+  },
+  {
+   "tag": "p",
+   "text": "Yes. Your license is attached to the email that you provide in the \"License to Email\" field. You can use the license from any device as long as it is logged into the licensed email id.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I choose the right plan for me?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-choose-the-right-plan-for-me"
+  },
+  {
+   "tag": "p",
+   "text": "At Jivrus Technologies, we understand that selecting the perfect plan is essential to meet your unique needs. To make an informed decision, consider the following factors:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Features Needed: Start by looking at the specific features and functionalities that are crucial for your needs. Make sure the chosen plan includes all the features and capabilities you require.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Features Needed: Start by looking at the specific features and functionalities that are crucial for your needs. Make sure the chosen plan includes all the features and capabilities you require.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Number of Users: Evaluate the number of users who will be utilizing our software products. Our plans are designed to accommodate varying team sizes, from individual users to entire organizations.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Number of Users: Evaluate the number of users who will be utilizing our software products. Our plans are designed to accommodate varying team sizes, from individual users to entire organizations.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Estimated Monthly Usage: Estimate your monthly usage patterns, such as transactions, operations or any other resources relevant to your needs. This will help you choose a plan that aligns with your expected usage.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Estimated Monthly Usage: Estimate your monthly usage patterns, such as transactions, operations or any other resources relevant to your needs. This will help you choose a plan that aligns with your expected usage.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I change the licensed email to another?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-change-the-licensed-email-to-another"
+  },
+  {
+   "tag": "h3",
+   "text": "I accidentally bought the license on a different email account. Can I transfer my license to another email?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "i-accidentally-bought-the-license-on-a-different-email-account-can-i-transfer-my-license-to-another-email"
+  },
+  {
+   "tag": "p",
+   "text": "You can simply cancel the subscription and take another subscription on the new email if it is a monthly subscription.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The license is transferrable only for the yearly subscription with a considerable amount of remaining validity period. Please raise a support request using Contact Us by providing details.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Will my service be disconnected immediately on subscription expiry?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "will-my-service-be-disconnected-immediately-on-subscription-expiry"
+  },
+  {
+   "tag": "h3",
+   "text": "What will happen to my service if I cancel the service or the renewal payment fails?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "what-will-happen-to-my-service-if-i-cancel-the-service-or-the-renewal-payment-fails"
+  },
+  {
+   "tag": "p",
+   "text": "There is an expiry date for your subscription, however, you are provided with a 2-day grace period to renew your subscription.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "If the renewal procedure fails for any reason such as bank failure or card declined within the grace period your service will be discontinued post grace period.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Upgrade and Downgrade",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "upgrade-and-downgrade"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I upgrade my plan anytime?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-upgrade-my-plan-anytime"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, you can upgrade a plan from a current plan to another.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "We offer the flexibility to upgrade your plan anytime to better align with your requirements. When you decide to upgrade your plan, a differential amount will be calculated based on a pro-rata basis. This means that the upgrade cost will be prorated according to the remaining duration of your current billing cycle.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I downgrade my plan anytime?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-downgrade-my-plan-anytime"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, you can downgrade a plan from a current plan to another.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "We offer the flexibility to downgrade your plan from one paid plan to another. When you decide to downgrade your plan, the change will take effect after the current billing cycle. This means that you will continue to have access to the features and benefits of your existing plan until the end of the current billing period. Once the billing cycle is complete, your plan will be automatically switched to the downgraded plan you have chosen.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I upgrade my plan?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-upgrade-my-plan"
+  },
+  {
+   "tag": "p",
+   "text": "When you want to upgrade your plan, you can simply choose a new plan, mention the required email ID, and pay for it from the Product GUI or from the Product Website.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Upgrading to a new plan will automatically cancel your previous subscription.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Note: In case of multiple payments due to multiple subscriptions to the same licensed email, the latest renewal will be reflected in your licensed email account. If you happen to be in this situation, you can cancel unwanted subscriptions and keep only one subscription per licensed email account per product. There is no refund in any of these cases.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "If your account is not reflecting your current plan, please Contact Us.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How to upgrade via PayPal Smart?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-to-upgrade-via-paypal-smart"
+  },
+  {
+   "tag": "li",
+   "text": "Select the plan.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Select the plan.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Enter the license email that needs to be upgraded",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Enter the license email that needs to be upgraded",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on the \"Buy now with PayPal\" button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on the \"Buy now with PayPal\" button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72thrALlT2JAIZ-vs60wi3owDT-MzguAXWYaicZsytwP07ZSYpK632GfuhJlda5k0KcVUFCyVV5GDu6RzuGediP5JOQH9BEwnE8FyIP8qHgB_8GiCtKWMrFu4ekvMKXWm_rHbn6Z5IC2y-soPHwE4WjghlO9t0Sh2kAnMpn4tqaXrLkQqSpWiFOKZSeZZP-Jw0VAMn2CSTy_-NlBxH-6su2O3ZTv3NdqnF6i=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Step 1: Pay Prorated upgrade charges.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Proration charges occur whenever you start or change service in the middle of a billing period, such as on your first bill, when you make a change to your plan.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on the PayPal button and pay the prorated charges.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on the PayPal button and pay the prorated charges.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uSSOw9xUzBzLYbLc6KIw7lU0_CYlWWu4cf4Gues-zC7aMiJ1sX71zDMMbO7mm8Lg7I8UZ1K8mvS3zDIg_-WtiP55LsFC853UXTemuuVfsfoumfGozZtaUxPmQw4i42Eg9epeYIMw_3OHC41yb5JlKlcBdZAwhsxRlFQvhAph-jiAVqZghRARDX-ZfezmeJJ6n3a_s-cZKRaPlyCzXxXBHCsMBOxlP2JvNU=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Step 2: Confirm your plan upgrade.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on the PayPal button and authorize the new plan.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on the PayPal button and authorize the new plan.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "The new plan will be reflected.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The new plan will be reflected.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Note: you need to complete the 2nd step to get the new plan reflected.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vYLMqVw6XaX0OSNvi9Fj-FlZwerQchCpMHeZbL0vV6beXsdANubnYff_hKuZB-7NZLt34rRDo0DTgVLJu-LEyoEGNbLU3XyGHIjKm9CSx9d420Ur92ibhRgtF2lkm05zCNPl-bE-VuiiGrzqgT86sFbQ3xvgQrR7ZXvZWu9hK9mxzFJB3ca5jecFzq-Wwrl55neDrAsZlLFzA2T_GVLYW7Mh6PT9yvHzPp=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "How to upgrade and downgrade via Stripe or Razorpay?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-to-upgrade-and-downgrade-via-stripe-or-razorpay"
+  },
+  {
+   "tag": "p",
+   "text": "Upgrades and Downgrades on Stripe or Razorpay are automatically managed by Stripe or Razorpay itself. As a user, you simply need to choose the right plan for you and click on \"Pay with Stripe\" or \"Pay with Razorpay\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Stripe or Razorpay will automatically identify whether it is an upgrade or downgrade, apply proration as necessary, and guide you through the process.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "When the upgrade and downgrade will be effective?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "when-the-upgrade-and-downgrade-will-be-effective"
+  },
+  {
+   "tag": "p",
+   "text": "On an upgrade, the new pan will be effective immediately.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "On a downgrade, the new plan will be effective from the next billing cycle.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Changing Billing Cycle",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "changing-billing-cycle"
+  },
+  {
+   "tag": "p",
+   "text": "There are two billing cycles - Monthly and Yearly (Annual)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Your billing cycle depends on the plan that you have purchased.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Only one billing cycle is applicable at any point in time",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I switch from a monthly billing cycle to a yearly billing cycle?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-switch-from-a-monthly-billing-cycle-to-a-yearly-billing-cycle"
+  },
+  {
+   "tag": "p",
+   "text": "To switch from a monthly billing cycle to a yearly billing cycle, you need to purchase a new plan with a yearly billing cycle from the Product GUI or from the Product Website. Then you need to cancel the old monthly subscription.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Cancelling the previous plan is important. Otherwise, you would be charged multiple times during the next billing cycle and your plans would keep switching from one to another as the renewals get executed. You can see all your subscriptions from your PayPal or Stripe account (Refer to the Cancellation procedure below).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I switch from a yearly billing cycle to a monthly billing cycle?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-switch-from-a-yearly-billing-cycle-to-a-monthly-billing-cycle"
+  },
+  {
+   "tag": "p",
+   "text": "It is not advisable to downgrade from a yearly plan to a monthly plan. Rather we would encourage you to downgrade plans that are on the same billing cycle. eg: Yearly Business plan to Yearly Premium or Yearly Premium to Yearly Pro (based on your usage).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Is there any discount available?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "is-there-any-discount-available"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, when you purchase a yearly subscription with us, you are entitled to a special discount of 2 months free, which effectively provides you with a 16% discount compared to the monthly subscription rate. This means that by opting for the annual payment option, you receive two months of service at no additional cost, representing significant savings over the course of the year.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Additionally, we understand that there are cases where multiple users or domains within an organization may require our services. In such situations, we provide group discounts on group or domain plans.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Do you offer any special discounts for educational institutions or non-profits?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "do-you-offer-any-special-discounts-for-educational-institutions-or-non-profits"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, we now offer categorized plans that include special discounts for educational institutions and non-profit organizations. We encourage you to visit the pricing page on our product website to explore the latest plans and see which option best suits your needs.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Cancellation",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "cancellation"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I cancel my subscription anytime?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-cancel-my-subscription-anytime"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, you can cancel your subscription at any time.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I stop auto-renewal?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-stop-auto-renewal"
+  },
+  {
+   "tag": "p",
+   "text": "To stop auto-renewal, simply cancel your subscription. Once cancelled, it will not renew at the end of the billing period.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I cancel my subscription?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-cancel-my-subscription"
+  },
+  {
+   "tag": "h3",
+   "text": "Option 1: Cancel From Jivrus Customer Portal",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "option-1-cancel-from-jivrus-customer-portal"
+  },
+  {
+   "tag": "p",
+   "text": "You can cancel your subscription at any time from Jivrus portal",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "go to portal.jivrus.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "go to portal.jivrus.com",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Log in with your licensed email account.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Log in with your licensed email account.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "You will get listed all your Products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You will get listed all your Products",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Select the product and click on the view button that you need to cancel.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Select the product and click on the view button that you need to cancel.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tbNgHugTxYWMbbaijpwXMhxXofpTecruOaqHGRYWr5Q4Mqi52H9f8VF_htXwzSaYUPvWzdNMRnc63e9K8jWFVfO-A7JevMqsr9LzO6Sdpm_IHGEFYUIyJVZXODP3rW3RdcqdDDqAmEwkmjswI92ri-TddApnFEq9l9uYMo8BjbMJwxwX_8u5Hgvy_oMPdyOw1YX_W3b4u-FkL2uGy-1kTZmSqr7oYw4kJq=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Choose 'Account' from the Menu items.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Choose 'Account' from the Menu items.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "You can see the subscription details along with the cancel subscription button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You can see the subscription details along with the cancel subscription button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sQWH-YrTx-wVLM17N5XZ8WPAF07c0HE36ct-B48UcPIAikHFEVe17r49FxJt7870vyemUl2yUK9wU-D00iQwG40RiFsjVITNnAYJqNgSAdFeQ4arl-5FTy-sT0KmzuGTLVg3Ztjv-MqS2AZa3a9sXzueaJF7FZy6cb2duYcGYfAcHTzCadZOxjtgp8-EhKQa8m-bniD41OhdkPOkcGjniWdta8wTpuWQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "Cancellation Journey",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Provide the reason for cancellation",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Provide the reason for cancellation",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tWiIthcVW5o-aRJ21flSf8qv5fBjtAJHOcWVUDivXTjCfTC6jlbS94h03CiBztXFK8EkmCQPknEKIqqbCdBiwrW5GZ4bCMdcCRlbUGsmcpiRdZNH46byUfDECvn5Qoy8pwzmy_mIEX-_qbqSKSP8w1zMhSKSEcNJ3fu0A0G7RB-pWls8t1aDclsL1tPpj-SmkrveIuWDHtyQ3p73qwFELpGskhlJi_nKK2=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Once you select any reason you can help us to understand your issue and solve it by going through the cancellation journey",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Once you select any reason you can help us to understand your issue and solve it by going through the cancellation journey",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Or after choosing a reason you can cancel your subscription anytime by clicking the 'Do you want to Cancel anyway?' button",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Or after choosing a reason you can cancel your subscription anytime by clicking the 'Do you want to Cancel anyway?' button",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uh9pBjIQMYFA7rfGdTD5yAPY7Uaa04AjXzgKFzbcx6LuNmsMIFI94NWS_oVhzYtjGSmdPIC58xAF9YA64tABCS3MrLitQxzpqBsSVky8cOZ_WiTTmfBBsV6vETt9g3M8JVHDRCEu3vUnraNVpdlEd3L9qUvsi7IcqRcuN1jVxlXHPJIZZt5RkfKd0PMqZMpJZHPbMF7XQQ9GxNUHgnperNK-yrvo0KSQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "Click ReCaptcha to confirm",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click ReCaptcha to confirm",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on \"Cancel Now\" to cancel the subscription",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on \"Cancel Now\" to cancel the subscription",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You will get the success message of cancellation and the notification mail",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72voGrqGXPryN1HkG8MmhfY-030O43IzDaijPrlB31J0JloZZopCbMy03Q-4dvqWoA2jtON5sVvfGpDjXvWO7fc9S_YiCxNJMcXNPV3HuxvtDwGGOpmdIKXr0SX8-ca6BhG-YGNDYB2Hy8oqT7D4B4a9jv-1sQgoIvyBev2cBZV6HXOx4Dxyf1oGaCOq8LwzBq61yHDvBLOdFz_3RoBoep8WPZwgxehe4d3h=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Option 2: Cancel From Product",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "option-2-cancel-from-product"
+  },
+  {
+   "tag": "p",
+   "text": "You can cancel your subscription at any time right from your product.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Open the Product that you are using (e.g. Form Presenter)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Open the Product that you are using (e.g. Form Presenter)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Go to the Account section in Product. ☰ Menu > Account ==> You will see the account screen",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Go to the Account section in Product.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "☰ Menu > Account ==> You will see the account screen",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "☰ Menu > Account ==> You will see the account screen",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "You will see your account details like the plan, validity",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You will see your account details like the plan, validity",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on \"Manage your account\" button",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on \"Manage your account\" button",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72su4R2GaWUAWZ5xs2cVPhi0hM2jHtwFECQP1qFFBF5299v7k-V56J59qy4NqZzjJRWV_5w685_pR3lndkuzKwgXLRagqFPMEyGhEW8Wgri3F_PNRnBKZbJCtG_wCxOgy2YeFPHPsqN2jXtcaAa5aq5iTySHKsVjYj0rGcctIBusn15DbO5zrnKOg8FY8a7VU8Y6Yyk06nSYpprsvnqTDW-KYzCYhZp56GE-=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "It will take you to our portal.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "It will take you to our portal.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Choose the licensed email on authentication",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Choose the licensed email on authentication",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t7rGgyRi_BzHy10gvNpp_TeNMBpTMrOgRMRXD0216vLTClSXG7aFPTTJXJXQ5sF0bymSocvAUW0G7Jpl33uc75HOpANJJKyDBO7TxDBCYvSPkA_JXeEBB8LY2hW55iwZZ6EWcwSKniGv8YQy3eXDd_RPW1oSLdLxD0kSrQ55KvxF-s9oStlDjLrqKtm41f9EdyM5_t6kTb-xXY09rOpgaT-kho4cye2A=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "After login you can see \"Cancel Subscription\" button",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "After login you can see \"Cancel Subscription\" button",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on the \"Cancel Subscription\" button and follow the same Cancellation Journey mentioned in the above section.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on the \"Cancel Subscription\" button and follow the same Cancellation Journey mentioned in the above section.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sQWH-YrTx-wVLM17N5XZ8WPAF07c0HE36ct-B48UcPIAikHFEVe17r49FxJt7870vyemUl2yUK9wU-D00iQwG40RiFsjVITNnAYJqNgSAdFeQ4arl-5FTy-sT0KmzuGTLVg3Ztjv-MqS2AZa3a9sXzueaJF7FZy6cb2duYcGYfAcHTzCadZOxjtgp8-EhKQa8m-bniD41OhdkPOkcGjniWdta8wTpuWQ=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Option 3: Cancel From Payment Gateway",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "option-3-cancel-from-payment-gateway"
+  },
+  {
+   "tag": "h3",
+   "text": "PayPal:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "paypal"
+  },
+  {
+   "tag": "p",
+   "text": "You can cancel your subscription at any time by logging into your PayPal account.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Please check \"My Pre-Approved Payments\" of the PayPal account for the subscriptions and cancel.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Please check \"My Pre-Approved Payments\" of the PayPal account for the subscriptions and cancel.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Or",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "You can open the transaction under the \"Activity\" menu, click on \"Manage Jivrus Technologies LLP payments\" and cancel",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You can open the transaction under the \"Activity\" menu, click on \"Manage Jivrus Technologies LLP payments\" and cancel",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You can refer to the step-by-step guide from PayPal here",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Stripe:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "stripe"
+  },
+  {
+   "tag": "p",
+   "text": "You can cancel your subscription at any time by logging into your Stripe account.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The user is in full control of maintaining subscriptions all the time. And it is the responsibility of users to cancel the subscription on time when they do not need it further.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "There is no refund for an already paid subscription, but there will be no further subscription fee charged when you cancel the subscription.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "NOTE: If you still need help in canceling or need information, you can Contact Us.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Will you provide a refund?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "will-you-provide-a-refund"
+  },
+  {
+   "tag": "p",
+   "text": "No. Once payment is made, we generally do not offer refunds as per the Terms and Conditions you agreed to at the time of purchase. All our products operate on a freemium model for users to try before purchasing, so they can make an informed decision.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Exception: In case of duplicate payments, we can process a refund for the duplicate payment only.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "It's important to note that canceling your subscription will ensure that no future automatic charges are made. When you choose to cancel your subscription, you will not be billed for any subsequent billing cycles.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Is there any cancellation fee?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "is-there-any-cancellation-fee"
+  },
+  {
+   "tag": "p",
+   "text": "No. There is no cancellation fee.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I still access the product after cancellation?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-still-access-the-product-after-cancellation"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, you can access Jivrus products till your current subscription validity expires.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I subscribe again after 2 months of cancellation?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-subscribe-again-after-2-months-of-cancellation"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, you can subscribe again anytime after cancellation. Your new subscription period starts from current date or existing validity end date (whichever is later)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Billing Information and Card Change",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "billing-information-and-card-change"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I change billing information to the subscription?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-change-billing-information-to-the-subscription"
+  },
+  {
+   "tag": "p",
+   "text": "Users can change the billing information anytime from the customer portal",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Login to the Customer Portal https://portal.jivrus.com with the licensed Email ID",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Login to the Customer Portal https://portal.jivrus.com with the licensed Email ID",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Choose the Product which you have purchased and click on the Billing Button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Choose the Product which you have purchased and click on the Billing Button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sdvNhi-rlVJEBreRiI0vrDBTLLbz8ZaUiKyUDm4Pk7xC6mS_8bNz4xYzHnkBNfhpVmQkm5uzLQfMccF0iKwhV8bQNdy8xUS0uva95aHAloW7F7KGHHsBEhHqqFXEvvrDLJlAgCLucM6v9VU_RNBFH5v0hOiHMWoT8HQ1ODmwiv93dELMIyxahh-tOexoXTg7bOJLcbGSHM7tcVpGlGsebPq_8aRmXpEO65=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "3. There you will see a billing address edit option. With that, you can update your billing address.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vzX3hyiYDcWW0UlF9mvCk_qfbcbjL6gdRsJv2Z9Zhn7gzbDdT8rKh-FOYDa6cf9KDsk-dlSZTrgkf04NaExmITa3xkxp-IlsO4yMix8iZJsC8f5M5iYufJJbiAvHFOEss4ThgOXMjl49omR5IKsgRWPEA1NpjeVbzdm5JzjmdDB2aaXo0qSKJ4OFjR2KABDe9qSYEbxBVm_uXa1W5zmskLUPSsJ2y7enwa=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I change my card used for subscription payments?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-change-my-card-used-for-subscription-payments"
+  },
+  {
+   "tag": "h3",
+   "text": "Change/update card in PayPal",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "change-update-card-in-paypal"
+  },
+  {
+   "tag": "p",
+   "text": "From your PayPal app, here's how to update your card information:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Tap the Settings icon at the top right.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Tap the Settings icon at the top right.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Select Banks and Cards.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Select Banks and Cards.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Select the card that needs to be updated and tap Edit.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Select the card that needs to be updated and tap Edit.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "From your computer, here's how:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click Wallet at the top of the page.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click Wallet at the top of the page.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click the card you wish to update.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click the card you wish to update.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click Edit.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click Edit.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Fill in the updated information, and then click Save.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Fill in the updated information, and then click Save.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "Change/update card in Stripe",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "change-update-card-in-stripe"
+  },
+  {
+   "tag": "p",
+   "text": "*** This is applicable only if you have subscribed via Stripe",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "From your Account:",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Open the Product that you are using (e.g. Form Director)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Open the Product that you are using (e.g. Form Director)",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Go to the Account section in Product. ☰ Menu > Account ==> You will see the account screen",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Go to the Account section in Product.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "☰ Menu > Account ==> You will see the account screen",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "☰ Menu > Account ==> You will see the account screen",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click on the \"Update Billing Info\" button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click on the \"Update Billing Info\" button.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "The Stripe Customer portal will open.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "The Stripe Customer portal will open.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72siw_TTf8YF-j0P_v_qcgvhroTyO0isgymBJJ6s7ZUoG2rjBAqOsvopbMB-zFaalbWIpGaoWEcn60xAIK0rYpka6MM1BUvOOftlauGkSm18fjU930uKpr-c69btYZZ0wZsGvYMq-n0XM8dQoli9T5a0ZCkoZGAkBZpw_JNDIABQUumc8zf3DM6W1k_NaWAb3hTx4o7B_65zyPPNmS40oxuLliel-SyWFA=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "li",
+   "text": "You can add the new payment method by clicking \"Add payment method\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You can add the new payment method by clicking \"Add payment method\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Set default method by clicking \"Make default\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Set default method by clicking \"Make default\"",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "You can also edit your billing information",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You can also edit your billing information",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click \"Return to Jivrus\" to return your Account page.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click \"Return to Jivrus\" to return your Account page.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sHL7WqyWLW5YBguMV0oKXOKEG_vnJxvEQAfKlWDQKR_A96bijRb-vrC4xck4W8MSa01cyxkbNG1D3xc6yAiupacNuU_3KJNJjHMrb2zHx91_RgqFcv096B9qgKjFGQLEmWm8LLa34CwhTsxcZe0TKBq5OcMDG6bDkQGRtAtbZCheMJNaSErhArl8k9OtdHNoS2E2q9pSRJXSqGmAhDljAM1OnARxvGimcF=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I change the payment gateway?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-change-the-payment-gateway"
+  },
+  {
+   "tag": "p",
+   "text": "Yes, you can change the payment gateway at any time.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "To change the payment gateway, you can simply visit the pricing page on our website. From there, you will have access to the necessary information and options to select a different payment gateway that suits your requirements.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I change my payment method(e.g. change of credit card)?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-change-my-payment-method-e-g-change-of-credit-card"
+  },
+  {
+   "tag": "p",
+   "text": "We offer you the flexibility to change the payment method for your subscription conveniently through our Customer Portal. The Customer Portal provides a user-friendly interface where you can manage various aspects of your subscription, including payment-related settings.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I change the card information, when I have just paid only through the card, not with any payment gateway or vice versa?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-change-the-card-information-when-i-have-just-paid-only-through-the-card-not-with-any-payment-gateway-or-vice-versa"
+  },
+  {
+   "tag": "li",
+   "text": "You can simply cancel the existing subscription and pay through the card/payment gateway which you want to continue. we recommend you cancel the subscription when it is near the next billing cycle as we wanted you to use the benefits that you paid for. (canceling the plan is a must to avoid multiple charges ).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You can simply cancel the existing subscription and pay through the card/payment gateway which you want to continue. we recommend you cancel the subscription when it is near the next billing cycle as we wanted you to use the benefits that you paid for. (canceling the plan is a must to avoid multiple charges ).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Invoices",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "invoices"
+  },
+  {
+   "tag": "h3",
+   "text": "How to I get an invoice for my purchase?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-to-i-get-an-invoice-for-my-purchase"
+  },
+  {
+   "tag": "p",
+   "text": "Users can now download their invoice whenever they require it, and here are the steps to be followed in order to download the invoice.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Click or browse https://portal.jivrus.com/ and sign in with your licensed email ID",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Click or browse https://portal.jivrus.com/ and sign in with your licensed email ID",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "You will be shown the list of Jivrus products you have used/subscribed to, choose the product.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "You will be shown the list of Jivrus products you have used/subscribed to, choose the product.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "Inside the product, you will find the transactions button, click on that and all the transactions related to the licensed email to this product will be listed",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Inside the product, you will find the transactions button, click on that and all the transactions related to the licensed email to this product will be listed",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t-an2pZSbTDb33NhS8YnnG2dyElGqOxMZQVApHnQ3bjYkRF9xaZ5Tk7Nlb60JAu3_LxvzEs6fuVUwAPMwt8_rSMNc4V0vpVRbywMT2ZUno-ktDFz01NLt0gF27VW0AHimwVKSiwH8nDIlUJWbbfcokWJW-QS3AsdD82yU7T11vupI3v6a07oe21pSQ5iz7rmBFYOMc1vTl1oniD-OdKITxSLvX7mRxHRps=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "p",
+   "text": "4. If you have purchased through Paypal/Paypal Smart, then follow step 5, if purchased through Stripe then follow step 6 (You can refer to the gateway column in the transaction table).",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "5. For Paypal/Paypal-Smart - Click on the view invoice and that will open in a new tab, you will see the invoice details now, to download press Ctrl + P, save as PDF, and choose the location to save the invoice.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "6. For Stripe - Click on the view invoice and this will open another tab where you can download the invoice with one click.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "If paid in USD - Click on the invoice image to download",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "If paid in USD - Click on the invoice image to download",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "li",
+   "text": "If Paid in INR - You will have buttons to download the invoice and receipt",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "If Paid in INR - You will have buttons to download the invoice and receipt",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vr9w7rbXPukUV0GqRipVHuLIE9Xt5rXGYpGhCb4RkbP8GCKZvxk9f1sBsPpwzBKTMpyLYD-R-rb7ZWcst8uwwWuQvSIdri3OJH0nLy6fDEslViHoF3oUicEVE_4YEplCZoBnsKZpng0B7bNln6oJavqXlFZzAGaDj4pUXdQIBffxvPB_HX3Yw0horynUt2ZKb04FKK9-85n6AVLZ9Okj_ma95SlyqKqEyq=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "h2",
+   "text": "Miscellaneous",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "miscellaneous"
+  },
+  {
+   "tag": "h3",
+   "text": "Can I pay through any other way other than PayPal, Stripe or Razorpay?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "can-i-pay-through-any-other-way-other-than-paypal-stripe-or-razorpay"
+  },
+  {
+   "tag": "p",
+   "text": "No, In general. Paypal, Stripe and Razorpay are our default payment gateways. purchase orders are applicable when you're trying to opt for yearly individual or Domain/Group licenses.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "h2",
+   "text": "Support & Compliances",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "24px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "support-compliances"
+  },
+  {
+   "tag": "h3",
+   "text": "How do I get support?",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "how-do-i-get-support"
+  },
+  {
+   "tag": "p",
+   "text": "We provide multiple channels through which you can receive support for any inquiries or assistance you may need. The available support channels are Email, WhatsApp, Facebook chat, etc.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Check our support page for more details.",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  },
+  {
+   "tag": "p",
+   "text": "Check Terms and Conditions",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uVVce2rGFJWdbNy02cEQCbLu8j9_e6RpzDKcUeN1hDUZitJ-_VnhnNbfyiQ3Lnv__bvtIaVJU2YukG5CgEL5OdE9gc-aO481qQfIBkb3s_qucJFjB7iNRWMl-ftfbIlVW6HXaJhqd_gfHoqPV44w5tY5mq_YK-Q5m74w8h5sOb3e1uYL6savTGnY61fD37JhQTfQMTb0PdAsKNoKsWGnF00c_RXhPr6g=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "h3",
+   "text": "Technology Partners - GOOGLE & ZOHO",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "17.3333px",
+   "color": "rgb(208, 23, 82)",
+   "anchor": "technology-partners-google-zoho"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sfZaipr0twUfNdNxuhPgHd42PVMFhNKeycw_LD8eaQn13dWsifXy4GTBRimcFNYb35MLE8NymoPFwIxOlH2l5v9z908mQlQHF-PL2A0FHcpx9bTe3eSSjTLp5F4B4agoGrjJNOI4NKC-JW9tR2usCulSXWZ8lP_K_q023a2l-Ue_NZH2i5TL1Wh4lfZZ8XisEfdOTrwUyCoNxtUKZrzyiuqlpudFsndUVD=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 0)"
+  },
+  {
+   "tag": "img",
+   "text": "",
+   "href": "",
+   "src": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uGosnQfud2i2TwK_WMGSLdsvYEE892Ct_bbrxjn21ANOPQKTAmqtqYvcCThtKaBdJN_dX1jiaLlEFEo-eWFgqYWRnB6PtHhFe6HEYWgJ1GuymD4o3u39hc33HBX1vrzGVa3CGIrx9-4p1nxUGES6sUf6PAwRCJHejLwSVD_4TMtiT50JSvHXKF=w1280",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(0, 0, 238)"
+  },
+  {
+   "tag": "p",
+   "text": "Jivrus Technologies is a Google Cloud and Zoho Marketplace Partner",
+   "href": "",
+   "src": "",
+   "alt": "",
+   "size": "16px",
+   "color": "rgb(33, 33, 33)"
+  }
+ ],
+ "images": [
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 1678,
+   "h": 1055
+  },
+  {
+   "src": "/images/05b645b951e14778.png",
+   "alt": "",
+   "w": 830,
+   "h": 549
+  },
+  {
+   "src": "/images/db6562e3e9d76747.jpg",
+   "alt": "",
+   "w": 820,
+   "h": 398
+  },
+  {
+   "src": "/images/4a7b8d1a657470db.jpg",
+   "alt": "",
+   "w": 512,
+   "h": 269
+  },
+  {
+   "src": "/images/beab4439b5d08a97.jpg",
+   "alt": "",
+   "w": 1108,
+   "h": 361
+  },
+  {
+   "src": "/images/6d8b667e436475bb.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 429
+  },
+  {
+   "src": "/images/d779c95f487103d0.jpg",
+   "alt": "",
+   "w": 555,
+   "h": 359
+  },
+  {
+   "src": "/images/9dfc67b400bcf8be.jpg",
+   "alt": "",
+   "w": 341,
+   "h": 150
+  },
+  {
+   "src": "/images/dc92a57d665bce49.jpg",
+   "alt": "",
+   "w": 1280,
+   "h": 624
+  },
+  {
+   "src": "/images/b16910257f7f97bf.jpg",
+   "alt": "",
+   "w": 1227,
+   "h": 982
+  },
+  {
+   "src": "/images/bcb221ae078c2de5.jpg",
+   "alt": "",
+   "w": 625,
+   "h": 268
+  },
+  {
+   "src": "/images/b16910257f7f97bf.jpg",
+   "alt": "",
+   "w": 732,
+   "h": 132
+  },
+  {
+   "src": "/images/8304698ffd38f970.png",
+   "alt": "",
+   "w": 696,
+   "h": 548
+  },
+  {
+   "src": "/images/8304698ffd38f970.png",
+   "alt": "",
+   "w": 703,
+   "h": 749
+  },
+  {
+   "src": "/images/36b75993e49d6ceb.jpg",
+   "alt": "",
+   "w": 416,
+   "h": 416
+  },
+  {
+   "src": "/images/5273e5be44f15efd.jpg",
+   "alt": "",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/38da96edb97ce915.jpg",
+   "alt": "",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "/images/013a6e5d76705e9c.png",
+   "alt": "",
+   "w": 168,
+   "h": 182
+  },
+  {
+   "src": "/images/c80cab5f2d860f83.png",
+   "alt": "",
+   "w": 118,
+   "h": 128
+  },
+  {
+   "src": "/images/00778ed7789ad2fb.png",
+   "alt": "Map My Sheet",
+   "w": 128,
+   "h": 128
+  },
+  {
+   "src": "/images/971d79a8bbce61a8.png",
+   "alt": "Cloud Flow Director",
+   "w": 300,
+   "h": 300
+  },
+  {
+   "src": "/images/a9b61a5dc0a2f998.png",
+   "alt": "",
+   "w": 1280,
+   "h": 1383
+  },
+  {
+   "src": "/images/7f49cd2470bcece1.png",
+   "alt": "",
+   "w": 1280,
+   "h": 805
+  },
+  {
+   "src": "/images/790b1d69262fcd7d.png",
+   "alt": "",
+   "w": 1280,
+   "h": 343
+  },
+  {
+   "src": "/images/26194d490464fb74.png",
+   "alt": "",
+   "w": 480,
+   "h": 240
+  },
+  {
+   "src": "/images/57a7aa5d52a85c1d.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/1ab5955f2dd574d1.png",
+   "alt": "",
+   "w": 256,
+   "h": 256
+  },
+  {
+   "src": "/images/abaa7e6dd355d010.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/eddfa642ff43bb00.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/d65740251b10affb.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/9dfd24901330f45b.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1091
+  },
+  {
+   "src": "/images/8af98c637678e49a.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/2ec800085fb1b925.png",
+   "alt": "",
+   "w": 1109,
+   "h": 1109
+  },
+  {
+   "src": "/images/dc92a57d665bce49.png",
+   "alt": "",
+   "w": 272,
+   "h": 296
+  }
+ ],
+ "links": [
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Jivrus Technologies"
+  },
+  {
+   "href": "https://www.jivrus.com/home",
+   "text": "Home"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "Products"
+  },
+  {
+   "href": "https://www.jivrus.com/professional-services",
+   "text": "Professional Services"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "About"
+  },
+  {
+   "href": "https://www.jivrus.com/resources",
+   "text": "Resources"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "Support"
+  },
+  {
+   "href": "https://www.jivrus.com/offers",
+   "text": "Offers"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq",
+   "text": "Jivrus Products"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms & Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_1vizkejGkqFA",
+   "text": "Pricing - Frequently Asked Questions"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_jsNYHOxDLCZA",
+   "text": "Subscription"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.cram6fgthmun",
+   "text": "Can I use this product for free?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.3k091o9xarom",
+   "text": "What is a subscription?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.cj6whbuj9k99",
+   "text": "How do I get a subscription?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.pbn1xv4n3lpa",
+   "text": "How do I purchase a license?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.m65p0sl1b538",
+   "text": "Is there any setup fee or hidden charges?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.yledko2wx5ty",
+   "text": "Is my payment safe with you?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.7g3pod4dnnsh",
+   "text": "What are my payment options?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.n9mkiadzbdfw",
+   "text": "Can I pay via UPI?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_k7wkBrOwLtR9",
+   "text": "Can I get a quote & pay via purchase order?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.ih7h9swyel3",
+   "text": "Can I use any PayPal, Stripe or Razorpay account to pay for a subscription?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.1i11i4xutiml",
+   "text": "What is \"License to Email\" input while making payments?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.zt59qr5ajof",
+   "text": "Which are the STRIPE supported Tax types?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.kesx3isd3m8s",
+   "text": "How do I provide the correct Tax type when purchasing via Stripe?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_-fLDtlllxitJ",
+   "text": "How to check whether my payment is successful?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.t024b36zyqij",
+   "text": "How do I get a license after payment?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.yhsz4v4j0kvq",
+   "text": "Will my license be renewed automatically?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.aov398ye1efd",
+   "text": "Is there a one-time payment available instead of a subscription?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.wd8wv0yzglxp",
+   "text": "How frequently will a subscription renewal happen?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.tbcayad30nvb",
+   "text": "Group Subscriptions"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.djcypcr78179",
+   "text": "Can I get a subscription for my team or a group?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.l6oo0zlzsa32",
+   "text": "How do I add/ change/ remove a member from my group subscription?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_mklzawn4ktH8",
+   "text": "Can I use the same license from different devices?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.s9slp719pbak",
+   "text": "How do I choose the right plan for me?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_F8s3yEZGkx2O",
+   "text": "How do I change the licensed email to another?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_XAtBCjwNxXoF",
+   "text": "I accidentally bought the license on a different email account. Can I transfer my license to another email?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.z28mjx96bah3",
+   "text": "Will my service be disconnected immediately on subscription expiry?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.9pxkx7w7pqxc",
+   "text": "What will happen to my service if I cancel the service or the renewal payment fails?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_xRGKb6vWNT2l",
+   "text": "Upgrade and Downgrade"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.sbmknkbuil8a",
+   "text": "Can I upgrade my plan anytime?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.edimeldn091w",
+   "text": "Can I downgrade my plan anytime?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.gq82hj8ijirk",
+   "text": "How do I upgrade my plan?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_F3DjgyqwPZ5F",
+   "text": "How to upgrade via PayPal Smart?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.q0pytuz1s79j",
+   "text": "How to upgrade and downgrade via Stripe or Razorpay?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.1d1wuuxtcfzg",
+   "text": "When the upgrade and downgrade will be effective?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.xdn183y8plg3",
+   "text": "Changing Billing Cycle"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.ebnu9a2ytkro",
+   "text": "How do I switch from a monthly billing cycle to a yearly billing cycle?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.7mysjadbi9vx",
+   "text": "How do I switch from a yearly billing cycle to a monthly billing cycle?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.yat1e8u4ec8j",
+   "text": "Is there any discount available?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.eps2ypsw3ysc",
+   "text": "Do you offer any special discounts for educational institutions or non-profits?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_1FXQhfUuNDox",
+   "text": "Cancellation"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.uaz6d8yvmtmd",
+   "text": "Can I cancel my subscription anytime?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.80r4uwx5j8er",
+   "text": "How do I stop auto-renewal?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.g73n8a31s7af",
+   "text": "How do I cancel my subscription?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.187fzy86w2dj",
+   "text": "Option 1: Cancel From Jivrus Customer Portal"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.wx7o1vx07nc0",
+   "text": "Option 2: Cancel From Product"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.stoogfmod7u3",
+   "text": "Option 3: Cancel From Payment Gateway"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.73masww2324z",
+   "text": "PayPal:"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.uqmjlcrdc1y3",
+   "text": "Stripe:"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.6bni5lc03cn2",
+   "text": "Will you provide a refund?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.nw1njrq7gu2z",
+   "text": "Is there any cancellation fee?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.ix09ampy0g95",
+   "text": "Can I still access the product after cancellation?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_iMesk9pQk7hU",
+   "text": "Can I subscribe again after 2 months of cancellation?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.4x5cvo66elw",
+   "text": "Billing Information and Card Change"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.dwu683r061ta",
+   "text": "How do I change billing information to the subscription?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.5jp1jnqtml",
+   "text": "How do I change my card used for subscription payments?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.fbltxw2ucbf5",
+   "text": "Change/update card in PayPal"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.kg2p486mff3",
+   "text": "Change/update card in Stripe"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.h8d0porojxoz",
+   "text": "Can I change the payment gateway?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.s6q8te5ob0yz",
+   "text": "How do I change my payment method(e.g. change of credit card)?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.ro5hbtl60jcq",
+   "text": "How do I change the card information, when I have just paid only through the card, not with any payment gateway or vice versa?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_aXy8JKK1NNmU",
+   "text": "Invoices"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.1dm5xzszgsc0",
+   "text": "How to I get an invoice for my purchase?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.4nocz2heg22o",
+   "text": "Miscellaneous"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.p_54oWhqE8yHn-",
+   "text": "Can I pay through any other way other than PayPal, Stripe or Razorpay?"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.htmjvpxycmci",
+   "text": "Support & Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq#h.ot5ioi79uddj",
+   "text": "How do I get support?"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "product websites"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "product website"
+  },
+  {
+   "href": "https://workspace.google.com/marketplace/search/jivrus.com",
+   "text": "Google Workspace Marketplace"
+  },
+  {
+   "href": "https://portal.jivrus.com/",
+   "text": "Customer Portal"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/safety",
+   "text": "payment gateway security"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "our products"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides/pricing-faq",
+   "text": "Jivrus Products"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fdocs.stripe.com%2Fbilling%2Fcustomer%2Ftax-ids&sa=D&sntz=1&usg=AOvVaw0uPnePak-eQmWFwd0VqvF2",
+   "text": "Stripe supported Taxes"
+  },
+  {
+   "href": "https://www.google.com/url?q=https%3A%2F%2Fdocs.stripe.com%2Fbilling%2Fcustomer%2Ftax-ids&sa=D&sntz=1&usg=AOvVaw0uPnePak-eQmWFwd0VqvF2",
+   "text": "Customer Tax IDs Learn how to store, validate, and render customer tax ID numbers with Stripe Billing."
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Support"
+  },
+  {
+   "href": "https://portal.jivrus.com/",
+   "text": "Customer Portal"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "support team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://www.jivrus.com/products",
+   "text": "product"
+  },
+  {
+   "href": "https://portal.jivrus.com/",
+   "text": "portal.jivrus.com"
+  },
+  {
+   "href": "https://www.paypal.com/li/smarthelp/article/how-do-i-cancel-a-recurring-payment,-subscription,-or-automatic-billing-agreement-i-have-with-a-merchant-faq1067",
+   "text": "here"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://portal.jivrus.com/",
+   "text": "https://portal.jivrus.com"
+  },
+  {
+   "href": "https://www.paypal.com/myaccount/wallet",
+   "text": "Wallet"
+  },
+  {
+   "href": "https://portal.jivrus.com/",
+   "text": "Customer Portal"
+  },
+  {
+   "href": "https://portal.jivrus.com/",
+   "text": "Customer Portal"
+  },
+  {
+   "href": "https://portal.jivrus.com/",
+   "text": "https://portal.jivrus.com/"
+  },
+  {
+   "href": "https://www.jivrus.com/support",
+   "text": "support page"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Check Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://formbuilder.jivrus.com/",
+   "text": "Form Builder"
+  },
+  {
+   "href": "https://formpresenter.jivrus.com/",
+   "text": "Form Presenter"
+  },
+  {
+   "href": "https://formdirector.jivrus.com/",
+   "text": "Form Director"
+  },
+  {
+   "href": "https://fillabledocument.jivrus.com/",
+   "text": "Fillable Document"
+  },
+  {
+   "href": "https://databasebrowser.jivrus.com/",
+   "text": "Database Browser"
+  },
+  {
+   "href": "https://sheetdirector.jivrus.com/",
+   "text": "Sheet Director"
+  },
+  {
+   "href": "https://mapmysheet.jivrus.com/",
+   "text": "Map My Sheet"
+  },
+  {
+   "href": "https://appiworks.jivrus.com/",
+   "text": "AppiWorks"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Enquire a Product"
+  },
+  {
+   "href": "https://www.jivrus.com/about",
+   "text": "Company"
+  },
+  {
+   "href": "https://www.jivrus.com/about/team",
+   "text": "Team"
+  },
+  {
+   "href": "https://www.jivrus.com/about/our-history",
+   "text": "Our History"
+  },
+  {
+   "href": "https://www.jivrus.com/customers",
+   "text": "Customers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/partners",
+   "text": "Partners"
+  },
+  {
+   "href": "https://www.jivrus.com/about/careers",
+   "text": "Careers"
+  },
+  {
+   "href": "https://www.jivrus.com/about/contact-us",
+   "text": "Contact Us"
+  },
+  {
+   "href": "https://blog.jivrus.com/",
+   "text": "Blog"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/articles",
+   "text": "Articles"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/guides",
+   "text": "Guides"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/community",
+   "text": "Community"
+  },
+  {
+   "href": "https://www.jivrus.com/resources/academy",
+   "text": "Academy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/terms-and-conditions",
+   "text": "Terms and Conditions"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/privacy-policy",
+   "text": "Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/gdpr",
+   "text": "GDPR"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance",
+   "text": "Compliances"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/hipaa-compliance",
+   "text": "HIPAA Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/baa",
+   "text": "BAA"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/student-privacy-policy",
+   "text": "Student Privacy Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/compliance/partner-compliance",
+   "text": "Partner Compliance"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies",
+   "text": "Security Policies"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/security-policy",
+   "text": "Security Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/vulnerability-management-policy",
+   "text": "Vulnerability Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/security-policies/data-policy",
+   "text": "Data Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/legal/support-policy",
+   "text": "Support Policy"
+  },
+  {
+   "href": "https://www.jivrus.com/",
+   "text": "Jivrus Technologies"
+  }
+ ],
+ "sourceBytes": 0
+}

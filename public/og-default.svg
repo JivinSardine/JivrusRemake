@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img"
+     aria-label="Jivrus Technologies">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c90057" />
+      <stop offset="0.5" stop-color="#f90052" />
+      <stop offset="1" stop-color="#ff6845" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)" />
+  <circle cx="880" cy="300" r="150" fill="#ffffff" opacity="0.94" />
+  <text x="880" y="330" font-family="Comfortaa, Arial, sans-serif" font-size="62"
+        font-weight="700" fill="#d01752" text-anchor="middle">Jivrus</text>
+  <text x="80" y="300" font-family="Roboto, Arial, sans-serif" font-size="58"
+        font-weight="800" fill="#ffffff">We Make Customers</text>
+  <text x="80" y="372" font-family="Roboto, Arial, sans-serif" font-size="58"
+        font-weight="800" fill="#ffffff">Succeed</text>
+  <text x="80" y="428" font-family="Roboto, Arial, sans-serif" font-size="27"
+        fill="rgba(255,255,255,0.92)">intelligent integration &amp; hyper-automations</text>
+</svg>
