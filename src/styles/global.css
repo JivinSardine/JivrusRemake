@@ -172,14 +172,22 @@ p {
   padding-inline: var(--gutter);
 }
 
+/*
+ * 72px top and bottom was tuned when a page had a handful of sections. The
+ * marketplace subsections on /products are many short blocks, and paying 144px
+ * of padding on each is what made that page 5,606px taller than the source,
+ * which packs the same headings 43-98px apart.
+ */
 .section {
-  padding: 72px 0;
+  padding: 40px 0;
 }
 
 .section--blush {
   background: var(--jivrus-blush);
 }
 
+/* HomeBody still marks a few blocks tight; same value as .section today, kept
+   explicit so the two can diverge later without a surprise. */
 .section--tight {
   padding: 40px 0;
 }

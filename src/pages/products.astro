@@ -36,6 +36,20 @@ const anchors = products.sections
 // already runs every ogImage through withBase, so prefixing here as well
 // yields /JivrusRemake/JivrusRemake/images/... on GitHub Pages.
 const local = (src: string) => imageMap[src] || src;
+/*
+ * The hero.
+ *
+ * products.images carries two entries for the same artwork - one recorded at
+ * 1678x1055, one at 1280x1416 - but both resolve through image-map to the SAME
+ * localised file, which is a 1600x1006 wide crop. So those dimensions describe
+ * the source's other crop of the artwork, not the bitmap we ship, and choosing
+ * an entry by ratio changes only the width/height ATTRIBUTES while leaving the
+ * rendered shape untouched.
+ *
+ * The source renders this hero at 464x513. The cap below is the source's own
+ * hero width, and the aspect ratio now comes from the real file rather than
+ * from attributes that contradict it.
+ */
 const hero = products.images[0];
 ---
 
@@ -120,10 +134,14 @@ const hero = products.images[0];
 
   .page-head__art {
     /* `max-width` alone does not shrink an image carrying intrinsic
-       width/height attributes on a narrow viewport. Force it fluid. */
+       width/height attributes on a narrow viewport. Force it fluid.
+
+       The cap is the source's own hero width (464px), not a round number: the
+       page renders this artwork at 464x513, and stretching it to 900px made the
+       hero a full-width banner the source does not have. */
     width: 100%;
     height: auto;
-    max-width: 900px;
+    max-width: 464px;
     margin: 0 auto;
     border-radius: var(--radius);
   }
