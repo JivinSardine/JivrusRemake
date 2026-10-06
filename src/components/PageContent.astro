@@ -146,8 +146,17 @@ function hasListItem(blocks: Block[]): boolean {
               {heading && <BlockView block={heading} />}
               <div class="tiles" data-stagger>
                 {explicit.map((t) => {
+                  // The extracted logos carry no alt text, so a link wrapping
+                  // one has no accessible name. Name it after the company the
+                  // tile belongs to; fall back to the filename when a variant
+                  // has no site of its own.
+                  const name =
+                    t.alt ||
+                    (t.website
+                      ? `${t.website} logo`
+                      : `${t.country || 'Customer'} logo`);
                   const logo = (
-                    <img src={withBase(t.src)} alt={t.alt} loading="lazy" decoding="async" />
+                    <img src={withBase(t.src)} alt={name} loading="lazy" decoding="async" />
                   );
                   return (
                     <figure class="tile tile--customer" data-stagger-item>
@@ -181,10 +190,8 @@ function hasListItem(blocks: Block[]): boolean {
 
       // Pairing depends on the shape of the run, and there are two shapes:
       //
-      //   ALTERNATING - image, label, image, label. /customers is this:
-      //     img, "www.byjus.com", img, "India", img, "eastbronxacademy.org"
-      //     Here a label always follows the image it names, so pair by
-      //     adjacency.
+      //   ALTERNATING - image, label, image, label: a label directly after an
+      //     image names that image, so pair by adjacency.
       //
       //   COLLECTED - the images come first and the labels follow as a run:
       //     img, img, "Perfectly proportionate logo", img, "Monochrome in dark
