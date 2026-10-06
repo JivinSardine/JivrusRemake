@@ -14,23 +14,6 @@
    "blocks": [
     {
      "tag": "h2",
-     "text": "Integration and Automation Platform - AppiWorks",
-     "href": "",
-     "src": "",
-     "alt": "",
-     "size": "",
-     "color": "",
-     "anchor": "integration-and-automation-platform---appiworks"
-    },
-    {
-     "tag": "img",
-     "text": "",
-     "href": "",
-     "src": "/images/05b645b951e14778.png",
-     "alt": ""
-    },
-    {
-     "tag": "h2",
      "text": "🚀 Jivrus Product Suite - One Platform Many Possibilities",
      "href": "",
      "src": "",
@@ -354,7 +337,34 @@
      "href": "",
      "src": "/images/db668e92d3eaf0ed.jpg",
      "alt": ""
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
+    {
+     "tag": "h1",
+     "text": "Integration and Automation Platform - AppiWorks",
+     "href": "",
+     "src": "",
+     "alt": "",
+     "size": "",
+     "color": "",
+     "anchor": "integration-and-automation-platform---appiworks"
     },
+    {
+     "tag": "img",
+     "text": "",
+     "href": "",
+     "src": "/images/05b645b951e14778.png",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h3",
      "text": "Core Products",
@@ -371,7 +381,12 @@
      "href": "",
      "src": "/images/2f69ecddf46092cb.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h3",
      "text": "Starch",
@@ -473,7 +488,12 @@
      "href": "",
      "src": "/images/4bd31b47d8d82e7b.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h3",
      "text": "Client Platforms",
@@ -538,9 +558,14 @@
      "href": "",
      "src": "/images/ebee751bc5a10ca9.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
-     "tag": "h2",
+     "tag": "h1",
      "text": "Marketplaces",
      "href": "",
      "src": "",
@@ -555,7 +580,12 @@
      "href": "",
      "src": "/images/112cc7e55f6603a1.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h3",
      "text": "Jivrus Products are available in the following marketplaces",
@@ -572,7 +602,12 @@
      "href": "",
      "src": "/images/d72b080ae27b44e9.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h3",
      "text": "​Jivrus Technologies offers a diverse range of products across multiple marketplaces, enhancing business processes through intelligent integration and hyper-automation. Below is an overview of the available marketplaces and the respective Jivrus Technologies products listed in each:​",
@@ -605,7 +640,12 @@
      "href": "",
      "src": "/images/eb996be3c1128de2.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Google Workspace Marketplace",
@@ -638,7 +678,12 @@
      "href": "",
      "src": "/images/1ac7ec49642eb5ca.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Google Cloud Marketplace",
@@ -671,7 +716,12 @@
      "href": "",
      "src": "/images/c80cab5f2d860f83.png",
      "alt": "Cloud Flow Director"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Zoho Marketplace",
@@ -704,7 +754,12 @@
      "href": "",
      "src": "/images/971d79a8bbce61a8.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Atlassian Marketplace",
@@ -737,7 +792,12 @@
      "href": "",
      "src": "/images/7f49cd2470bcece1.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Google Looker Studio Connector Gallery",
@@ -754,7 +814,12 @@
      "href": "",
      "src": "/images/790b1d69262fcd7d.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Google Workspace Marketplace Products",
@@ -787,7 +852,12 @@
      "href": "",
      "src": "/images/57a7aa5d52a85c1d.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Start your business automation from your Google Doc or Slide",
@@ -820,7 +890,12 @@
      "href": "",
      "src": "/images/abaa7e6dd355d010.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Fillable Document",
@@ -887,7 +962,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(208, 23, 82)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Fillable Document for Sheets",
@@ -947,7 +1027,12 @@
      "href": "",
      "src": "/images/b11510682748372a.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Fillable Document for Slides",
@@ -993,7 +1078,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(208, 23, 82)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Get your business done by powering up with Google Forms",
@@ -1010,7 +1100,12 @@
      "href": "",
      "src": "/images/b6ea90521b9ad121.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Form Director",
@@ -1063,7 +1158,12 @@
      "href": "",
      "src": "/images/84d0eedeb15a9433.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Form Presenter",
@@ -1118,7 +1218,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(33, 33, 33)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Form Builder",
@@ -1187,7 +1292,12 @@
      "href": "",
      "src": "/images/874559c1cd00d3b5.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Form Builder for Sheets",
@@ -1240,7 +1350,12 @@
      "href": "",
      "src": "/images/0f4b650243c77c03.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Form Builder for Docs",
@@ -1293,7 +1408,12 @@
      "href": "",
      "src": "/images/2f69ecddf46092cb.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Form Builder Plus",
@@ -1348,7 +1468,12 @@
      "alt": "",
      "size": "",
      "color": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Supercharge your Google Sheets",
@@ -1374,7 +1499,12 @@
      "href": "",
      "src": "/images/a7d204f13a0bd09f.jpg",
      "alt": "Database Browser"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Database Browser",
@@ -1436,7 +1566,12 @@
      "href": "",
      "src": "/images/c1f6272f8f887933.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Map My Sheet",
@@ -1498,7 +1633,12 @@
      "href": "",
      "src": "/images/fd1d29ca97584c0a.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Sheet Director",
@@ -1560,7 +1700,12 @@
      "href": "",
      "src": "/images/a8c0481e6e565ee7.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "ContentSense",
@@ -1613,7 +1758,12 @@
      "href": "",
      "src": "/images/6bac6ddd92632a86.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "HyperList",
@@ -1650,7 +1800,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(208, 23, 82)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Education & Evaluation Solutions",
@@ -1676,7 +1831,12 @@
      "href": "",
      "src": "/images/4bd31b47d8d82e7b.png",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Evalix™",
@@ -1713,7 +1873,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(208, 23, 82)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Other Google Workspace Products",
@@ -1739,7 +1904,12 @@
      "href": "",
      "src": "/images/f67316e6e0190302.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Cloud Flow Director",
@@ -1794,7 +1964,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(33, 33, 33)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Integra for QuickBooks",
@@ -1858,7 +2033,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(33, 33, 33)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "App Studio",
@@ -1904,7 +2084,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(208, 23, 82)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Google Cloud Marketplace Products",
@@ -1932,7 +2117,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(33, 33, 33)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "HubSpot AppiWorks for BigQuery",
@@ -1960,7 +2150,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(208, 23, 82)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Zoho Marketplace Products",
@@ -1988,7 +2183,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(33, 33, 33)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "AppiWorks Extensions for Zoho CRM",
@@ -2023,7 +2223,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(208, 23, 82)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "AppiWorks Extensions for Zoho Books",
@@ -2065,7 +2270,12 @@
      "href": "",
      "src": "/images/e6ae69250ba96cd4.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "AppiWorks Extensions for Zoho Desk",
@@ -2100,7 +2310,12 @@
      "href": "",
      "src": "/images/40e5582589ad9e66.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "AppiWorks Extensions for Zoho Bigin",
@@ -2128,7 +2343,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(208, 23, 82)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Atlassian Marketplace",
@@ -2153,7 +2373,12 @@
      "href": "",
      "src": "/images/62ae6544c0f106d0.jpg",
      "alt": ""
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "EmbedXpert",
@@ -2190,7 +2415,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(208, 23, 82)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Google Looker Studio Connector Gallery",
@@ -2208,7 +2438,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(33, 33, 33)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Jivrus Looker Studio Connectors",
@@ -2236,7 +2471,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(255, 255, 255)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Looking for Professional Services?",
@@ -2255,7 +2495,12 @@
      "alt": "",
      "size": "16px",
      "color": "rgb(208, 23, 82)"
-    },
+    }
+   ]
+  },
+  {
+   "kind": "grid",
+   "blocks": [
     {
      "tag": "h2",
      "text": "Index for quick access",

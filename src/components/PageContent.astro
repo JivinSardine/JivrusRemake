@@ -9,6 +9,9 @@ import SectionStrip from './SectionStrip.astro';
 import BlockView from './BlockView.astro';
 import { withBase } from '~/lib/urls';
 
+/** Block tags that open a new card. */
+const HEADING_TAGS = new Set(['h1', 'h2', 'h3', 'h4', 'h5', 'h6']);
+
 /** A customer logo with the website and country it belongs to. */
 interface CustomerTile {
   src: string;
@@ -29,7 +32,14 @@ const { sections } = Astro.props;
  * the default and must stay WHITE. Blush is only for genuine card/logo grids,
  * which are exactly the runs that are mostly images or many short list items.
  */
-function layoutFor(blocks: Block[]): 'grid' | 'list' | 'prose' | 'tiles' {
+function layoutFor(
+  blocks: Block[],
+  section?: { customer_tiles?: CustomerTile[] }
+): 'grid' | 'list' | 'prose' | 'tiles' {
+  // A section that carries its own explicit pairing must reach the tiles branch
+  // that renders it. /customers has 18 headings and 36 images, so without this
+  // the heading-led rule below claimed it and the pairing was never used.
+  if (section?.customer_tiles?.length) return 'tiles';
   const tags = blocks.map((b) => b.tag);
   const imgs = tags.filter((t) => t === 'img').length;
   const lis = tags.filter((t) => t === 'li').length;
@@ -42,6 +52,16 @@ function layoutFor(blocks: Block[]): 'grid' | 'list' | 'prose' | 'tiles' {
   const head = blocks.find((b) => b.tag === 'h1' || b.tag === 'h2' || b.tag === 'h3');
   const body = head ? blocks.filter((b) => b !== head) : blocks;
   const bodyImgs = body.filter((b) => b.tag === 'img').length;
+  /*
+   * The core products are `h3 "Starch", img`, `h3 "Form", img`, ... - a
+   * heading naming each image. That is the same shape as a card grid, and the
+   * grid branch groups a heading with its artwork, so the name sits with its
+   * logo and the heading's anchor id survives. The tiles branch pairs by index
+   * instead, which separated every name from its logo and left #form, #bloom
+   * and #flow with no target at all.
+   */
+  const headings = blocks.filter((b) => HEADING_TAGS.has(b.tag)).length;
+  if (headings >= 3 && imgs >= 3) return 'grid';
   if (imgs >= 4 && bodyImgs >= body.length * 0.45) return 'tiles';
   // Image-led run => card grid (testimonials, customers, history, partners).
   if (imgs >= 3) return 'grid';
@@ -78,7 +98,15 @@ function hasListItem(blocks: Block[]): boolean {
         </section>
       );
     }
-    const mode = layoutFor(blocks);
+    const mode = layoutFor(blocks, section);
+
+    // A card is a heading plus the blocks up to the next heading. A run with no
+    // heading at all keeps one block per card, which is what it always did.
+    const cards: Block[][] = [];
+    for (const b of blocks) {
+      if (HEADING_TAGS.has(b.tag) || !cards.length) cards.push([b]);
+      else cards[cards.length - 1].push(b);
+    }
 
     // A run that contains <li> is a list: give it a real <ul> so the list
     // semantics survive. Never put a bare <li> inside a card or a <div>.
@@ -86,7 +114,13 @@ function hasListItem(blocks: Block[]): boolean {
     // The <ul> holds the <li>s, and each <li> is the BlockView — wrapping the
     // item in a second <li> put a list item inside a list item, which is
     // invalid and left the text in a second, redundant box.
-    if (hasListItem(blocks)) {
+    // A run that is mostly artwork is a gallery even if a few rows came
+    // through as <li>: /products' Product Suite has 22 images and 6 <li>, and
+    // the list branch was winning, so all 22 images were dropped and the
+    // section rendered as bare text. Only take the list branch when the run is
+    // genuinely list-shaped.
+    const listish = hasListItem(blocks) && mode !== 'tiles';
+    if (listish) {
       return (
         <section class="section">
           <div class="container">
@@ -204,26 +238,61 @@ function hasListItem(blocks: Block[]): boolean {
       // immediately after the first image, the run alternates. On /customers
       // that is `img, "www.byjus.com", img, "India", ...`; on the brand kit it
       // is `img, img, "Perfectly proportionate logo", ...`.
-      const firstTextAt = rest.findIndex((b) => b.tag !== 'img');
-      const alternating = firstTextAt === 1;
-
+      /*
+       * The source's shape here is a repeating PAIR plus its caption:
+       *
+       *     img, img, "Integrate your software and systems", img, img,
+       *     "Automate documents & forms", ...
+       *
+       * two artwork items - an icon and its logo - then the text naming them.
+       * An earlier version only handled a strictly alternating run
+       * (`img, "label", img, "label"`), so every one of these captions was left
+       * as loose copy and the artwork rendered as a grid of unlabelled cards.
+       *
+       * So: flush a run of consecutive images, then attach the following text
+       * to the LAST image of the run - the one immediately above it. The same
+       * caption appears twice in the extraction (an <li> and a <p>); the
+       * duplicate is dropped rather than rendered twice.
+       */
       const tiles: { img: Block; label: Block | null }[] = [];
-      let pending: Block | null = null;
+      let run: Block[] = [];
+      const flushRun = () => {
+        for (const img of run) tiles.push({ img, label: null });
+        run = [];
+      };
+      let lastLabel = '';
       for (const b of rest) {
         if (b.tag === 'img') {
-          tiles.push({ img: b, label: pending });
-          pending = null;
-        } else if (alternating && tiles.length && !tiles[tiles.length - 1].label) {
-          // the label directly after an image names that image
-          tiles[tiles.length - 1].label = b;
-        } else {
-          pending = b;
+          run.push(b);
+          continue;
         }
+        flushRun();
+        if (HEADING_TAGS.has(b.tag)) continue;
+        const last = tiles[tiles.length - 1];
+        const text = (b.text ?? '').trim();
+        // a repeat of the caption we just placed, and there is no new image for
+        // it: drop it
+        if (!last || last.label || (text && text === lastLabel)) continue;
+        last.label = b;
+        lastLabel = text;
       }
+      flushRun();
+
       // Any text that no image claimed, e.g. a country heading that introduces
       // a group, is kept as section copy rather than being silently dropped.
       const claimed = new Set(tiles.map((t) => t.label).filter(Boolean));
-      const orphanLabels = rest.filter((b) => b.tag !== 'img' && !claimed.has(b));
+      /*
+       * Orphan text is text no image claimed. A caption whose text is ALREADY
+       * shown on a tile is not an orphan - it is the duplicate <li>/<p> twin the
+       * extraction emits, and rendering it as loose copy printed every
+       * capability name a second time in a column above the gallery.
+       */
+      const shown = new Set(
+        tiles.map((t) => (t.label?.text ?? '').trim()).filter(Boolean)
+      );
+      const orphanLabels = rest.filter(
+        (b) => b.tag !== 'img' && !claimed.has(b) && !shown.has((b.text ?? '').trim())
+      );
 
       return (
         <section class="section section--blush">
@@ -245,9 +314,7 @@ function hasListItem(blocks: Block[]): boolean {
               {tiles.map((t) => (
                 <figure class="tile" data-stagger-item>
                   <BlockView block={t.img} />
-                  {t.label && (
-                    <figcaption>{(t.label.text ?? '').trim()}</figcaption>
-                  )}
+                  {t.label && <figcaption>{(t.label.text ?? '').trim()}</figcaption>}
                 </figure>
               ))}
             </div>
@@ -267,10 +334,20 @@ function hasListItem(blocks: Block[]): boolean {
             </div>
           )}
           {mode === 'grid' && (
-            <div class="grid grid--3" data-stagger>
-              {blocks.map((b) => (
+            /*
+             * Group a heading with the artwork that follows it, so a card is
+             * one product rather than one stray element. Rendering each block
+             * as its own card put every <h3> in a cell of its own, away from
+             * the logo it names, and left the heading's `anchor` id on the
+             * section heading alone - so only one of six core-product links
+             * resolved.
+             */
+            <div class:list={['grid', cards.length >= 6 ? 'grid--6' : 'grid--3']} data-stagger>
+              {cards.map((card) => (
                 <div class="card" data-stagger-item>
-                  <BlockView block={b} />
+                  {card.map((b) => (
+                    <BlockView block={b} />
+                  ))}
                 </div>
               ))}
             </div>
@@ -282,6 +359,27 @@ function hasListItem(blocks: Block[]): boolean {
 }
 
 <style>
+  /*
+   * Six to a row, for the core products. The source lays Starch, Form, Bloom,
+   * Flow, MCP Server and AI Agent across a single row; the default three-up
+   * grid wrapped them onto two.
+   */
+  .grid--6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  @media (max-width: 1100px) {
+    .grid--6 {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 640px) {
+    .grid--6 {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
   /*
    * Tile gallery. Four to a row, matching the source's brand kit, with no
    * padded card box: the artwork keeps its own aspect ratio and the label sits

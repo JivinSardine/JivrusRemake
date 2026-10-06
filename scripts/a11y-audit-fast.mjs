@@ -58,8 +58,10 @@ async function audit(route) {
         return b.width > 0 && b.height > 0;
       };
       const h1 = [...document.querySelectorAll('h1')].filter(vis);
-      if (!h1.length) out.push('no visible h1');
-      if (h1.length > 1) out.push(`${h1.length} visible h1`);
+      // Several <h1> on one page is valid HTML5 and the source does it too -
+      // /products has three ("Products", the AppiWorks banner, "Marketplaces").
+      // Only flag a MISSING h1; flagging extra ones would fight the source.
+      if (h1.length < 1) out.push('no visible h1');
       if (!document.querySelector('main')) out.push('no main');
       if (!document.querySelector('header')) out.push('no header');
       if (!document.querySelector('footer')) out.push('no footer');
